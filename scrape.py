@@ -403,12 +403,18 @@ h1{{font-size:20px;letter-spacing:.04em;margin:0 0 6px;}}
 .legend{{display:flex;gap:14px;flex-wrap:wrap;margin-top:8px;font-size:12px;color:var(--mut);align-items:center;}}
 .legend .dot{{position:static;margin-right:4px;}}
 main{{padding:0;}}
-/* 사이트별 컬럼을 가로로 나열, 컬럼 안은 2열 그리드 */
-.board{{display:flex;gap:0;overflow-x:auto;align-items:flex-start;
+/* 사이트별 컬럼을 가로로 나열, 화면 너비를 균등 분할 */
+.board{{display:flex;gap:0;align-items:flex-start;
 padding:0 0 40px;-webkit-overflow-scrolling:touch;}}
-.col{{flex:0 0 540px;min-width:540px;border-right:1px solid var(--line);}}
-.col-body{{padding:10px;display:grid;grid-template-columns:1fr 1fr 1fr;
+/* 각 컬럼은 화면을 1/n 로 나눠 갖되, 너무 좁아지면 가로 스크롤 */
+.col{{flex:1 1 0;min-width:360px;border-right:1px solid var(--line);}}
+.col-body{{padding:10px;display:grid;grid-template-columns:repeat(3,1fr);
 gap:12px;align-content:start;}}
+/* 화면이 좁으면 컬럼이 min-width 까지 줄고 그 아래는 board가 가로 스크롤 */
+@media (max-width:1100px){{
+  .board{{overflow-x:auto;}}
+  .col{{flex:0 0 360px;}}
+}}
 .empty{{grid-column:1 / -1;}}
 .shop-head{{position:sticky;top:0;z-index:2;background:var(--bg);
 display:flex;align-items:center;gap:8px;padding:14px 12px 10px;
