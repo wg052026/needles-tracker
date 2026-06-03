@@ -18,6 +18,8 @@ import sys
 import time
 import urllib.request
 import urllib.error
+import urllib.parse
+from urllib.parse import quote as uquote
 from datetime import datetime, timezone, timedelta
 from html import escape
 
@@ -85,6 +87,8 @@ def scrape_nepenthes():
                 price = variants[0].get("price", "")
                 available = any(v.get("available") for v in variants)
             colors = shopify_colors(variants)
+            sku = variants[0].get("sku", "") if variants else ""
+            code = extract_code(sku)
             img = ""
             if p.get("images"):
                 img = p["images"][0].get("src", "")
@@ -98,6 +102,7 @@ def scrape_nepenthes():
                 "created": created[:10] if created else "",
                 "soldout": not available,
                 "colors": colors,
+                "code": code,
             })
         if len(prods) < 250:
             break
@@ -154,6 +159,7 @@ def scrape_studious():
                 "soldout": False,
                 # 목록에 색상별 재고가 없어 상태 미상(None)으로 표시
                 "colors": [],
+                "code": "",
                 "_variant_ids": set(),
             }
             order.append(key)
@@ -167,6 +173,14 @@ def scrape_studious():
         # 색상 가짓수만큼 상태 미상 점 (available=None)
         g["colors"] = [{"name": "", "available": None} for _ in range(min(n, 8))]
         del g["_variant_ids"]
+        # 상세 페이지에서 메이커 품번(メーカー品番) 추출
+        try:
+            dh = fetch(g["url"])
+            mm = re.search(r"(?:メーカー)?品番[：:]\s*([A-Za-z0-9\-]+)", dh)
+            if mm:
+                g["code"] = mm.group(1).strip()
+        except Exception:
+            pass
         out.append(g)
     return out
 
@@ -227,11 +241,20 @@ def scrape_mix():
                 "created": created[:10] if created else "",
                 "soldout": not available,
                 "colors": colors,
+                "code": "",
             })
         if len(prods) < 250:
             break
         time.sleep(0.3)
     return out
+
+
+def extract_code(sku):
+    """NEEDLES 품번 추출: SKU 앞부분 영숫자 코드 (예: 'SX415A -1275-0002' -> 'SX415A')."""
+    if not sku:
+        return ""
+    m = re.match(r"\s*([A-Za-z]{1,3}\d{2,5}[A-Za-z]?)", str(sku).strip())
+    return m.group(1) if m else ""
 
 
 def shopify_colors(variants):
@@ -364,9 +387,21 @@ def build_html(sections):
                       if img else
                       f'<div class="thumb noimg">{inner}</div>')
             price = escape(it.get("price_yen") or "")
+            # 크림 검색어: 품번 있으면 품번, 없으면 NEEDLES + 상품명
+            code = (it.get("code") or "").strip()
+            if code:
+                kw = code
+                kbtn_label = f'KREAM {escape(code)}'
+            else:
+                kw = "NEEDLES " + it["title"]
+                kbtn_label = 'KREAM 검색'
+            kream_url = "https://kream.co.kr/search?keyword=" + uquote(kw)
+            kbtn = (f'<a class="kream-btn" href="{escape(kream_url)}" '
+                    f'target="_blank" rel="noopener">{kbtn_label}</a>')
             rows.append(
-                f'<a class="card{" is-sold" if allsold else ""}" '
-                f'href="{escape(it["url"])}" target="_blank" rel="noopener">'
+                f'<div class="card{" is-sold" if allsold else ""}">'
+                f'<a class="card-link" href="{escape(it["url"])}" '
+                f'target="_blank" rel="noopener">'
                 f'{imgtag}'
                 f'<div class="meta">'
                 f'<div class="title">{escape(it["title"])}</div>'
@@ -374,6 +409,8 @@ def build_html(sections):
                 f'<span class="date">{escape(it.get("date",""))}</span></div>'
                 f'<div class="badges">{new_badge}</div>'
                 f'</div></a>'
+                f'{kbtn}'
+                f'</div>'
             )
         cols.append(f'<div class="col">{head}'
                     f'<div class="col-body">{"".join(rows)}</div></div>')
@@ -429,6 +466,14 @@ border:1px solid var(--line);border-radius:9px;overflow:hidden;
 text-decoration:none;color:inherit;margin:0;transition:border-color .15s;}}
 .card:hover{{border-color:var(--accent);}}
 .card.is-sold .thumb img{{filter:grayscale(.7) brightness(.7);}}
+.card-link{{display:flex;flex-direction:column;flex:1;
+text-decoration:none;color:inherit;}}
+.kream-btn{{display:block;text-align:center;text-decoration:none;
+background:#1f1f22;color:#cfcfd4;font-size:11px;font-weight:600;
+letter-spacing:.02em;padding:7px 6px;border-top:1px solid var(--line);
+white-space:nowrap;overflow:hidden;text-overflow:ellipsis;
+transition:background .15s,color .15s;}}
+.kream-btn:hover{{background:var(--accent);color:#fff;}}
 .thumb{{position:relative;aspect-ratio:3/4;background:#101012;overflow:hidden;}}
 .thumb img{{width:100%;height:100%;object-fit:cover;display:block;}}
 .thumb.noimg{{display:flex;align-items:center;justify-content:center;color:#3a3a3d;}}
@@ -487,7 +532,6 @@ NEEDLES TRACKER · GitHub Actions 자동 업데이트
 """
 
 # urllib.parse 는 mix 에서 필요
-import urllib.parse  # noqa: E402
 
 
 def main():
