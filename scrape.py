@@ -356,12 +356,13 @@ def build_html(sections):
         for it in items:
             new_badge = '<span class="badge-new">신착</span>' if is_new(it) else ''
             allsold = it.get("soldout")
-            sold = '<span class="badge-sold">SOLD OUT</span>' if allsold else ''
+            sold_band = '<div class="sold-band">SOLD OUT</div>' if allsold else ''
             img = it.get("img") or ""
+            inner = f'{color_dots_html(it)}{sold_band}'
             imgtag = (f'<div class="thumb"><img loading="lazy" src="{escape(img)}" '
-                      f'alt="">{color_dots_html(it)}</div>'
+                      f'alt="">{inner}</div>'
                       if img else
-                      f'<div class="thumb noimg">{color_dots_html(it)}</div>')
+                      f'<div class="thumb noimg">{inner}</div>')
             price = escape(it.get("price_yen") or "")
             rows.append(
                 f'<a class="card{" is-sold" if allsold else ""}" '
@@ -371,7 +372,7 @@ def build_html(sections):
                 f'<div class="title">{escape(it["title"])}</div>'
                 f'<div class="row"><span class="price">{price}</span>'
                 f'<span class="date">{escape(it.get("date",""))}</span></div>'
-                f'<div class="badges">{new_badge}{sold}</div>'
+                f'<div class="badges">{new_badge}</div>'
                 f'</div></a>'
             )
         cols.append(f'<div class="col">{head}'
@@ -402,11 +403,13 @@ h1{{font-size:20px;letter-spacing:.04em;margin:0 0 6px;}}
 .legend{{display:flex;gap:14px;flex-wrap:wrap;margin-top:8px;font-size:12px;color:var(--mut);align-items:center;}}
 .legend .dot{{position:static;margin-right:4px;}}
 main{{padding:0;}}
-/* 사이트별 1자(세로) 컬럼을 가로로 나열 */
+/* 사이트별 컬럼을 가로로 나열, 컬럼 안은 2열 그리드 */
 .board{{display:flex;gap:0;overflow-x:auto;align-items:flex-start;
 padding:0 0 40px;-webkit-overflow-scrolling:touch;}}
-.col{{flex:0 0 230px;min-width:230px;border-right:1px solid var(--line);}}
-.col-body{{padding:0 10px;}}
+.col{{flex:0 0 380px;min-width:380px;border-right:1px solid var(--line);}}
+.col-body{{padding:10px;display:grid;grid-template-columns:1fr 1fr;
+gap:12px;align-content:start;}}
+.empty{{grid-column:1 / -1;}}
 .shop-head{{position:sticky;top:0;z-index:2;background:var(--bg);
 display:flex;align-items:center;gap:8px;padding:14px 12px 10px;
 border-bottom:1px solid var(--line);}}
@@ -415,9 +418,9 @@ white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}}
 .shop-count{{color:var(--mut);font-size:11px;}}
 .shop-link{{margin-left:auto;color:var(--mut);font-size:13px;text-decoration:none;}}
 .shop-link:hover{{color:var(--fg);}}
-.card{{display:block;background:var(--card);border:1px solid var(--line);
-border-radius:9px;overflow:hidden;text-decoration:none;color:inherit;
-margin:10px 0;transition:border-color .15s;}}
+.card{{display:flex;flex-direction:column;background:var(--card);
+border:1px solid var(--line);border-radius:9px;overflow:hidden;
+text-decoration:none;color:inherit;margin:0;transition:border-color .15s;}}
 .card:hover{{border-color:var(--accent);}}
 .card.is-sold .thumb img{{filter:grayscale(.7) brightness(.7);}}
 .thumb{{position:relative;aspect-ratio:3/4;background:#101012;overflow:hidden;}}
@@ -431,9 +434,16 @@ box-shadow:0 0 0 1.5px rgba(0,0,0,.55);}}
 .dot-ok{{background:#37d36b;}}
 .dot-sold{{background:#e7402b;}}
 .dot-unknown{{background:#9a9aa0;}}
-.meta{{padding:7px 8px 9px;display:flex;flex-direction:column;gap:4px;}}
-.title{{font-size:11.5px;line-height:1.35;max-height:3.4em;overflow:hidden;}}
-.row{{display:flex;justify-content:space-between;align-items:baseline;gap:6px;}}
+/* 품절 가로 띠 (KAPITAL 스타일) */
+.sold-band{{position:absolute;top:50%;left:0;right:0;transform:translateY(-50%);
+background:rgba(20,20,22,.82);color:#e7402b;text-align:center;
+font-weight:800;font-size:13px;letter-spacing:.12em;padding:7px 0;
+border-top:1px solid rgba(231,64,43,.5);border-bottom:1px solid rgba(231,64,43,.5);}}
+.meta{{padding:7px 8px 9px;display:flex;flex-direction:column;gap:4px;flex:1;}}
+.title{{font-size:11.5px;line-height:1.35;height:3.1em;overflow:hidden;
+display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;}}
+.row{{display:flex;justify-content:space-between;align-items:baseline;
+gap:6px;margin-top:auto;}}
 .price{{font-size:12.5px;font-weight:600;}}
 .date{{font-size:10.5px;color:var(--mut);white-space:nowrap;}}
 .badges{{display:flex;gap:4px;min-height:14px;}}
@@ -441,7 +451,7 @@ box-shadow:0 0 0 1.5px rgba(0,0,0,.55);}}
 padding:1px 5px;border-radius:4px;font-weight:700;}}
 .badge-sold{{background:#3a3a3d;color:#bbb;font-size:9.5px;
 padding:1px 5px;border-radius:4px;}}
-.empty{{color:var(--mut);padding:14px 0;}}
+.empty{{color:var(--mut);padding:14px 0;grid-column:1 / -1;}}
 footer{{border-top:1px solid var(--line);padding:16px;color:var(--mut);
 font-size:12px;text-align:center;}}
 </style>
