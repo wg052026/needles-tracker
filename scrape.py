@@ -406,8 +406,8 @@ main{{padding:0;}}
 /* 사이트별 컬럼을 가로로 나열, 컬럼 안은 2열 그리드 */
 .board{{display:flex;gap:0;overflow-x:auto;align-items:flex-start;
 padding:0 0 40px;-webkit-overflow-scrolling:touch;}}
-.col{{flex:0 0 380px;min-width:380px;border-right:1px solid var(--line);}}
-.col-body{{padding:10px;display:grid;grid-template-columns:1fr 1fr;
+.col{{flex:0 0 540px;min-width:540px;border-right:1px solid var(--line);}}
+.col-body{{padding:10px;display:grid;grid-template-columns:1fr 1fr 1fr;
 gap:12px;align-content:start;}}
 .empty{{grid-column:1 / -1;}}
 .shop-head{{position:sticky;top:0;z-index:2;background:var(--bg);
@@ -446,7 +446,7 @@ display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;}}
 gap:6px;margin-top:auto;}}
 .price{{font-size:12.5px;font-weight:600;}}
 .date{{font-size:10.5px;color:var(--mut);white-space:nowrap;}}
-.badges{{display:flex;gap:4px;min-height:14px;}}
+.badges{{display:flex;gap:4px;height:16px;align-items:center;}}
 .badge-new{{background:var(--accent);color:#fff;font-size:9.5px;
 padding:1px 5px;border-radius:4px;font-weight:700;}}
 .badge-sold{{background:#3a3a3d;color:#bbb;font-size:9.5px;
