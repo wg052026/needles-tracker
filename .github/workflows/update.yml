@@ -46,5 +46,12 @@ jobs:
             echo "No changes."
           else
             git commit -m "auto: update tracker $(date -u +'%Y-%m-%d %H:%M UTC')"
-            git push
+            # 다른 실행이 먼저 push 했을 수 있으니 원격을 당겨와 충돌 방지
+            for i in 1 2 3; do
+              git pull --rebase --autostash origin main || true
+              if git push origin main; then
+                echo "pushed"; break
+              fi
+              echo "push retry $i"; sleep 3
+            done
           fi
