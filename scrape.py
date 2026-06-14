@@ -38,11 +38,65 @@ UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/120.0 Safari/537.36")
 
 
-def fetch(url, timeout=30):
-    req = urllib.request.Request(url, headers={"User-Agent": UA,
-                                               "Accept-Language": "ja,en;q=0.8"})
-    with urllib.request.urlopen(req, timeout=timeout) as r:
-        return r.read().decode("utf-8", "ignore")
+def fetch(url, timeout=30, retries=4, force_proxy=False):
+    """완전한 브라우저 헤더 + 재시도/백오프.
+    일부 사이트(특히 Shopify)가 데이터센터 IP·빈약한 헤더를 차단하므로
+    실제 브라우저처럼 보이는 헤더를 보내고, 실패 시 잠시 쉬고 재시도한다.
+    그래도 실패하면(GitHub Actions IP 차단 등) jina 리더 프록시로 우회한다.
+    force_proxy=True 면 직접 요청을 건너뛰고 바로 프록시를 쓴다."""
+    if force_proxy:
+        return fetch_via_proxy(url, timeout=timeout + 20)
+    headers = {
+        "User-Agent": UA,
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,"
+                  "application/json;q=0.9,*/*;q=0.8",
+        "Accept-Language": "ja,en-US;q=0.8,en;q=0.6",
+        "Accept-Encoding": "identity",
+        "Connection": "keep-alive",
+        "Upgrade-Insecure-Requests": "1",
+        "Sec-Fetch-Dest": "document",
+        "Sec-Fetch-Mode": "navigate",
+        "Sec-Fetch-Site": "none",
+    }
+    last_err = None
+    for attempt in range(retries):
+        try:
+            req = urllib.request.Request(url, headers=headers)
+            with urllib.request.urlopen(req, timeout=timeout) as r:
+                return r.read().decode("utf-8", "ignore")
+        except Exception as e:
+            last_err = e
+            # 429/503 등 일시적 차단 대비 점증 대기
+            time.sleep(1.5 * (attempt + 1))
+    # --- 직접 요청 전부 실패: 프록시 우회 ---
+    try:
+        return fetch_via_proxy(url, timeout=timeout + 20)
+    except Exception as e:
+        print(f"[proxy] also failed: {e}", file=sys.stderr)
+    raise last_err
+
+
+def fetch_via_proxy(url, timeout=50):
+    """jina 리더 프록시로 우회. 응답 JSON의 data.content 에 원본 본문이 들어있다.
+    Shopify products.json 같은 JSON도 content 안에 문자열로 그대로 담겨 온다.
+    프록시는 직접 요청보다 느리므로 타임아웃을 넉넉히 준다."""
+    proxied = "https://r.jina.ai/" + url
+    req = urllib.request.Request(
+        proxied,
+        headers={"User-Agent": UA, "Accept": "application/json"},
+    )
+    raw = urllib.request.urlopen(req, timeout=max(timeout, 70)).read().decode(
+        "utf-8", "ignore")
+    # jina 는 {code,status,data:{content:...}} 구조로 감싼다
+    try:
+        wrapped = json.loads(raw)
+        content = wrapped.get("data", {}).get("content")
+        if content:
+            return content
+    except Exception:
+        pass
+    # 혹시 감싸지 않고 그대로 왔으면 원문 반환
+    return raw
 
 
 def load_seen():
@@ -64,12 +118,20 @@ def save_seen(seen):
 # 1) NEPENTHES  (Shopify) — created_at 사용 가능
 # ---------------------------------------------------------------------------
 def scrape_nepenthes():
+    out = _nepenthes_pages(force_proxy=False)
+    if not out:
+        print("[nepenthes] 직접 0개 -> 프록시 재시도", file=sys.stderr)
+        out = _nepenthes_pages(force_proxy=True)
+    return out
+
+
+def _nepenthes_pages(force_proxy=False):
     out = []
     base = ("https://onlinestore.nepenthes.co.jp/collections/needles/"
             "products.json?limit=250&page=%d")
     for page in range(1, 6):
         try:
-            data = json.loads(fetch(base % page))
+            data = json.loads(fetch(base % page, force_proxy=force_proxy))
         except Exception as e:
             print(f"[nepenthes] page {page} error: {e}", file=sys.stderr)
             break
@@ -192,12 +254,20 @@ def scrape_mix():
     """mix.tokyo는 검색이 JS 렌더라 정적 파싱 불가.
     전체 카탈로그(products.json 페이지네이션)를 받아 NEEDLES만 필터링한다.
     Shopify products.json 은 created_at 을 제공하므로 날짜 정렬도 가능."""
+    out = _mix_pages(force_proxy=False)
+    if not out:
+        print("[mix] 직접 0개 -> 프록시 재시도", file=sys.stderr)
+        out = _mix_pages(force_proxy=True)
+    return out
+
+
+def _mix_pages(force_proxy=False):
     out = []
     seen_ids = set()
     for page in range(1, 45):
         url = f"https://mix.tokyo/products.json?limit=250&page={page}"
         try:
-            data = json.loads(fetch(url))
+            data = json.loads(fetch(url, force_proxy=force_proxy))
         except Exception as e:
             print(f"[mix] page {page} error: {e}", file=sys.stderr)
             break
@@ -536,6 +606,7 @@ NEEDLES TRACKER · GitHub Actions 자동 업데이트
 
 def main():
     seen = load_seen()
+    snapshots = seen.setdefault("_snapshots", {})
 
     sources = [
         ("NEPENTHES", "https://onlinestore.nepenthes.co.jp/collections/needles",
@@ -553,6 +624,16 @@ def main():
         except Exception as e:
             print(f"[{name}] scrape failed: {e}", file=sys.stderr)
             items = []
+        if not items:
+            # 0개 = 일시적 차단/오류일 가능성 -> 직전 성공 데이터로 복원
+            prev = snapshots.get(name)
+            if prev:
+                print(f"[{name}] 0 items -> 직전 데이터 {len(prev)}개 복원",
+                      file=sys.stderr)
+                items = prev
+        else:
+            # 성공 시 스냅샷 갱신 (다음에 0개 나오면 여기서 복원)
+            snapshots[name] = items
         items = reconcile(name, items, seen)
         print(f"[{name}] {len(items)} items")
         sections.append((name, url, items))
