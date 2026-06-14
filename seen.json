@@ -3480,11 +3480,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/pendant-gold-plate-26",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/PU024C-0.jpg?v=1720056171",
     "created": "2025-12-15",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Papillon",
-      "available": true
+      "available": false
      }
     ],
     "code": "SX010C",
@@ -3871,11 +3871,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/peace-buckle-bracelet-crocodile-embossed-leather-1",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/products/MR048B-0.jpg?v=1675400750",
     "created": "2022-12-12",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Black",
-      "available": true
+      "available": false
      }
     ],
     "code": "MR048B",
@@ -4211,11 +4211,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/s-s-western-shirt-ryn-leopard-jacq-1",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX274B-0.jpg?v=1767070714",
     "created": "2025-12-30",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Navy",
-      "available": true
+      "available": false
      }
     ],
     "code": "SX274B",
@@ -15761,6 +15761,64 @@
     ],
     "code": "",
     "date": "2025-12-16"
+   },
+   {
+    "id": "mix-7747168534593",
+    "title": "NEEDLES/ニードルズ/【LHP EXCLUSIVE】H.D.TRACK PANT - COTTON JERSEY",
+    "price_yen": "¥32,000",
+    "url": "https://mix.tokyo/products/7846110313",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846110313-110_MAIN.jpg?v=1779793440",
+    "created": "2025-12-16",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "ブラック",
+      "available": false
+     },
+     {
+      "name": "ブルー",
+      "available": false
+     },
+     {
+      "name": "グリーン",
+      "available": true
+     },
+     {
+      "name": "オレンジ",
+      "available": true
+     }
+    ],
+    "code": "",
+    "date": "2025-12-16"
+   },
+   {
+    "id": "mix-7726456406081",
+    "title": "NEEDLES/ニードルズ/【LHP EXCLUSIVE】TRACK CREW NECK - COTTON JERSEY",
+    "price_yen": "¥25,000",
+    "url": "https://mix.tokyo/products/7846132234",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846132234-150_MAIN.jpg?v=1779793447",
+    "created": "2025-12-05",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "ブラック",
+      "available": false
+     },
+     {
+      "name": "ブルー",
+      "available": true
+     },
+     {
+      "name": "グリーン",
+      "available": true
+     },
+     {
+      "name": "オレンジ",
+      "available": false
+     }
+    ],
+    "code": "",
+    "date": "2025-12-05"
    }
   ]
  }
