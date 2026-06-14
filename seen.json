@@ -3463,11 +3463,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/boot-cut-track-pant-c-pe-velour-6",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX416B-0.jpg?v=1769162987",
     "created": "2026-01-23",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Taupe",
-      "available": true
+      "available": false
      }
     ],
     "code": "SX416B",
@@ -11895,11 +11895,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/track-pants-poly-smooth",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX1971-0.jpg?v=1780879348",
     "created": "2026-06-08",
-    "soldout": true,
+    "soldout": false,
     "colors": [
      {
       "name": "Grey",
-      "available": false
+      "available": true
      }
     ],
     "code": "SX1971",
@@ -11946,11 +11946,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/track-pants-poly-jq",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX1969-0.jpg?v=1780879404",
     "created": "2026-06-08",
-    "soldout": true,
+    "soldout": false,
     "colors": [
      {
       "name": "Paisley",
-      "available": false
+      "available": true
      }
     ],
     "code": "SX1969",
@@ -11963,11 +11963,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/track-jacket-poly-smooth-37",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX1970-0.jpg?v=1780879371",
     "created": "2026-06-08",
-    "soldout": true,
+    "soldout": false,
     "colors": [
      {
       "name": "Grey",
-      "available": false
+      "available": true
      }
     ],
     "code": "SX1970",
@@ -15007,11 +15007,11 @@
     "colors": [
      {
       "name": "ダークグレー",
-      "available": true
+      "available": false
      },
      {
       "name": "グリーン",
-      "available": true
+      "available": false
      },
      {
       "name": "ラスト",
