@@ -2645,6 +2645,14 @@
   "stu-g116258012165": {
    "first": "2026-06-16",
    "title": "別注Track Jacket - Poly Smooth"
+  },
+  "stu-g116240378263": {
+   "first": "2026-06-16",
+   "title": "別注H.D. Track Pant - Poly Smooth"
+  },
+  "stu-g116343110263": {
+   "first": "2026-06-16",
+   "title": "別注 H.D Track Short Pant - Poly Smooth"
   }
  },
  "MIX.TOKYO": {
@@ -5277,11 +5285,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/baseball-cap-poly-jacquard-5",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX077A-0.jpg?v=1768558491",
     "created": "2026-01-16",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Blu/Ppl",
-      "available": true
+      "available": false
      }
     ],
     "code": "SX077A",
@@ -10711,23 +10719,6 @@
     "date": "2026-03-20"
    },
    {
-    "id": "nep-8513866432695",
-    "title": "Deconstructed H.D. Sweat Pant",
-    "price_yen": "¥42,900",
-    "url": "https://onlinestore.nepenthes.co.jp/products/deconstructed-h-d-sweat-pant-3",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX432A-0.jpg?v=1774073282",
-    "created": "2026-03-20",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "H. Grey",
-      "available": true
-     }
-    ],
-    "code": "SX432A",
-    "date": "2026-03-20"
-   },
-   {
     "id": "nep-8513866530999",
     "title": "S/S Pocket Tee - Cotton Jersey",
     "price_yen": "¥12,100",
@@ -11782,23 +11773,6 @@
     "date": "2026-05-26"
    },
    {
-    "id": "nep-8600184750263",
-    "title": "〈NEEDLES〉x〈ALBINO & PRETO〉T-Shirt - A&P Needles Stack Logo",
-    "price_yen": "¥12,100",
-    "url": "https://onlinestore.nepenthes.co.jp/products/t-shirt-a-p-needles-stack-logo",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX2021A-0.jpg?v=1781067239",
-    "created": "2026-06-08",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "White",
-      "available": false
-     }
-    ],
-    "code": "SX2021A",
-    "date": "2026-06-08"
-   },
-   {
     "id": "nep-8600184062135",
     "title": "〈NEEDLES〉x〈ALBINO & PRETO〉Track Pant - Poly Smooth",
     "price_yen": "¥23,100",
@@ -11936,18 +11910,14 @@
     "date": "2026-06-10"
    },
    {
-    "id": "stu-g116240378163",
+    "id": "stu-g116240378263",
     "title": "別注H.D. Track Pant - Poly Smooth",
     "price_yen": "¥23,100",
-    "url": "https://studious.co.jp/shop/g/g116240378163/",
-    "img": "https://studious.co.jp/img/goods/S/116240378163_0ea01f9671bd4d72849b041979d56a83.jpg",
+    "url": "https://studious.co.jp/shop/g/g116240378263/",
+    "img": "https://studious.co.jp/img/goods/S/116240378263_ed797bca63dc4ac6a49d00eb6bb44faa.jpg",
     "created": "",
     "soldout": false,
     "colors": [
-     {
-      "name": "",
-      "available": null
-     },
      {
       "name": "",
       "available": null
@@ -12015,6 +11985,27 @@
     "date": "2026-06-16"
    },
    {
+    "id": "stu-g116343110263",
+    "title": "別注 H.D Track Short Pant - Poly Smooth",
+    "price_yen": "¥23,100",
+    "url": "https://studious.co.jp/shop/g/g116343110263/",
+    "img": "https://studious.co.jp/img/goods/S/116343110263_7ce7021463d14f7b8d02968d1faab129.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     },
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "SX1543",
+    "date": "2026-06-16"
+   },
+   {
     "id": "stu-g116302132165",
     "title": "別注 Track S/S Shirt - Poly Smooth",
     "price_yen": "¥22,000",
@@ -12034,52 +12025,6 @@
     ],
     "code": "SX1541",
     "date": "2026-06-04"
-   },
-   {
-    "id": "stu-g116343110163",
-    "title": "別注 H.D Track Short Pant - Poly Smooth",
-    "price_yen": "¥23,100",
-    "url": "https://studious.co.jp/shop/g/g116343110163/",
-    "img": "https://studious.co.jp/img/goods/S/116343110163_8a2bcc21ba654c88bd04d0638f23a10e.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     },
-     {
-      "name": "",
-      "available": null
-     },
-     {
-      "name": "",
-      "available": null
-     },
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "SX1543",
-    "date": "2026-06-04"
-   },
-   {
-    "id": "stu-g116387022070",
-    "title": "Pendant - 925 Silver",
-    "price_yen": "¥19,800",
-    "url": "https://studious.co.jp/shop/g/g116387022070/",
-    "img": "https://studious.co.jp/img/goods/S/116387022070_cf2c2ed5fece43c5bea26bb86039454a.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "",
-    "date": "2026-06-03"
    },
    {
     "id": "stu-g116372001162",
@@ -13816,7 +13761,7 @@
     "title": "NEEDLES/ニードルズ/【LHP EXCLUSIVE】H.D.TRACK PANT SHORTS - POLY SMOOTH",
     "price_yen": "¥20,000",
     "url": "https://mix.tokyo/products/7846213220",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846213220-080_MAIN.jpg?v=1781497573",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846213220-010_MAIN.jpg?v=1781607810",
     "created": "2026-05-15",
     "soldout": true,
     "colors": [
@@ -13854,7 +13799,7 @@
     "title": "NEEDLES/ニードルズ/【LHP EXCLUSIVE】TRACK JACKET - POLY SMOOTH",
     "price_yen": "¥26,000",
     "url": "https://mix.tokyo/products/7846252250",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846252250-080_MAIN.jpg?v=1781497748",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846252250-080_MAIN.jpg?v=1781607794",
     "created": "2026-05-25",
     "soldout": false,
     "colors": [
@@ -13871,7 +13816,7 @@
     "title": "NEEDLES/ニードルズ/【LHP EXCLUSIVE】TRACK PANT - POLY SMOOTH",
     "price_yen": "¥21,000",
     "url": "https://mix.tokyo/products/7846210252",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846210252-080_MAIN.jpg?v=1781497747",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846210252-410_MAIN.jpg?v=1781607788",
     "created": "2026-05-25",
     "soldout": false,
     "colors": [
@@ -15557,11 +15502,11 @@
     "url": "https://mix.tokyo/products/7846152283",
     "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846152283-120_MAIN.jpg?v=1779793409",
     "created": "2025-12-24",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "ネイビー",
-      "available": true
+      "available": false
      }
     ],
     "code": "",
