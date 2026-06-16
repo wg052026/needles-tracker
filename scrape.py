@@ -497,7 +497,8 @@ TEMPLATE = """<!DOCTYPE html>
 <html lang="ko">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=5,user-scalable=yes">
+<meta name="format-detection" content="telephone=no">
 <title>NEEDLES NEW ARRIVALS TRACKER</title>
 <style>
 :root{{--bg:#0f0f10;--card:#19191b;--line:#2a2a2d;--fg:#f2f2f2;--mut:#8b8b90;--accent:#e7402b;}}
