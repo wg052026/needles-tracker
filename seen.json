@@ -7456,11 +7456,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/s-s-widespread-collar-shirt-ras-lace",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX284A-0.jpg?v=1772948325",
     "created": "2026-03-08",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Blue",
-      "available": true
+      "available": false
      }
     ],
     "code": "SX284A",
@@ -13689,7 +13689,7 @@
      },
      {
       "name": "ロイヤル",
-      "available": true
+      "available": false
      }
     ],
     "code": "",
@@ -14127,11 +14127,11 @@
     "url": "https://mix.tokyo/products/7846110254",
     "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846110254-010_MAIN.jpg?v=1778266959",
     "created": "2026-04-08",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "ブラック",
-      "available": true
+      "available": false
      },
      {
       "name": "ブラウン",
@@ -15547,35 +15547,6 @@
     ],
     "code": "",
     "date": "2025-12-12"
-   },
-   {
-    "id": "mix-7747168862273",
-    "title": "Needles/ニードルズ  別注H.D. Track Pant - Poly Smooth",
-    "price_yen": "¥21,000",
-    "url": "https://mix.tokyo/products/7816110243",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816110243-053_MAIN.jpg?v=1774263805",
-    "created": "2025-12-16",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "ブラック",
-      "available": false
-     },
-     {
-      "name": "ダークブラウン",
-      "available": false
-     },
-     {
-      "name": "サックス",
-      "available": false
-     },
-     {
-      "name": "チャコール",
-      "available": false
-     }
-    ],
-    "code": "",
-    "date": "2025-12-16"
    }
   ]
  }
