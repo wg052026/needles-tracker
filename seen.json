@@ -2657,6 +2657,26 @@
   "stu-g116343110263": {
    "first": "2026-06-16",
    "title": "別注 H.D Track Short Pant - Poly Smooth"
+  },
+  "stu-g116240154633": {
+   "first": "2026-06-20",
+   "title": "Track Pant - Poly Smooth"
+  },
+  "stu-g116240291203": {
+   "first": "2026-06-20",
+   "title": "H.D. Pant - Military"
+  },
+  "stu-g116322185204": {
+   "first": "2026-06-20",
+   "title": "Regular Collar Polo - Cotton Pique"
+  },
+  "stu-g115587063260": {
+   "first": "2026-06-20",
+   "title": "Peace Buckle Bracelet - Steer Lthr."
+  },
+  "stu-g115343060714": {
+   "first": "2026-06-20",
+   "title": "別注 Cow Boy H.D BDU Shorts"
   }
  },
  "MIX.TOKYO": {
@@ -11810,21 +11830,17 @@
      {
       "name": "",
       "available": null
-     },
-     {
-      "name": "",
-      "available": null
      }
     ],
     "code": "SX1553",
     "date": "2026-06-10"
    },
    {
-    "id": "stu-g116240378263",
-    "title": "別注H.D. Track Pant - Poly Smooth",
-    "price_yen": "¥23,100",
-    "url": "https://studious.co.jp/shop/g/g116240378263/",
-    "img": "https://studious.co.jp/img/goods/S/116240378263_ed797bca63dc4ac6a49d00eb6bb44faa.jpg",
+    "id": "stu-g116258012165",
+    "title": "別注Track Jacket - Poly Smooth",
+    "price_yen": "¥28,600",
+    "url": "https://studious.co.jp/shop/g/g116258012165/",
+    "img": "https://studious.co.jp/img/goods/S/116258012165_3f1204485b8c41a5a6e5e62baaf7bdb2.jpg",
     "created": "",
     "soldout": false,
     "colors": [
@@ -11835,9 +11851,13 @@
      {
       "name": "",
       "available": null
+     },
+     {
+      "name": "",
+      "available": null
      }
     ],
-    "code": "SX1542",
+    "code": "SX1539",
     "date": "2026-06-16"
    },
    {
@@ -11868,31 +11888,6 @@
     ],
     "code": "SX1540",
     "date": "2026-06-03"
-   },
-   {
-    "id": "stu-g116258012165",
-    "title": "別注Track Jacket - Poly Smooth",
-    "price_yen": "¥28,600",
-    "url": "https://studious.co.jp/shop/g/g116258012165/",
-    "img": "https://studious.co.jp/img/goods/S/116258012165_3f1204485b8c41a5a6e5e62baaf7bdb2.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     },
-     {
-      "name": "",
-      "available": null
-     },
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "SX1539",
-    "date": "2026-06-16"
    },
    {
     "id": "stu-g116343110263",
@@ -11998,10 +11993,6 @@
      {
       "name": "",
       "available": null
-     },
-     {
-      "name": "",
-      "available": null
      }
     ],
     "code": "RW450",
@@ -12040,10 +12031,6 @@
      {
       "name": "",
       "available": null
-     },
-     {
-      "name": "",
-      "available": null
      }
     ],
     "code": "SX284",
@@ -12071,11 +12058,11 @@
     "date": "2026-06-03"
    },
    {
-    "id": "stu-g116240154153",
+    "id": "stu-g116240154633",
     "title": "Track Pant - Poly Smooth",
     "price_yen": "¥23,100",
-    "url": "https://studious.co.jp/shop/g/g116240154153/",
-    "img": "https://studious.co.jp/img/goods/S/116240154153_c9dc66ec1e25457eb288c059851b9a2e.jpg",
+    "url": "https://studious.co.jp/shop/g/g116240154633/",
+    "img": "https://studious.co.jp/img/goods/S/116240154633_d23c9ab539e241b5a373564e466fd0b5.jpg",
     "created": "",
     "soldout": false,
     "colors": [
@@ -12086,22 +12073,10 @@
      {
       "name": "",
       "available": null
-     },
-     {
-      "name": "",
-      "available": null
-     },
-     {
-      "name": "",
-      "available": null
-     },
-     {
-      "name": "",
-      "available": null
      }
     ],
     "code": "SX406",
-    "date": "2026-06-03"
+    "date": "2026-06-20"
    },
    {
     "id": "stu-g116240236163",
@@ -12125,88 +12100,38 @@
     "date": "2026-06-03"
    },
    {
-    "id": "stu-g116240237633",
-    "title": "H.D. Sweat Pant - Bright Jersey",
-    "price_yen": "¥23,100",
-    "url": "https://studious.co.jp/shop/g/g116240237633/",
-    "img": "https://studious.co.jp/img/goods/S/116240237633_06e5a6ec6b964cc5b823fd7211f2abe2.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     },
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "SX428",
-    "date": "2026-06-03"
-   },
-   {
-    "id": "stu-g116240291163",
+    "id": "stu-g116240291203",
     "title": "H.D. Pant - Military",
     "price_yen": "¥26,400",
-    "url": "https://studious.co.jp/shop/g/g116240291163/",
-    "img": "https://studious.co.jp/img/goods/S/116240291163_ae678e1ff2524950b285dfd8daef906e.jpg",
+    "url": "https://studious.co.jp/shop/g/g116240291203/",
+    "img": "https://studious.co.jp/img/goods/S/116240291203_896411fc32dc4a73bed5915fd6ca8d46.jpg",
     "created": "",
     "soldout": false,
     "colors": [
-     {
-      "name": "",
-      "available": null
-     },
      {
       "name": "",
       "available": null
      }
     ],
     "code": "SX196",
-    "date": "2026-06-03"
+    "date": "2026-06-20"
    },
    {
-    "id": "stu-g116258010065",
-    "title": "別注 Track Jacket - Amunzen",
-    "price_yen": "¥31,900",
-    "url": "https://studious.co.jp/shop/g/g116258010065/",
-    "img": "https://studious.co.jp/img/goods/S/116258010065_5cf04a82c02346fcb69706810f1e9835.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     },
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "SX1551",
-    "date": "2026-06-04"
-   },
-   {
-    "id": "stu-g116322185164",
+    "id": "stu-g116322185204",
     "title": "Regular Collar Polo - Cotton Pique",
     "price_yen": "¥14,300",
-    "url": "https://studious.co.jp/shop/g/g116322185164/",
-    "img": "https://studious.co.jp/img/goods/S/116322185164_afef1227dc75437f821b164d7f12cf50.jpg",
+    "url": "https://studious.co.jp/shop/g/g116322185204/",
+    "img": "https://studious.co.jp/img/goods/S/116322185204_9fa898f25c8a4872ac53e450abc4079d.jpg",
     "created": "",
     "soldout": false,
     "colors": [
-     {
-      "name": "",
-      "available": null
-     },
      {
       "name": "",
       "available": null
      }
     ],
     "code": "",
-    "date": "2026-06-03"
+    "date": "2026-06-20"
    },
    {
     "id": "stu-g116258006114",
@@ -12361,6 +12286,35 @@
     "date": "2026-06-03"
    },
    {
+    "id": "stu-g116240229163",
+    "title": "Piping Cowboy Pant - Poly Double Cloth",
+    "price_yen": "¥33,000",
+    "url": "https://studious.co.jp/shop/g/g116240229163/",
+    "img": "https://studious.co.jp/img/goods/S/116240229163_3162da7e25b84f1fadf957c9030ebcaa.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     },
+     {
+      "name": "",
+      "available": null
+     },
+     {
+      "name": "",
+      "available": null
+     },
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "SX224",
+    "date": "2026-06-03"
+   },
+   {
     "id": "stu-g116225006633",
     "title": "V-Neck Cardigan - Bright Jersey",
     "price_yen": "¥19,800",
@@ -12397,42 +12351,9 @@
      {
       "name": "",
       "available": null
-     },
-     {
-      "name": "",
-      "available": null
      }
     ],
     "code": "SX197",
-    "date": "2026-06-03"
-   },
-   {
-    "id": "stu-g116240229163",
-    "title": "Piping Cowboy Pant - Poly Double Cloth",
-    "price_yen": "¥33,000",
-    "url": "https://studious.co.jp/shop/g/g116240229163/",
-    "img": "https://studious.co.jp/img/goods/S/116240229163_3162da7e25b84f1fadf957c9030ebcaa.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     },
-     {
-      "name": "",
-      "available": null
-     },
-     {
-      "name": "",
-      "available": null
-     },
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "SX224",
     "date": "2026-06-03"
    },
    {
@@ -12869,25 +12790,21 @@
     "date": "2026-06-03"
    },
    {
-    "id": "stu-g115587063160",
+    "id": "stu-g115587063260",
     "title": "Peace Buckle Bracelet - Steer Lthr.",
     "price_yen": "¥10,450",
-    "url": "https://studious.co.jp/shop/g/g115587063160/",
-    "img": "https://studious.co.jp/img/goods/S/115587063160_ac500b04bf504135ae211998e0e597b1.jpg",
+    "url": "https://studious.co.jp/shop/g/g115587063260/",
+    "img": "https://studious.co.jp/img/goods/S/115587063260_d44ad86437274772882ef45acb5e098f.jpg",
     "created": "",
     "soldout": false,
     "colors": [
      {
       "name": "",
       "available": null
-     },
-     {
-      "name": "",
-      "available": null
      }
     ],
     "code": "",
-    "date": "2026-06-03"
+    "date": "2026-06-20"
    },
    {
     "id": "stu-g115587067076",
@@ -13174,28 +13091,11 @@
     "date": "2026-06-03"
    },
    {
-    "id": "stu-g115343059164",
-    "title": "〈別注〉 BDU Shorts - BLACK",
-    "price_yen": "¥34,100",
-    "url": "https://studious.co.jp/shop/g/g115343059164/",
-    "img": "https://studious.co.jp/img/goods/S/115343059164_3b5528f774d94f4ba7a781075c03213d.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "QV1563",
-    "date": "2026-06-03"
-   },
-   {
-    "id": "stu-g115343060164",
+    "id": "stu-g115343060714",
     "title": "別注 Cow Boy H.D BDU Shorts",
     "price_yen": "¥31,900",
-    "url": "https://studious.co.jp/shop/g/g115343060164/",
-    "img": "https://studious.co.jp/img/goods/S/115343060164_1a61bc27716a497f94fbf471185ccd58.jpg",
+    "url": "https://studious.co.jp/shop/g/g115343060714/",
+    "img": "https://studious.co.jp/img/goods/S/115343060714_c64a852b618d4b79b407964f21a940f0.jpg",
     "created": "",
     "soldout": false,
     "colors": [
@@ -13206,31 +13106,10 @@
      {
       "name": "",
       "available": null
-     },
-     {
-      "name": "",
-      "available": null
      }
     ],
     "code": "",
-    "date": "2026-06-03"
-   },
-   {
-    "id": "stu-g115343061734",
-    "title": "別注 H.D Denim Shorts",
-    "price_yen": "¥30,800",
-    "url": "https://studious.co.jp/shop/g/g115343061734/",
-    "img": "https://studious.co.jp/img/goods/S/115343061734_d524df81c959490eb461efef1945cb16.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "",
-    "date": "2026-06-03"
+    "date": "2026-06-20"
    },
    {
     "id": "stu-g115343063164",
@@ -13608,7 +13487,7 @@
     "title": "Needles/ニードルズ　別注Track Crew Neck Shirt - Poly Smooth",
     "price_yen": "¥20,000",
     "url": "https://mix.tokyo/products/7816230209",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816230209-010_MAIN.jpg?v=1781809352",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816230209-010_MAIN.jpg?v=1781866955",
     "created": "2026-06-15",
     "soldout": false,
     "colors": [
@@ -13637,7 +13516,7 @@
     "title": "Needles/ニードルズ 別注H.D Track Shorts - Poly Smooth",
     "price_yen": "¥20,000",
     "url": "https://mix.tokyo/products/7816213205",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816213205-010_MAIN.jpg?v=1781809352",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816213205-010_MAIN.jpg?v=1781866951",
     "created": "2026-06-15",
     "soldout": false,
     "colors": [
@@ -13714,11 +13593,11 @@
     "url": "https://mix.tokyo/products/7846210253",
     "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846210253-080_MAIN.jpg?v=1781497745",
     "created": "2026-05-14",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "ブラック×パープル",
-      "available": true
+      "available": false
      }
     ],
     "code": "",
@@ -13729,13 +13608,33 @@
     "title": "NEEDLES/ニードルズ/【LHP EXCLUSIVE】H.D.TRACK PANT SHORTS - POLY SMOOTH",
     "price_yen": "¥20,000",
     "url": "https://mix.tokyo/products/7846213220",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846213220-010_MAIN.jpg?v=1781636540",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846213220-010_MAIN.jpg?v=1781828066",
     "created": "2026-05-15",
-    "soldout": true,
+    "soldout": false,
     "colors": [
+     {
+      "name": "ブラック×ホワイト",
+      "available": false
+     },
+     {
+      "name": "ブラック×チャコール",
+      "available": true
+     },
+     {
+      "name": "ホワイト",
+      "available": true
+     },
      {
       "name": "ブラック×パープル",
       "available": false
+     },
+     {
+      "name": "オリーブ",
+      "available": true
+     },
+     {
+      "name": "チャコール",
+      "available": true
      }
     ],
     "code": "",
@@ -13773,15 +13672,15 @@
     "colors": [
      {
       "name": "ブラック×ホワイト",
-      "available": false
+      "available": true
      },
      {
       "name": "ブラック×チャコール",
-      "available": false
+      "available": true
      },
      {
       "name": "ホワイト",
-      "available": false
+      "available": true
      },
      {
       "name": "ブラック×パープル",
@@ -13789,11 +13688,11 @@
      },
      {
       "name": "オリーブ",
-      "available": false
+      "available": true
      },
      {
       "name": "チャコール",
-      "available": false
+      "available": true
      }
     ],
     "code": "",
@@ -13804,12 +13703,32 @@
     "title": "NEEDLES/ニードルズ/【LHP EXCLUSIVE】TRACK PANT - POLY SMOOTH",
     "price_yen": "¥21,000",
     "url": "https://mix.tokyo/products/7846210252",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846210252-410_MAIN.jpg?v=1781607788",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846210252-410_MAIN.jpg?v=1781828043",
     "created": "2026-05-25",
     "soldout": false,
     "colors": [
      {
+      "name": "ブラック×ホワイト",
+      "available": true
+     },
+     {
+      "name": "ブラック×チャコール",
+      "available": true
+     },
+     {
+      "name": "ホワイト",
+      "available": true
+     },
+     {
       "name": "ブラック×パープル",
+      "available": true
+     },
+     {
+      "name": "オリーブ",
+      "available": true
+     },
+     {
+      "name": "チャコール",
       "available": true
      }
     ],
@@ -13996,7 +13915,7 @@
     "url": "https://mix.tokyo/products/7816235202",
     "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816235202-440_MAIN.jpg?v=1779303723",
     "created": "2026-05-14",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "ブラック",
@@ -14004,7 +13923,7 @@
      },
      {
       "name": "ロイヤル",
-      "available": true
+      "available": false
      }
     ],
     "code": "",
@@ -14356,7 +14275,7 @@
     "url": "https://mix.tokyo/products/7846134268",
     "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846134268-010_MAIN.jpg?v=1774351842",
     "created": "2026-03-24",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "ブラック",
@@ -14364,7 +14283,7 @@
      },
      {
       "name": "ベージュ",
-      "available": true
+      "available": false
      }
     ],
     "code": "",
@@ -14848,7 +14767,7 @@
     "title": "Needles/ニードルズ  Track Pant - Poly Smooth",
     "price_yen": "¥14,700",
     "url": "https://mix.tokyo/products/7816110215",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816110215-026_MAIN.jpg?v=1781796087",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816110215-436_MAIN.jpg?v=1781866980",
     "created": "2026-03-17",
     "soldout": false,
     "colors": [
@@ -14873,7 +14792,7 @@
     "title": "Needles/ニードルズ   Track Crew Neck Shirt - Poly Smooth",
     "price_yen": "¥14,000",
     "url": "https://mix.tokyo/products/7816130202",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816130202-026_MAIN.jpg?v=1781796099",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816130202-140_MAIN.jpg?v=1781866983",
     "created": "2026-03-17",
     "soldout": false,
     "colors": [
