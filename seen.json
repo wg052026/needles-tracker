@@ -7867,11 +7867,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/v-neck-cardigan-flocked-stripelace",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX436A-0.jpg?v=1771065867",
     "created": "2026-02-13",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Turquoise",
-      "available": true
+      "available": false
      }
     ],
     "code": "SX436A",
@@ -15165,7 +15165,7 @@
      },
      {
       "name": "グレー",
-      "available": true
+      "available": false
      }
     ],
     "code": "",
