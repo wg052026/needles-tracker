@@ -13522,7 +13522,7 @@
     "colors": [
      {
       "name": "ブラック",
-      "available": true
+      "available": false
      },
      {
       "name": "ブラウン",
