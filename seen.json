@@ -2251,6 +2251,18 @@
   "nep-8452401791159": {
    "first": "2026-02-21",
    "title": "Work Shirt - 8oz Denim Jacquard"
+  },
+  "nep-8374319874231": {
+   "first": "2026-01-31",
+   "title": "Track Jacket - Poly Smooth"
+  },
+  "nep-8347728085175": {
+   "first": "2025-12-30",
+   "title": "Narrow Track Pant - Poly Smooth"
+  },
+  "nep-8183257366711": {
+   "first": "2025-07-23",
+   "title": "Jodhpur Track Pant - Poly Smooth"
   }
  },
  "STUDIOUS": {
@@ -3101,6 +3113,23 @@
     "date": "2025-12-15"
    },
    {
+    "id": "nep-8374319874231",
+    "title": "Track Jacket - Poly Smooth",
+    "price_yen": "¥28,600",
+    "url": "https://onlinestore.nepenthes.co.jp/products/track-jacket-poly-smooth-35",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX404B-0.jpg?v=1769835559",
+    "created": "2026-01-31",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Green",
+      "available": true
+     }
+    ],
+    "code": "SX404B",
+    "date": "2026-01-31"
+   },
+   {
     "id": "nep-7775730696375",
     "title": "L/S Mock Neck Tee - Poly Jersey",
     "price_yen": "¥14,850",
@@ -3439,6 +3468,23 @@
     ],
     "code": "SX402A",
     "date": "2026-01-16"
+   },
+   {
+    "id": "nep-8347728085175",
+    "title": "Narrow Track Pant - Poly Smooth",
+    "price_yen": "¥23,100",
+    "url": "https://onlinestore.nepenthes.co.jp/products/narrow-track-pant-poly-smooth-24",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX407A-0.jpg?v=1767071134",
+    "created": "2025-12-30",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Rust",
+      "available": true
+     }
+    ],
+    "code": "SX407A",
+    "date": "2025-12-30"
    },
    {
     "id": "nep-8311418159287",
@@ -3832,6 +3878,23 @@
     "date": "2025-11-06"
    },
    {
+    "id": "nep-8183257366711",
+    "title": "Jodhpur Track Pant - Poly Smooth",
+    "price_yen": "¥23,100",
+    "url": "https://onlinestore.nepenthes.co.jp/products/jodhpur-track-pant-poly-smooth-3",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/RW321A-0.jpg?v=1753328446",
+    "created": "2025-07-23",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Brown",
+      "available": true
+     }
+    ],
+    "code": "RW321A",
+    "date": "2025-07-23"
+   },
+   {
     "id": "nep-8178712707255",
     "title": "Army Shirt - Reversed Sateen",
     "price_yen": "¥29,700",
@@ -4110,11 +4173,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/l-s-crew-neck-tee-ctn-stripejersey-2",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX446A-0.jpg?v=1770443633",
     "created": "2026-02-07",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Navy/Beige",
-      "available": true
+      "available": false
      }
     ],
     "code": "SX446A",
@@ -4127,11 +4190,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/hakama-pant-alternate-stripe-1",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX099B-0.jpg?v=1768559133",
     "created": "2026-01-16",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Grey",
-      "available": true
+      "available": false
      }
     ],
     "code": "SX099B",
@@ -4688,11 +4751,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/bermuda-hat-poly-jacquard-6",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX076A-0.jpg?v=1768558257",
     "created": "2026-01-16",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Blu/Ppl",
-      "available": true
+      "available": false
      }
     ],
     "code": "SX076A",
@@ -5079,11 +5142,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/l-s-cowboy-one-up-shirt-garment-dye-1",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX2102B-0_c584f597-4394-4f26-a662-03a24bc91722.jpg?v=1772614228",
     "created": "2026-03-03",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Lavender",
-      "available": true
+      "available": false
      }
     ],
     "code": "SX2102B",
@@ -5181,11 +5244,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/saddleman-shirt-poly-jacquard-4",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX400E-0.jpg?v=1769835483",
     "created": "2026-01-31",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Orange",
-      "available": true
+      "available": false
      }
     ],
     "code": "SX400E",
@@ -5368,11 +5431,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/l-s-u-neck-tee-flocked-stripe-lace",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX435A-0.jpg?v=1766399548",
     "created": "2025-12-22",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Turquoise",
-      "available": true
+      "available": false
      }
     ],
     "code": "SX435A",
@@ -5997,11 +6060,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/saddleman-shirt-poly-jacquard-1",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX400B-0.jpg?v=1769835420",
     "created": "2026-01-31",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Brown",
-      "available": true
+      "available": false
      }
     ],
     "code": "SX400B",
@@ -11675,11 +11738,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/s-s-polo-dress-cotton-pique-2",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX1498C-0.jpg?v=1779757550",
     "created": "2026-05-26",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Brown",
-      "available": true
+      "available": false
      }
     ],
     "code": "SX1498C",
@@ -14308,7 +14371,7 @@
      },
      {
       "name": "オレンジ",
-      "available": true
+      "available": false
      },
      {
       "name": "オリーブ",
