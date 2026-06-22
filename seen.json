@@ -2689,6 +2689,10 @@
   "stu-g115343060714": {
    "first": "2026-06-20",
    "title": "別注 Cow Boy H.D BDU Shorts"
+  },
+  "stu-g116240384163": {
+   "first": "2026-06-23",
+   "title": "別注 H.D Track Pant - Amunzen"
   }
  },
  "MIX.TOKYO": {
@@ -3091,6 +3095,34 @@
   "mix-7931031617601": {
    "first": "2026-06-15",
    "title": "Needles/ニードルズ 別注H.D Track Shorts - Poly Smooth"
+  },
+  "mix-7934045847617": {
+   "first": "2026-06-19",
+   "title": "Needles/ニードルズ　別注Track Crew Neck Shirt - Cotton Jersey"
+  },
+  "mix-7934045225025": {
+   "first": "2026-06-19",
+   "title": "Needles/ニードルズ　別注H.D. Track Pant - NYLON"
+  },
+  "mix-7934044504129": {
+   "first": "2026-06-19",
+   "title": "Needles/ニードルズ　別注H.D.Track Pant - Cotton Jersey"
+  },
+  "mix-7934044209217": {
+   "first": "2026-06-19",
+   "title": "Needles/ニードルズ　別注H.D. Track Short - Cotton Jersey"
+  },
+  "mix-7934043586625": {
+   "first": "2026-06-19",
+   "title": "Needles/ニードルズ  別注Shawl Collar S/S Polo - Cotton Pique"
+  },
+  "mix-7934043291713": {
+   "first": "2026-06-19",
+   "title": "Needles/ニードルズ　別注Track Jacket - NYLON"
+  },
+  "mix-7931033419841": {
+   "first": "2026-06-15",
+   "title": "Needles/ニードルズ 別注H.D. Track Pant - DENIM"
   }
  },
  "_snapshots": {
@@ -4167,40 +4199,6 @@
     "date": "2026-02-21"
    },
    {
-    "id": "nep-8402284740791",
-    "title": "S/S Crew Neck Tee - Cotton Stripe Jersey",
-    "price_yen": "¥12,100",
-    "url": "https://onlinestore.nepenthes.co.jp/products/l-s-crew-neck-tee-ctn-stripejersey-2",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX446A-0.jpg?v=1770443633",
-    "created": "2026-02-07",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Navy/Beige",
-      "available": false
-     }
-    ],
-    "code": "SX446A",
-    "date": "2026-02-07"
-   },
-   {
-    "id": "nep-8361711993015",
-    "title": "Hakama Pant - Alternate Stripe",
-    "price_yen": "¥58,300",
-    "url": "https://onlinestore.nepenthes.co.jp/products/hakama-pant-alternate-stripe-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX099B-0.jpg?v=1768559133",
-    "created": "2026-01-16",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Grey",
-      "available": false
-     }
-    ],
-    "code": "SX099B",
-    "date": "2026-01-16"
-   },
-   {
     "id": "nep-8361711108279",
     "title": "Baseball Cap - Poly Jacquard",
     "price_yen": "¥13,200",
@@ -4745,23 +4743,6 @@
     "date": "2026-01-16"
    },
    {
-    "id": "nep-8361710780599",
-    "title": "Bermuda Hat - Poly Jacquard",
-    "price_yen": "¥11,000",
-    "url": "https://onlinestore.nepenthes.co.jp/products/bermuda-hat-poly-jacquard-6",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX076A-0.jpg?v=1768558257",
-    "created": "2026-01-16",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Blu/Ppl",
-      "available": false
-     }
-    ],
-    "code": "SX076A",
-    "date": "2026-01-16"
-   },
-   {
     "id": "nep-8347729232055",
     "title": "Knit Cardigan - Crepe Weave Stripe",
     "price_yen": "¥37,400",
@@ -5136,23 +5117,6 @@
     "date": "2026-03-03"
    },
    {
-    "id": "nep-8480141934775",
-    "title": "〈NEEDLES〉x〈ts(s)〉L/S Cowboy One-Up Shirt -Garment Dye",
-    "price_yen": "¥47,300",
-    "url": "https://onlinestore.nepenthes.co.jp/products/l-s-cowboy-one-up-shirt-garment-dye-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX2102B-0_c584f597-4394-4f26-a662-03a24bc91722.jpg?v=1772614228",
-    "created": "2026-03-03",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Lavender",
-      "available": false
-     }
-    ],
-    "code": "SX2102B",
-    "date": "2026-03-03"
-   },
-   {
     "id": "nep-8475026915511",
     "title": "H.D. Sweat Pant - Bright Jersey",
     "price_yen": "¥23,100",
@@ -5236,23 +5200,6 @@
     ],
     "code": "SX472",
     "date": "2026-02-07"
-   },
-   {
-    "id": "nep-8374319775927",
-    "title": "Saddleman Shirt - Poly Jacquard",
-    "price_yen": "¥29,700",
-    "url": "https://onlinestore.nepenthes.co.jp/products/saddleman-shirt-poly-jacquard-4",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX400E-0.jpg?v=1769835483",
-    "created": "2026-01-31",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Orange",
-      "available": false
-     }
-    ],
-    "code": "SX400E",
-    "date": "2026-01-31"
    },
    {
     "id": "nep-8374319022263",
@@ -5423,23 +5370,6 @@
     ],
     "code": "SX083A",
     "date": "2025-12-30"
-   },
-   {
-    "id": "nep-8320102727863",
-    "title": "L/S U-Neck Tee - Flocked Stripe Lace",
-    "price_yen": "¥20,900",
-    "url": "https://onlinestore.nepenthes.co.jp/products/l-s-u-neck-tee-flocked-stripe-lace",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX435A-0.jpg?v=1766399548",
-    "created": "2025-12-22",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Turquoise",
-      "available": false
-     }
-    ],
-    "code": "SX435A",
-    "date": "2025-12-22"
    },
    {
     "id": "nep-8320016253111",
@@ -6052,23 +5982,6 @@
     ],
     "code": "SX251A",
     "date": "2026-02-07"
-   },
-   {
-    "id": "nep-8374319677623",
-    "title": "Saddleman Shirt - Poly Jacquard",
-    "price_yen": "¥29,700",
-    "url": "https://onlinestore.nepenthes.co.jp/products/saddleman-shirt-poly-jacquard-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX400B-0.jpg?v=1769835420",
-    "created": "2026-01-31",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Brown",
-      "available": false
-     }
-    ],
-    "code": "SX400B",
-    "date": "2026-01-31"
    },
    {
     "id": "nep-8374319579319",
@@ -7924,23 +7837,6 @@
     "date": "2026-02-16"
    },
    {
-    "id": "nep-8417231995063",
-    "title": "V-Neck Cardigan - Flocked Stripe Lace",
-    "price_yen": "¥23,100",
-    "url": "https://onlinestore.nepenthes.co.jp/products/v-neck-cardigan-flocked-stripelace",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX436A-0.jpg?v=1771065867",
-    "created": "2026-02-13",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Turquoise",
-      "available": false
-     }
-    ],
-    "code": "SX436A",
-    "date": "2026-02-13"
-   },
-   {
     "id": "nep-8417231962295",
     "title": "V-Neck Cardigan - Geometric Raschel Lace",
     "price_yen": "¥17,600",
@@ -9477,11 +9373,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/peace-buckle-belt-steer-lthr-7",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/KP033A-0.jpg?v=1646640854",
     "created": "2025-12-15",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Brown",
-      "available": true
+      "available": false
      }
     ],
     "code": "SX030A",
@@ -11732,23 +11628,6 @@
     "date": "2026-05-26"
    },
    {
-    "id": "nep-8580331110583",
-    "title": "Short Sleeve Polo Dress - Cotton Pique",
-    "price_yen": "¥19,800",
-    "url": "https://onlinestore.nepenthes.co.jp/products/s-s-polo-dress-cotton-pique-2",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX1498C-0.jpg?v=1779757550",
-    "created": "2026-05-26",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Brown",
-      "available": false
-     }
-    ],
-    "code": "SX1498C",
-    "date": "2026-05-26"
-   },
-   {
     "id": "nep-8580331241655",
     "title": "Mini Book Bag - Cotton Pique",
     "price_yen": "¥9,900",
@@ -11899,28 +11778,20 @@
     "date": "2026-06-10"
    },
    {
-    "id": "stu-g116258012165",
-    "title": "別注Track Jacket - Poly Smooth",
-    "price_yen": "¥28,600",
-    "url": "https://studious.co.jp/shop/g/g116258012165/",
-    "img": "https://studious.co.jp/img/goods/S/116258012165_3f1204485b8c41a5a6e5e62baaf7bdb2.jpg",
+    "id": "stu-g116240378163",
+    "title": "別注H.D. Track Pant - Poly Smooth",
+    "price_yen": "¥23,100",
+    "url": "https://studious.co.jp/shop/g/g116240378163/",
+    "img": "https://studious.co.jp/img/goods/S/116240378163_0ea01f9671bd4d72849b041979d56a83.jpg",
     "created": "",
     "soldout": false,
     "colors": [
      {
       "name": "",
       "available": null
-     },
-     {
-      "name": "",
-      "available": null
-     },
-     {
-      "name": "",
-      "available": null
      }
     ],
-    "code": "SX1539",
+    "code": "SX1542",
     "date": "2026-06-16"
    },
    {
@@ -11953,11 +11824,11 @@
     "date": "2026-06-03"
    },
    {
-    "id": "stu-g116343110263",
-    "title": "別注 H.D Track Short Pant - Poly Smooth",
-    "price_yen": "¥23,100",
-    "url": "https://studious.co.jp/shop/g/g116343110263/",
-    "img": "https://studious.co.jp/img/goods/S/116343110263_7ce7021463d14f7b8d02968d1faab129.jpg",
+    "id": "stu-g116258012165",
+    "title": "別注Track Jacket - Poly Smooth",
+    "price_yen": "¥28,600",
+    "url": "https://studious.co.jp/shop/g/g116258012165/",
+    "img": "https://studious.co.jp/img/goods/S/116258012165_3f1204485b8c41a5a6e5e62baaf7bdb2.jpg",
     "created": "",
     "soldout": false,
     "colors": [
@@ -11968,9 +11839,13 @@
      {
       "name": "",
       "available": null
+     },
+     {
+      "name": "",
+      "available": null
      }
     ],
-    "code": "SX1543",
+    "code": "SX1539",
     "date": "2026-06-16"
    },
    {
@@ -11995,6 +11870,27 @@
     "date": "2026-06-04"
    },
    {
+    "id": "stu-g116343110263",
+    "title": "別注 H.D Track Short Pant - Poly Smooth",
+    "price_yen": "¥23,100",
+    "url": "https://studious.co.jp/shop/g/g116343110263/",
+    "img": "https://studious.co.jp/img/goods/S/116343110263_7ce7021463d14f7b8d02968d1faab129.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     },
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "SX1543",
+    "date": "2026-06-16"
+   },
+   {
     "id": "stu-g116372001162",
     "title": "Needles x PPACO LUX-2 Needles Edition with Studs",
     "price_yen": "¥21,780",
@@ -12013,23 +11909,6 @@
      }
     ],
     "code": "SX531",
-    "date": "2026-06-03"
-   },
-   {
-    "id": "stu-g116274011165",
-    "title": "Needles × Troentorp Swedish Clog - Tassel Bit",
-    "price_yen": "¥29,700",
-    "url": "https://studious.co.jp/shop/g/g116274011165/",
-    "img": "https://studious.co.jp/img/goods/S/116274011165_4c25fb3845364c8c8a3501ac04693bed.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "",
     "date": "2026-06-03"
    },
    {
@@ -12080,6 +11959,23 @@
      }
     ],
     "code": "SX425",
+    "date": "2026-06-03"
+   },
+   {
+    "id": "stu-g116274011165",
+    "title": "Needles × Troentorp Swedish Clog - Tassel Bit",
+    "price_yen": "¥29,700",
+    "url": "https://studious.co.jp/shop/g/g116274011165/",
+    "img": "https://studious.co.jp/img/goods/S/116274011165_4c25fb3845364c8c8a3501ac04693bed.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "",
     "date": "2026-06-03"
    },
    {
@@ -12178,6 +12074,23 @@
     ],
     "code": "SX196",
     "date": "2026-06-20"
+   },
+   {
+    "id": "stu-g116240384163",
+    "title": "別注 H.D Track Pant - Amunzen",
+    "price_yen": "¥27,500",
+    "url": "https://studious.co.jp/shop/g/g116240384163/",
+    "img": "https://studious.co.jp/img/goods/S/116240384163_a8890bf2887647b09701e32cf85e5a65.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "SX1552",
+    "date": "2026-06-23"
    },
    {
     "id": "stu-g116322185204",
@@ -13546,6 +13459,157 @@
   ],
   "MIX.TOKYO": [
    {
+    "id": "mix-7934045847617",
+    "title": "Needles/ニードルズ　別注Track Crew Neck Shirt - Cotton Jersey",
+    "price_yen": "¥25,000",
+    "url": "https://mix.tokyo/products/7816230210",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816230210-020_MAIN.jpg?v=1782126197",
+    "created": "2026-06-19",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "ブラック",
+      "available": true
+     },
+     {
+      "name": "グレー",
+      "available": true
+     }
+    ],
+    "code": "",
+    "date": "2026-06-19"
+   },
+   {
+    "id": "mix-7934045225025",
+    "title": "Needles/ニードルズ　別注H.D. Track Pant - NYLON",
+    "price_yen": "¥26,000",
+    "url": "https://mix.tokyo/products/7816210224",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816210224-110_MAIN.jpg?v=1782126199",
+    "created": "2026-06-19",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "ブラック",
+      "available": true
+     },
+     {
+      "name": "ブルー",
+      "available": true
+     }
+    ],
+    "code": "",
+    "date": "2026-06-19"
+   },
+   {
+    "id": "mix-7934044504129",
+    "title": "Needles/ニードルズ　別注H.D.Track Pant - Cotton Jersey",
+    "price_yen": "¥30,000",
+    "url": "https://mix.tokyo/products/7816210225",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816210225-020_MAIN.jpg?v=1782126198",
+    "created": "2026-06-19",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "ブラック",
+      "available": true
+     },
+     {
+      "name": "グレー",
+      "available": true
+     }
+    ],
+    "code": "",
+    "date": "2026-06-19"
+   },
+   {
+    "id": "mix-7934044209217",
+    "title": "Needles/ニードルズ　別注H.D. Track Short - Cotton Jersey",
+    "price_yen": "¥28,000",
+    "url": "https://mix.tokyo/products/7816213207",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816213207-020_MAIN.jpg?v=1782126199",
+    "created": "2026-06-19",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "ブラック",
+      "available": true
+     },
+     {
+      "name": "グレー",
+      "available": true
+     }
+    ],
+    "code": "",
+    "date": "2026-06-19"
+   },
+   {
+    "id": "mix-7934043586625",
+    "title": "Needles/ニードルズ  別注Shawl Collar S/S Polo - Cotton Pique",
+    "price_yen": "¥15,000",
+    "url": "https://mix.tokyo/products/7816236201",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816236201-140_MAIN.jpg?v=1782126205",
+    "created": "2026-06-19",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "ネイビー",
+      "available": true
+     },
+     {
+      "name": "グリーン",
+      "available": true
+     },
+     {
+      "name": "ロイヤル",
+      "available": false
+     }
+    ],
+    "code": "",
+    "date": "2026-06-19"
+   },
+   {
+    "id": "mix-7934043291713",
+    "title": "Needles/ニードルズ　別注Track Jacket - NYLON",
+    "price_yen": "¥28,000",
+    "url": "https://mix.tokyo/products/7816252237",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816252237-110_MAIN.jpg?v=1782126197",
+    "created": "2026-06-19",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "ブラック",
+      "available": true
+     },
+     {
+      "name": "ブルー",
+      "available": true
+     }
+    ],
+    "code": "",
+    "date": "2026-06-19"
+   },
+   {
+    "id": "mix-7931033419841",
+    "title": "Needles/ニードルズ 別注H.D. Track Pant - DENIM",
+    "price_yen": "¥27,000",
+    "url": "https://mix.tokyo/products/7816211205",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816211205-010_MAIN.jpg?v=1781780626",
+    "created": "2026-06-15",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "ブラック",
+      "available": true
+     },
+     {
+      "name": "ライトブルー",
+      "available": true
+     }
+    ],
+    "code": "",
+    "date": "2026-06-15"
+   },
+   {
     "id": "mix-7931033616449",
     "title": "Needles/ニードルズ　別注Track Crew Neck Shirt - Poly Smooth",
     "price_yen": "¥20,000",
@@ -13671,7 +13735,7 @@
     "title": "NEEDLES/ニードルズ/【LHP EXCLUSIVE】H.D.TRACK PANT SHORTS - POLY SMOOTH",
     "price_yen": "¥20,000",
     "url": "https://mix.tokyo/products/7846213220",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846213220-010_MAIN.jpg?v=1781828066",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846213220-010_MAIN.jpg?v=1782126237",
     "created": "2026-05-15",
     "soldout": false,
     "colors": [
@@ -13681,7 +13745,7 @@
      },
      {
       "name": "ブラック×チャコール",
-      "available": true
+      "available": false
      },
      {
       "name": "ホワイト",
@@ -13729,7 +13793,7 @@
     "title": "NEEDLES/ニードルズ/【LHP EXCLUSIVE】TRACK JACKET - POLY SMOOTH",
     "price_yen": "¥26,000",
     "url": "https://mix.tokyo/products/7846252250",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846252250-080_MAIN.jpg?v=1781827992",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846252250-080_MAIN.jpg?v=1782126233",
     "created": "2026-05-25",
     "soldout": false,
     "colors": [
@@ -14204,7 +14268,7 @@
     "url": "https://mix.tokyo/products/7856110363",
     "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856110363-110_MAIN.jpg?v=1781796050",
     "created": "2026-03-26",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "ブルー",
@@ -14212,7 +14276,7 @@
      },
      {
       "name": "オレンジ",
-      "available": true
+      "available": false
      }
     ],
     "code": "",
@@ -14449,7 +14513,7 @@
     "title": "Needles/ニードルズ　Track Pant - Poly Jacquard",
     "price_yen": "¥14,700",
     "url": "https://mix.tokyo/products/7816110214",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816110214-010_MAIN.jpg?v=1781795818",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816110214-010_MAIN.jpg?v=1782126219",
     "created": "2026-03-24",
     "soldout": false,
     "colors": [
@@ -14459,7 +14523,7 @@
      },
      {
       "name": "ブルー",
-      "available": true
+      "available": false
      },
      {
       "name": "オレンジ",
