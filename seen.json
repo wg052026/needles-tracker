@@ -2263,6 +2263,30 @@
   "nep-8183257366711": {
    "first": "2025-07-23",
    "title": "Jodhpur Track Pant - Poly Smooth"
+  },
+  "nep-8452402249911": {
+   "first": "2026-02-21",
+   "title": "S/S V-Neck Shirt - Kasuri Border"
+  },
+  "nep-8402284970167": {
+   "first": "2026-02-07",
+   "title": "Extreme Pant - Poly Stretch Oxford"
+  },
+  "nep-8367008383159": {
+   "first": "2026-01-23",
+   "title": "Half Zip Work Shirt - Brushed Linen Canvas"
+  },
+  "nep-8366950613175": {
+   "first": "2026-01-23",
+   "title": "Half Zip Work Shirt - Brushed Linen Canvas"
+  },
+  "nep-8357062443191": {
+   "first": "2026-01-11",
+   "title": "Classic Shirt - Dobby Grid"
+  },
+  "nep-8347726381239": {
+   "first": "2025-12-30",
+   "title": "Stand Collar Jacket - Rayon Double Face Gauze"
   }
  },
  "STUDIOUS": {
@@ -7803,6 +7827,23 @@
     "date": "2026-02-21"
    },
    {
+    "id": "nep-8452402249911",
+    "title": "S/S V-Neck Shirt - Kasuri Border",
+    "price_yen": "¥26,400",
+    "url": "https://onlinestore.nepenthes.co.jp/products/s-s-v-neck-shirt-kasuri-border",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX291A-0.jpg?v=1771668426",
+    "created": "2026-02-21",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Emerald",
+      "available": true
+     }
+    ],
+    "code": "SX291A",
+    "date": "2026-02-21"
+   },
+   {
     "id": "nep-8446707990711",
     "title": "String Fatigue Skirt - Reversed Sateen",
     "price_yen": "¥28,600",
@@ -7920,6 +7961,23 @@
     ],
     "code": "SX088A",
     "date": "2026-02-13"
+   },
+   {
+    "id": "nep-8402284970167",
+    "title": "Extreme Pant - Poly Stretch Oxford",
+    "price_yen": "¥27,500",
+    "url": "https://onlinestore.nepenthes.co.jp/products/extreme-pant-poly-stretch-oxford-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX478B-0.jpg?v=1770443360",
+    "created": "2026-02-07",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "SX478B",
+    "date": "2026-02-07"
    },
    {
     "id": "nep-8402284380343",
@@ -8126,6 +8184,23 @@
     "date": "2026-01-31"
    },
    {
+    "id": "nep-8367008383159",
+    "title": "Half Zip Work Shirt - Brushed Linen Canvas",
+    "price_yen": "¥29,700",
+    "url": "https://onlinestore.nepenthes.co.jp/products/half-zip-work-shirt-brushlinencanv-2",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX295C-0.jpg?v=1769163613",
+    "created": "2026-01-23",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "SX295C",
+    "date": "2026-01-23"
+   },
+   {
     "id": "nep-8366952775863",
     "title": "Boot-Cut Jean - Poly Jacquard",
     "price_yen": "¥25,300",
@@ -8140,6 +8215,23 @@
      }
     ],
     "code": "SX401C",
+    "date": "2026-01-23"
+   },
+   {
+    "id": "nep-8366950613175",
+    "title": "Half Zip Work Shirt - Brushed Linen Canvas",
+    "price_yen": "¥29,700",
+    "url": "https://onlinestore.nepenthes.co.jp/products/half-zip-work-shirt-brushlinencanv-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX295B-0.jpg?v=1769162316",
+    "created": "2026-01-23",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Purple",
+      "available": true
+     }
+    ],
+    "code": "SX295B",
     "date": "2026-01-23"
    },
    {
@@ -8687,6 +8779,23 @@
     "date": "2026-01-16"
    },
    {
+    "id": "nep-8357062443191",
+    "title": "Classic Shirt - Dobby Grid",
+    "price_yen": "¥47,300",
+    "url": "https://onlinestore.nepenthes.co.jp/products/classic-shirt-dobby-grid-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX256B-0.jpg?v=1768122646",
+    "created": "2026-01-11",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Mint",
+      "available": true
+     }
+    ],
+    "code": "SX256B",
+    "date": "2026-01-11"
+   },
+   {
     "id": "nep-8347729428663",
     "title": "S/S Mock Neck Sweater  - Crepe Weave Stripe",
     "price_yen": "¥30,800",
@@ -8786,6 +8895,23 @@
      }
     ],
     "code": "SX249B",
+    "date": "2025-12-30"
+   },
+   {
+    "id": "nep-8347726381239",
+    "title": "Stand Collar Jacket - Rayon Double Face Gauze",
+    "price_yen": "¥38,500",
+    "url": "https://onlinestore.nepenthes.co.jp/products/stand-collar-jkt-rayon-d-facegauze",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX248A-0.jpg?v=1767069870",
+    "created": "2025-12-30",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Green",
+      "available": true
+     }
+    ],
+    "code": "SX248A",
     "date": "2025-12-30"
    },
    {
@@ -9364,23 +9490,6 @@
      }
     ],
     "code": "SX032B",
-    "date": "2025-12-15"
-   },
-   {
-    "id": "nep-8311415505079",
-    "title": "Peace Buckle Belt - Steer Lthr.",
-    "price_yen": "¥15,400",
-    "url": "https://onlinestore.nepenthes.co.jp/products/peace-buckle-belt-steer-lthr-7",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/KP033A-0.jpg?v=1646640854",
-    "created": "2025-12-15",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Brown",
-      "available": false
-     }
-    ],
-    "code": "SX030A",
     "date": "2025-12-15"
    },
    {
@@ -11696,6 +11805,23 @@
     "date": "2026-05-26"
    },
    {
+    "id": "nep-8600184029367",
+    "title": "〈NEEDLES〉x〈ALBINO & PRETO〉Track Jacket - Poly Smooth",
+    "price_yen": "¥31,900",
+    "url": "https://onlinestore.nepenthes.co.jp/products/track-jacket-poly-smooth-37",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX1970-0.jpg?v=1780879371",
+    "created": "2026-06-08",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Grey",
+      "available": true
+     }
+    ],
+    "code": "SX1970",
+    "date": "2026-06-08"
+   },
+   {
     "id": "nep-8600183799991",
     "title": "〈NEEDLES〉x〈ALBINO & PRETO〉Track Jacket - Poly Jq. / Paisley",
     "price_yen": "¥35,200",
@@ -13561,7 +13687,7 @@
      },
      {
       "name": "ロイヤル",
-      "available": false
+      "available": true
      }
     ],
     "code": "",
@@ -13643,7 +13769,7 @@
     "title": "Needles/ニードルズ 別注H.D Track Shorts - Poly Smooth",
     "price_yen": "¥20,000",
     "url": "https://mix.tokyo/products/7816213205",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816213205-010_MAIN.jpg?v=1781866951",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816213205-050_MAIN.jpg?v=1782212603",
     "created": "2026-06-15",
     "soldout": false,
     "colors": [
@@ -13909,7 +14035,7 @@
     "title": "Needles/ニードルズ　別注H.D. Pantt - Cotton Ripstop",
     "price_yen": "¥56,000",
     "url": "https://mix.tokyo/products/7816210227",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816210227-310_MAIN.jpg?v=1779274973",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816210227-310_MAIN.jpg?v=1782212613",
     "created": "2026-05-14",
     "soldout": false,
     "colors": [
@@ -13985,7 +14111,7 @@
     "title": "Needles/ニードルズ　別注Field Jacket - Cotton Ripstop",
     "price_yen": "¥61,000",
     "url": "https://mix.tokyo/products/7816252238",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816252238-310_MAIN.jpg?v=1779274981",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816252238-310_MAIN.jpg?v=1782212634",
     "created": "2026-05-14",
     "soldout": false,
     "colors": [
@@ -14255,27 +14381,6 @@
     "colors": [
      {
       "name": "ブラック",
-      "available": false
-     }
-    ],
-    "code": "",
-    "date": "2026-03-26"
-   },
-   {
-    "id": "mix-7862424633409",
-    "title": "NEEDLES / ニードルズ/ Track Pant - Poly Jacquard",
-    "price_yen": "¥14,700",
-    "url": "https://mix.tokyo/products/7856110363",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856110363-110_MAIN.jpg?v=1781796050",
-    "created": "2026-03-26",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "ブルー",
-      "available": false
-     },
-     {
-      "name": "オレンジ",
       "available": false
      }
     ],
@@ -14739,23 +14844,6 @@
     "date": "2026-03-18"
    },
    {
-    "id": "mix-7856688398401",
-    "title": "NEEDLES / ニードルズ / Track Jacket - Poly Smooth",
-    "price_yen": "¥26,000",
-    "url": "https://mix.tokyo/products/7856952203",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856952203-410_MAIN.jpg?v=1776855769",
-    "created": "2026-03-18",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "チャコール",
-      "available": false
-     }
-    ],
-    "code": "",
-    "date": "2026-03-18"
-   },
-   {
     "id": "mix-7855894888513",
     "title": "NEEDLES / ニードルズ / Dolman Sleeve Track Jacket - Bright Jersey Women",
     "price_yen": "¥28,000",
@@ -15169,7 +15257,7 @@
     "title": "Needles/ニードルズ　別注Track Jacket - Poly Smooth",
     "price_yen": "¥26,000",
     "url": "https://mix.tokyo/products/7816152253",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816152253-410_MAIN.jpg?v=1779793427",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816152253-410_MAIN.jpg?v=1782212627",
     "created": "2026-02-05",
     "soldout": false,
     "colors": [
