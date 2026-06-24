@@ -435,6 +435,27 @@ def build_html(sections):
     cols = []
     grand_total = 0
     for shop_name, shop_url, items in sections:
+        # 링크 전용 컬럼 (자동 수집 불가 사이트)
+        if items == "__LINK_ONLY__":
+            head = (f'<div class="shop-head">'
+                    f'<span class="shop-name">{escape(shop_name)}</span>'
+                    f'<span class="shop-count">link</span>'
+                    f'<a class="shop-link" href="{escape(shop_url)}" '
+                    f'target="_blank" rel="noopener">↗</a></div>')
+            body_html = (
+                f'<div class="link-col">'
+                f'<a class="link-card" href="{escape(shop_url)}" '
+                f'target="_blank" rel="noopener">'
+                f'<div class="link-card-title">NEEDLES 신상품 보기</div>'
+                f'<div class="link-card-sub">{escape(shop_name)} 에서 직접 열기 ↗</div>'
+                f'</a>'
+                f'<div class="link-note">이 사이트는 자동 수집이 제한되어<br>'
+                f'링크로 연결됩니다</div>'
+                f'</div>'
+            )
+            cols.append(f'<div class="col">{head}'
+                        f'<div class="col-body link-body">{body_html}</div></div>')
+            continue
         items = [i for i in items if within_window(i)]
         items.sort(key=sort_key, reverse=True)
         grand_total += len(items)
@@ -574,6 +595,16 @@ padding:1px 5px;border-radius:4px;font-weight:700;}}
 .badge-sold{{background:#3a3a3d;color:#bbb;font-size:9.5px;
 padding:1px 5px;border-radius:4px;}}
 .empty{{color:var(--mut);padding:14px 0;grid-column:1 / -1;}}
+/* 링크 전용 컬럼 (자동 수집 불가 사이트) */
+.link-body{{display:block;}}
+.link-col{{display:flex;flex-direction:column;gap:12px;}}
+.link-card{{display:block;background:var(--card);border:1px solid var(--line);
+border-radius:9px;padding:22px 16px;text-decoration:none;color:inherit;
+text-align:center;transition:border-color .15s,background .15s;}}
+.link-card:hover{{border-color:var(--accent);background:#202023;}}
+.link-card-title{{font-size:14px;font-weight:700;margin-bottom:6px;}}
+.link-card-sub{{font-size:11.5px;color:var(--mut);}}
+.link-note{{font-size:11px;color:#6a6a70;text-align:center;line-height:1.6;}}
 footer{{border-top:1px solid var(--line);padding:16px;color:var(--mut);
 font-size:12px;text-align:center;}}
 </style>
@@ -640,6 +671,14 @@ def main():
         sections.append((name, url, items))
 
     save_seen(seen)
+
+    # DAYTONA PARK: Akamai 봇 차단으로 자동 수집 불가 -> 링크 전용 컬럼
+    sections.append((
+        "DAYTONA PARK",
+        "https://www.daytona-park.com/brand/needles/",
+        "__LINK_ONLY__",
+    ))
+
     html = build_html(sections)
     with open(OUT_PATH, "w", encoding="utf-8") as f:
         f.write(html)
