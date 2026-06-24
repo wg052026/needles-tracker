@@ -2287,6 +2287,10 @@
   "nep-8347726381239": {
    "first": "2025-12-30",
    "title": "Stand Collar Jacket - Rayon Double Face Gauze"
+  },
+  "nep-8357062377655": {
+   "first": "2026-01-11",
+   "title": "Classic Shirt - Dobby Grid"
   }
  },
  "STUDIOUS": {
@@ -3147,6 +3151,10 @@
   "mix-7931033419841": {
    "first": "2026-06-15",
    "title": "Needles/ニードルズ 別注H.D. Track Pant - DENIM"
+  },
+  "mix-7937146093633": {
+   "first": "2026-06-23",
+   "title": "NEEDLES（ニードルズ） 【B'2nd EXCLUSIVE】 H.D. Track Short Pant - Poly Smooth"
   }
  },
  "_snapshots": {
@@ -7470,6 +7478,23 @@
     "date": "2026-03-08"
    },
    {
+    "id": "nep-8490242277559",
+    "title": "S/S Widespread Collar Shirt - Raschel Lace",
+    "price_yen": "¥22,000",
+    "url": "https://onlinestore.nepenthes.co.jp/products/s-s-widespread-collar-shirt-ras-lace",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX284A-0.jpg?v=1772948325",
+    "created": "2026-03-08",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Blue",
+      "available": true
+     }
+    ],
+    "code": "SX284A",
+    "date": "2026-03-08"
+   },
+   {
     "id": "nep-8490242244791",
     "title": "Penny Jean Jacket - Poly Twill",
     "price_yen": "¥39,600",
@@ -8793,6 +8818,23 @@
      }
     ],
     "code": "SX256B",
+    "date": "2026-01-11"
+   },
+   {
+    "id": "nep-8357062377655",
+    "title": "Classic Shirt - Dobby Grid",
+    "price_yen": "¥47,300",
+    "url": "https://onlinestore.nepenthes.co.jp/products/classic-shirt-dobby-grid",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX256A-0.jpg?v=1768122593",
+    "created": "2026-01-11",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Brown",
+      "available": true
+     }
+    ],
+    "code": "SX256A",
     "date": "2026-01-11"
    },
    {
@@ -13585,6 +13627,35 @@
   ],
   "MIX.TOKYO": [
    {
+    "id": "mix-7937146093633",
+    "title": "NEEDLES（ニードルズ） 【B'2nd EXCLUSIVE】 H.D. Track Short Pant - Poly Smooth",
+    "price_yen": "¥20,000",
+    "url": "https://mix.tokyo/products/7856213209",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856213209-010_MAIN.jpg?v=1782214310",
+    "created": "2026-06-23",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "ブラック",
+      "available": true
+     },
+     {
+      "name": "ライトブラウン",
+      "available": true
+     },
+     {
+      "name": "ブルー",
+      "available": true
+     },
+     {
+      "name": "ネイビー",
+      "available": true
+     }
+    ],
+    "code": "",
+    "date": "2026-06-23"
+   },
+   {
     "id": "mix-7934045847617",
     "title": "Needles/ニードルズ　別注Track Crew Neck Shirt - Cotton Jersey",
     "price_yen": "¥25,000",
@@ -14787,7 +14858,7 @@
      },
      {
       "name": "ブルー",
-      "available": true
+      "available": false
      },
      {
       "name": "オレンジ",
