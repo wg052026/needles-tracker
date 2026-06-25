@@ -2291,6 +2291,10 @@
   "nep-8357062377655": {
    "first": "2026-01-11",
    "title": "Classic Shirt - Dobby Grid"
+  },
+  "nep-8361711501495": {
+   "first": "2026-01-16",
+   "title": "Round Collar Jacket - Calico Jacquard"
   }
  },
  "STUDIOUS": {
@@ -4554,23 +4558,6 @@
     "date": "2025-12-15"
    },
    {
-    "id": "nep-8311414620343",
-    "title": "Pendant - 925 Silver",
-    "price_yen": "¥19,800",
-    "url": "https://onlinestore.nepenthes.co.jp/products/pendant-925-silver-22",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/PU023A-0.jpg?v=1720056270",
-    "created": "2025-12-15",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Peace",
-      "available": true
-     }
-    ],
-    "code": "SX009A",
-    "date": "2025-12-15"
-   },
-   {
     "id": "nep-8164305731767",
     "title": "Darts Bottom Jean Jacket  - 12oz Denim",
     "price_yen": "¥39,600",
@@ -6373,6 +6360,23 @@
     "date": "2026-01-16"
    },
    {
+    "id": "nep-8361711501495",
+    "title": "Round Collar Jacket - Calico Jacquard",
+    "price_yen": "¥41,800",
+    "url": "https://onlinestore.nepenthes.co.jp/products/round-collar-jacket-calico-jacq",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX096-0.jpg?v=1768558850",
+    "created": "2026-01-16",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Navy",
+      "available": true
+     }
+    ],
+    "code": "SX096",
+    "date": "2026-01-16"
+   },
+   {
     "id": "nep-8347729199287",
     "title": "Knit Cardigan - Crepe Weave Stripe",
     "price_yen": "¥37,400",
@@ -7305,23 +7309,6 @@
      }
     ],
     "code": "SX444G",
-    "date": "2026-03-08"
-   },
-   {
-    "id": "nep-8490242900151",
-    "title": "S/S Pocket Tee - Cotton Jersey",
-    "price_yen": "¥12,100",
-    "url": "https://onlinestore.nepenthes.co.jp/products/s-s-pocket-tee-cotton-jersey-3",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX444F-0.jpg?v=1772948792",
-    "created": "2026-03-08",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Purple",
-      "available": false
-     }
-    ],
-    "code": "SX444F",
     "date": "2026-03-08"
    },
    {
