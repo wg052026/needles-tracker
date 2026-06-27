@@ -6370,11 +6370,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/knit-cardigan-crepe-weave-stripe",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX456A-0.jpg?v=1767071841",
     "created": "2025-12-30",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Taupe",
-      "available": true
+      "available": false
      }
     ],
     "code": "SX456A",
@@ -14995,7 +14995,7 @@
     "url": "https://mix.tokyo/products/7816110215",
     "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816110215-436_MAIN.jpg?v=1781866980",
     "created": "2026-03-17",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "ダークグレー",
@@ -15007,7 +15007,7 @@
      },
      {
       "name": "ラスト",
-      "available": true
+      "available": false
      }
     ],
     "code": "",
