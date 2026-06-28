@@ -7390,11 +7390,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/v-neck-cardigan-bright-jersey-10",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX424B-0.jpg?v=1772948405",
     "created": "2026-03-08",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Dk. Green",
-      "available": true
+      "available": false
      }
     ],
     "code": "SX424B",
@@ -11810,11 +11810,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/track-jacket-poly-smooth-37",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX1970-0.jpg?v=1780879371",
     "created": "2026-06-08",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Grey",
-      "available": true
+      "available": false
      }
     ],
     "code": "SX1970",
