@@ -4092,11 +4092,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/zipped-hoody-bright-jersey-10",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX423B-0.jpg?v=1765965925",
     "created": "2025-12-16",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Dk. Green",
-      "available": true
+      "available": false
      }
     ],
     "code": "SX423B",
@@ -5350,11 +5350,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/baseball-cap-poly-jacquard-8",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX077D-0.jpg?v=1768558626",
     "created": "2026-01-16",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Black",
-      "available": true
+      "available": false
      }
     ],
     "code": "SX077D",
@@ -6353,11 +6353,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/round-collar-jacket-calico-jacq",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX096-0.jpg?v=1768558850",
     "created": "2026-01-16",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Navy",
-      "available": true
+      "available": false
      }
     ],
     "code": "SX096",
@@ -7985,11 +7985,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/3b-jacket-embroidered-madras-plaid",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX310A-0.jpg?v=1770445248",
     "created": "2026-02-07",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Brown",
-      "available": true
+      "available": false
      }
     ],
     "code": "SX310A",
@@ -13585,7 +13585,7 @@
      },
      {
       "name": "ブルー",
-      "available": true
+      "available": false
      },
      {
       "name": "ネイビー",
@@ -13740,7 +13740,7 @@
      },
      {
       "name": "ライトブルー",
-      "available": true
+      "available": false
      }
     ],
     "code": "",
