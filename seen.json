@@ -2733,6 +2733,10 @@
   "stu-g116253014833": {
    "first": "2026-06-29",
    "title": "Piping Cowboy Jacket - Poly Double Cloth"
+  },
+  "stu-g115240183893": {
+   "first": "2026-06-29",
+   "title": "S/F Pant - Cotton Ripstop/Camo"
   }
  },
  "MIX.TOKYO": {
@@ -8102,23 +8106,6 @@
     "date": "2026-01-23"
    },
    {
-    "id": "nep-8366950449335",
-    "title": "Half Sleeve Shirt - Abstract Jacquard",
-    "price_yen": "¥28,600",
-    "url": "https://onlinestore.nepenthes.co.jp/products/half-sleeve-shirt-abstract-jacq",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX290A-0.jpg?v=1769162263",
-    "created": "2026-01-23",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Eggplant",
-      "available": true
-     }
-    ],
-    "code": "SX290A",
-    "date": "2026-01-23"
-   },
-   {
     "id": "nep-8366950187191",
     "title": "Boot-Cut Jean - Poly Twill",
     "price_yen": "¥28,600",
@@ -11808,27 +11795,6 @@
     "date": "2026-06-16"
    },
    {
-    "id": "stu-g116343110663",
-    "title": "別注 H.D Track Short Pant - Poly Smooth",
-    "price_yen": "¥23,100",
-    "url": "https://studious.co.jp/shop/g/g116343110663/",
-    "img": "https://studious.co.jp/img/goods/S/116343110663_5210b4b5a2e742db9d2f8d09c6827123.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     },
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "SX1543",
-    "date": "2026-06-27"
-   },
-   {
     "id": "stu-g116302132165",
     "title": "別注 Track S/S Shirt - Poly Smooth",
     "price_yen": "¥22,000",
@@ -11858,14 +11824,6 @@
     "created": "",
     "soldout": false,
     "colors": [
-     {
-      "name": "",
-      "available": null
-     },
-     {
-      "name": "",
-      "available": null
-     },
      {
       "name": "",
       "available": null
@@ -11938,44 +11896,6 @@
     "date": "2026-06-03"
    },
    {
-    "id": "stu-g116202008163",
-    "title": "S/S Widespread Collar Shirt - Raschel Lace",
-    "price_yen": "¥22,000",
-    "url": "https://studious.co.jp/shop/g/g116202008163/",
-    "img": "https://studious.co.jp/img/goods/S/116202008163_f93c00fc119543489ea5b2b56c9b17f5.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "SX284",
-    "date": "2026-06-03"
-   },
-   {
-    "id": "stu-g116240030163",
-    "title": "H.D. Buggy Jean - 12oz Denim",
-    "price_yen": "¥31,900",
-    "url": "https://studious.co.jp/shop/g/g116240030163/",
-    "img": "https://studious.co.jp/img/goods/S/116240030163_6cc94d2e91264fdb8fe49a67c3b438f1.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     },
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "SX202",
-    "date": "2026-06-03"
-   },
-   {
     "id": "stu-g116240236163",
     "title": "H.D. Jean - 12oz Denim",
     "price_yen": "¥31,900",
@@ -12033,6 +11953,27 @@
     ],
     "code": "SX406",
     "date": "2026-06-20"
+   },
+   {
+    "id": "stu-g116240030163",
+    "title": "H.D. Buggy Jean - 12oz Denim",
+    "price_yen": "¥31,900",
+    "url": "https://studious.co.jp/shop/g/g116240030163/",
+    "img": "https://studious.co.jp/img/goods/S/116240030163_6cc94d2e91264fdb8fe49a67c3b438f1.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     },
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "SX202",
+    "date": "2026-06-03"
    },
    {
     "id": "stu-g116240384163",
@@ -12950,25 +12891,21 @@
     "date": "2026-06-03"
    },
    {
-    "id": "stu-g115240183213",
+    "id": "stu-g115240183893",
     "title": "S/F Pant - Cotton Ripstop/Camo",
     "price_yen": "¥25,300",
-    "url": "https://studious.co.jp/shop/g/g115240183213/",
-    "img": "https://studious.co.jp/img/goods/S/115240183213_ed97ba4a817b425fb23de26e43f041ce.jpg",
+    "url": "https://studious.co.jp/shop/g/g115240183893/",
+    "img": "https://studious.co.jp/img/goods/S/115240183893_34d2c1ac136a41819170af6483e84ea4.jpg",
     "created": "",
     "soldout": false,
     "colors": [
      {
       "name": "",
       "available": null
-     },
-     {
-      "name": "",
-      "available": null
      }
     ],
     "code": "QV151",
-    "date": "2026-06-03"
+    "date": "2026-06-29"
    },
    {
     "id": "stu-g115240431163",
@@ -13386,7 +13323,7 @@
     "url": "https://mix.tokyo/products/7856213209",
     "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856213209-010_MAIN.jpg?v=1782385431",
     "created": "2026-06-23",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "ブラック",
@@ -13394,7 +13331,7 @@
      },
      {
       "name": "ライトブラウン",
-      "available": true
+      "available": false
      },
      {
       "name": "ブルー",
