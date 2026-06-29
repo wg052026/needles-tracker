@@ -2737,6 +2737,10 @@
   "stu-g115240183893": {
    "first": "2026-06-29",
    "title": "S/F Pant - Cotton Ripstop/Camo"
+  },
+  "stu-g116343110173": {
+   "first": "2026-06-30",
+   "title": "別注 H.D Track Short Pant - Poly Smooth"
   }
  },
  "MIX.TOKYO": {
@@ -11879,23 +11883,6 @@
     "date": "2026-06-03"
    },
    {
-    "id": "stu-g116274011165",
-    "title": "Needles × Troentorp Swedish Clog - Tassel Bit",
-    "price_yen": "¥29,700",
-    "url": "https://studious.co.jp/shop/g/g116274011165/",
-    "img": "https://studious.co.jp/img/goods/S/116274011165_4c25fb3845364c8c8a3501ac04693bed.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "",
-    "date": "2026-06-03"
-   },
-   {
     "id": "stu-g116240236163",
     "title": "H.D. Jean - 12oz Denim",
     "price_yen": "¥31,900",
@@ -11974,6 +11961,23 @@
     ],
     "code": "SX202",
     "date": "2026-06-03"
+   },
+   {
+    "id": "stu-g116343110173",
+    "title": "別注 H.D Track Short Pant - Poly Smooth",
+    "price_yen": "¥23,100",
+    "url": "https://studious.co.jp/shop/g/g116343110173/",
+    "img": "https://studious.co.jp/img/goods/S/116343110173_d15484d4612142bcb8f6293f6df1b733.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "SX1543",
+    "date": "2026-06-30"
    },
    {
     "id": "stu-g116240384163",
@@ -13586,11 +13590,11 @@
     "url": "https://mix.tokyo/products/7856210238",
     "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856210238-010_MAIN.jpg?v=1781463683",
     "created": "2026-05-28",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "ブラック",
-      "available": true
+      "available": false
      },
      {
       "name": "ネイビー",
