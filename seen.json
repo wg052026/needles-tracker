@@ -13555,27 +13555,6 @@
     "date": "2026-06-11"
    },
    {
-    "id": "mix-7914447929409",
-    "title": "NEEDLES（ニードルズ）【B'2nd EXCLUSIVE】H.D. TRACK PANT - BDU POLY SMOOTH 2026",
-    "price_yen": "¥24,000",
-    "url": "https://mix.tokyo/products/7856210238",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856210238-010_MAIN.jpg?v=1781463683",
-    "created": "2026-05-28",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "ブラック",
-      "available": false
-     },
-     {
-      "name": "ネイビー",
-      "available": false
-     }
-    ],
-    "code": "",
-    "date": "2026-05-28"
-   },
-   {
     "id": "mix-7901885005889",
     "title": "NEEDLES/ニードルズ/【LHP EXCLUSIVE】H.D.TRACK PANT - POLY SMOOTH",
     "price_yen": "¥21,000",
@@ -13710,7 +13689,7 @@
      },
      {
       "name": "ブラック×パープル",
-      "available": true
+      "available": false
      },
      {
       "name": "オリーブ",
