@@ -7810,11 +7810,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/double-breasted-jacket-lame-stripe",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX088A-0.jpg?v=1771066532",
     "created": "2026-02-13",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Taupe",
-      "available": true
+      "available": false
      }
     ],
     "code": "SX088A",
