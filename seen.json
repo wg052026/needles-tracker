@@ -3180,23 +3180,6 @@
  "_snapshots": {
   "NEPENTHES": [
    {
-    "id": "nep-8311414685879",
-    "title": "Pendant - 925 Silver",
-    "price_yen": "¥19,800",
-    "url": "https://onlinestore.nepenthes.co.jp/products/pendant-925-silver-24",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/PU023C-0.jpg?v=1720056228",
-    "created": "2025-12-15",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Papillon",
-      "available": false
-     }
-    ],
-    "code": "SX009C",
-    "date": "2025-12-15"
-   },
-   {
     "id": "nep-7775730696375",
     "title": "L/S Mock Neck Tee - Poly Jersey",
     "price_yen": "¥14,850",
@@ -13536,7 +13519,7 @@
      },
      {
       "name": "チャコール",
-      "available": true
+      "available": false
      },
      {
       "name": "ロイヤル",
