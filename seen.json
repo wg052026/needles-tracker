@@ -3724,23 +3724,6 @@
     "date": "2026-01-11"
    },
    {
-    "id": "nep-8347725299895",
-    "title": "Reversible Bucket Hat - Camo Twill",
-    "price_yen": "¥17,600",
-    "url": "https://onlinestore.nepenthes.co.jp/products/reversible-bucket-hat-camo-twill",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX071-3.jpg?v=1767852801",
-    "created": "2025-12-30",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Camouflage",
-      "available": true
-     }
-    ],
-    "code": "SX071",
-    "date": "2025-12-30"
-   },
-   {
     "id": "nep-8311417864375",
     "title": "H.D. Pant - Military",
     "price_yen": "¥26,400",
@@ -13314,7 +13297,7 @@
     "url": "https://mix.tokyo/products/7816210224",
     "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816210224-110_MAIN.jpg?v=1782126199",
     "created": "2026-06-19",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "ブラック",
@@ -13322,7 +13305,7 @@
      },
      {
       "name": "ブルー",
-      "available": true
+      "available": false
      }
     ],
     "code": "",
@@ -14238,15 +14221,15 @@
     "url": "https://mix.tokyo/products/7846132220",
     "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846132220-140_MAIN.jpg?v=1781795879",
     "created": "2026-03-24",
-    "soldout": true,
+    "soldout": false,
     "colors": [
      {
       "name": "ブラック",
-      "available": false
+      "available": true
      },
      {
       "name": "グリーン",
-      "available": false
+      "available": true
      }
     ],
     "code": "",
