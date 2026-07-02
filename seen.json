@@ -7804,23 +7804,6 @@
     "date": "2026-02-13"
    },
    {
-    "id": "nep-8417230979255",
-    "title": "Double Breasted Jacket - Lame Stripe",
-    "price_yen": "¥91,300",
-    "url": "https://onlinestore.nepenthes.co.jp/products/double-breasted-jacket-lame-stripe",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX088A-0.jpg?v=1771066532",
-    "created": "2026-02-13",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Taupe",
-      "available": false
-     }
-    ],
-    "code": "SX088A",
-    "date": "2026-02-13"
-   },
-   {
     "id": "nep-8402284970167",
     "title": "Extreme Pant - Poly Stretch Oxford",
     "price_yen": "¥27,500",
@@ -11728,23 +11711,6 @@
     "date": "2026-06-10"
    },
    {
-    "id": "stu-g116240378163",
-    "title": "別注H.D. Track Pant - Poly Smooth",
-    "price_yen": "¥23,100",
-    "url": "https://studious.co.jp/shop/g/g116240378163/",
-    "img": "https://studious.co.jp/img/goods/S/116240378163_0ea01f9671bd4d72849b041979d56a83.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "SX1542",
-    "date": "2026-06-16"
-   },
-   {
     "id": "stu-g116240377133",
     "title": "別注Track Pant - Poly Smooth",
     "price_yen": "¥23,100",
@@ -11883,27 +11849,6 @@
     "date": "2026-06-03"
    },
    {
-    "id": "stu-g116240154633",
-    "title": "Track Pant - Poly Smooth",
-    "price_yen": "¥23,100",
-    "url": "https://studious.co.jp/shop/g/g116240154633/",
-    "img": "https://studious.co.jp/img/goods/S/116240154633_d23c9ab539e241b5a373564e466fd0b5.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     },
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "SX406",
-    "date": "2026-06-20"
-   },
-   {
     "id": "stu-g116240236163",
     "title": "H.D. Jean - 12oz Denim",
     "price_yen": "¥31,900",
@@ -11939,6 +11884,27 @@
      }
     ],
     "code": "SX196",
+    "date": "2026-06-20"
+   },
+   {
+    "id": "stu-g116240154633",
+    "title": "Track Pant - Poly Smooth",
+    "price_yen": "¥23,100",
+    "url": "https://studious.co.jp/shop/g/g116240154633/",
+    "img": "https://studious.co.jp/img/goods/S/116240154633_d23c9ab539e241b5a373564e466fd0b5.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     },
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "SX406",
     "date": "2026-06-20"
    },
    {
@@ -12128,6 +12094,35 @@
     "date": "2026-06-03"
    },
    {
+    "id": "stu-g116240229163",
+    "title": "Piping Cowboy Pant - Poly Double Cloth",
+    "price_yen": "¥33,000",
+    "url": "https://studious.co.jp/shop/g/g116240229163/",
+    "img": "https://studious.co.jp/img/goods/S/116240229163_3162da7e25b84f1fadf957c9030ebcaa.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     },
+     {
+      "name": "",
+      "available": null
+     },
+     {
+      "name": "",
+      "available": null
+     },
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "SX224",
+    "date": "2026-06-03"
+   },
+   {
     "id": "stu-g116253014833",
     "title": "Piping Cowboy Jacket - Poly Double Cloth",
     "price_yen": "¥39,600",
@@ -12159,35 +12154,6 @@
      }
     ],
     "code": "SX143",
-    "date": "2026-06-03"
-   },
-   {
-    "id": "stu-g116240229163",
-    "title": "Piping Cowboy Pant - Poly Double Cloth",
-    "price_yen": "¥33,000",
-    "url": "https://studious.co.jp/shop/g/g116240229163/",
-    "img": "https://studious.co.jp/img/goods/S/116240229163_3162da7e25b84f1fadf957c9030ebcaa.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     },
-     {
-      "name": "",
-      "available": null
-     },
-     {
-      "name": "",
-      "available": null
-     },
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "SX224",
     "date": "2026-06-03"
    },
    {
@@ -13540,7 +13506,7 @@
     "colors": [
      {
       "name": "ブラック",
-      "available": true
+      "available": false
      },
      {
       "name": "ベージュ",
