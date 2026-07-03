@@ -3175,6 +3175,10 @@
   "mix-7937146093633": {
    "first": "2026-06-23",
    "title": "NEEDLES（ニードルズ） 【B'2nd EXCLUSIVE】 H.D. Track Short Pant - Poly Smooth"
+  },
+  "mix-7901885268033": {
+   "first": "2026-05-14",
+   "title": "NEEDLES/ニードルズ/BUTTERFLY S/S ONE-UP SHIRT"
   }
  },
  "_snapshots": {
@@ -11278,11 +11282,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/bandana-rectangle-1",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/RW048B-0.jpg?v=1779862989",
     "created": "2026-05-16",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Eggplant",
-      "available": true
+      "available": false
      }
     ],
     "code": "SX059B",
@@ -13269,6 +13273,27 @@
    }
   ],
   "MIX.TOKYO": [
+   {
+    "id": "mix-7901885268033",
+    "title": "NEEDLES/ニードルズ/BUTTERFLY S/S ONE-UP SHIRT",
+    "price_yen": "¥27,000",
+    "url": "https://mix.tokyo/products/7846223201",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846223201-030_MAIN.jpg?v=1782990157",
+    "created": "2026-05-14",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "ブラック",
+      "available": true
+     },
+     {
+      "name": "ホワイト",
+      "available": true
+     }
+    ],
+    "code": "",
+    "date": "2026-05-14"
+   },
    {
     "id": "mix-7934045847617",
     "title": "Needles/ニードルズ　別注Track Crew Neck Shirt - Cotton Jersey",
