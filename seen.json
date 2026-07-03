@@ -13279,7 +13279,7 @@
     "colors": [
      {
       "name": "ブラック",
-      "available": true
+      "available": false
      },
      {
       "name": "グレー",
@@ -13504,7 +13504,7 @@
      },
      {
       "name": "オリーブ",
-      "available": false
+      "available": true
      },
      {
       "name": "チャコール",
@@ -14559,7 +14559,7 @@
     "url": "https://mix.tokyo/products/7816152219",
     "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816152219-436_MAIN.jpg?v=1781796014",
     "created": "2026-03-17",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "ダークグレー",
@@ -14571,7 +14571,7 @@
      },
      {
       "name": "ラスト",
-      "available": true
+      "available": false
      }
     ],
     "code": "",
