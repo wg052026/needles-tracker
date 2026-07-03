@@ -4221,23 +4221,6 @@
     "date": "2025-12-16"
    },
    {
-    "id": "nep-8311419175095",
-    "title": "S/S Crew Neck Tee - Poly Jersey",
-    "price_yen": "¥12,100",
-    "url": "https://onlinestore.nepenthes.co.jp/products/s-s-crew-neck-tee-poly-jersey-22",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/QV362C-0.jpg?v=1738050116",
-    "created": "2025-12-15",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Black",
-      "available": true
-     }
-    ],
-    "code": "SX450C",
-    "date": "2025-12-15"
-   },
-   {
     "id": "nep-8311418683575",
     "title": "L/S Mock Neck Tee - Poly Jersey",
     "price_yen": "¥13,200",
@@ -9627,40 +9610,6 @@
     "date": "2024-07-30"
    },
    {
-    "id": "nep-7799463084215",
-    "title": "Papillon Brooch - Mosaic Inlay/ Large - T",
-    "price_yen": "¥74,800",
-    "url": "https://onlinestore.nepenthes.co.jp/products/papillon-broach-mosaic-inlay-large",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/PU2000T-0.jpg?v=1721868961",
-    "created": "2024-07-25",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Assorted",
-      "available": true
-     }
-    ],
-    "code": "PU2000T",
-    "date": "2024-07-25"
-   },
-   {
-    "id": "nep-7790817444023",
-    "title": "Papillon Brooch - Mosaic Inlay/ Large - Y",
-    "price_yen": "¥74,800",
-    "url": "https://onlinestore.nepenthes.co.jp/products/papillon-broach-mosaic-inlay-large-4",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/0T3A9268-1.jpg?v=1721110441",
-    "created": "2024-07-16",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Assorted",
-      "available": true
-     }
-    ],
-    "code": "PU2000Y",
-    "date": "2024-07-16"
-   },
-   {
     "id": "nep-7775734333623",
     "title": "Tassel Bit Unlined Slip-On -R/O",
     "price_yen": "¥47,300",
@@ -11273,23 +11222,6 @@
      }
     ],
     "code": "SX059A",
-    "date": "2026-05-16"
-   },
-   {
-    "id": "nep-8573781967031",
-    "title": "Bandana - Rectangle",
-    "price_yen": "¥3,850",
-    "url": "https://onlinestore.nepenthes.co.jp/products/bandana-rectangle-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/RW048B-0.jpg?v=1779862989",
-    "created": "2026-05-16",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Eggplant",
-      "available": false
-     }
-    ],
-    "code": "SX059B",
     "date": "2026-05-16"
    },
    {
@@ -13343,15 +13275,15 @@
     "url": "https://mix.tokyo/products/7816210225",
     "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816210225-020_MAIN.jpg?v=1782126198",
     "created": "2026-06-19",
-    "soldout": true,
+    "soldout": false,
     "colors": [
      {
       "name": "ブラック",
-      "available": false
+      "available": true
      },
      {
       "name": "グレー",
-      "available": false
+      "available": true
      }
     ],
     "code": "",
@@ -13535,11 +13467,11 @@
     "url": "https://mix.tokyo/products/7846210253",
     "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846210253-080_MAIN.jpg?v=1782932610",
     "created": "2026-05-14",
-    "soldout": true,
+    "soldout": false,
     "colors": [
      {
       "name": "ブラック×パープル",
-      "available": false
+      "available": true
      }
     ],
     "code": "",
@@ -13572,7 +13504,7 @@
      },
      {
       "name": "オリーブ",
-      "available": true
+      "available": false
      },
      {
       "name": "チャコール",
@@ -14032,7 +13964,7 @@
      },
      {
       "name": "インディゴ",
-      "available": true
+      "available": false
      }
     ],
     "code": "",
