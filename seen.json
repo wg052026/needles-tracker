@@ -13275,7 +13275,7 @@
     "url": "https://mix.tokyo/products/7816210225",
     "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816210225-020_MAIN.jpg?v=1782126198",
     "created": "2026-06-19",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "ブラック",
@@ -13283,7 +13283,7 @@
      },
      {
       "name": "グレー",
-      "available": true
+      "available": false
      }
     ],
     "code": "",
