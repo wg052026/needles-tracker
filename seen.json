@@ -7627,11 +7627,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/sailor-pant-8oz-stretch-denim",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX366-0.jpg?v=1771668177",
     "created": "2026-02-21",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Indigo",
-      "available": true
+      "available": false
      }
     ],
     "code": "SX366",
@@ -7644,11 +7644,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/sailor-jacket-8oz-stretch-denim",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX365-0.jpg?v=1771668203",
     "created": "2026-02-21",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Indigo",
-      "available": true
+      "available": false
      }
     ],
     "code": "SX365",
@@ -13413,7 +13413,7 @@
     "url": "https://mix.tokyo/products/7816213205",
     "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816213205-050_MAIN.jpg?v=1782212603",
     "created": "2026-06-15",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "ブラック",
@@ -13421,7 +13421,7 @@
      },
      {
       "name": "ブラウン",
-      "available": true
+      "available": false
      },
      {
       "name": "チャコール",
