@@ -4159,11 +4159,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/s-s-crew-neck-tee-poly-jersey-21",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/QV362B-0.jpg?v=1738050127",
     "created": "2025-12-15",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Dk. Purple",
-      "available": true
+      "available": false
      }
     ],
     "code": "SX450B",
@@ -4686,11 +4686,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/bracelet-black-onyx-8",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/PU052-0.jpg?v=1733884395",
     "created": "2025-12-15",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Black",
-      "available": true
+      "available": false
      }
     ],
     "code": "SX051",
