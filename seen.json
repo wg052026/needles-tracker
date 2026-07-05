@@ -5893,11 +5893,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/s-s-widespread-collar-shirt-ras-lace",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX284A-0.jpg?v=1772948325",
     "created": "2026-03-08",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Blue",
-      "available": true
+      "available": false
      }
     ],
     "code": "SX284A",
@@ -10251,7 +10251,7 @@
     "url": "https://mix.tokyo/products/7846132220",
     "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846132220-140_MAIN.jpg?v=1781795879",
     "created": "2026-03-24",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "ブラック",
@@ -10259,7 +10259,7 @@
      },
      {
       "name": "グリーン",
-      "available": true
+      "available": false
      }
     ],
     "code": "",
