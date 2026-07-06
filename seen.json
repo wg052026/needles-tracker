@@ -9206,10 +9206,14 @@
     "title": "NEEDLES（ニードルズ） 【B'2nd EXCLUSIVE】TRACK JACKET - POLY SMOOTH",
     "price_yen": "¥26,000",
     "url": "https://mix.tokyo/products/7856255222",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856255222-054_MAIN.jpg?v=1783078255",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856255222-010_MAIN.jpg?v=1783335805",
     "created": "2026-07-03",
     "soldout": false,
     "colors": [
+     {
+      "name": "ブラック",
+      "available": false
+     },
      {
       "name": "ライトブラウン",
       "available": true
@@ -9217,6 +9221,10 @@
      {
       "name": "ブルー",
       "available": true
+     },
+     {
+      "name": "ネイビー",
+      "available": false
      }
     ],
     "code": "",
@@ -9227,10 +9235,14 @@
     "title": "NEEDLES（ニードルズ） 【B'2nd EXCLUSIVE】H.D.TRACK PANT - POLY SMOOTH",
     "price_yen": "¥21,000",
     "url": "https://mix.tokyo/products/7856210237",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856210237-054_MAIN.jpg?v=1783078248",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856210237-054_MAIN.jpg?v=1783335800",
     "created": "2026-07-03",
     "soldout": false,
     "colors": [
+     {
+      "name": "ブラック",
+      "available": false
+     },
      {
       "name": "ライトブラウン",
       "available": true
@@ -9238,6 +9250,10 @@
      {
       "name": "ブルー",
       "available": true
+     },
+     {
+      "name": "ネイビー",
+      "available": false
      }
     ],
     "code": "",
@@ -9559,11 +9575,11 @@
     "url": "https://mix.tokyo/products/7856211218",
     "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856211218-010_MAIN.jpg?v=1779966152",
     "created": "2026-05-27",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "ブラック",
-      "available": true
+      "available": false
      },
      {
       "name": "インディゴ",
