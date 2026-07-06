@@ -3179,6 +3179,14 @@
   "mix-7901885268033": {
    "first": "2026-05-14",
    "title": "NEEDLES/ニードルズ/BUTTERFLY S/S ONE-UP SHIRT"
+  },
+  "mix-7952070836289": {
+   "first": "2026-07-03",
+   "title": "NEEDLES（ニードルズ） 【B'2nd EXCLUSIVE】TRACK JACKET - POLY SMOOTH"
+  },
+  "mix-7952070377537": {
+   "first": "2026-07-03",
+   "title": "NEEDLES（ニードルズ） 【B'2nd EXCLUSIVE】H.D.TRACK PANT - POLY SMOOTH"
   }
  },
  "_snapshots": {
@@ -4153,23 +4161,6 @@
     "date": "2025-12-15"
    },
    {
-    "id": "nep-8311419142327",
-    "title": "S/S Crew Neck Tee - Poly Jersey",
-    "price_yen": "¥12,100",
-    "url": "https://onlinestore.nepenthes.co.jp/products/s-s-crew-neck-tee-poly-jersey-21",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/QV362B-0.jpg?v=1738050127",
-    "created": "2025-12-15",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Dk. Purple",
-      "available": false
-     }
-    ],
-    "code": "SX450B",
-    "date": "2025-12-15"
-   },
-   {
     "id": "nep-8311419044023",
     "title": "L/S Crew Neck Tee - Poly Jersey",
     "price_yen": "¥13,200",
@@ -4677,23 +4668,6 @@
      }
     ],
     "code": "SX179B",
-    "date": "2025-12-15"
-   },
-   {
-    "id": "nep-8311416488119",
-    "title": "Bracelet - Black Onyx",
-    "price_yen": "¥14,300",
-    "url": "https://onlinestore.nepenthes.co.jp/products/bracelet-black-onyx-8",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/PU052-0.jpg?v=1733884395",
-    "created": "2025-12-15",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Black",
-      "available": false
-     }
-    ],
-    "code": "SX051",
     "date": "2025-12-15"
    },
    {
@@ -5867,40 +5841,6 @@
      }
     ],
     "code": "SX424A",
-    "date": "2026-03-08"
-   },
-   {
-    "id": "nep-8490242343095",
-    "title": "S/S Widespread Collar Shirt - Raschel Lace",
-    "price_yen": "¥22,000",
-    "url": "https://onlinestore.nepenthes.co.jp/products/s-s-widespread-collar-shirt-ras-lace-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX284B-0.jpg?v=1772948350",
-    "created": "2026-03-08",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Black",
-      "available": true
-     }
-    ],
-    "code": "SX284B",
-    "date": "2026-03-08"
-   },
-   {
-    "id": "nep-8490242277559",
-    "title": "S/S Widespread Collar Shirt - Raschel Lace",
-    "price_yen": "¥22,000",
-    "url": "https://onlinestore.nepenthes.co.jp/products/s-s-widespread-collar-shirt-ras-lace",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX284A-0.jpg?v=1772948325",
-    "created": "2026-03-08",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Blue",
-      "available": false
-     }
-    ],
-    "code": "SX284A",
     "date": "2026-03-08"
    },
    {
@@ -7604,23 +7544,6 @@
     "date": "2026-05-26"
    },
    {
-    "id": "nep-8580331503799",
-    "title": "Mini Book Bag - Cotton Pique",
-    "price_yen": "¥9,900",
-    "url": "https://onlinestore.nepenthes.co.jp/products/mini-book-bag-cotton-pique-3",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX1499D-0.jpg?v=1779757652",
-    "created": "2026-05-26",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Black",
-      "available": false
-     }
-    ],
-    "code": "SX1499D",
-    "date": "2026-05-26"
-   },
-   {
     "id": "nep-8600183799991",
     "title": "〈NEEDLES〉x〈ALBINO & PRETO〉Track Jacket - Poly Jq. / Paisley",
     "price_yen": "¥35,200",
@@ -9278,6 +9201,48 @@
    }
   ],
   "MIX.TOKYO": [
+   {
+    "id": "mix-7952070836289",
+    "title": "NEEDLES（ニードルズ） 【B'2nd EXCLUSIVE】TRACK JACKET - POLY SMOOTH",
+    "price_yen": "¥26,000",
+    "url": "https://mix.tokyo/products/7856255222",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856255222-054_MAIN.jpg?v=1783078255",
+    "created": "2026-07-03",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "ライトブラウン",
+      "available": true
+     },
+     {
+      "name": "ブルー",
+      "available": true
+     }
+    ],
+    "code": "",
+    "date": "2026-07-03"
+   },
+   {
+    "id": "mix-7952070377537",
+    "title": "NEEDLES（ニードルズ） 【B'2nd EXCLUSIVE】H.D.TRACK PANT - POLY SMOOTH",
+    "price_yen": "¥21,000",
+    "url": "https://mix.tokyo/products/7856210237",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856210237-054_MAIN.jpg?v=1783078248",
+    "created": "2026-07-03",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "ライトブラウン",
+      "available": true
+     },
+     {
+      "name": "ブルー",
+      "available": true
+     }
+    ],
+    "code": "",
+    "date": "2026-07-03"
+   },
    {
     "id": "mix-7901885268033",
     "title": "NEEDLES/ニードルズ/BUTTERFLY S/S ONE-UP SHIRT",
