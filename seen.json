@@ -2295,6 +2295,10 @@
   "nep-8361711501495": {
    "first": "2026-01-16",
    "title": "Round Collar Jacket - Calico Jacquard"
+  },
+  "nep-8623061303479": {
+   "first": "2026-06-25",
+   "title": "〈NEEDLES〉x〈NEW ERA〉59 Fifty - Papillon Emb."
   }
  },
  "STUDIOUS": {
@@ -7559,6 +7563,23 @@
     ],
     "code": "SX1968",
     "date": "2026-06-08"
+   },
+   {
+    "id": "nep-8623061303479",
+    "title": "〈NEEDLES〉x〈NEW ERA〉59 Fifty - Papillon Emb.",
+    "price_yen": "¥8,250",
+    "url": "https://onlinestore.nepenthes.co.jp/products/59-fifty-papillon-emb-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/NEEDLES-0_f5b28fe3-6778-4fff-b59b-d13671b7e3ca.jpg?v=1782367525",
+    "created": "2026-06-25",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY3001",
+    "date": "2026-06-25"
    }
   ],
   "STUDIOUS": [
