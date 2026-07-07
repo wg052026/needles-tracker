@@ -2745,6 +2745,26 @@
   "stu-g116343110173": {
    "first": "2026-06-30",
    "title": "別注 H.D Track Short Pant - Poly Smooth"
+  },
+  "stu-g116340100033": {
+   "first": "2026-07-07",
+   "title": "別注 H.D.Track Pant - COOL"
+  },
+  "stu-g116340099033": {
+   "first": "2026-07-07",
+   "title": "別注 Track Pant - COOL"
+  },
+  "stu-g116302139034": {
+   "first": "2026-07-07",
+   "title": "別注 Track Shirts - COOL"
+  },
+  "stu-g116322192035": {
+   "first": "2026-07-07",
+   "title": "別注 Track S/S Crew Neck Shirt - COOL"
+  },
+  "stu-g115322135765": {
+   "first": "2026-07-07",
+   "title": "別注 Papillon Emb. Pocket S/S Tee"
   }
  },
  "MIX.TOKYO": {
@@ -4267,23 +4287,6 @@
     "date": "2025-04-18"
    },
    {
-    "id": "nep-7914415554743",
-    "title": "V-Neck Cardigan - Raschel Lace",
-    "price_yen": "¥19,800",
-    "url": "https://onlinestore.nepenthes.co.jp/products/v-neck-cardigan-raschel-lace-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/QV344B-0.jpg?v=1735000232",
-    "created": "2024-12-23",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Dk. Purple",
-      "available": true
-     }
-    ],
-    "code": "QV344B",
-    "date": "2024-12-23"
-   },
-   {
     "id": "nep-8452401823927",
     "title": "Papillon Emb. Jean Jacket - 12oz Denim",
     "price_yen": "¥52,800",
@@ -4418,23 +4421,6 @@
     ],
     "code": "SX001A",
     "date": "2025-12-15"
-   },
-   {
-    "id": "nep-8251822571703",
-    "title": "Shawl Collar L/S Polo - Cotton Pique",
-    "price_yen": "¥17,600",
-    "url": "https://onlinestore.nepenthes.co.jp/products/shawl-collar-l-s-polo-cotton-pique-4",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/RW347B-0.jpg?v=1759045236",
-    "created": "2025-09-28",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Purple",
-      "available": true
-     }
-    ],
-    "code": "RW347B",
-    "date": "2025-09-28"
    },
    {
     "id": "nep-8164302160055",
@@ -5712,23 +5698,6 @@
     "date": "2023-04-10"
    },
    {
-    "id": "nep-8490242965687",
-    "title": "S/S Pocket Tee - Cotton Jersey",
-    "price_yen": "¥12,100",
-    "url": "https://onlinestore.nepenthes.co.jp/products/s-s-pocket-tee-cotton-jersey-4",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/QV357G-0.jpg?v=1740444506",
-    "created": "2026-03-08",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Black",
-      "available": true
-     }
-    ],
-    "code": "SX444G",
-    "date": "2026-03-08"
-   },
-   {
     "id": "nep-8490242867383",
     "title": "S/S Pocket Tee - Cotton Jersey",
     "price_yen": "¥12,100",
@@ -6100,23 +6069,6 @@
      }
     ],
     "code": "SX513A",
-    "date": "2025-12-15"
-   },
-   {
-    "id": "nep-8311419371703",
-    "title": "Double Strap Sandal - Smooth Leather",
-    "price_yen": "¥48,400",
-    "url": "https://onlinestore.nepenthes.co.jp/products/double-strap-sandal-smooth-leather-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/PU074-0.jpg?v=1725325440",
-    "created": "2025-12-15",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Black",
-      "available": true
-     }
-    ],
-    "code": "SX511",
     "date": "2025-12-15"
    },
    {
@@ -7548,23 +7500,6 @@
     "date": "2026-05-26"
    },
    {
-    "id": "nep-8600183799991",
-    "title": "〈NEEDLES〉x〈ALBINO & PRETO〉Track Jacket - Poly Jq. / Paisley",
-    "price_yen": "¥35,200",
-    "url": "https://onlinestore.nepenthes.co.jp/products/track-jacket-poly-jq-34",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX1968-0.jpg?v=1780879456",
-    "created": "2026-06-08",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Paisley",
-      "available": true
-     }
-    ],
-    "code": "SX1968",
-    "date": "2026-06-08"
-   },
-   {
     "id": "nep-8623061303479",
     "title": "〈NEEDLES〉x〈NEW ERA〉59 Fifty - Papillon Emb.",
     "price_yen": "¥8,250",
@@ -7583,6 +7518,123 @@
    }
   ],
   "STUDIOUS": [
+   {
+    "id": "stu-g116340100033",
+    "title": "別注 H.D.Track Pant - COOL",
+    "price_yen": "¥23,100",
+    "url": "https://studious.co.jp/shop/g/g116340100033/",
+    "img": "https://studious.co.jp/img/goods/S/116340100033_6cf0d6af34ac469b93fe04ae13e72303.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     },
+     {
+      "name": "",
+      "available": null
+     },
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "SX1547",
+    "date": "2026-07-07"
+   },
+   {
+    "id": "stu-g116340099033",
+    "title": "別注 Track Pant - COOL",
+    "price_yen": "¥23,100",
+    "url": "https://studious.co.jp/shop/g/g116340099033/",
+    "img": "https://studious.co.jp/img/goods/S/116340099033_e228c39d29404938bb5329039d7ac1f4.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     },
+     {
+      "name": "",
+      "available": null
+     },
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "SX1546",
+    "date": "2026-07-07"
+   },
+   {
+    "id": "stu-g116302139034",
+    "title": "別注 Track Shirts - COOL",
+    "price_yen": "¥25,300",
+    "url": "https://studious.co.jp/shop/g/g116302139034/",
+    "img": "https://studious.co.jp/img/goods/S/116302139034_144a6182ec0f4e18832c67875db4b513.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     },
+     {
+      "name": "",
+      "available": null
+     },
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "SX1545",
+    "date": "2026-07-07"
+   },
+   {
+    "id": "stu-g116322192035",
+    "title": "別注 Track S/S Crew Neck Shirt - COOL",
+    "price_yen": "¥20,900",
+    "url": "https://studious.co.jp/shop/g/g116322192035/",
+    "img": "https://studious.co.jp/img/goods/S/116322192035_d16753ef12fe45bc888ad0cfac0ed804.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     },
+     {
+      "name": "",
+      "available": null
+     },
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "SX1544",
+    "date": "2026-07-07"
+   },
+   {
+    "id": "stu-g116340097063",
+    "title": "別注 Piping Cowboy H.D. Pant - Amunzen",
+    "price_yen": "¥27,500",
+    "url": "https://studious.co.jp/shop/g/g116340097063/",
+    "img": "https://studious.co.jp/img/goods/S/116340097063_21eb718ce5fb4d9290743bcfa1776795.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "SX1553",
+    "date": "2026-06-10"
+   },
    {
     "id": "stu-g115322136165",
     "title": "別注Tie Dye S/S Tee",
@@ -7630,11 +7682,11 @@
     "date": "2026-06-10"
    },
    {
-    "id": "stu-g116340097063",
-    "title": "別注 Piping Cowboy H.D. Pant - Amunzen",
-    "price_yen": "¥27,500",
-    "url": "https://studious.co.jp/shop/g/g116340097063/",
-    "img": "https://studious.co.jp/img/goods/S/116340097063_21eb718ce5fb4d9290743bcfa1776795.jpg",
+    "id": "stu-g116258012165",
+    "title": "別注Track Jacket - Poly Smooth",
+    "price_yen": "¥28,600",
+    "url": "https://studious.co.jp/shop/g/g116258012165/",
+    "img": "https://studious.co.jp/img/goods/S/116258012165_3f1204485b8c41a5a6e5e62baaf7bdb2.jpg",
     "created": "",
     "soldout": false,
     "colors": [
@@ -7643,8 +7695,8 @@
       "available": null
      }
     ],
-    "code": "SX1553",
-    "date": "2026-06-10"
+    "code": "SX1539",
+    "date": "2026-06-16"
    },
    {
     "id": "stu-g116240377133",
@@ -7666,39 +7718,10 @@
      {
       "name": "",
       "available": null
-     },
-     {
-      "name": "",
-      "available": null
      }
     ],
     "code": "SX1540",
     "date": "2026-06-03"
-   },
-   {
-    "id": "stu-g116258012165",
-    "title": "別注Track Jacket - Poly Smooth",
-    "price_yen": "¥28,600",
-    "url": "https://studious.co.jp/shop/g/g116258012165/",
-    "img": "https://studious.co.jp/img/goods/S/116258012165_3f1204485b8c41a5a6e5e62baaf7bdb2.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     },
-     {
-      "name": "",
-      "available": null
-     },
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "SX1539",
-    "date": "2026-06-16"
    },
    {
     "id": "stu-g116302132165",
@@ -7823,27 +7846,6 @@
     "date": "2026-06-20"
    },
    {
-    "id": "stu-g116240154633",
-    "title": "Track Pant - Poly Smooth",
-    "price_yen": "¥23,100",
-    "url": "https://studious.co.jp/shop/g/g116240154633/",
-    "img": "https://studious.co.jp/img/goods/S/116240154633_d23c9ab539e241b5a373564e466fd0b5.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     },
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "SX406",
-    "date": "2026-06-20"
-   },
-   {
     "id": "stu-g116240030163",
     "title": "H.D. Buggy Jean - 12oz Denim",
     "price_yen": "¥31,900",
@@ -7865,21 +7867,25 @@
     "date": "2026-06-03"
    },
    {
-    "id": "stu-g116343110173",
-    "title": "別注 H.D Track Short Pant - Poly Smooth",
+    "id": "stu-g116240154633",
+    "title": "Track Pant - Poly Smooth",
     "price_yen": "¥23,100",
-    "url": "https://studious.co.jp/shop/g/g116343110173/",
-    "img": "https://studious.co.jp/img/goods/S/116343110173_d15484d4612142bcb8f6293f6df1b733.jpg",
+    "url": "https://studious.co.jp/shop/g/g116240154633/",
+    "img": "https://studious.co.jp/img/goods/S/116240154633_d23c9ab539e241b5a373564e466fd0b5.jpg",
     "created": "",
     "soldout": false,
     "colors": [
      {
       "name": "",
       "available": null
+     },
+     {
+      "name": "",
+      "available": null
      }
     ],
-    "code": "SX1543",
-    "date": "2026-06-30"
+    "code": "SX406",
+    "date": "2026-06-20"
    },
    {
     "id": "stu-g116240384163",
@@ -7897,23 +7903,6 @@
     ],
     "code": "SX1552",
     "date": "2026-06-23"
-   },
-   {
-    "id": "stu-g116322185204",
-    "title": "Regular Collar Polo - Cotton Pique",
-    "price_yen": "¥14,300",
-    "url": "https://studious.co.jp/shop/g/g116322185204/",
-    "img": "https://studious.co.jp/img/goods/S/116322185204_9fa898f25c8a4872ac53e450abc4079d.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "",
-    "date": "2026-06-20"
    },
    {
     "id": "stu-g116258006114",
@@ -7958,25 +7947,21 @@
     "date": "2026-06-03"
    },
    {
-    "id": "stu-g115322135165",
+    "id": "stu-g115322135765",
     "title": "別注 Papillon Emb. Pocket S/S Tee",
     "price_yen": "¥16,500",
-    "url": "https://studious.co.jp/shop/g/g115322135165/",
-    "img": "https://studious.co.jp/img/goods/S/115322135165_a8a270df2b204090a2257d8060af5256.jpg",
+    "url": "https://studious.co.jp/shop/g/g115322135765/",
+    "img": "https://studious.co.jp/img/goods/S/115322135765_c1ef359e579341ca9ac03ad873721674.jpg",
     "created": "",
     "soldout": false,
     "colors": [
      {
       "name": "",
       "available": null
-     },
-     {
-      "name": "",
-      "available": null
      }
     ],
     "code": "",
-    "date": "2026-06-03"
+    "date": "2026-07-07"
    },
    {
     "id": "stu-g116240146265",
@@ -8027,35 +8012,6 @@
      }
     ],
     "code": "RW1592",
-    "date": "2026-06-03"
-   },
-   {
-    "id": "stu-g116240229163",
-    "title": "Piping Cowboy Pant - Poly Double Cloth",
-    "price_yen": "¥33,000",
-    "url": "https://studious.co.jp/shop/g/g116240229163/",
-    "img": "https://studious.co.jp/img/goods/S/116240229163_3162da7e25b84f1fadf957c9030ebcaa.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     },
-     {
-      "name": "",
-      "available": null
-     },
-     {
-      "name": "",
-      "available": null
-     },
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "SX224",
     "date": "2026-06-03"
    },
    {
@@ -8132,6 +8088,35 @@
      }
     ],
     "code": "SX197",
+    "date": "2026-06-03"
+   },
+   {
+    "id": "stu-g116240229163",
+    "title": "Piping Cowboy Pant - Poly Double Cloth",
+    "price_yen": "¥33,000",
+    "url": "https://studious.co.jp/shop/g/g116240229163/",
+    "img": "https://studious.co.jp/img/goods/S/116240229163_3162da7e25b84f1fadf957c9030ebcaa.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     },
+     {
+      "name": "",
+      "available": null
+     },
+     {
+      "name": "",
+      "available": null
+     },
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "SX224",
     "date": "2026-06-03"
    },
    {
@@ -9583,32 +9568,11 @@
      },
      {
       "name": "チャコール",
-      "available": true
+      "available": false
      }
     ],
     "code": "",
     "date": "2026-05-15"
-   },
-   {
-    "id": "mix-7913546383425",
-    "title": "NEEDLES（ニードルズ)【B'2nd EXCLUSIVE】H.D. Track Pant - Denim 2026 s/s model",
-    "price_yen": "¥24,000",
-    "url": "https://mix.tokyo/products/7856211218",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856211218-010_MAIN.jpg?v=1779966152",
-    "created": "2026-05-27",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "ブラック",
-      "available": false
-     },
-     {
-      "name": "インディゴ",
-      "available": false
-     }
-    ],
-    "code": "",
-    "date": "2026-05-27"
    },
    {
     "id": "mix-7910561677377",
@@ -9775,7 +9739,7 @@
     "colors": [
      {
       "name": "ブラック",
-      "available": true
+      "available": false
      },
      {
       "name": "グレー",
