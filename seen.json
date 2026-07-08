@@ -3817,11 +3817,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/jodhpur-track-pant-poly-smooth-3",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/RW321A-0.jpg?v=1753328446",
     "created": "2025-07-23",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Brown",
-      "available": true
+      "available": false
      }
     ],
     "code": "RW321A",
@@ -10397,6 +10397,64 @@
     "colors": [
      {
       "name": "ブラック",
+      "available": false
+     }
+    ],
+    "code": "",
+    "date": "2026-03-18"
+   },
+   {
+    "id": "mix-7856692527169",
+    "title": "Needles/ニードルズ　Ringer Tee - Cotton Pique",
+    "price_yen": "¥12,000",
+    "url": "https://mix.tokyo/products/7816134201",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816134201-050_MAIN.jpg?v=1782298963",
+    "created": "2026-03-18",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "ブラック",
+      "available": true
+     },
+     {
+      "name": "ベージュ",
+      "available": false
+     },
+     {
+      "name": "ブラウン",
+      "available": true
+     }
+    ],
+    "code": "",
+    "date": "2026-03-18"
+   },
+   {
+    "id": "mix-7856691675201",
+    "title": "Needles/ニードルズ　Bermuda Hat - Poly Jacquard",
+    "price_yen": "¥7,000",
+    "url": "https://mix.tokyo/products/7816174202",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816174202-050_MAIN.jpg?v=1782903777",
+    "created": "2026-03-18",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "ブラック",
+      "available": false
+     },
+     {
+      "name": "ブラウン",
+      "available": true
+     },
+     {
+      "name": "ブルー",
+      "available": false
+     },
+     {
+      "name": "オレンジ",
+      "available": false
+     },
+     {
+      "name": "オリーブ",
       "available": false
      }
     ],
