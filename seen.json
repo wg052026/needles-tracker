@@ -3893,23 +3893,6 @@
     "date": "2025-12-15"
    },
    {
-    "id": "nep-8164302160055",
-    "title": "Coverall - Reversed Sateen",
-    "price_yen": "¥38,500",
-    "url": "https://onlinestore.nepenthes.co.jp/products/coverall-reversed-sateen-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/QV145B-0_799aa3fe-7832-4e7a-a518-afdd331061b0.jpg?v=1751689942",
-    "created": "2025-07-01",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Black",
-      "available": true
-     }
-    ],
-    "code": "RW215B",
-    "date": "2025-07-01"
-   },
-   {
     "id": "nep-8164302094519",
     "title": "Coverall - Reversed Sateen",
     "price_yen": "¥38,500",
@@ -4316,23 +4299,6 @@
     ],
     "code": "SX038A",
     "date": "2025-12-15"
-   },
-   {
-    "id": "nep-8178712903863",
-    "title": "String Fatigue Skirt - Reversed Sateen",
-    "price_yen": "¥27,500",
-    "url": "https://onlinestore.nepenthes.co.jp/products/string-fatigue-skirt-rev-sateen",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/QV148A-0.jpg?v=1738050475",
-    "created": "2025-07-17",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Olive",
-      "available": true
-     }
-    ],
-    "code": "RW218A",
-    "date": "2025-07-17"
    },
    {
     "id": "nep-8178712838327",
@@ -8304,7 +8270,7 @@
     "colors": [
      {
       "name": "ブラック",
-      "available": false
+      "available": true
      },
      {
       "name": "グレー",
@@ -8950,23 +8916,6 @@
     ],
     "code": "",
     "date": "2026-03-19"
-   },
-   {
-    "id": "mix-7856689250369",
-    "title": "NEEDLES / ニードルズ / Piping Cowboy Pant - Poly Double Cloth",
-    "price_yen": "¥21,000",
-    "url": "https://mix.tokyo/products/7856110362",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856110362-010_MAIN.jpg?v=1781796111",
-    "created": "2026-03-18",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "ブラック",
-      "available": false
-     }
-    ],
-    "code": "",
-    "date": "2026-03-18"
    }
   ]
  }
