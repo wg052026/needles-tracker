@@ -3755,23 +3755,6 @@
     "date": "2025-06-26"
    },
    {
-    "id": "nep-8357062639799",
-    "title": "Knit Cardigan - Crepe Weave Stripe",
-    "price_yen": "¥18,700",
-    "url": "https://onlinestore.nepenthes.co.jp/products/knit-cardigan-crepe-weave-stripe-2",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX456B-0.jpg?v=1768122780",
-    "created": "2026-01-11",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Purple",
-      "available": true
-     }
-    ],
-    "code": "SX456B",
-    "date": "2026-01-11"
-   },
-   {
     "id": "nep-8312993972407",
     "title": "Zipped Sweat Pant - Bright Jersey",
     "price_yen": "¥20,900",
@@ -4381,23 +4364,6 @@
      }
     ],
     "code": "SX420B",
-    "date": "2026-02-07"
-   },
-   {
-    "id": "nep-8402283364535",
-    "title": "H.D. Short - Ratine Jacquard",
-    "price_yen": "¥14,850",
-    "url": "https://onlinestore.nepenthes.co.jp/products/h-d-short-ratine-jacquard-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX251B-0.jpg?v=1770445102",
-    "created": "2026-02-07",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Dot",
-      "available": true
-     }
-    ],
-    "code": "SX251B",
     "date": "2026-02-07"
    },
    {
@@ -5421,23 +5387,6 @@
     "date": "2026-01-31"
    },
    {
-    "id": "nep-8367008383159",
-    "title": "Half Zip Work Shirt - Brushed Linen Canvas",
-    "price_yen": "¥14,850",
-    "url": "https://onlinestore.nepenthes.co.jp/products/half-zip-work-shirt-brushlinencanv-2",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX295C-0.jpg?v=1769163613",
-    "created": "2026-01-23",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Black",
-      "available": true
-     }
-    ],
-    "code": "SX295C",
-    "date": "2026-01-23"
-   },
-   {
     "id": "nep-8366950613175",
     "title": "Half Zip Work Shirt - Brushed Linen Canvas",
     "price_yen": "¥14,850",
@@ -5588,23 +5537,6 @@
      }
     ],
     "code": "SX228A",
-    "date": "2026-01-23"
-   },
-   {
-    "id": "nep-8366949728439",
-    "title": "Painter Skirt - Embroidered Twill",
-    "price_yen": "¥19,800",
-    "url": "https://onlinestore.nepenthes.co.jp/products/painter-skirt-embroidered-twill",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX182A-0.jpg?v=1769156095",
-    "created": "2026-01-23",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Purple",
-      "available": false
-     }
-    ],
-    "code": "SX182A",
     "date": "2026-01-23"
    },
    {
