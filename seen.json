@@ -4129,23 +4129,6 @@
     "date": "2026-02-21"
    },
    {
-    "id": "nep-8366950219959",
-    "title": "Boot-Cut Jean - Poly Twill",
-    "price_yen": "¥14,300",
-    "url": "https://onlinestore.nepenthes.co.jp/products/boot-cut-jean-poly-twill-27",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX230D-0.jpg?v=1769162134",
-    "created": "2026-01-23",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Black",
-      "available": true
-     }
-    ],
-    "code": "SX230D",
-    "date": "2026-01-23"
-   },
-   {
     "id": "nep-8347725562039",
     "title": "Two Tuck Trouser - Stripe Karsey",
     "price_yen": "¥25,300",
@@ -4452,23 +4435,6 @@
     "date": "2026-01-31"
    },
    {
-    "id": "nep-8366950154423",
-    "title": "Boot-Cut Jean - Poly Twill",
-    "price_yen": "¥14,300",
-    "url": "https://onlinestore.nepenthes.co.jp/products/boot-cut-jean-poly-twill-25",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX230B-0.jpg?v=1769162102",
-    "created": "2026-01-23",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Brown",
-      "available": false
-     }
-    ],
-    "code": "SX230B",
-    "date": "2026-01-23"
-   },
-   {
     "id": "nep-8366950121655",
     "title": "Boot-Cut Jean - Poly Twill",
     "price_yen": "¥28,600",
@@ -4483,23 +4449,6 @@
      }
     ],
     "code": "SX230A",
-    "date": "2026-01-23"
-   },
-   {
-    "id": "nep-8366949957815",
-    "title": "Straight Jean - Poly Twill",
-    "price_yen": "¥14,300",
-    "url": "https://onlinestore.nepenthes.co.jp/products/straight-jean-poly-twill-11",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX229A-0.jpg?v=1769162009",
-    "created": "2026-01-23",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Indigo",
-      "available": true
-     }
-    ],
-    "code": "SX229A",
     "date": "2026-01-23"
    },
    {
@@ -5217,23 +5166,6 @@
     "date": "2026-03-08"
    },
    {
-    "id": "nep-8480142000311",
-    "title": "〈NEEDLES〉x〈ts(s)〉L/S Cowboy One-Up Shirt -Garment Dye",
-    "price_yen": "¥33,110",
-    "url": "https://onlinestore.nepenthes.co.jp/products/l-s-cowboy-one-up-shirt-garment-dye-2",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX2102C-0_64658a14-afb5-4c97-beb3-8efc6499a9b4.jpg?v=1772614245",
-    "created": "2026-03-03",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Ecru",
-      "available": true
-     }
-    ],
-    "code": "SX2102C",
-    "date": "2026-03-03"
-   },
-   {
     "id": "nep-8475026751671",
     "title": "3B Jacket - Cotton Oxford Patchwork",
     "price_yen": "¥27,500",
@@ -5665,11 +5597,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/painter-skirt-embroidered-twill",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX182A-0.jpg?v=1769156095",
     "created": "2026-01-23",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Purple",
-      "available": true
+      "available": false
      }
     ],
     "code": "SX182A",
@@ -5860,23 +5792,6 @@
      }
     ],
     "code": "SX459A",
-    "date": "2025-12-30"
-   },
-   {
-    "id": "nep-8347725463735",
-    "title": "Sack Jacket - Stripe Karsey",
-    "price_yen": "¥34,100",
-    "url": "https://onlinestore.nepenthes.co.jp/products/sack-jacket-stripe-karsey",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX082A-0.jpg?v=1767069402",
-    "created": "2025-12-30",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Ecru",
-      "available": true
-     }
-    ],
-    "code": "SX082A",
     "date": "2025-12-30"
    },
    {
@@ -6507,23 +6422,6 @@
     ],
     "code": "SX280B",
     "date": "2026-03-14"
-   },
-   {
-    "id": "nep-8513864171703",
-    "title": "Coverall - C/L Canvas / Sumi Dye",
-    "price_yen": "¥30,250",
-    "url": "https://onlinestore.nepenthes.co.jp/products/coverall-c-l-canvas-sumi-dye",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX175-0.jpg?v=1774074935",
-    "created": "2026-03-20",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Black",
-      "available": true
-     }
-    ],
-    "code": "SX175",
-    "date": "2026-03-20"
    },
    {
     "id": "nep-8513864990903",
