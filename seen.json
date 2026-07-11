@@ -3925,23 +3925,6 @@
     "date": "2026-01-31"
    },
    {
-    "id": "nep-8347729232055",
-    "title": "Knit Cardigan - Crepe Weave Stripe",
-    "price_yen": "¥18,700",
-    "url": "https://onlinestore.nepenthes.co.jp/products/knit-cardigan-crepe-weave-stripe-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX456C-0.jpg?v=1767071867",
-    "created": "2025-12-30",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Black",
-      "available": true
-     }
-    ],
-    "code": "SX456C",
-    "date": "2025-12-30"
-   },
-   {
     "id": "nep-8320016285879",
     "title": "Reversible News Paper Bag - Camo Twill",
     "price_yen": "¥18,700",
@@ -4093,23 +4076,6 @@
     ],
     "code": "MR048A",
     "date": "2022-12-12"
-   },
-   {
-    "id": "nep-8480142262455",
-    "title": "〈NEEDLES〉x〈ts(s)〉Big Polo Shirt",
-    "price_yen": "¥18,480",
-    "url": "https://onlinestore.nepenthes.co.jp/products/big-polo-t-shirt-2",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX2104A-0_bdc7bd83-4d66-4352-a807-4ec0e37e8e2b.jpg?v=1772614331",
-    "created": "2026-03-03",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "White",
-      "available": true
-     }
-    ],
-    "code": "SX2104C",
-    "date": "2026-03-03"
    },
    {
     "id": "nep-8480142131383",
@@ -4492,11 +4458,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/boot-cut-jean-poly-twill-25",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX230B-0.jpg?v=1769162102",
     "created": "2026-01-23",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Brown",
-      "available": true
+      "available": false
      }
     ],
     "code": "SX230B",
@@ -5982,23 +5948,6 @@
     "date": "2025-12-15"
    },
    {
-    "id": "nep-8311417503927",
-    "title": "Field Short - C/N Oxford",
-    "price_yen": "¥15,400",
-    "url": "https://onlinestore.nepenthes.co.jp/products/field-short-c-n-oxford-4",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/QV142A-0.jpg?v=1736300992",
-    "created": "2025-12-15",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Olive",
-      "available": true
-     }
-    ],
-    "code": "SX166A",
-    "date": "2025-12-15"
-   },
-   {
     "id": "nep-8311417307319",
     "title": "Field Jacket - Cotton Nylon Oxford",
     "price_yen": "¥15,950",
@@ -6543,23 +6492,6 @@
     "date": "2026-03-14"
    },
    {
-    "id": "nep-8500225048759",
-    "title": "Warm Up Pant - PE/W Gabardine",
-    "price_yen": "¥15,950",
-    "url": "https://onlinestore.nepenthes.co.jp/products/warm-up-pant-pe-w-gabardine",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX233A-0.jpg?v=1773472835",
-    "created": "2026-03-14",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Greige",
-      "available": true
-     }
-    ],
-    "code": "SX233A",
-    "date": "2026-03-14"
-   },
-   {
     "id": "nep-8500225343671",
     "title": "Embroidered Tunic - CU/R Gauze",
     "price_yen": "¥15,950",
@@ -6577,23 +6509,6 @@
     "date": "2026-03-14"
    },
    {
-    "id": "nep-8500225441975",
-    "title": "Cabana Shirt - Cupra Crepe Plaid",
-    "price_yen": "¥13,200",
-    "url": "https://onlinestore.nepenthes.co.jp/products/cabana-shirt-cupra-crepe-plaid-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX292B-0.jpg?v=1773472472",
-    "created": "2026-03-14",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Brown",
-      "available": true
-     }
-    ],
-    "code": "SX292B",
-    "date": "2026-03-14"
-   },
-   {
     "id": "nep-8513864171703",
     "title": "Coverall - C/L Canvas / Sumi Dye",
     "price_yen": "¥30,250",
@@ -6608,23 +6523,6 @@
      }
     ],
     "code": "SX175",
-    "date": "2026-03-20"
-   },
-   {
-    "id": "nep-8513864335543",
-    "title": "H.D. Apron Painter Pant - C/L Canvas / Sumi Dye",
-    "price_yen": "¥29,700",
-    "url": "https://onlinestore.nepenthes.co.jp/products/h-d-apron-painter-pant-canvs-sumi",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX177-0.jpg?v=1774074788",
-    "created": "2026-03-20",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Black",
-      "available": true
-     }
-    ],
-    "code": "SX177",
     "date": "2026-03-20"
    },
    {
