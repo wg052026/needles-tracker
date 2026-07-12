@@ -4469,23 +4469,6 @@
     "date": "2026-01-23"
    },
    {
-    "id": "nep-8361719070903",
-    "title": "String Cowboy H.D. Short - Micro Shadow Plaid",
-    "price_yen": "¥14,300",
-    "url": "https://onlinestore.nepenthes.co.jp/products/string-cowboy-h-d-short-m-shadowpla",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX273A-0.jpg?v=1768560046",
-    "created": "2026-01-16",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Burgundy",
-      "available": true
-     }
-    ],
-    "code": "SX273A",
-    "date": "2026-01-16"
-   },
-   {
     "id": "nep-8314261864631",
     "title": "Coverall - PE/C Twill",
     "price_yen": "¥58,300",
@@ -6234,23 +6217,6 @@
      }
     ],
     "code": "SX183A",
-    "date": "2026-03-14"
-   },
-   {
-    "id": "nep-8500224884919",
-    "title": "Jean Jacket - Memory Poly Taffeta",
-    "price_yen": "¥18,700",
-    "url": "https://onlinestore.nepenthes.co.jp/products/jean-jacket-memory-poly-taffeta-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX183B-0.jpg?v=1773473063",
-    "created": "2026-03-14",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Black",
-      "available": true
-     }
-    ],
-    "code": "SX183B",
     "date": "2026-03-14"
    },
    {
