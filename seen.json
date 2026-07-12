@@ -5557,23 +5557,6 @@
     "date": "2026-01-23"
    },
    {
-    "id": "nep-8366948679863",
-    "title": "Scottish Sports Jacket - PE/C Typewriter",
-    "price_yen": "¥34,100",
-    "url": "https://onlinestore.nepenthes.co.jp/products/scottish-sports-jkt-pe-c-typewrite",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX129-0.jpg?v=1769155461",
-    "created": "2026-01-23",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Black",
-      "available": true
-     }
-    ],
-    "code": "SX129",
-    "date": "2026-01-23"
-   },
-   {
     "id": "nep-8361713402039",
     "title": "Jumpsuit - Poly Light Double Cloth",
     "price_yen": "¥26,950",
@@ -5623,23 +5606,6 @@
     ],
     "code": "SX077B",
     "date": "2026-01-16"
-   },
-   {
-    "id": "nep-8347729395895",
-    "title": "S/S Mock Neck Sweater  - Crepe Weave Stripe",
-    "price_yen": "¥15,400",
-    "url": "https://onlinestore.nepenthes.co.jp/products/s-s-mock-neck-sweater-crepe-weave-st",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX459A-0.jpg?v=1767071902",
-    "created": "2025-12-30",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Ivory",
-      "available": true
-     }
-    ],
-    "code": "SX459A",
-    "date": "2025-12-30"
    },
    {
     "id": "nep-8311419732151",
@@ -6294,11 +6260,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/h-d-painter-jean-poly-coat-sateen",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX188A-0.jpg?v=1774074333",
     "created": "2026-03-20",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Grey",
-      "available": true
+      "available": false
      }
     ],
     "code": "SX188A",
