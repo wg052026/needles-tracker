@@ -5115,40 +5115,6 @@
     "date": "2026-03-08"
    },
    {
-    "id": "nep-8490241949879",
-    "title": "Shooting Jacket - Waxed Cloth",
-    "price_yen": "¥50,050",
-    "url": "https://onlinestore.nepenthes.co.jp/products/shooting-jacket-waxed-cloth",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX138A-0.jpg?v=1772948097",
-    "created": "2026-03-08",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Brown",
-      "available": true
-     }
-    ],
-    "code": "SX138A",
-    "date": "2026-03-08"
-   },
-   {
-    "id": "nep-8475026751671",
-    "title": "3B Jacket - Cotton Oxford Patchwork",
-    "price_yen": "¥27,500",
-    "url": "https://onlinestore.nepenthes.co.jp/products/3b-jacket-cotton-oxford-patchwork-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX314B-0.jpg?v=1772342302",
-    "created": "2026-02-28",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Brw/Grn",
-      "available": true
-     }
-    ],
-    "code": "SX314B",
-    "date": "2026-02-28"
-   },
-   {
     "id": "nep-8475026718903",
     "title": "3B Jacket - Cotton Oxford Patchwork",
     "price_yen": "¥27,500",
@@ -5234,23 +5200,6 @@
     "date": "2026-02-13"
    },
    {
-    "id": "nep-8417231274167",
-    "title": "Side Tab Boot-Cut Trouser - Poly Oxford Plaid",
-    "price_yen": "¥18,150",
-    "url": "https://onlinestore.nepenthes.co.jp/products/side-tab-boot-cut-trouser-polyoxpl-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX091B-0.jpg?v=1771066302",
-    "created": "2026-02-13",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Navy",
-      "available": true
-     }
-    ],
-    "code": "SX091B",
-    "date": "2026-02-13"
-   },
-   {
     "id": "nep-8417231241399",
     "title": "Side Tab Boot-Cut Trouser - Poly Oxford Plaid",
     "price_yen": "¥18,150",
@@ -5265,23 +5214,6 @@
      }
     ],
     "code": "SX091A",
-    "date": "2026-02-13"
-   },
-   {
-    "id": "nep-8417231208631",
-    "title": "2B Jacket - Poly Oxford Plaid",
-    "price_yen": "¥38,500",
-    "url": "https://onlinestore.nepenthes.co.jp/products/2b-jacket-poly-oxford-plaid-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX090B-0.jpg?v=1771066392",
-    "created": "2026-02-13",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Navy",
-      "available": true
-     }
-    ],
-    "code": "SX090B",
     "date": "2026-02-13"
    },
    {
