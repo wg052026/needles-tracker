@@ -3914,11 +3914,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/reversible-news-paper-bag-camotwill",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX070-0_88ab2b26-2261-4e5c-b73b-59c2b7babd73.jpg?v=1767852781",
     "created": "2025-12-22",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Camouflage",
-      "available": true
+      "available": false
      }
     ],
     "code": "SX070",
@@ -8939,11 +8939,11 @@
     "url": "https://mix.tokyo/products/7816213207",
     "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816213207-020_MAIN.jpg?v=1782126199",
     "created": "2026-06-19",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "ブラック",
-      "available": true
+      "available": false
      },
      {
       "name": "グレー",
