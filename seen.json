@@ -3908,23 +3908,6 @@
     "date": "2026-01-31"
    },
    {
-    "id": "nep-8320016285879",
-    "title": "Reversible News Paper Bag - Camo Twill",
-    "price_yen": "¥18,700",
-    "url": "https://onlinestore.nepenthes.co.jp/products/reversible-news-paper-bag-camotwill",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX070-0_88ab2b26-2261-4e5c-b73b-59c2b7babd73.jpg?v=1767852781",
-    "created": "2025-12-22",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Camouflage",
-      "available": false
-     }
-    ],
-    "code": "SX070",
-    "date": "2025-12-22"
-   },
-   {
     "id": "nep-8314261799095",
     "title": "Coverall - PE/C Twill",
     "price_yen": "¥58,300",
@@ -6251,23 +6234,6 @@
      }
     ],
     "code": "SX187B",
-    "date": "2026-03-20"
-   },
-   {
-    "id": "nep-8513865121975",
-    "title": "H.D. Painter Jean - Poly Coated Sateen",
-    "price_yen": "¥15,950",
-    "url": "https://onlinestore.nepenthes.co.jp/products/h-d-painter-jean-poly-coat-sateen",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX188A-0.jpg?v=1774074333",
-    "created": "2026-03-20",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Grey",
-      "available": false
-     }
-    ],
-    "code": "SX188A",
     "date": "2026-03-20"
    },
    {
