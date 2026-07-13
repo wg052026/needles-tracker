@@ -7513,23 +7513,6 @@
     "date": "2026-07-07"
    },
    {
-    "id": "stu-g116240146265",
-    "title": "別注 Track Jacket - Poly Smooth",
-    "price_yen": "¥28,600",
-    "url": "https://studious.co.jp/shop/g/g116240146265/",
-    "img": "https://studious.co.jp/img/goods/S/116240146265_e925e1e8221340e6b8c82616d2a27334.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "RW1587",
-    "date": "2026-06-03"
-   },
-   {
     "id": "stu-g116250118154",
     "title": "別注 Piping Cowboy Jacket - Poly Double Cloth",
     "price_yen": "¥39,600",
@@ -7561,40 +7544,6 @@
      }
     ],
     "code": "RW1592",
-    "date": "2026-06-03"
-   },
-   {
-    "id": "stu-g116253014833",
-    "title": "Piping Cowboy Jacket - Poly Double Cloth",
-    "price_yen": "¥39,600",
-    "url": "https://studious.co.jp/shop/g/g116253014833/",
-    "img": "https://studious.co.jp/img/goods/S/116253014833_725208c7f4f9471aaee3b4a63a3490f8.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "SX223",
-    "date": "2026-06-29"
-   },
-   {
-    "id": "stu-g116254001895",
-    "title": "Reversible Hooded Coat - Camo Twill",
-    "price_yen": "¥66,000",
-    "url": "https://studious.co.jp/shop/g/g116254001895/",
-    "img": "https://studious.co.jp/img/goods/S/116254001895_f6b42cb1819c4d1bbbc0982c85787670.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "SX143",
     "date": "2026-06-03"
    },
    {
@@ -7637,6 +7586,40 @@
      }
     ],
     "code": "SX197",
+    "date": "2026-06-03"
+   },
+   {
+    "id": "stu-g116253014833",
+    "title": "Piping Cowboy Jacket - Poly Double Cloth",
+    "price_yen": "¥39,600",
+    "url": "https://studious.co.jp/shop/g/g116253014833/",
+    "img": "https://studious.co.jp/img/goods/S/116253014833_725208c7f4f9471aaee3b4a63a3490f8.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "SX223",
+    "date": "2026-06-29"
+   },
+   {
+    "id": "stu-g116254001895",
+    "title": "Reversible Hooded Coat - Camo Twill",
+    "price_yen": "¥66,000",
+    "url": "https://studious.co.jp/shop/g/g116254001895/",
+    "img": "https://studious.co.jp/img/goods/S/116254001895_f6b42cb1819c4d1bbbc0982c85787670.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "SX143",
     "date": "2026-06-03"
    },
    {
