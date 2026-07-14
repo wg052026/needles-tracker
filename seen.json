@@ -3880,23 +3880,6 @@
     "date": "2026-01-31"
    },
    {
-    "id": "nep-8164305731767",
-    "title": "Darts Bottom Jean Jacket  - 12oz Denim",
-    "price_yen": "¥39,600",
-    "url": "https://onlinestore.nepenthes.co.jp/products/darts-bottom-jean-jkt-12oz-denim-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/QV158B-0_2bde3b47-73be-4775-91cd-78d7e7ab265f.jpg?v=1751689395",
-    "created": "2025-07-01",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Black",
-      "available": true
-     }
-    ],
-    "code": "RW232B",
-    "date": "2025-07-01"
-   },
-   {
     "id": "nep-8068676780215",
     "title": "〈Needles〉x〈Factory900〉 RF-170",
     "price_yen": "¥60,500",
@@ -3980,6 +3963,23 @@
     ],
     "code": "SX517",
     "date": "2025-12-15"
+   },
+   {
+    "id": "nep-8164302160055",
+    "title": "Coverall - Reversed Sateen",
+    "price_yen": "¥38,500",
+    "url": "https://onlinestore.nepenthes.co.jp/products/coverall-reversed-sateen-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/QV145B-0_799aa3fe-7832-4e7a-a518-afdd331061b0.jpg?v=1751689942",
+    "created": "2025-07-01",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "RW215B",
+    "date": "2025-07-01"
    },
    {
     "id": "nep-8164302094519",
@@ -5053,23 +5053,6 @@
     "date": "2026-03-08"
    },
    {
-    "id": "nep-8490242179255",
-    "title": "Penny Jean Jacket - Poly Twill",
-    "price_yen": "¥19,800",
-    "url": "https://onlinestore.nepenthes.co.jp/products/penny-jean-jacket-poly-twill-25",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX227B-0.jpg?v=1772948207",
-    "created": "2026-03-08",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Brown",
-      "available": true
-     }
-    ],
-    "code": "SX227B",
-    "date": "2026-03-08"
-   },
-   {
     "id": "nep-8490242146487",
     "title": "Penny Jean Jacket - Poly Twill",
     "price_yen": "¥19,800",
@@ -5306,23 +5289,6 @@
     ],
     "code": "SX377A",
     "date": "2026-01-31"
-   },
-   {
-    "id": "nep-8366950613175",
-    "title": "Half Zip Work Shirt - Brushed Linen Canvas",
-    "price_yen": "¥14,850",
-    "url": "https://onlinestore.nepenthes.co.jp/products/half-zip-work-shirt-brushlinencanv-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX295B-0.jpg?v=1769162316",
-    "created": "2026-01-23",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Purple",
-      "available": true
-     }
-    ],
-    "code": "SX295B",
-    "date": "2026-01-23"
    },
    {
     "id": "nep-8366950187191",
@@ -6257,23 +6223,6 @@
      }
     ],
     "code": "SX187B",
-    "date": "2026-03-20"
-   },
-   {
-    "id": "nep-8513865154743",
-    "title": "H.D. Painter Jean - Poly Coated Sateen",
-    "price_yen": "¥15,950",
-    "url": "https://onlinestore.nepenthes.co.jp/products/h-d-painter-jean-poly-coat-sateen-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX188B-0.jpg?v=1774074231",
-    "created": "2026-03-20",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Black",
-      "available": true
-     }
-    ],
-    "code": "SX188B",
     "date": "2026-03-20"
    },
    {
@@ -8937,7 +8886,7 @@
     "title": "NEEDLES（ニードルズ） 【B'2nd EXCLUSIVE】TRACK JACKET - POLY SMOOTH",
     "price_yen": "¥26,000",
     "url": "https://mix.tokyo/products/7856255222",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856255222-110_MAIN.jpg?v=1783945435",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856255222-110_MAIN.jpg?v=1784026992",
     "created": "2026-07-03",
     "soldout": false,
     "colors": [
@@ -8966,7 +8915,7 @@
     "title": "NEEDLES（ニードルズ） 【B'2nd EXCLUSIVE】H.D.TRACK PANT - POLY SMOOTH",
     "price_yen": "¥21,000",
     "url": "https://mix.tokyo/products/7856210237",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856210237-054_MAIN.jpg?v=1783957615",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856210237-054_MAIN.jpg?v=1784026985",
     "created": "2026-07-03",
     "soldout": false,
     "colors": [
