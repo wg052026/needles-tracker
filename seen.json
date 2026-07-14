@@ -2379,6 +2379,22 @@
   "nep-8417231175863": {
    "first": "2026-02-13",
    "title": "2B Jacket - Poly Oxford Plaid"
+  },
+  "nep-8664304910519": {
+   "first": "2026-07-14",
+   "title": "LUX-2 Needles Edition with Studs"
+  },
+  "nep-8664304615607": {
+   "first": "2026-07-14",
+   "title": "LUX-2 Needles Edition with Studs"
+  },
+  "nep-8664298553527": {
+   "first": "2026-07-14",
+   "title": "Swedish Clog - Tassel / Smooth"
+  },
+  "nep-8664298782903": {
+   "first": "2026-07-14",
+   "title": "Swedish Clog - Tassel / Smooth"
   }
  },
  "STUDIOUS": {
@@ -2845,6 +2861,30 @@
   "stu-g115322135765": {
    "first": "2026-07-07",
    "title": "別注 Papillon Emb. Pocket S/S Tee"
+  },
+  "stu-g116581001160": {
+   "first": "2026-07-14",
+   "title": "別注 Nylon Cap - Papillon Embroidery BLACK"
+  },
+  "stu-g116581001170": {
+   "first": "2026-07-14",
+   "title": "別注 Nylon Cap - Papillon Embroidery IVORY"
+  },
+  "stu-g116581001180": {
+   "first": "2026-07-14",
+   "title": "別注 Nylon Cap - Papillon Embroidery MINT"
+  },
+  "stu-g116440013163": {
+   "first": "2026-07-14",
+   "title": "別注 H.D. Track Short - Poly Mesh"
+  },
+  "stu-g116440014163": {
+   "first": "2026-07-14",
+   "title": "別注 H.D. Track Pant - Poly Mesh"
+  },
+  "stu-g116440015163": {
+   "first": "2026-07-14",
+   "title": "別注 S/S Track Crew Neck Shirt - Mesh"
   }
  },
  "MIX.TOKYO": {
@@ -7051,9 +7091,179 @@
     ],
     "code": "TY481B",
     "date": "2026-07-08"
+   },
+   {
+    "id": "nep-8664304910519",
+    "title": "LUX-2 Needles Edition with Studs",
+    "price_yen": "¥21,780",
+    "url": "https://onlinestore.nepenthes.co.jp/products/lux-2-needles-edition-with-studs-3",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX531B-0.jpg?v=1774919908",
+    "created": "2026-07-14",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY510B",
+    "date": "2026-07-14"
+   },
+   {
+    "id": "nep-8664304615607",
+    "title": "LUX-2 Needles Edition with Studs",
+    "price_yen": "¥21,780",
+    "url": "https://onlinestore.nepenthes.co.jp/products/lux-2-needles-edition-with-studs-2",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX531A-0_64e8f6ba-5ae2-4fcc-ab8a-db68399b391d.jpg?v=1774939618",
+    "created": "2026-07-14",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Purple",
+      "available": true
+     }
+    ],
+    "code": "TY510A",
+    "date": "2026-07-14"
+   },
+   {
+    "id": "nep-8664298553527",
+    "title": "Swedish Clog - Tassel / Smooth",
+    "price_yen": "¥36,300",
+    "url": "https://onlinestore.nepenthes.co.jp/products/swedish-clog-tassel-smooth-4",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/RW427A-0.jpg?v=1764058198",
+    "created": "2026-07-14",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Brown",
+      "available": true
+     }
+    ],
+    "code": "TY504A",
+    "date": "2026-07-14"
+   },
+   {
+    "id": "nep-8664298782903",
+    "title": "Swedish Clog - Tassel / Smooth",
+    "price_yen": "¥36,300",
+    "url": "https://onlinestore.nepenthes.co.jp/products/swedish-clog-tassel-smooth-5",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/RW427B-0.jpg?v=1764058240",
+    "created": "2026-07-14",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY504B",
+    "date": "2026-07-14"
    }
   ],
   "STUDIOUS": [
+   {
+    "id": "stu-g116581001160",
+    "title": "別注 Nylon Cap - Papillon Embroidery BLACK",
+    "price_yen": "¥12,100",
+    "url": "https://studious.co.jp/shop/g/g116581001160/",
+    "img": "https://studious.co.jp/img/goods/S/116581001160_f558c746c3f54cb4814ad63a7850cafb.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "SX1558",
+    "date": "2026-07-14"
+   },
+   {
+    "id": "stu-g116581001170",
+    "title": "別注 Nylon Cap - Papillon Embroidery IVORY",
+    "price_yen": "¥12,100",
+    "url": "https://studious.co.jp/shop/g/g116581001170/",
+    "img": "https://studious.co.jp/img/goods/S/116581001170_c0cd71c8a12844058bdf7643dfddd151.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "SX1558",
+    "date": "2026-07-14"
+   },
+   {
+    "id": "stu-g116581001180",
+    "title": "別注 Nylon Cap - Papillon Embroidery MINT",
+    "price_yen": "¥12,100",
+    "url": "https://studious.co.jp/shop/g/g116581001180/",
+    "img": "https://studious.co.jp/img/goods/S/116581001180_0175f2d827b54bfcaae64bbf4c6d965e.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "SX1558",
+    "date": "2026-07-14"
+   },
+   {
+    "id": "stu-g116440013163",
+    "title": "別注 H.D. Track Short - Poly Mesh",
+    "price_yen": "¥22,000",
+    "url": "https://studious.co.jp/shop/g/g116440013163/",
+    "img": "https://studious.co.jp/img/goods/S/116440013163_b2c5286eeb014ea1a3a9a82b011adc4d.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "SX1543",
+    "date": "2026-07-14"
+   },
+   {
+    "id": "stu-g116440014163",
+    "title": "別注 H.D. Track Pant - Poly Mesh",
+    "price_yen": "¥23,100",
+    "url": "https://studious.co.jp/shop/g/g116440014163/",
+    "img": "https://studious.co.jp/img/goods/S/116440014163_08b1810970f642678000dfcef3328f3b.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "SX1549",
+    "date": "2026-07-14"
+   },
+   {
+    "id": "stu-g116440015163",
+    "title": "別注 S/S Track Crew Neck Shirt - Mesh",
+    "price_yen": "¥20,900",
+    "url": "https://studious.co.jp/shop/g/g116440015163/",
+    "img": "https://studious.co.jp/img/goods/S/116440015163_48a06a8efb834551be2b1ad58dbd11c0.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "SX1548",
+    "date": "2026-07-14"
+   },
    {
     "id": "stu-g116340100033",
     "title": "別注 H.D.Track Pant - COOL",
@@ -8787,15 +8997,15 @@
     "url": "https://mix.tokyo/products/7846223201",
     "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846223201-030_MAIN.jpg?v=1783958692",
     "created": "2026-05-14",
-    "soldout": true,
+    "soldout": false,
     "colors": [
      {
       "name": "ブラック",
-      "available": false
+      "available": true
      },
      {
       "name": "ホワイト",
-      "available": false
+      "available": true
      }
     ],
     "code": "",
@@ -9703,7 +9913,7 @@
     "url": "https://mix.tokyo/products/7846110256",
     "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846110256-010_MAIN.jpg?v=1783957933",
     "created": "2026-03-24",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "ブラック",
@@ -9719,7 +9929,7 @@
      },
      {
       "name": "オリーブ",
-      "available": true
+      "available": false
      }
     ],
     "code": "",
