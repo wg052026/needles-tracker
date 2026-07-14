@@ -5461,23 +5461,6 @@
     "date": "2026-01-23"
    },
    {
-    "id": "nep-8366949564599",
-    "title": "Coverall - Embroidered Twill",
-    "price_yen": "¥26,950",
-    "url": "https://onlinestore.nepenthes.co.jp/products/coverall-embroidered-twill",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX180A-0.jpg?v=1769156008",
-    "created": "2026-01-23",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Purple",
-      "available": true
-     }
-    ],
-    "code": "SX180A",
-    "date": "2026-01-23"
-   },
-   {
     "id": "nep-8366949073079",
     "title": "N-3 Jacket - Cotton Herringbone",
     "price_yen": "¥27,500",
