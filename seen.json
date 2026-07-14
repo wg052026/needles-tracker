@@ -4078,23 +4078,6 @@
     "date": "2026-02-28"
    },
    {
-    "id": "nep-8452401791159",
-    "title": "Work Shirt - 8oz Denim Jacquard",
-    "price_yen": "¥15,950",
-    "url": "https://onlinestore.nepenthes.co.jp/products/work-shirt-8oz-denim-jacquard-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX209B-0.jpg?v=1771668853",
-    "created": "2026-02-21",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Black",
-      "available": true
-     }
-    ],
-    "code": "SX209B",
-    "date": "2026-02-21"
-   },
-   {
     "id": "nep-8347725562039",
     "title": "Two Tuck Trouser - Stripe Karsey",
     "price_yen": "¥25,300",
@@ -8804,15 +8787,15 @@
     "url": "https://mix.tokyo/products/7846223201",
     "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846223201-030_MAIN.jpg?v=1783958692",
     "created": "2026-05-14",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "ブラック",
-      "available": true
+      "available": false
      },
      {
       "name": "ホワイト",
-      "available": true
+      "available": false
      }
     ],
     "code": "",
