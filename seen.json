@@ -2407,6 +2407,30 @@
   "nep-8664269619383": {
    "first": "2026-07-14",
    "title": "Field Pant - Cotton Ripstop"
+  },
+  "nep-8664233181367": {
+   "first": "2026-07-14",
+   "title": "Ring - 925 Silver"
+  },
+  "nep-8664233672887": {
+   "first": "2026-07-14",
+   "title": "Ring - K18"
+  },
+  "nep-8664254546103": {
+   "first": "2026-07-14",
+   "title": "Necklace - White Pearl"
+  },
+  "nep-8664254906551": {
+   "first": "2026-07-14",
+   "title": "Necklace - Black Onyx"
+  },
+  "nep-8664254808247": {
+   "first": "2026-07-14",
+   "title": "Necklace - Turquoise"
+  },
+  "nep-8664254677175": {
+   "first": "2026-07-14",
+   "title": "Necklace - Red Coral"
   }
  },
  "STUDIOUS": {
@@ -3343,6 +3367,10 @@
   "mix-7952070377537": {
    "first": "2026-07-03",
    "title": "NEEDLES（ニードルズ） 【B'2nd EXCLUSIVE】H.D.TRACK PANT - POLY SMOOTH"
+  },
+  "mix-7977932292161": {
+   "first": "2026-07-14",
+   "title": "NEEDLES（ニードルズ）7 Cut Wide Tee - College"
   }
  },
  "_snapshots": {
@@ -5711,23 +5739,6 @@
     "date": "2025-12-15"
    },
    {
-    "id": "nep-8311413866679",
-    "title": "Ring - Gold Plate",
-    "price_yen": "¥20,900",
-    "url": "https://onlinestore.nepenthes.co.jp/products/ring-gold-plate-27",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/PU016A-0.jpg?v=1721373469",
-    "created": "2025-12-15",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Peace",
-      "available": false
-     }
-    ],
-    "code": "SX002A",
-    "date": "2025-12-15"
-   },
-   {
     "id": "nep-8179064996023",
     "title": "Large Peace Ring - Gold Plate",
     "price_yen": "¥41,800",
@@ -7037,6 +7048,108 @@
     "date": "2026-07-08"
    },
    {
+    "id": "nep-8664233181367",
+    "title": "Ring - 925 Silver",
+    "price_yen": "¥17,600",
+    "url": "https://onlinestore.nepenthes.co.jp/products/ring-925-silver-27",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX001A-Peace.jpg?v=1784095284",
+    "created": "2026-07-14",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Peace",
+      "available": true
+     }
+    ],
+    "code": "TY001A",
+    "date": "2026-07-14"
+   },
+   {
+    "id": "nep-8664233672887",
+    "title": "Ring - K18",
+    "price_yen": "¥374,000",
+    "url": "https://onlinestore.nepenthes.co.jp/products/ring-k18-6",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX003A-Peace.jpg?v=1784095170",
+    "created": "2026-07-14",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Peace",
+      "available": true
+     }
+    ],
+    "code": "TY003A",
+    "date": "2026-07-14"
+   },
+   {
+    "id": "nep-8664254546103",
+    "title": "Necklace - White Pearl",
+    "price_yen": "¥51,700",
+    "url": "https://onlinestore.nepenthes.co.jp/products/necklace-white-pearl-9",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/PU044-0.jpg?v=1720601274",
+    "created": "2026-07-14",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "White",
+      "available": true
+     }
+    ],
+    "code": "TY043",
+    "date": "2026-07-14"
+   },
+   {
+    "id": "nep-8664254906551",
+    "title": "Necklace - Black Onyx",
+    "price_yen": "¥26,400",
+    "url": "https://onlinestore.nepenthes.co.jp/products/necklace-black-onyx-9",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/PU047-0.jpg?v=1720601226",
+    "created": "2026-07-14",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY046",
+    "date": "2026-07-14"
+   },
+   {
+    "id": "nep-8664254808247",
+    "title": "Necklace - Turquoise",
+    "price_yen": "¥42,900",
+    "url": "https://onlinestore.nepenthes.co.jp/products/necklace-turquoise-9",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/PU046-0.jpg?v=1720601240",
+    "created": "2026-07-14",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Blue",
+      "available": true
+     }
+    ],
+    "code": "TY045",
+    "date": "2026-07-14"
+   },
+   {
+    "id": "nep-8664254677175",
+    "title": "Necklace - Red Coral",
+    "price_yen": "¥36,300",
+    "url": "https://onlinestore.nepenthes.co.jp/products/necklace-red-coral-9",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/PU045-0.jpg?v=1720601264",
+    "created": "2026-07-14",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Red",
+      "available": true
+     }
+    ],
+    "code": "TY044",
+    "date": "2026-07-14"
+   },
+   {
     "id": "nep-8664269193399",
     "title": "Field Pant - Cotton Ripstop",
     "price_yen": "¥29,700",
@@ -7623,6 +7736,23 @@
     ],
     "code": "SX406",
     "date": "2026-06-20"
+   },
+   {
+    "id": "stu-g116343110163",
+    "title": "別注 H.D Track Short Pant - Poly Smooth",
+    "price_yen": "¥23,100",
+    "url": "https://studious.co.jp/shop/g/g116343110163/",
+    "img": "https://studious.co.jp/img/goods/S/116343110163_8a2bcc21ba654c88bd04d0638f23a10e.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "SX1543",
+    "date": "2026-06-04"
    },
    {
     "id": "stu-g116240384163",
@@ -8927,6 +9057,23 @@
    }
   ],
   "MIX.TOKYO": [
+   {
+    "id": "mix-7977932292161",
+    "title": "NEEDLES（ニードルズ）7 Cut Wide Tee - College",
+    "price_yen": "¥10,000",
+    "url": "https://mix.tokyo/products/7856134331",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856134331-363_MAIN.jpg?v=1784028657",
+    "created": "2026-07-14",
+    "soldout": true,
+    "colors": [
+     {
+      "name": "アザー",
+      "available": false
+     }
+    ],
+    "code": "",
+    "date": "2026-07-14"
+   },
    {
     "id": "mix-7952070836289",
     "title": "NEEDLES（ニードルズ） 【B'2nd EXCLUSIVE】TRACK JACKET - POLY SMOOTH",
