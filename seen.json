@@ -5099,11 +5099,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/penny-jean-jacket-poly-twill-24",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX227A-0.jpg?v=1772948179",
     "created": "2026-03-08",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Indigo",
-      "available": true
+      "available": false
      }
     ],
     "code": "SX227A",
@@ -5226,23 +5226,6 @@
      }
     ],
     "code": "SX091A",
-    "date": "2026-02-13"
-   },
-   {
-    "id": "nep-8417231175863",
-    "title": "2B Jacket - Poly Oxford Plaid",
-    "price_yen": "¥38,500",
-    "url": "https://onlinestore.nepenthes.co.jp/products/2b-jacket-poly-oxford-plaid",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX090A-0.jpg?v=1771066420",
-    "created": "2026-02-13",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Red",
-      "available": false
-     }
-    ],
-    "code": "SX090A",
     "date": "2026-02-13"
    },
    {
@@ -6306,11 +6289,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/darts-cut-jean-12oz-denim",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX214A-0.jpg?v=1774673233",
     "created": "2026-03-28",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Indigo",
-      "available": true
+      "available": false
      }
     ],
     "code": "SX214A",
@@ -10394,7 +10377,7 @@
     "url": "https://mix.tokyo/products/7846132222",
     "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846132222-010_MAIN.jpg?v=1783958188",
     "created": "2026-03-16",
-    "soldout": true,
+    "soldout": false,
     "colors": [
      {
       "name": "ブラック",
@@ -10402,7 +10385,7 @@
      },
      {
       "name": "グレー",
-      "available": false
+      "available": true
      }
     ],
     "code": "",
