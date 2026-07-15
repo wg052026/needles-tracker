@@ -2395,6 +2395,18 @@
   "nep-8664298782903": {
    "first": "2026-07-14",
    "title": "Swedish Clog - Tassel / Smooth"
+  },
+  "nep-8664269193399": {
+   "first": "2026-07-14",
+   "title": "Field Pant - Cotton Ripstop"
+  },
+  "nep-8664269390007": {
+   "first": "2026-07-14",
+   "title": "Field Pant - Cotton Ripstop"
+  },
+  "nep-8664269619383": {
+   "first": "2026-07-14",
+   "title": "Field Pant - Cotton Ripstop"
   }
  },
  "STUDIOUS": {
@@ -7023,6 +7035,57 @@
     ],
     "code": "TY481B",
     "date": "2026-07-08"
+   },
+   {
+    "id": "nep-8664269193399",
+    "title": "Field Pant - Cotton Ripstop",
+    "price_yen": "¥29,700",
+    "url": "https://onlinestore.nepenthes.co.jp/products/field-pant-cotton-ripstop-3",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX158A-0.jpg?v=1774075146",
+    "created": "2026-07-14",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Olive",
+      "available": true
+     }
+    ],
+    "code": "TY205A",
+    "date": "2026-07-14"
+   },
+   {
+    "id": "nep-8664269390007",
+    "title": "Field Pant - Cotton Ripstop",
+    "price_yen": "¥29,700",
+    "url": "https://onlinestore.nepenthes.co.jp/products/field-pant-cotton-ripstop-4",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX158B-0.jpg?v=1774075084",
+    "created": "2026-07-14",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY205B",
+    "date": "2026-07-14"
+   },
+   {
+    "id": "nep-8664269619383",
+    "title": "Field Pant - Cotton Ripstop",
+    "price_yen": "¥29,700",
+    "url": "https://onlinestore.nepenthes.co.jp/products/field-pant-cotton-ripstop-5",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX158C-0.jpg?v=1774074981",
+    "created": "2026-07-14",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Woodland",
+      "available": true
+     }
+    ],
+    "code": "TY205C",
+    "date": "2026-07-14"
    },
    {
     "id": "nep-8664304910519",
