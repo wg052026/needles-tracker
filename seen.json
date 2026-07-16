@@ -5490,11 +5490,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/p-44-jacket-cotton-herringbone",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX152A-0.jpg?v=1769155627",
     "created": "2026-01-23",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Olive",
-      "available": true
+      "available": false
      }
     ],
     "code": "SX152A",
@@ -9134,11 +9134,11 @@
     "url": "https://mix.tokyo/products/7816210225",
     "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816210225-020_MAIN.jpg?v=1784113374",
     "created": "2026-06-19",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "ブラック",
-      "available": true
+      "available": false
      },
      {
       "name": "グレー",
@@ -9646,7 +9646,7 @@
     "title": "NEEDLES/ニードルズ/BASE BALL CAP - JACQUARD",
     "price_yen": "¥6,000",
     "url": "https://mix.tokyo/products/7846174241",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846174241-110_MAIN.jpg?v=1784176189",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846174241-110_MAIN.jpg?v=1784214204",
     "created": "2026-03-24",
     "soldout": true,
     "colors": [
@@ -9696,7 +9696,7 @@
     "title": "NEEDLES/ニードルズ/TRACK PANT - TRICOT SATEEN",
     "price_yen": "¥12,000",
     "url": "https://mix.tokyo/products/7846110253",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846110253-120_MAIN.jpg?v=1784175772",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846110253-120_MAIN.jpg?v=1784214472",
     "created": "2026-04-16",
     "soldout": true,
     "colors": [
@@ -9742,7 +9742,7 @@
     "title": "NEEDLES/ニードルズ/PIPING COWBOY PT - DOUBLE CLOTH",
     "price_yen": "¥15,000",
     "url": "https://mix.tokyo/products/7846110254",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846110254-010_MAIN.jpg?v=1784175951",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846110254-010_MAIN.jpg?v=1784214369",
     "created": "2026-04-08",
     "soldout": true,
     "colors": [
@@ -9851,7 +9851,7 @@
     "title": "NEEDLES/ニードルズ/TRACK JACKET - JACQUARD",
     "price_yen": "¥13,000",
     "url": "https://mix.tokyo/products/7846152233",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846152233-150_MAIN.jpg?v=1784176009",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846152233-150_MAIN.jpg?v=1784214479",
     "created": "2026-03-24",
     "soldout": false,
     "colors": [
@@ -9943,7 +9943,7 @@
     "title": "NEEDLES/ニードルズ/TRACK JACKET - POYL SMOOTH",
     "price_yen": "¥13,000",
     "url": "https://mix.tokyo/products/7846152234",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846152234-010_MAIN.jpg?v=1784176133",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846152234-010_MAIN.jpg?v=1784214643",
     "created": "2026-03-24",
     "soldout": true,
     "colors": [
@@ -9985,7 +9985,7 @@
     "title": "NEEDLES/ニードルズ/TRACK PANT - JACQUARD",
     "price_yen": "¥10,500",
     "url": "https://mix.tokyo/products/7846110256",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846110256-010_MAIN.jpg?v=1784176305",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846110256-010_MAIN.jpg?v=1784214573",
     "created": "2026-03-24",
     "soldout": true,
     "colors": [
