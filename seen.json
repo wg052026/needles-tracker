@@ -5195,23 +5195,6 @@
     "date": "2026-02-13"
    },
    {
-    "id": "nep-8417231241399",
-    "title": "Side Tab Boot-Cut Trouser - Poly Oxford Plaid",
-    "price_yen": "¥18,150",
-    "url": "https://onlinestore.nepenthes.co.jp/products/side-tab-boot-cut-trouser-polyoxpl",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX091A-0.jpg?v=1771066361",
-    "created": "2026-02-13",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Red",
-      "available": true
-     }
-    ],
-    "code": "SX091A",
-    "date": "2026-02-13"
-   },
-   {
     "id": "nep-8417230979255",
     "title": "Double Breasted Jacket - Lame Stripe",
     "price_yen": "¥45,650",
@@ -9159,7 +9142,7 @@
      },
      {
       "name": "グレー",
-      "available": true
+      "available": false
      }
     ],
     "code": "",
