@@ -5093,23 +5093,6 @@
     "date": "2026-03-08"
    },
    {
-    "id": "nep-8490242146487",
-    "title": "Penny Jean Jacket - Poly Twill",
-    "price_yen": "¥19,800",
-    "url": "https://onlinestore.nepenthes.co.jp/products/penny-jean-jacket-poly-twill-24",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX227A-0.jpg?v=1772948179",
-    "created": "2026-03-08",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Indigo",
-      "available": false
-     }
-    ],
-    "code": "SX227A",
-    "date": "2026-03-08"
-   },
-   {
     "id": "nep-8490241982647",
     "title": "Shooting Jacket - Waxed Cloth",
     "price_yen": "¥50,050",
@@ -6280,23 +6263,6 @@
      }
     ],
     "code": "SX172B",
-    "date": "2026-03-28"
-   },
-   {
-    "id": "nep-8519123108023",
-    "title": "Darts Cut Jean - 12oz Denim",
-    "price_yen": "¥13,750",
-    "url": "https://onlinestore.nepenthes.co.jp/products/darts-cut-jean-12oz-denim",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX214A-0.jpg?v=1774673233",
-    "created": "2026-03-28",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Indigo",
-      "available": false
-     }
-    ],
-    "code": "SX214A",
     "date": "2026-03-28"
    },
    {
