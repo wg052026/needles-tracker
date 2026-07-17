@@ -3815,6 +3815,10 @@
   "mix-7952072409153": {
    "first": "2026-07-03",
    "title": "NEEDLES/ニードルズ/【LHP EXCLUSIVE】TRACK JACKET - SEERSUCKER"
+  },
+  "mix-7968667795521": {
+   "first": "2026-07-08",
+   "title": "NEEDLES/ニードルズ/【LHP EXCLUSIVE】H.D.TRACK SHORTS - SEERSUCKER"
   }
  },
  "_snapshots": {
@@ -4908,23 +4912,6 @@
     "date": "2026-02-07"
    },
    {
-    "id": "nep-8402283331767",
-    "title": "H.D. Short - Ratine Jacquard",
-    "price_yen": "¥14,850",
-    "url": "https://onlinestore.nepenthes.co.jp/products/h-d-short-ratine-jacquard",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX251A-0.jpg?v=1770445085",
-    "created": "2026-02-07",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Plaid",
-      "available": true
-     }
-    ],
-    "code": "SX251A",
-    "date": "2026-02-07"
-   },
-   {
     "id": "nep-8374319349943",
     "title": "H.D. Pant - Paisley Jacquard",
     "price_yen": "¥45,100",
@@ -5585,23 +5572,6 @@
      }
     ],
     "code": "SX227C",
-    "date": "2026-03-08"
-   },
-   {
-    "id": "nep-8490241982647",
-    "title": "Shooting Jacket - Waxed Cloth",
-    "price_yen": "¥50,050",
-    "url": "https://onlinestore.nepenthes.co.jp/products/shooting-jacket-waxed-cloth-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX138B-0.jpg?v=1772948121",
-    "created": "2026-03-08",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Black",
-      "available": true
-     }
-    ],
-    "code": "SX138B",
     "date": "2026-03-08"
    },
    {
@@ -9737,31 +9707,6 @@
     "date": "2026-07-07"
    },
    {
-    "id": "stu-g116302139034",
-    "title": "別注 Track Shirts - COOL",
-    "price_yen": "¥25,300",
-    "url": "https://studious.co.jp/shop/g/g116302139034/",
-    "img": "https://studious.co.jp/img/goods/S/116302139034_144a6182ec0f4e18832c67875db4b513.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     },
-     {
-      "name": "",
-      "available": null
-     },
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "SX1545",
-    "date": "2026-07-07"
-   },
-   {
     "id": "stu-g116322192035",
     "title": "別注 Track S/S Crew Neck Shirt - COOL",
     "price_yen": "¥20,900",
@@ -9787,21 +9732,29 @@
     "date": "2026-07-07"
    },
    {
-    "id": "stu-g116587020074",
-    "title": "Ring - 925 Silver (Papillon)",
-    "price_yen": "¥17,600",
-    "url": "https://studious.co.jp/shop/g/g116587020074/",
-    "img": "https://studious.co.jp/img/goods/S/116587020074_c6bb2b85559344c88c9f65903c252a1f.jpg",
+    "id": "stu-g116302139034",
+    "title": "別注 Track Shirts - COOL",
+    "price_yen": "¥25,300",
+    "url": "https://studious.co.jp/shop/g/g116302139034/",
+    "img": "https://studious.co.jp/img/goods/S/116302139034_144a6182ec0f4e18832c67875db4b513.jpg",
     "created": "",
     "soldout": false,
     "colors": [
      {
       "name": "",
       "available": null
+     },
+     {
+      "name": "",
+      "available": null
+     },
+     {
+      "name": "",
+      "available": null
      }
     ],
-    "code": "",
-    "date": "2026-07-17"
+    "code": "SX1545",
+    "date": "2026-07-07"
    },
    {
     "id": "stu-g116540139163",
@@ -9833,11 +9786,11 @@
     "date": "2026-07-17"
    },
    {
-    "id": "stu-g116340097063",
-    "title": "別注 Piping Cowboy H.D. Pant - Amunzen",
-    "price_yen": "¥27,500",
-    "url": "https://studious.co.jp/shop/g/g116340097063/",
-    "img": "https://studious.co.jp/img/goods/S/116340097063_21eb718ce5fb4d9290743bcfa1776795.jpg",
+    "id": "stu-g116587020074",
+    "title": "Ring - 925 Silver (Papillon)",
+    "price_yen": "¥17,600",
+    "url": "https://studious.co.jp/shop/g/g116587020074/",
+    "img": "https://studious.co.jp/img/goods/S/116587020074_c6bb2b85559344c88c9f65903c252a1f.jpg",
     "created": "",
     "soldout": false,
     "colors": [
@@ -9846,8 +9799,8 @@
       "available": null
      }
     ],
-    "code": "SX1553",
-    "date": "2026-06-10"
+    "code": "",
+    "date": "2026-07-17"
    },
    {
     "id": "stu-g115322136165",
@@ -9894,23 +9847,6 @@
     ],
     "code": "SX1554",
     "date": "2026-06-10"
-   },
-   {
-    "id": "stu-g116258012165",
-    "title": "別注Track Jacket - Poly Smooth",
-    "price_yen": "¥28,600",
-    "url": "https://studious.co.jp/shop/g/g116258012165/",
-    "img": "https://studious.co.jp/img/goods/S/116258012165_3f1204485b8c41a5a6e5e62baaf7bdb2.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "SX1539",
-    "date": "2026-06-16"
    },
    {
     "id": "stu-g116302132165",
@@ -10035,6 +9971,27 @@
     "date": "2026-06-20"
    },
    {
+    "id": "stu-g116372001162",
+    "title": "Needles x PPACO LUX-2 Needles Edition with Studs",
+    "price_yen": "¥21,780",
+    "url": "https://studious.co.jp/shop/g/g116372001162/",
+    "img": "https://studious.co.jp/img/goods/S/116372001162_9fdebdcb7602447e8687f79a3c106567.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     },
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "SX531",
+    "date": "2026-06-03"
+   },
+   {
     "id": "stu-g116322089005",
     "title": "S/S Crew Neck Tee - Poly Jersey",
     "price_yen": "¥12,100",
@@ -10074,27 +10031,6 @@
      }
     ],
     "code": "SX425",
-    "date": "2026-06-03"
-   },
-   {
-    "id": "stu-g116372001162",
-    "title": "Needles x PPACO LUX-2 Needles Edition with Studs",
-    "price_yen": "¥21,780",
-    "url": "https://studious.co.jp/shop/g/g116372001162/",
-    "img": "https://studious.co.jp/img/goods/S/116372001162_9fdebdcb7602447e8687f79a3c106567.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     },
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "SX531",
     "date": "2026-06-03"
    },
    {
@@ -11397,6 +11333,27 @@
   ],
   "MIX.TOKYO": [
    {
+    "id": "mix-7968667795521",
+    "title": "NEEDLES/ニードルズ/【LHP EXCLUSIVE】H.D.TRACK SHORTS - SEERSUCKER",
+    "price_yen": "¥23,000",
+    "url": "https://mix.tokyo/products/7846213224",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846213224-030_MAIN.jpg?v=1784286117",
+    "created": "2026-07-08",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "ブラック",
+      "available": true
+     },
+     {
+      "name": "ホワイト",
+      "available": true
+     }
+    ],
+    "code": "",
+    "date": "2026-07-08"
+   },
+   {
     "id": "mix-7968667762753",
     "title": "NEEDLES/ニードルズ/【LHP EXCLUSIVE】H.D.TRACK PANT - SEERSUCKER",
     "price_yen": "¥24,000",
@@ -11750,7 +11707,7 @@
     "url": "https://mix.tokyo/products/7816135201",
     "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816135201-050_MAIN.jpg?v=1783963187",
     "created": "2026-06-11",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "ブラック",
@@ -11762,7 +11719,7 @@
      },
      {
       "name": "ブラウン",
-      "available": true
+      "available": false
      }
     ],
     "code": "",
