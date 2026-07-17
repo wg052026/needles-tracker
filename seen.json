@@ -2921,6 +2921,10 @@
   "stu-g116440015163": {
    "first": "2026-07-14",
    "title": "別注 S/S Track Crew Neck Shirt - Mesh"
+  },
+  "stu-g116540139163": {
+   "first": "2026-07-17",
+   "title": "H.D. Pant - BDU"
   }
  },
  "MIX.TOKYO": {
@@ -3371,6 +3375,14 @@
   "mix-7977932292161": {
    "first": "2026-07-14",
    "title": "NEEDLES（ニードルズ）7 Cut Wide Tee - College"
+  },
+  "mix-7968667762753": {
+   "first": "2026-07-08",
+   "title": "NEEDLES/ニードルズ/【LHP EXCLUSIVE】H.D.TRACK PANT - SEERSUCKER"
+  },
+  "mix-7952072409153": {
+   "first": "2026-07-03",
+   "title": "NEEDLES/ニードルズ/【LHP EXCLUSIVE】TRACK JACKET - SEERSUCKER"
   }
  },
  "_snapshots": {
@@ -7405,6 +7417,35 @@
     "date": "2026-07-07"
    },
    {
+    "id": "stu-g116540139163",
+    "title": "H.D. Pant - BDU",
+    "price_yen": "¥26,400",
+    "url": "https://studious.co.jp/shop/g/g116540139163/",
+    "img": "https://studious.co.jp/img/goods/S/116540139163_8769546c6aef4a1daf55b0ffa228b8b6.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     },
+     {
+      "name": "",
+      "available": null
+     },
+     {
+      "name": "",
+      "available": null
+     },
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "TY210A",
+    "date": "2026-07-17"
+   },
+   {
     "id": "stu-g116340097063",
     "title": "別注 Piping Cowboy H.D. Pant - Amunzen",
     "price_yen": "¥27,500",
@@ -7815,27 +7856,6 @@
      }
     ],
     "code": "SX424",
-    "date": "2026-06-03"
-   },
-   {
-    "id": "stu-g116240029163",
-    "title": "H.D. Pant - BDU",
-    "price_yen": "¥26,400",
-    "url": "https://studious.co.jp/shop/g/g116240029163/",
-    "img": "https://studious.co.jp/img/goods/S/116240029163_48e5ffa9deec4d38ade559df82712b2d.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     },
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "SX197",
     "date": "2026-06-03"
    },
    {
@@ -8990,6 +9010,48 @@
   ],
   "MIX.TOKYO": [
    {
+    "id": "mix-7968667762753",
+    "title": "NEEDLES/ニードルズ/【LHP EXCLUSIVE】H.D.TRACK PANT - SEERSUCKER",
+    "price_yen": "¥24,000",
+    "url": "https://mix.tokyo/products/7846210258",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846210258-030_MAIN.jpg?v=1784142114",
+    "created": "2026-07-08",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "ブラック",
+      "available": true
+     },
+     {
+      "name": "ホワイト",
+      "available": true
+     }
+    ],
+    "code": "",
+    "date": "2026-07-08"
+   },
+   {
+    "id": "mix-7952072409153",
+    "title": "NEEDLES/ニードルズ/【LHP EXCLUSIVE】TRACK JACKET - SEERSUCKER",
+    "price_yen": "¥28,000",
+    "url": "https://mix.tokyo/products/7846252254",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846252254-010_MAIN.jpg?v=1784113360",
+    "created": "2026-07-03",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "ブラック",
+      "available": true
+     },
+     {
+      "name": "ホワイト",
+      "available": true
+     }
+    ],
+    "code": "",
+    "date": "2026-07-03"
+   },
+   {
     "id": "mix-7977932292161",
     "title": "NEEDLES（ニードルズ）7 Cut Wide Tee - College",
     "price_yen": "¥10,000",
@@ -9473,7 +9535,7 @@
     "title": "NEEDLES（ニードルズ)【B'2nd EXCLUSIVE】 H.D. Pant - BDU / DENIM",
     "price_yen": "¥28,000",
     "url": "https://mix.tokyo/products/7856211219",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856211219-010_MAIN.jpg?v=1783964302",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856211219-010_MAIN.jpg?v=1784228571",
     "created": "2026-05-14",
     "soldout": false,
     "colors": [
@@ -10514,27 +10576,6 @@
     ],
     "code": "",
     "date": "2025-12-16"
-   },
-   {
-    "id": "mix-7786915201089",
-    "title": "Needles/ニードルズ　別注H.D. Track Short - Cotton Jersey",
-    "price_yen": "¥28,000",
-    "url": "https://mix.tokyo/products/7816113211",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816113211-020_MAIN.jpg?v=1783941238",
-    "created": "2026-02-05",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "ブラック",
-      "available": false
-     },
-     {
-      "name": "グレー",
-      "available": false
-     }
-    ],
-    "code": "",
-    "date": "2026-02-05"
    }
   ]
  }
