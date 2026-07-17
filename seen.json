@@ -4850,11 +4850,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/piping-cowboy-pant-p-double-cloth-1",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX224B-0.jpg?v=1771668755",
     "created": "2026-02-21",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Purple",
-      "available": true
+      "available": false
      }
     ],
     "code": "SX224B",
@@ -5921,11 +5921,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/painter-skirt-embroidered-twill-1",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX182B-0.jpg?v=1769156116",
     "created": "2026-01-23",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Black",
-      "available": true
+      "available": false
      }
     ],
     "code": "SX182B",
@@ -6652,11 +6652,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/embroidered-tunic-cu-r-gauze-1",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX280B-0.jpg?v=1773472559",
     "created": "2026-03-14",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Burgundy",
-      "available": true
+      "available": false
      }
     ],
     "code": "SX280B",
