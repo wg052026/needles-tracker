@@ -4419,23 +4419,6 @@
     "date": "2026-01-31"
    },
    {
-    "id": "nep-8347727495351",
-    "title": "S/S Western Shirt - Rayon Leopard Jacquard",
-    "price_yen": "¥15,950",
-    "url": "https://onlinestore.nepenthes.co.jp/products/s-s-western-shirt-ryn-leopard-jacq",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX274A-0.jpg?v=1767070685",
-    "created": "2025-12-30",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Gold",
-      "available": true
-     }
-    ],
-    "code": "SX274A",
-    "date": "2025-12-30"
-   },
-   {
     "id": "nep-8314261799095",
     "title": "Coverall - PE/C Twill",
     "price_yen": "¥58,300",
@@ -4842,40 +4825,6 @@
     ],
     "code": "SX2103A",
     "date": "2026-03-03"
-   },
-   {
-    "id": "nep-8452401922231",
-    "title": "Piping Cowboy Pant - Poly Double Cloth",
-    "price_yen": "¥16,500",
-    "url": "https://onlinestore.nepenthes.co.jp/products/piping-cowboy-pant-p-double-cloth-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX224B-0.jpg?v=1771668755",
-    "created": "2026-02-21",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Purple",
-      "available": false
-     }
-    ],
-    "code": "SX224B",
-    "date": "2026-02-21"
-   },
-   {
-    "id": "nep-8452401889463",
-    "title": "Piping Cowboy Pant - Poly Double Cloth",
-    "price_yen": "¥16,500",
-    "url": "https://onlinestore.nepenthes.co.jp/products/piping-cowboy-pant-p-double-cloth",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX224A-0.jpg?v=1771668788",
-    "created": "2026-02-21",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Brown",
-      "available": true
-     }
-    ],
-    "code": "SX224A",
-    "date": "2026-02-21"
    },
    {
     "id": "nep-8446707761335",
@@ -5915,23 +5864,6 @@
     "date": "2026-01-23"
    },
    {
-    "id": "nep-8366949761207",
-    "title": "Painter Skirt - Embroidered Twill",
-    "price_yen": "¥19,800",
-    "url": "https://onlinestore.nepenthes.co.jp/products/painter-skirt-embroidered-twill-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX182B-0.jpg?v=1769156116",
-    "created": "2026-01-23",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Black",
-      "available": false
-     }
-    ],
-    "code": "SX182B",
-    "date": "2026-01-23"
-   },
-   {
     "id": "nep-8366949662903",
     "title": "Painter Pant - Embroidered Twill",
     "price_yen": "¥20,350",
@@ -5998,40 +5930,6 @@
     ],
     "code": "SX152B",
     "date": "2026-01-23"
-   },
-   {
-    "id": "nep-8361713402039",
-    "title": "Jumpsuit - Poly Light Double Cloth",
-    "price_yen": "¥26,950",
-    "url": "https://onlinestore.nepenthes.co.jp/products/jumpsuit-poly-light-double-cloth-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX235B-0.jpg?v=1768559648",
-    "created": "2026-01-16",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Red",
-      "available": true
-     }
-    ],
-    "code": "SX235B",
-    "date": "2026-01-16"
-   },
-   {
-    "id": "nep-8361713369271",
-    "title": "Jumpsuit - Poly Light Double Cloth",
-    "price_yen": "¥26,950",
-    "url": "https://onlinestore.nepenthes.co.jp/products/jumpsuit-poly-light-double-cloth",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX235A-0.jpg?v=1768559604",
-    "created": "2026-01-16",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Tan",
-      "available": false
-     }
-    ],
-    "code": "SX235A",
-    "date": "2026-01-16"
    },
    {
     "id": "nep-8361711009975",
@@ -6646,23 +6544,6 @@
     "date": "2026-03-14"
    },
    {
-    "id": "nep-8500225343671",
-    "title": "Embroidered Tunic - CU/R Gauze",
-    "price_yen": "¥15,950",
-    "url": "https://onlinestore.nepenthes.co.jp/products/embroidered-tunic-cu-r-gauze-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX280B-0.jpg?v=1773472559",
-    "created": "2026-03-14",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Burgundy",
-      "available": false
-     }
-    ],
-    "code": "SX280B",
-    "date": "2026-03-14"
-   },
-   {
     "id": "nep-8513864990903",
     "title": "Coverall - Poly Coated Sateen",
     "price_yen": "¥23,100",
@@ -6779,23 +6660,6 @@
      }
     ],
     "code": "SX214B",
-    "date": "2026-03-28"
-   },
-   {
-    "id": "nep-8519123632311",
-    "title": "Work Shirt - PE/W Gabardine",
-    "price_yen": "¥15,400",
-    "url": "https://onlinestore.nepenthes.co.jp/products/work-shirt-pe-w-gabardine",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX232A-0.jpg?v=1774673096",
-    "created": "2026-03-28",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Greige",
-      "available": false
-     }
-    ],
-    "code": "SX232A",
     "date": "2026-03-28"
    },
    {
@@ -12129,7 +11993,7 @@
     "colors": [
      {
       "name": "ブラック",
-      "available": true
+      "available": false
      },
      {
       "name": "グレー",
