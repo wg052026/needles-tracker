@@ -6023,11 +6023,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/jumpsuit-poly-light-double-cloth",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX235A-0.jpg?v=1768559604",
     "created": "2026-01-16",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Tan",
-      "available": true
+      "available": false
      }
     ],
     "code": "SX235A",
@@ -6788,11 +6788,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/work-shirt-pe-w-gabardine",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX232A-0.jpg?v=1774673096",
     "created": "2026-03-28",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Greige",
-      "available": true
+      "available": false
      }
     ],
     "code": "SX232A",
