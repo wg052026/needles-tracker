@@ -5870,11 +5870,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/painter-pant-embroidered-twill",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX181A-0.jpg?v=1769156048",
     "created": "2026-01-23",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Purple",
-      "available": true
+      "available": false
      }
     ],
     "code": "SX181A",
@@ -8947,11 +8947,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/s-s-crew-neck-tee-poly-jersey-24",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/QV362B-0.jpg?v=1738050127",
     "created": "2026-07-14",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Dk. Purple",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY402B",
