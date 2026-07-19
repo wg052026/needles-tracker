@@ -5564,11 +5564,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/jean-jacket-13oz-denim-jacquard",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX205A-0.jpg?v=1772342114",
     "created": "2026-02-28",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Indigo",
-      "available": true
+      "available": false
      }
     ],
     "code": "SX205A",
