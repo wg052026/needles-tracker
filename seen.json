@@ -4289,11 +4289,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/zipped-track-pant-poly-smooth-26",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/RW319C-0.jpg?v=1751688438",
     "created": "2025-07-01",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Red",
-      "available": true
+      "available": false
      }
     ],
     "code": "RW319C",
