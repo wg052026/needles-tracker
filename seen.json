@@ -4912,23 +4912,6 @@
     "date": "2026-01-23"
    },
    {
-    "id": "nep-8366948909239",
-    "title": "Officer Coat - Cotton Weather Cloth",
-    "price_yen": "¥38,500",
-    "url": "https://onlinestore.nepenthes.co.jp/products/officer-coat-cotton-weather-cloth",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX151A-0.jpg?v=1769155587",
-    "created": "2026-01-23",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Olive",
-      "available": true
-     }
-    ],
-    "code": "SX151A",
-    "date": "2026-01-23"
-   },
-   {
     "id": "nep-8314261864631",
     "title": "Coverall - PE/C Twill",
     "price_yen": "¥58,300",
