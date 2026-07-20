@@ -11552,7 +11552,7 @@
      },
      {
       "name": "チャコール",
-      "available": false
+      "available": true
      }
     ],
     "code": "",
@@ -12301,7 +12301,7 @@
      },
      {
       "name": "ブルー",
-      "available": true
+      "available": false
      },
      {
       "name": "オレンジ",
