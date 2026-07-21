@@ -9368,23 +9368,6 @@
     "date": "2026-07-14"
    },
    {
-    "id": "stu-g116440014163",
-    "title": "別注 H.D. Track Pant - Poly Mesh",
-    "price_yen": "¥23,100",
-    "url": "https://studious.co.jp/shop/g/g116440014163/",
-    "img": "https://studious.co.jp/img/goods/S/116440014163_08b1810970f642678000dfcef3328f3b.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "SX1549",
-    "date": "2026-07-14"
-   },
-   {
     "id": "stu-g116440015163",
     "title": "別注 S/S Track Crew Neck Shirt - Mesh",
     "price_yen": "¥20,900",
@@ -11706,7 +11689,7 @@
     "colors": [
      {
       "name": "ブラック",
-      "available": true
+      "available": false
      },
      {
       "name": "グレー",
