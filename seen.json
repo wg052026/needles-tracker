@@ -4153,11 +4153,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/peace-buckle-bracelet-python",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/products/MR050-0.jpg?v=1675400809",
     "created": "2022-12-12",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Python",
-      "available": true
+      "available": false
      }
     ],
     "code": "MR050",
@@ -6448,11 +6448,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/warm-up-boot-cut-pant-pe-w-gaba",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX234A-0_41b992e3-3a03-4faf-aa49-09b0938a909b.jpg?v=1773472739",
     "created": "2026-03-14",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Greige",
-      "available": true
+      "available": false
      }
     ],
     "code": "SX234A",
