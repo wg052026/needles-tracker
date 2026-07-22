@@ -2855,6 +2855,14 @@
   "nep-8666573701303": {
    "first": "2026-07-15",
    "title": "Sensu"
+  },
+  "nep-8664290459831": {
+   "first": "2026-07-14",
+   "title": "Track Pant - Tricot Sateen"
+  },
+  "nep-8664290590903": {
+   "first": "2026-07-14",
+   "title": "Track Pant - Tricot Sateen"
   }
  },
  "STUDIOUS": {
@@ -3819,6 +3827,18 @@
   "mix-7968667795521": {
    "first": "2026-07-08",
    "title": "NEEDLES/ニードルズ/【LHP EXCLUSIVE】H.D.TRACK SHORTS - SEERSUCKER"
+  },
+  "mix-7981536641089": {
+   "first": "2026-07-15",
+   "title": "Needles/ニードルズ　別注Track Jacket - Poly Smooth"
+  },
+  "mix-7981536378945": {
+   "first": "2026-07-15",
+   "title": "Needles/ニードルズ　別注Track Pant - Poly Smooth"
+  },
+  "mix-7956939702337": {
+   "first": "2026-07-06",
+   "title": "NEEDLES（ニードルズ） 【B'2nd EXCLUSIVE】H.D.TRACK PANT - TRICOT SATEEN"
   }
  },
  "_snapshots": {
@@ -6442,23 +6462,6 @@
     "date": "2026-03-14"
    },
    {
-    "id": "nep-8500225212599",
-    "title": "Warm Up Boot Cut Pant - PE/W Gabardine",
-    "price_yen": "¥15,950",
-    "url": "https://onlinestore.nepenthes.co.jp/products/warm-up-boot-cut-pant-pe-w-gaba",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX234A-0_41b992e3-3a03-4faf-aa49-09b0938a909b.jpg?v=1773472739",
-    "created": "2026-03-14",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Greige",
-      "available": false
-     }
-    ],
-    "code": "SX234A",
-    "date": "2026-03-14"
-   },
-   {
     "id": "nep-8513864990903",
     "title": "Coverall - Poly Coated Sateen",
     "price_yen": "¥23,100",
@@ -8822,6 +8825,40 @@
     "date": "2026-07-14"
    },
    {
+    "id": "nep-8664290459831",
+    "title": "Track Pant - Tricot Sateen",
+    "price_yen": "¥26,400",
+    "url": "https://onlinestore.nepenthes.co.jp/products/track-pant-tricot-sateen-2",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX218A-0.jpg?v=1774673176",
+    "created": "2026-07-14",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Navy",
+      "available": true
+     }
+    ],
+    "code": "TY250A",
+    "date": "2026-07-14"
+   },
+   {
+    "id": "nep-8664290590903",
+    "title": "Track Pant - Tricot Sateen",
+    "price_yen": "¥26,400",
+    "url": "https://onlinestore.nepenthes.co.jp/products/track-pant-tricot-sateen-3",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX218B-0.jpg?v=1774673143",
+    "created": "2026-07-14",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY250B",
+    "date": "2026-07-14"
+   },
+   {
     "id": "nep-8664291836087",
     "title": "L/S Mock Neck Tee - Poly Jersey",
     "price_yen": "¥13,200",
@@ -11027,6 +11064,85 @@
   ],
   "MIX.TOKYO": [
    {
+    "id": "mix-7981536641089",
+    "title": "Needles/ニードルズ　別注Track Jacket - Poly Smooth",
+    "price_yen": "¥26,000",
+    "url": "https://mix.tokyo/products/7816252236",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816252236-440_MAIN.jpg?v=1784115073",
+    "created": "2026-07-15",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "ブラック",
+      "available": true
+     },
+     {
+      "name": "ブラウン",
+      "available": true
+     },
+     {
+      "name": "チャコール",
+      "available": true
+     },
+     {
+      "name": "ロイヤル",
+      "available": true
+     }
+    ],
+    "code": "",
+    "date": "2026-07-15"
+   },
+   {
+    "id": "mix-7981536378945",
+    "title": "Needles/ニードルズ　別注Track Pant - Poly Smooth",
+    "price_yen": "¥21,000",
+    "url": "https://mix.tokyo/products/7816210222",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816210222-440_MAIN.jpg?v=1784115067",
+    "created": "2026-07-15",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "ブラック",
+      "available": true
+     },
+     {
+      "name": "ブラウン",
+      "available": true
+     },
+     {
+      "name": "チャコール",
+      "available": true
+     },
+     {
+      "name": "ロイヤル",
+      "available": true
+     }
+    ],
+    "code": "",
+    "date": "2026-07-15"
+   },
+   {
+    "id": "mix-7956939702337",
+    "title": "NEEDLES（ニードルズ） 【B'2nd EXCLUSIVE】H.D.TRACK PANT - TRICOT SATEEN",
+    "price_yen": "¥21,000",
+    "url": "https://mix.tokyo/products/7856210239",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856210239-110_MAIN.jpg?v=1784228559",
+    "created": "2026-07-06",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "ブラック",
+      "available": true
+     },
+     {
+      "name": "ブルー",
+      "available": true
+     }
+    ],
+    "code": "",
+    "date": "2026-07-06"
+   },
+   {
     "id": "mix-7968667795521",
     "title": "NEEDLES/ニードルズ/【LHP EXCLUSIVE】H.D.TRACK SHORTS - SEERSUCKER",
     "price_yen": "¥23,000",
@@ -11037,7 +11153,7 @@
     "colors": [
      {
       "name": "ブラック",
-      "available": true
+      "available": false
      },
      {
       "name": "ホワイト",
@@ -11827,7 +11943,7 @@
      },
      {
       "name": "グレー",
-      "available": true
+      "available": false
      },
      {
       "name": "オフホワイト",
