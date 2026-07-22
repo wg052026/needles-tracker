@@ -9779,40 +9779,6 @@
     "date": "2026-06-03"
    },
    {
-    "id": "stu-g116343110163",
-    "title": "別注 H.D Track Short Pant - Poly Smooth",
-    "price_yen": "¥23,100",
-    "url": "https://studious.co.jp/shop/g/g116343110163/",
-    "img": "https://studious.co.jp/img/goods/S/116343110163_8a2bcc21ba654c88bd04d0638f23a10e.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "SX1543",
-    "date": "2026-06-04"
-   },
-   {
-    "id": "stu-g116240384163",
-    "title": "別注 H.D Track Pant - Amunzen",
-    "price_yen": "¥27,500",
-    "url": "https://studious.co.jp/shop/g/g116240384163/",
-    "img": "https://studious.co.jp/img/goods/S/116240384163_a8890bf2887647b09701e32cf85e5a65.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "SX1552",
-    "date": "2026-06-23"
-   },
-   {
     "id": "stu-g116258006114",
     "title": "別注 Papillon Emb. Cardigan - Art Pique Pleats",
     "price_yen": "¥23,100",
@@ -10724,23 +10690,6 @@
     "date": "2026-06-03"
    },
    {
-    "id": "stu-g115402034164",
-    "title": "別注 Fatigue S/S Shirt - 撥水Nylon",
-    "price_yen": "¥18,700",
-    "url": "https://studious.co.jp/shop/g/g115402034164/",
-    "img": "https://studious.co.jp/img/goods/S/115402034164_7daad950a3094b859591a31f8d377a2f.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "",
-    "date": "2026-06-03"
-   },
-   {
     "id": "stu-g114523004204",
     "title": "2-Tone Crew Neck Sweat Shirt - Cotton French Terry",
     "price_yen": "¥37,400",
@@ -11373,15 +11322,15 @@
     "url": "https://mix.tokyo/products/7816211205",
     "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816211205-113_MAIN.jpg?v=1784113384",
     "created": "2026-06-15",
-    "soldout": true,
+    "soldout": false,
     "colors": [
      {
       "name": "ブラック",
-      "available": false
+      "available": true
      },
      {
       "name": "ライトブルー",
-      "available": false
+      "available": true
      }
     ],
     "code": "",
