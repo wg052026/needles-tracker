@@ -5822,11 +5822,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/coverall-embroidered-twill-1",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX180B-0.jpg?v=1769156026",
     "created": "2026-01-23",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Black",
-      "available": true
+      "available": false
      }
     ],
     "code": "SX180B",
@@ -11256,7 +11256,7 @@
     "title": "NEEDLES（ニードルズ） 【B'2nd EXCLUSIVE】H.D.TRACK PANT - POLY SMOOTH",
     "price_yen": "¥21,000",
     "url": "https://mix.tokyo/products/7856210237",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856210237-054_MAIN.jpg?v=1784026985",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856210237-054_MAIN.jpg?v=1784718183",
     "created": "2026-07-03",
     "soldout": false,
     "colors": [
@@ -11442,7 +11442,7 @@
     "colors": [
      {
       "name": "ブラック",
-      "available": true
+      "available": false
      },
      {
       "name": "ライトブルー",
