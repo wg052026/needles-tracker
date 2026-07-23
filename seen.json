@@ -4167,23 +4167,6 @@
     "date": "2025-07-17"
    },
    {
-    "id": "nep-7251577372855",
-    "title": "Peace Buckle Bracelet - Python",
-    "price_yen": "¥13,200",
-    "url": "https://onlinestore.nepenthes.co.jp/products/peace-buckle-bracelet-python",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/products/MR050-0.jpg?v=1675400809",
-    "created": "2022-12-12",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Python",
-      "available": false
-     }
-    ],
-    "code": "MR050",
-    "date": "2022-12-12"
-   },
-   {
     "id": "nep-7251576520887",
     "title": "Peace Buckle Belt - Python",
     "price_yen": "¥26,400",
@@ -5830,23 +5813,6 @@
      }
     ],
     "code": "SX153A",
-    "date": "2026-01-23"
-   },
-   {
-    "id": "nep-8366949040311",
-    "title": "P-44 Jacket - Cotton Herringbone",
-    "price_yen": "¥29,700",
-    "url": "https://onlinestore.nepenthes.co.jp/products/p-44-jacket-cotton-herringbone-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX152B-0.jpg?v=1769155656",
-    "created": "2026-01-23",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Black",
-      "available": false
-     }
-    ],
-    "code": "SX152B",
     "date": "2026-01-23"
    },
    {
@@ -11577,7 +11543,7 @@
     "title": "NEEDLES/ニードルズ/【LHP EXCLUSIVE】TRACK JACKET - POLY SMOOTH",
     "price_yen": "¥26,000",
     "url": "https://mix.tokyo/products/7846252250",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846252250-011_MAIN.jpg?v=1783967696",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846252250-011_MAIN.jpg?v=1784746998",
     "created": "2026-05-25",
     "soldout": false,
     "colors": [
