@@ -11117,7 +11117,7 @@
     "title": "NEEDLES/ニードルズ/【LHP EXCLUSIVE】H.D.TRACK PANT - SEERSUCKER",
     "price_yen": "¥24,000",
     "url": "https://mix.tokyo/products/7846210258",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846210258-030_MAIN.jpg?v=1784746945",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846210258-030_MAIN.jpg?v=1784804615",
     "created": "2026-07-08",
     "soldout": false,
     "colors": [
@@ -11127,7 +11127,7 @@
      },
      {
       "name": "ホワイト",
-      "available": true
+      "available": false
      }
     ],
     "code": "",
@@ -11138,7 +11138,7 @@
     "title": "NEEDLES/ニードルズ/【LHP EXCLUSIVE】TRACK JACKET - SEERSUCKER",
     "price_yen": "¥28,000",
     "url": "https://mix.tokyo/products/7846252254",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846252254-010_MAIN.jpg?v=1784746933",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846252254-010_MAIN.jpg?v=1784804604",
     "created": "2026-07-03",
     "soldout": false,
     "colors": [
@@ -12650,35 +12650,6 @@
     ],
     "code": "",
     "date": "2026-03-17"
-   },
-   {
-    "id": "mix-7747168698433",
-    "title": "Needles/ニードルズ  別注Track Pant - Poly Smooth",
-    "price_yen": "¥21,000",
-    "url": "https://mix.tokyo/products/7816110242",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816110242-391_MAIN.jpg?v=1783963680",
-    "created": "2025-12-16",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "ブラック",
-      "available": false
-     },
-     {
-      "name": "ダークブラウン",
-      "available": true
-     },
-     {
-      "name": "サックス",
-      "available": true
-     },
-     {
-      "name": "チャコール",
-      "available": false
-     }
-    ],
-    "code": "",
-    "date": "2025-12-16"
    }
   ]
  }
