@@ -9069,11 +9069,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/piping-jacket-fringe-jacq-checker-1",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY173_B-Black_1.jpg?v=1784172206",
     "created": "2026-07-15",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Black",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY173B",
