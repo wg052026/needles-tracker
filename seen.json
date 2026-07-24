@@ -5697,23 +5697,6 @@
     "date": "2026-01-23"
    },
    {
-    "id": "nep-8366950056119",
-    "title": "Straight Jean - Poly Twill",
-    "price_yen": "¥14,300",
-    "url": "https://onlinestore.nepenthes.co.jp/products/straight-jean-poly-twill-13",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX229C-0.jpg?v=1769162041",
-    "created": "2026-01-23",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Purple",
-      "available": true
-     }
-    ],
-    "code": "SX229C",
-    "date": "2026-01-23"
-   },
-   {
     "id": "nep-8366949990583",
     "title": "Straight Jean - Poly Twill",
     "price_yen": "¥14,300",
@@ -9043,40 +9026,6 @@
      }
     ],
     "code": "TY067D",
-    "date": "2026-07-15"
-   },
-   {
-    "id": "nep-8666555678903",
-    "title": "Piping Jacket - Fringe Jacquard/Checker",
-    "price_yen": "¥42,900",
-    "url": "https://onlinestore.nepenthes.co.jp/products/piping-jacket-fringe-jacq-checker",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY173_A-Brown_1.jpg?v=1784172184",
-    "created": "2026-07-15",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Brown",
-      "available": true
-     }
-    ],
-    "code": "TY173A",
-    "date": "2026-07-15"
-   },
-   {
-    "id": "nep-8666555744439",
-    "title": "Piping Jacket - Fringe Jacquard/Checker",
-    "price_yen": "¥42,900",
-    "url": "https://onlinestore.nepenthes.co.jp/products/piping-jacket-fringe-jacq-checker-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY173_B-Black_1.jpg?v=1784172206",
-    "created": "2026-07-15",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Black",
-      "available": false
-     }
-    ],
-    "code": "TY173B",
     "date": "2026-07-15"
    },
    {
