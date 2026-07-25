@@ -11530,11 +11530,11 @@
     "url": "https://mix.tokyo/products/7846210258",
     "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846210258-030_MAIN.jpg?v=1784804615",
     "created": "2026-07-08",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "ブラック",
-      "available": true
+      "available": false
      },
      {
       "name": "ホワイト",
