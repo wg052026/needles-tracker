@@ -5757,11 +5757,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/boot-cut-jean-poly-twill-26",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX230C-0.jpg?v=1769162119",
     "created": "2026-01-23",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Purple",
-      "available": true
+      "available": false
      }
     ],
     "code": "SX230C",
