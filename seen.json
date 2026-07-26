@@ -5751,23 +5751,6 @@
     "date": "2026-01-31"
    },
    {
-    "id": "nep-8366950187191",
-    "title": "Boot-Cut Jean - Poly Twill",
-    "price_yen": "¥14,300",
-    "url": "https://onlinestore.nepenthes.co.jp/products/boot-cut-jean-poly-twill-26",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX230C-0.jpg?v=1769162119",
-    "created": "2026-01-23",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Purple",
-      "available": false
-     }
-    ],
-    "code": "SX230C",
-    "date": "2026-01-23"
-   },
-   {
     "id": "nep-8366950088887",
     "title": "Straight Jean - Poly Twill",
     "price_yen": "¥14,300",
@@ -12911,6 +12894,102 @@
      {
       "name": "グレー",
       "available": true
+     }
+    ],
+    "code": "",
+    "date": "2026-03-16"
+   },
+   {
+    "id": "mix-7855496724545",
+    "title": "Needles/ニードルズ　H.D. Track Pant - Poly Smooth",
+    "price_yen": "¥14,700",
+    "url": "https://mix.tokyo/products/7816110216",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816110216-436_MAIN.jpg?v=1783953176",
+    "created": "2026-03-17",
+    "soldout": true,
+    "colors": [
+     {
+      "name": "ダークグレー",
+      "available": false
+     },
+     {
+      "name": "グリーン",
+      "available": false
+     },
+     {
+      "name": "ラスト",
+      "available": false
+     }
+    ],
+    "code": "",
+    "date": "2026-03-17"
+   },
+   {
+    "id": "mix-7855496626241",
+    "title": "Needles/ニードルズ　Pleated Track Skirt - Poly Smooth",
+    "price_yen": "¥14,700",
+    "url": "https://mix.tokyo/products/7816114201",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816114201-436_MAIN.jpg?v=1783952185",
+    "created": "2026-03-17",
+    "soldout": true,
+    "colors": [
+     {
+      "name": "ダークグレー",
+      "available": false
+     },
+     {
+      "name": "グリーン",
+      "available": false
+     },
+     {
+      "name": "ラスト",
+      "available": false
+     }
+    ],
+    "code": "",
+    "date": "2026-03-17"
+   },
+   {
+    "id": "mix-7855496462401",
+    "title": "Needles/ニードルズ　Track Jacket - Poly Smooth",
+    "price_yen": "¥18,200",
+    "url": "https://mix.tokyo/products/7816152219",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816152219-436_MAIN.jpg?v=1783951894",
+    "created": "2026-03-17",
+    "soldout": true,
+    "colors": [
+     {
+      "name": "ダークグレー",
+      "available": false
+     },
+     {
+      "name": "グリーン",
+      "available": false
+     },
+     {
+      "name": "ラスト",
+      "available": false
+     }
+    ],
+    "code": "",
+    "date": "2026-03-17"
+   },
+   {
+    "id": "mix-7855206006849",
+    "title": "NEEDLES/ニードルズ/H.D.PANT - BDU",
+    "price_yen": "¥24,000",
+    "url": "https://mix.tokyo/products/7846110249",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846110249-010_MAIN.jpg?v=1783951578",
+    "created": "2026-03-16",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "ブラック",
+      "available": true
+     },
+     {
+      "name": "オリーブ",
+      "available": false
      }
     ],
     "code": "",
