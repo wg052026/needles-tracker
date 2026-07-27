@@ -2910,15 +2910,15 @@
   },
   "nep-8672550977719": {
    "first": "2026-07-17",
-   "title": "Track Pant - Poly Jq."
+   "title": "Track Pant - Poly Jacquard"
   },
   "nep-8672551108791": {
    "first": "2026-07-17",
-   "title": "Track Pant - Poly Jq."
+   "title": "Track Pant - Poly Jacquard"
   },
   "nep-8672551305399": {
    "first": "2026-07-17",
-   "title": "Track Pant - Poly Jq."
+   "title": "Track Pant - Poly Jacquard"
   },
   "nep-8672552550583": {
    "first": "2026-07-17",
@@ -2930,7 +2930,7 @@
   },
   "nep-8672551665847": {
    "first": "2026-07-17",
-   "title": "Track Pant - Poly Jq."
+   "title": "Track Pant - Poly Jacquard"
   },
   "nep-8672552911031": {
    "first": "2026-07-17",
@@ -2946,7 +2946,7 @@
   },
   "nep-8672551534775": {
    "first": "2026-07-17",
-   "title": "Track Pant - Poly Jq."
+   "title": "Track Pant - Poly Jacquard"
   },
   "nep-8672552321207": {
    "first": "2026-07-17",
@@ -6573,11 +6573,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/darts-cut-jean-12oz-denim-1",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX214B-0.jpg?v=1774673206",
     "created": "2026-03-28",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Black",
-      "available": true
+      "available": false
      }
     ],
     "code": "SX214B",
@@ -7516,23 +7516,6 @@
      }
     ],
     "code": "TY016",
-    "date": "2026-07-14"
-   },
-   {
-    "id": "nep-8664235245751",
-    "title": "Peace Bracelet / Small - 925 Silver",
-    "price_yen": "¥97,900",
-    "url": "https://onlinestore.nepenthes.co.jp/products/peace-bracelet-small-925-silver-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX015Silver.jpg?v=1784096745",
-    "created": "2026-07-14",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Silver",
-      "available": false
-     }
-    ],
-    "code": "TY014",
     "date": "2026-07-14"
    },
    {
@@ -9492,7 +9475,7 @@
    },
    {
     "id": "nep-8672550977719",
-    "title": "Track Pant - Poly Jq.",
+    "title": "Track Pant - Poly Jacquard",
     "price_yen": "¥23,100",
     "url": "https://onlinestore.nepenthes.co.jp/products/track-pant-poly-jq-33",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY348_A-PolkaDot_1.jpg?v=1784273590",
@@ -9509,7 +9492,7 @@
    },
    {
     "id": "nep-8672551108791",
-    "title": "Track Pant - Poly Jq.",
+    "title": "Track Pant - Poly Jacquard",
     "price_yen": "¥23,100",
     "url": "https://onlinestore.nepenthes.co.jp/products/track-pant-poly-jq-34",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY348_B-FrogEye_1.jpg?v=1784273548",
@@ -9526,7 +9509,7 @@
    },
    {
     "id": "nep-8672551305399",
-    "title": "Track Pant - Poly Jq.",
+    "title": "Track Pant - Poly Jacquard",
     "price_yen": "¥23,100",
     "url": "https://onlinestore.nepenthes.co.jp/products/track-pant-poly-jq-35",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY348_C-Vortex_1.jpg?v=1784273501",
@@ -9577,7 +9560,7 @@
    },
    {
     "id": "nep-8672551665847",
-    "title": "Track Pant - Poly Jq.",
+    "title": "Track Pant - Poly Jacquard",
     "price_yen": "¥23,100",
     "url": "https://onlinestore.nepenthes.co.jp/products/track-pant-poly-jq-37",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY348_E-Paisley_1.jpg?v=1784273257",
@@ -9645,7 +9628,7 @@
    },
    {
     "id": "nep-8672551534775",
-    "title": "Track Pant - Poly Jq.",
+    "title": "Track Pant - Poly Jacquard",
     "price_yen": "¥23,100",
     "url": "https://onlinestore.nepenthes.co.jp/products/track-pant-poly-jq-36",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY348_D-Geometric_1.jpg?v=1784273416",
@@ -12994,6 +12977,56 @@
     ],
     "code": "",
     "date": "2026-03-16"
+   },
+   {
+    "id": "mix-7855496527937",
+    "title": "Needles/ニードルズ  Track Pant - Poly Smooth",
+    "price_yen": "¥14,700",
+    "url": "https://mix.tokyo/products/7816110215",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816110215-436_MAIN.jpg?v=1783957630",
+    "created": "2026-03-17",
+    "soldout": true,
+    "colors": [
+     {
+      "name": "ダークグレー",
+      "available": false
+     },
+     {
+      "name": "グリーン",
+      "available": false
+     },
+     {
+      "name": "ラスト",
+      "available": false
+     }
+    ],
+    "code": "",
+    "date": "2026-03-17"
+   },
+   {
+    "id": "mix-7855496396865",
+    "title": "Needles/ニードルズ   Track Crew Neck Shirt - Poly Smooth",
+    "price_yen": "¥14,000",
+    "url": "https://mix.tokyo/products/7816130202",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816130202-140_MAIN.jpg?v=1783945967",
+    "created": "2026-03-17",
+    "soldout": true,
+    "colors": [
+     {
+      "name": "ダークグレー",
+      "available": false
+     },
+     {
+      "name": "グリーン",
+      "available": false
+     },
+     {
+      "name": "ラスト",
+      "available": false
+     }
+    ],
+    "code": "",
+    "date": "2026-03-17"
    }
   ]
  }
