@@ -4011,6 +4011,18 @@
   "mix-7956939702337": {
    "first": "2026-07-06",
    "title": "NEEDLES（ニードルズ） 【B'2nd EXCLUSIVE】H.D.TRACK PANT - TRICOT SATEEN"
+  },
+  "mix-7992829083713": {
+   "first": "2026-07-24",
+   "title": "NEEDLES/ニードルズ/H.D.PANT - BDU"
+  },
+  "mix-7992828624961": {
+   "first": "2026-07-24",
+   "title": "NEEDLES/ニードルズ/H.D.JEAN - 12oz DENIM"
+  },
+  "mix-7992828264513": {
+   "first": "2026-07-24",
+   "title": "NEEDLES/ニードルズ/H.D.BUGGY JEAN - 12oz DENIM"
   }
  },
  "_snapshots": {
@@ -11683,6 +11695,69 @@
   ],
   "MIX.TOKYO": [
    {
+    "id": "mix-7992829083713",
+    "title": "NEEDLES/ニードルズ/H.D.PANT - BDU",
+    "price_yen": "¥24,000",
+    "url": "https://mix.tokyo/products/7846210330",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846210330-310_MAIN.jpg?v=1785236580",
+    "created": "2026-07-24",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "ブラック",
+      "available": true
+     },
+     {
+      "name": "オリーブ",
+      "available": true
+     }
+    ],
+    "code": "",
+    "date": "2026-07-24"
+   },
+   {
+    "id": "mix-7992828624961",
+    "title": "NEEDLES/ニードルズ/H.D.JEAN - 12oz DENIM",
+    "price_yen": "¥29,000",
+    "url": "https://mix.tokyo/products/7846211267",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846211267-010_MAIN.jpg?v=1785236581",
+    "created": "2026-07-24",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "ブラック",
+      "available": true
+     },
+     {
+      "name": "インディゴ",
+      "available": true
+     }
+    ],
+    "code": "",
+    "date": "2026-07-24"
+   },
+   {
+    "id": "mix-7992828264513",
+    "title": "NEEDLES/ニードルズ/H.D.BUGGY JEAN - 12oz DENIM",
+    "price_yen": "¥29,000",
+    "url": "https://mix.tokyo/products/7846211268",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846211268-367_MAIN.jpg?v=1785236578",
+    "created": "2026-07-24",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "ブラック",
+      "available": true
+     },
+     {
+      "name": "インディゴ",
+      "available": true
+     }
+    ],
+    "code": "",
+    "date": "2026-07-24"
+   },
+   {
     "id": "mix-7981536641089",
     "title": "Needles/ニードルズ　別注Track Jacket - Poly Smooth",
     "price_yen": "¥26,000",
@@ -11768,7 +11843,7 @@
     "url": "https://mix.tokyo/products/7846213224",
     "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846213224-030_MAIN.jpg?v=1784746930",
     "created": "2026-07-08",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "ブラック",
@@ -11776,7 +11851,7 @@
      },
      {
       "name": "ホワイト",
-      "available": true
+      "available": false
      }
     ],
     "code": "",
