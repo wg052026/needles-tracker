@@ -11331,10 +11331,6 @@
      {
       "name": "",
       "available": null
-     },
-     {
-      "name": "",
-      "available": null
      }
     ],
     "code": "",
@@ -12132,7 +12128,7 @@
     "url": "https://mix.tokyo/products/7816211205",
     "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816211205-113_MAIN.jpg?v=1784113384",
     "created": "2026-06-15",
-    "soldout": true,
+    "soldout": false,
     "colors": [
      {
       "name": "ブラック",
@@ -12140,7 +12136,7 @@
      },
      {
       "name": "ライトブルー",
-      "available": false
+      "available": true
      }
     ],
     "code": "",
