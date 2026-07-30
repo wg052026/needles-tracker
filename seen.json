@@ -2622,15 +2622,15 @@
   },
   "nep-8664268767415": {
    "first": "2026-07-14",
-   "title": "Jungle Fatigue Jacket - Ctn Ripstop"
+   "title": "Jungle Fatigue Jacket - Cotton Ripstop"
   },
   "nep-8664268570807": {
    "first": "2026-07-14",
-   "title": "Jungle Fatigue Jacket - Ctn Ripstop"
+   "title": "Jungle Fatigue Jacket - Cotton Ripstop"
   },
   "nep-8664268964023": {
    "first": "2026-07-14",
-   "title": "Jungle Fatigue Jacket - Ctn Ripstop"
+   "title": "Jungle Fatigue Jacket - Cotton Ripstop"
   },
   "nep-8664269750455": {
    "first": "2026-07-14",
@@ -3617,6 +3617,14 @@
   "stu-g116587020074": {
    "first": "2026-07-17",
    "title": "Ring - 925 Silver (Papillon)"
+  },
+  "stu-g116540144163": {
+   "first": "2026-07-30",
+   "title": "Needles x FILA Ventisei H.D. Track Pant"
+  },
+  "stu-g116550131164": {
+   "first": "2026-07-30",
+   "title": "Needles x FILA Ventisei Track Jacket"
   }
  },
  "MIX.TOKYO": {
@@ -8342,7 +8350,7 @@
    },
    {
     "id": "nep-8664268767415",
-    "title": "Jungle Fatigue Jacket - Ctn Ripstop",
+    "title": "Jungle Fatigue Jacket - Cotton Ripstop",
     "price_yen": "¥45,100",
     "url": "https://onlinestore.nepenthes.co.jp/products/jungle-fatigue-jacket-ctn-ripstop-4",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX157B-0.jpg?v=1769155924",
@@ -8359,7 +8367,7 @@
    },
    {
     "id": "nep-8664268570807",
-    "title": "Jungle Fatigue Jacket - Ctn Ripstop",
+    "title": "Jungle Fatigue Jacket - Cotton Ripstop",
     "price_yen": "¥45,100",
     "url": "https://onlinestore.nepenthes.co.jp/products/jungle-fatigue-jacket-ctn-ripstop-3",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX157A-0.jpg?v=1769155890",
@@ -8376,7 +8384,7 @@
    },
    {
     "id": "nep-8664268964023",
-    "title": "Jungle Fatigue Jacket - Ctn Ripstop",
+    "title": "Jungle Fatigue Jacket - Cotton Ripstop",
     "price_yen": "¥45,100",
     "url": "https://onlinestore.nepenthes.co.jp/products/jungle-fatigue-jacket-ctn-ripstop-5",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX157C-0.jpg?v=1769155947",
@@ -10502,6 +10510,56 @@
   ],
   "STUDIOUS": [
    {
+    "id": "stu-g116540144163",
+    "title": "Needles x FILA Ventisei H.D. Track Pant",
+    "price_yen": "¥25,300",
+    "url": "https://studious.co.jp/shop/g/g116540144163/",
+    "img": "https://studious.co.jp/img/goods/S/116540144163_bebef75d11944987ba07285b5dbc19d1.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     },
+     {
+      "name": "",
+      "available": null
+     },
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "",
+    "date": "2026-07-30"
+   },
+   {
+    "id": "stu-g116550131164",
+    "title": "Needles x FILA Ventisei Track Jacket",
+    "price_yen": "¥28,600",
+    "url": "https://studious.co.jp/shop/g/g116550131164/",
+    "img": "https://studious.co.jp/img/goods/S/116550131164_0aed61689f1048deb46db8f0a651c93f.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     },
+     {
+      "name": "",
+      "available": null
+     },
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "",
+    "date": "2026-07-30"
+   },
+   {
     "id": "stu-g116581001160",
     "title": "別注 Nylon Cap - Papillon Embroidery BLACK",
     "price_yen": "¥12,100",
@@ -10704,23 +10762,6 @@
     "date": "2026-07-07"
    },
    {
-    "id": "stu-g116587020074",
-    "title": "Ring - 925 Silver (Papillon)",
-    "price_yen": "¥17,600",
-    "url": "https://studious.co.jp/shop/g/g116587020074/",
-    "img": "https://studious.co.jp/img/goods/S/116587020074_c6bb2b85559344c88c9f65903c252a1f.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "",
-    "date": "2026-07-17"
-   },
-   {
     "id": "stu-g116540139163",
     "title": "H.D. Pant - BDU",
     "price_yen": "¥26,400",
@@ -10747,6 +10788,23 @@
      }
     ],
     "code": "TY210A",
+    "date": "2026-07-17"
+   },
+   {
+    "id": "stu-g116587020074",
+    "title": "Ring - 925 Silver (Papillon)",
+    "price_yen": "¥17,600",
+    "url": "https://studious.co.jp/shop/g/g116587020074/",
+    "img": "https://studious.co.jp/img/goods/S/116587020074_c6bb2b85559344c88c9f65903c252a1f.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "",
     "date": "2026-07-17"
    },
    {
@@ -11881,23 +11939,6 @@
      }
     ],
     "code": "MR462",
-    "date": "2026-06-03"
-   },
-   {
-    "id": "stu-g114240018723",
-    "title": "Piping Cowboy Pant - PE/PU Double Cloth",
-    "price_yen": "¥28,600",
-    "url": "https://studious.co.jp/shop/g/g114240018723/",
-    "img": "https://studious.co.jp/img/goods/S/114240018723_ee867872ca7c4527b9798c44ab9c1509.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "OT137",
     "date": "2026-06-03"
    },
    {
