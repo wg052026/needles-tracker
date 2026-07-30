@@ -3035,6 +3035,86 @@
   "nep-8687352676535": {
    "first": "2026-07-27",
    "title": "〈NEEDLES〉x〈FILA〉Heritage Sweater"
+  },
+  "nep-8685769195703": {
+   "first": "2026-07-24",
+   "title": "Convertible Grove - Shetland Wool"
+  },
+  "nep-8685769326775": {
+   "first": "2026-07-24",
+   "title": "Convertible Grove - Shetland Wool"
+  },
+  "nep-8685769556151": {
+   "first": "2026-07-24",
+   "title": "Convertible Grove - Shetland Wool"
+  },
+  "nep-8685769425079": {
+   "first": "2026-07-24",
+   "title": "Convertible Grove - Shetland Wool"
+  },
+  "nep-8685770670263": {
+   "first": "2026-07-24",
+   "title": "Snap Cardigan - Fringe Jacquard / Ripples"
+  },
+  "nep-8685771129015": {
+   "first": "2026-07-24",
+   "title": "H.D. Pant - Fringe Jacquard / Ripples"
+  },
+  "nep-8685771292855": {
+   "first": "2026-07-24",
+   "title": "H.D. Pant - Fringe Jacquard /Ripples"
+  },
+  "nep-8685778731191": {
+   "first": "2026-07-24",
+   "title": "Saddleman Shirt - Poly Jq."
+  },
+  "nep-8685779910839": {
+   "first": "2026-07-24",
+   "title": "Track Jacket - Poly Jq."
+  },
+  "nep-8685780598967": {
+   "first": "2026-07-24",
+   "title": "Track Jacket - Poly Jq."
+  },
+  "nep-8685780861111": {
+   "first": "2026-07-24",
+   "title": "Track Jacket - Poly Jq."
+  },
+  "nep-8685781057719": {
+   "first": "2026-07-24",
+   "title": "Track Jacket - Poly Jq."
+  },
+  "nep-8687423062199": {
+   "first": "2026-07-27",
+   "title": "Between Jacket - Poly Fleece"
+  },
+  "nep-8687422636215": {
+   "first": "2026-07-27",
+   "title": "Between Jacket - Poly Fleece"
+  },
+  "nep-8687422865591": {
+   "first": "2026-07-27",
+   "title": "Between Jacket - Poly Fleece"
+  },
+  "nep-8687423127735": {
+   "first": "2026-07-27",
+   "title": "Between Jacket - Poly Fleece"
+  },
+  "nep-8687423488183": {
+   "first": "2026-07-27",
+   "title": "Between Pant - Poly Fleece"
+  },
+  "nep-8687423193271": {
+   "first": "2026-07-27",
+   "title": "Between Pant - Poly Fleece"
+  },
+  "nep-8687423226039": {
+   "first": "2026-07-27",
+   "title": "Between Pant - Poly Fleece"
+  },
+  "nep-8687423324343": {
+   "first": "2026-07-27",
+   "title": "Between Pant - Poly Fleece"
   }
  },
  "STUDIOUS": {
@@ -9755,6 +9835,346 @@
     ],
     "code": "TY358B",
     "date": "2026-07-17"
+   },
+   {
+    "id": "nep-8685769195703",
+    "title": "Convertible Grove - Shetland Wool",
+    "price_yen": "¥7,700",
+    "url": "https://onlinestore.nepenthes.co.jp/products/convertible-grove-shetland-wool",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY068_A-Umber_1.jpg?v=1784879242",
+    "created": "2026-07-24",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Umber",
+      "available": true
+     }
+    ],
+    "code": "TY068A",
+    "date": "2026-07-24"
+   },
+   {
+    "id": "nep-8685769326775",
+    "title": "Convertible Grove - Shetland Wool",
+    "price_yen": "¥7,700",
+    "url": "https://onlinestore.nepenthes.co.jp/products/convertible-grove-shetland-wool-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY068_B-Twilight_1.jpg?v=1784879169",
+    "created": "2026-07-24",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Twilight",
+      "available": true
+     }
+    ],
+    "code": "TY068B",
+    "date": "2026-07-24"
+   },
+   {
+    "id": "nep-8685769556151",
+    "title": "Convertible Grove - Shetland Wool",
+    "price_yen": "¥7,700",
+    "url": "https://onlinestore.nepenthes.co.jp/products/convertible-grove-shetland-wool-3",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY068_D-Black_1.jpg?v=1784879095",
+    "created": "2026-07-24",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY068D",
+    "date": "2026-07-24"
+   },
+   {
+    "id": "nep-8685769425079",
+    "title": "Convertible Grove - Shetland Wool",
+    "price_yen": "¥7,700",
+    "url": "https://onlinestore.nepenthes.co.jp/products/convertible-grove-shetland-wool-2",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY068_C-Loden_1.jpg?v=1784879134",
+    "created": "2026-07-24",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Loden",
+      "available": true
+     }
+    ],
+    "code": "TY068C",
+    "date": "2026-07-24"
+   },
+   {
+    "id": "nep-8685770670263",
+    "title": "Snap Cardigan - Fringe Jacquard / Ripples",
+    "price_yen": "¥38,500",
+    "url": "https://onlinestore.nepenthes.co.jp/products/snap-cardigan-fringe-jacq-ripples",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY267_A-Camel_1.jpg?v=1784878683",
+    "created": "2026-07-24",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Camel",
+      "available": true
+     }
+    ],
+    "code": "TY267A",
+    "date": "2026-07-24"
+   },
+   {
+    "id": "nep-8685771129015",
+    "title": "H.D. Pant - Fringe Jacquard / Ripples",
+    "price_yen": "¥42,900",
+    "url": "https://onlinestore.nepenthes.co.jp/products/h-d-pant-fringe-jacquard-ripples",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY268_A-Camel_1.jpg?v=1784878783",
+    "created": "2026-07-24",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Camel",
+      "available": true
+     }
+    ],
+    "code": "TY268A",
+    "date": "2026-07-24"
+   },
+   {
+    "id": "nep-8685771292855",
+    "title": "H.D. Pant - Fringe Jacquard /Ripples",
+    "price_yen": "¥42,900",
+    "url": "https://onlinestore.nepenthes.co.jp/products/h-d-pant-fringe-jacquard-ripples-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY268_B-Black_1.jpg?v=1784878746",
+    "created": "2026-07-24",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY268B",
+    "date": "2026-07-24"
+   },
+   {
+    "id": "nep-8685778731191",
+    "title": "Saddleman Shirt - Poly Jq.",
+    "price_yen": "¥31,900",
+    "url": "https://onlinestore.nepenthes.co.jp/products/saddleman-shirt-poly-jq",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY345_A-PolkaDot_1.jpg?v=1784878244",
+    "created": "2026-07-24",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Polka Dot",
+      "available": true
+     }
+    ],
+    "code": "TY345A",
+    "date": "2026-07-24"
+   },
+   {
+    "id": "nep-8685779910839",
+    "title": "Track Jacket - Poly Jq.",
+    "price_yen": "¥28,600",
+    "url": "https://onlinestore.nepenthes.co.jp/products/track-jacket-poly-jq-35",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY347_A-PolkaDot_1.jpg?v=1784878130",
+    "created": "2026-07-24",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Polka Dot",
+      "available": true
+     }
+    ],
+    "code": "TY347A",
+    "date": "2026-07-24"
+   },
+   {
+    "id": "nep-8685780598967",
+    "title": "Track Jacket - Poly Jq.",
+    "price_yen": "¥28,600",
+    "url": "https://onlinestore.nepenthes.co.jp/products/track-jacket-poly-jq-36",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY347_C-Vortex_1.jpg?v=1784878055",
+    "created": "2026-07-24",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Vortex",
+      "available": true
+     }
+    ],
+    "code": "TY347C",
+    "date": "2026-07-24"
+   },
+   {
+    "id": "nep-8685780861111",
+    "title": "Track Jacket - Poly Jq.",
+    "price_yen": "¥28,600",
+    "url": "https://onlinestore.nepenthes.co.jp/products/track-jacket-poly-jq-37",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY347_D-Geometric_1.jpg?v=1784878005",
+    "created": "2026-07-24",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Geometric",
+      "available": true
+     }
+    ],
+    "code": "TY347D",
+    "date": "2026-07-24"
+   },
+   {
+    "id": "nep-8685781057719",
+    "title": "Track Jacket - Poly Jq.",
+    "price_yen": "¥28,600",
+    "url": "https://onlinestore.nepenthes.co.jp/products/track-jacket-poly-jq-38",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY347_E-Paisley_1.jpg?v=1784877948",
+    "created": "2026-07-24",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Paisley",
+      "available": true
+     }
+    ],
+    "code": "TY347E",
+    "date": "2026-07-24"
+   },
+   {
+    "id": "nep-8687423062199",
+    "title": "Between Jacket - Poly Fleece",
+    "price_yen": "¥30,800",
+    "url": "https://onlinestore.nepenthes.co.jp/products/between-jacket-poly-fleece-2",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY431_C-Purple_1.jpg?v=1785124159",
+    "created": "2026-07-27",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Purple",
+      "available": true
+     }
+    ],
+    "code": "TY431C",
+    "date": "2026-07-27"
+   },
+   {
+    "id": "nep-8687422636215",
+    "title": "Between Jacket - Poly Fleece",
+    "price_yen": "¥30,800",
+    "url": "https://onlinestore.nepenthes.co.jp/products/between-jacket-poly-fleece",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY431_A-Olive_1.jpg?v=1785124088",
+    "created": "2026-07-27",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Olive",
+      "available": true
+     }
+    ],
+    "code": "TY431A",
+    "date": "2026-07-27"
+   },
+   {
+    "id": "nep-8687422865591",
+    "title": "Between Jacket - Poly Fleece",
+    "price_yen": "¥30,800",
+    "url": "https://onlinestore.nepenthes.co.jp/products/between-jacket-poly-fleece-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY431_B-Brown_1.jpg?v=1785124128",
+    "created": "2026-07-27",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Brown",
+      "available": true
+     }
+    ],
+    "code": "TY431B",
+    "date": "2026-07-27"
+   },
+   {
+    "id": "nep-8687423127735",
+    "title": "Between Jacket - Poly Fleece",
+    "price_yen": "¥30,800",
+    "url": "https://onlinestore.nepenthes.co.jp/products/between-jacket-poly-fleece-3",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY431_D-Black_1.jpg?v=1785124192",
+    "created": "2026-07-27",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY431D",
+    "date": "2026-07-27"
+   },
+   {
+    "id": "nep-8687423488183",
+    "title": "Between Pant - Poly Fleece",
+    "price_yen": "¥29,700",
+    "url": "https://onlinestore.nepenthes.co.jp/products/between-pant-poly-fleece-3",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY433_D-Black_1_be11873a-3b50-41f6-a216-0a9936343f85.jpg?v=1785387828",
+    "created": "2026-07-27",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY433D",
+    "date": "2026-07-27"
+   },
+   {
+    "id": "nep-8687423193271",
+    "title": "Between Pant - Poly Fleece",
+    "price_yen": "¥29,700",
+    "url": "https://onlinestore.nepenthes.co.jp/products/between-pant-poly-fleece",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY433_A-Olive_1.jpg?v=1785124233",
+    "created": "2026-07-27",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Olive",
+      "available": true
+     }
+    ],
+    "code": "TY433A",
+    "date": "2026-07-27"
+   },
+   {
+    "id": "nep-8687423226039",
+    "title": "Between Pant - Poly Fleece",
+    "price_yen": "¥29,700",
+    "url": "https://onlinestore.nepenthes.co.jp/products/between-pant-poly-fleece-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY433_B-Brown_1.jpg?v=1785124261",
+    "created": "2026-07-27",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Brown",
+      "available": true
+     }
+    ],
+    "code": "TY433B",
+    "date": "2026-07-27"
+   },
+   {
+    "id": "nep-8687423324343",
+    "title": "Between Pant - Poly Fleece",
+    "price_yen": "¥29,700",
+    "url": "https://onlinestore.nepenthes.co.jp/products/between-pant-poly-fleece-2",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY433_C-Purple_1.jpg?v=1785124307",
+    "created": "2026-07-27",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Purple",
+      "available": true
+     }
+    ],
+    "code": "TY433C",
+    "date": "2026-07-27"
    },
    {
     "id": "nep-8687351693495",
