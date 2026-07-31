@@ -10344,11 +10344,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/ventisei-h-d-track-pant",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY534_A-Blue_0.jpg?v=1785115022",
     "created": "2026-07-27",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Blue",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY534A",
@@ -12842,15 +12842,15 @@
     "url": "https://mix.tokyo/products/7856211219",
     "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856211219-010_MAIN.jpg?v=1784891020",
     "created": "2026-05-14",
-    "soldout": true,
+    "soldout": false,
     "colors": [
      {
       "name": "ブラック",
-      "available": false
+      "available": true
      },
      {
       "name": "インディゴ",
-      "available": false
+      "available": true
      }
     ],
     "code": "",
