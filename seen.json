@@ -10208,11 +10208,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/star-cut-over-sized-windbreaker-1",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY530_B-BlackWhiteGreen_0.jpg?v=1785114508",
     "created": "2026-07-27",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Blk/Wht/Grn",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY530B",
@@ -10565,23 +10565,6 @@
     "price_yen": "¥12,100",
     "url": "https://studious.co.jp/shop/g/g116581001170/",
     "img": "https://studious.co.jp/img/goods/S/116581001170_c0cd71c8a12844058bdf7643dfddd151.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "SX1558",
-    "date": "2026-07-14"
-   },
-   {
-    "id": "stu-g116581001180",
-    "title": "別注 Nylon Cap - Papillon Embroidery MINT",
-    "price_yen": "¥12,100",
-    "url": "https://studious.co.jp/shop/g/g116581001180/",
-    "img": "https://studious.co.jp/img/goods/S/116581001180_0175f2d827b54bfcaae64bbf4c6d965e.jpg",
     "created": "",
     "soldout": false,
     "colors": [
@@ -12294,7 +12277,7 @@
     "title": "NEEDLES（ニードルズ） 【B'2nd EXCLUSIVE】H.D.TRACK PANT - TRICOT SATEEN",
     "price_yen": "¥21,000",
     "url": "https://mix.tokyo/products/7856210239",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856210239-110_MAIN.jpg?v=1784890996",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856210239-110_MAIN.jpg?v=1785496490",
     "created": "2026-07-06",
     "soldout": false,
     "colors": [
@@ -12424,7 +12407,7 @@
     "title": "NEEDLES（ニードルズ） 【B'2nd EXCLUSIVE】H.D.TRACK PANT - POLY SMOOTH",
     "price_yen": "¥21,000",
     "url": "https://mix.tokyo/products/7856210237",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856210237-054_MAIN.jpg?v=1784718183",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856210237-054_MAIN.jpg?v=1785496505",
     "created": "2026-07-03",
     "soldout": false,
     "colors": [
