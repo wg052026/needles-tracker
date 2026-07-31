@@ -6632,23 +6632,6 @@
     "date": "2023-04-10"
    },
    {
-    "id": "nep-8500224852151",
-    "title": "Jean Jacket - Memory Poly Taffeta",
-    "price_yen": "¥18,700",
-    "url": "https://onlinestore.nepenthes.co.jp/products/jean-jacket-memory-poly-taffeta",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX183A-0.jpg?v=1773473172",
-    "created": "2026-03-14",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Brown",
-      "available": true
-     }
-    ],
-    "code": "SX183A",
-    "date": "2026-03-14"
-   },
-   {
     "id": "nep-8500224917687",
     "title": "Coverall - Memory Poly Taffeta",
     "price_yen": "¥19,800",
@@ -10191,11 +10174,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/star-cut-over-sized-windbreaker",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY530_A-WhiteNavyPurple_0.jpg?v=1785114362",
     "created": "2026-07-27",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Wht/Nvy/Ppl",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY530A",
@@ -10208,11 +10191,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/h-d-wind-pant",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY531_A-WhiteNavyPurple_0.jpg?v=1785114559",
     "created": "2026-07-27",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Wht/Nvy/Ppl",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY531A",
@@ -10242,11 +10225,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/h-d-wind-pant-1",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY531_B-BlackWhiteGreen_0.jpg?v=1785114597",
     "created": "2026-07-27",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Blk/Wht/Grn",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY531B",
@@ -10412,11 +10395,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/bb-polo-shirt",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY535_A-Purple_0.jpg?v=1785115286",
     "created": "2026-07-27",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Purple",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY535A",
@@ -10429,11 +10412,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/bb-polo-shirt-1",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY535_B-Black_0.jpg?v=1785115323",
     "created": "2026-07-27",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Black",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY535B",
@@ -10463,11 +10446,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/heritage-sweater",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY536_A-White_0.jpg?v=1785115396",
     "created": "2026-07-27",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "White",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY536A",
@@ -10480,11 +10463,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/heritage-sweater-1",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY536_B-Green_0.jpg?v=1785115431",
     "created": "2026-07-27",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Green",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY536B",
@@ -10497,11 +10480,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/heritage-sweater-2",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY536_C-Pink_0.jpg?v=1785115458",
     "created": "2026-07-27",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Pink",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY536C",
@@ -12190,7 +12173,7 @@
     "title": "NEEDLES/ニードルズ/H.D.PANT - BDU",
     "price_yen": "¥24,000",
     "url": "https://mix.tokyo/products/7846210330",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846210330-310_MAIN.jpg?v=1785236580",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846210330-310_MAIN.jpg?v=1785485541",
     "created": "2026-07-24",
     "soldout": false,
     "colors": [
@@ -12211,7 +12194,7 @@
     "title": "NEEDLES/ニードルズ/H.D.JEAN - 12oz DENIM",
     "price_yen": "¥29,000",
     "url": "https://mix.tokyo/products/7846211267",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846211267-010_MAIN.jpg?v=1785236581",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846211267-010_MAIN.jpg?v=1785485601",
     "created": "2026-07-24",
     "soldout": false,
     "colors": [
@@ -12232,7 +12215,7 @@
     "title": "NEEDLES/ニードルズ/H.D.BUGGY JEAN - 12oz DENIM",
     "price_yen": "¥29,000",
     "url": "https://mix.tokyo/products/7846211268",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846211268-367_MAIN.jpg?v=1785236578",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846211268-367_MAIN.jpg?v=1785485609",
     "created": "2026-07-24",
     "soldout": false,
     "colors": [
@@ -12422,7 +12405,7 @@
      },
      {
       "name": "ライトブラウン",
-      "available": false
+      "available": true
      },
      {
       "name": "ブルー",
@@ -12876,15 +12859,15 @@
     "url": "https://mix.tokyo/products/7856211219",
     "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856211219-010_MAIN.jpg?v=1784891020",
     "created": "2026-05-14",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "ブラック",
-      "available": true
+      "available": false
      },
      {
       "name": "インディゴ",
-      "available": true
+      "available": false
      }
     ],
     "code": "",
