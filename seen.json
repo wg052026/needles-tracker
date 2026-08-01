@@ -10259,11 +10259,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/star-cut-over-sized-windbreaker",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY530_A-WhiteNavyPurple_0.jpg?v=1785114362",
     "created": "2026-07-27",
-    "soldout": true,
+    "soldout": false,
     "colors": [
      {
       "name": "Wht/Nvy/Ppl",
-      "available": false
+      "available": true
      }
     ],
     "code": "TY530A",
@@ -10276,11 +10276,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/h-d-wind-pant",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY531_A-WhiteNavyPurple_0.jpg?v=1785114559",
     "created": "2026-07-27",
-    "soldout": true,
+    "soldout": false,
     "colors": [
      {
       "name": "Wht/Nvy/Ppl",
-      "available": false
+      "available": true
      }
     ],
     "code": "TY531A",
@@ -10378,11 +10378,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/ventisei-track-pant",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY533_A-Blue_0.jpg?v=1785114767",
     "created": "2026-07-27",
-    "soldout": true,
+    "soldout": false,
     "colors": [
      {
       "name": "Blue",
-      "available": false
+      "available": true
      }
     ],
     "code": "TY533A",
@@ -10474,40 +10474,6 @@
     "date": "2026-07-27"
    },
    {
-    "id": "nep-8687352447159",
-    "title": "〈NEEDLES〉x〈FILA〉BB Polo Shirt",
-    "price_yen": "¥17,600",
-    "url": "https://onlinestore.nepenthes.co.jp/products/bb-polo-shirt",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY535_A-Purple_0.jpg?v=1785115286",
-    "created": "2026-07-27",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Purple",
-      "available": false
-     }
-    ],
-    "code": "TY535A",
-    "date": "2026-07-27"
-   },
-   {
-    "id": "nep-8687352479927",
-    "title": "〈NEEDLES〉x〈FILA〉BB Polo Shirt",
-    "price_yen": "¥17,600",
-    "url": "https://onlinestore.nepenthes.co.jp/products/bb-polo-shirt-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY535_B-Black_0.jpg?v=1785115323",
-    "created": "2026-07-27",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Black",
-      "available": false
-     }
-    ],
-    "code": "TY535B",
-    "date": "2026-07-27"
-   },
-   {
     "id": "nep-8687352578231",
     "title": "〈NEEDLES〉x〈FILA〉BB Polo Shirt",
     "price_yen": "¥17,600",
@@ -10522,57 +10488,6 @@
      }
     ],
     "code": "TY535C",
-    "date": "2026-07-27"
-   },
-   {
-    "id": "nep-8687352610999",
-    "title": "〈NEEDLES〉x〈FILA〉Heritage Sweater",
-    "price_yen": "¥28,600",
-    "url": "https://onlinestore.nepenthes.co.jp/products/heritage-sweater",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY536_A-White_0.jpg?v=1785115396",
-    "created": "2026-07-27",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "White",
-      "available": false
-     }
-    ],
-    "code": "TY536A",
-    "date": "2026-07-27"
-   },
-   {
-    "id": "nep-8687352643767",
-    "title": "〈NEEDLES〉x〈FILA〉Heritage Sweater",
-    "price_yen": "¥28,600",
-    "url": "https://onlinestore.nepenthes.co.jp/products/heritage-sweater-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY536_B-Green_0.jpg?v=1785115431",
-    "created": "2026-07-27",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Green",
-      "available": false
-     }
-    ],
-    "code": "TY536B",
-    "date": "2026-07-27"
-   },
-   {
-    "id": "nep-8687352676535",
-    "title": "〈NEEDLES〉x〈FILA〉Heritage Sweater",
-    "price_yen": "¥28,600",
-    "url": "https://onlinestore.nepenthes.co.jp/products/heritage-sweater-2",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY536_C-Pink_0.jpg?v=1785115458",
-    "created": "2026-07-27",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Pink",
-      "available": false
-     }
-    ],
-    "code": "TY536C",
     "date": "2026-07-27"
    }
   ],
