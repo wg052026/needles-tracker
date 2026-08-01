@@ -5187,6 +5187,23 @@
     "date": "2025-12-17"
    },
    {
+    "id": "nep-8312978374839",
+    "title": "H.D. Pant - Double Weave Jacquard",
+    "price_yen": "¥21,450",
+    "url": "https://onlinestore.nepenthes.co.jp/products/h-d-pant-double-weave-jacquard-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX242B-0.jpg?v=1765965201",
+    "created": "2025-12-16",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Navy/Star",
+      "available": true
+     }
+    ],
+    "code": "SX242B",
+    "date": "2025-12-16"
+   },
+   {
     "id": "nep-8311419306167",
     "title": "Clog Sandal - Smooth Leather",
     "price_yen": "¥38,500",
@@ -6037,6 +6054,23 @@
     "date": "2026-01-23"
    },
    {
+    "id": "nep-8366949007543",
+    "title": "P-44 Jacket - Cotton Herringbone",
+    "price_yen": "¥29,700",
+    "url": "https://onlinestore.nepenthes.co.jp/products/p-44-jacket-cotton-herringbone",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX152A-0.jpg?v=1769155627",
+    "created": "2026-01-23",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Olive",
+      "available": true
+     }
+    ],
+    "code": "SX152A",
+    "date": "2026-01-23"
+   },
+   {
     "id": "nep-8361711009975",
     "title": "Baseball Cap - Poly Jacquard",
     "price_yen": "¥6,600",
@@ -6052,6 +6086,40 @@
     ],
     "code": "SX077B",
     "date": "2026-01-16"
+   },
+   {
+    "id": "nep-8320016449719",
+    "title": "Line Crew Jacket - Double Weave Jacquard",
+    "price_yen": "¥30,800",
+    "url": "https://onlinestore.nepenthes.co.jp/products/line-crew-jacket-double-weave-jacq",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX241A-0.jpg?v=1766398454",
+    "created": "2025-12-22",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Red/Heart",
+      "available": true
+     }
+    ],
+    "code": "SX241A",
+    "date": "2025-12-22"
+   },
+   {
+    "id": "nep-8312978178231",
+    "title": "H.D. Pant - Double Weave Jacquard",
+    "price_yen": "¥21,450",
+    "url": "https://onlinestore.nepenthes.co.jp/products/h-d-pant-double-weave-jacquard",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX242A-0.jpg?v=1765965175",
+    "created": "2025-12-16",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Red/Heart",
+      "available": true
+     }
+    ],
+    "code": "SX242A",
+    "date": "2025-12-16"
    },
    {
     "id": "nep-8311419732151",
@@ -6783,6 +6851,23 @@
     ],
     "code": "SX530B",
     "date": "2026-03-31"
+   },
+   {
+    "id": "nep-8525120241847",
+    "title": "Western Yoke Sports Jacket - PE/C Typewriter",
+    "price_yen": "¥32,450",
+    "url": "https://onlinestore.nepenthes.co.jp/products/western-yoke-sports-jkt-pe-c-type",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX126-0.jpg?v=1775284578",
+    "created": "2026-04-04",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "SX126",
+    "date": "2026-04-04"
    },
    {
     "id": "nep-8571585986743",
@@ -10276,11 +10361,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/ventisei-track-jacket-2",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY532_C-Black_0.jpg?v=1785114726",
     "created": "2026-07-27",
-    "soldout": true,
+    "soldout": false,
     "colors": [
      {
       "name": "Black",
-      "available": false
+      "available": true
      }
     ],
     "code": "TY532C",
@@ -10293,11 +10378,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/ventisei-track-pant",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY533_A-Blue_0.jpg?v=1785114767",
     "created": "2026-07-27",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Blue",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY533A",
@@ -10344,11 +10429,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/ventisei-h-d-track-pant",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY534_A-Blue_0.jpg?v=1785115022",
     "created": "2026-07-27",
-    "soldout": true,
+    "soldout": false,
     "colors": [
      {
       "name": "Blue",
-      "available": false
+      "available": true
      }
     ],
     "code": "TY534A",
