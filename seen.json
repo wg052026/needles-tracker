@@ -10293,31 +10293,14 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/star-cut-over-sized-windbreaker-1",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY530_B-BlackWhiteGreen_0.jpg?v=1785114508",
     "created": "2026-07-27",
-    "soldout": true,
+    "soldout": false,
     "colors": [
      {
       "name": "Blk/Wht/Grn",
-      "available": false
+      "available": true
      }
     ],
     "code": "TY530B",
-    "date": "2026-07-27"
-   },
-   {
-    "id": "nep-8687351857335",
-    "title": "〈NEEDLES〉x〈FILA〉H.D. Wind Pant",
-    "price_yen": "¥27,500",
-    "url": "https://onlinestore.nepenthes.co.jp/products/h-d-wind-pant-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY531_B-BlackWhiteGreen_0.jpg?v=1785114597",
-    "created": "2026-07-27",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Blk/Wht/Grn",
-      "available": false
-     }
-    ],
-    "code": "TY531B",
     "date": "2026-07-27"
    },
    {
