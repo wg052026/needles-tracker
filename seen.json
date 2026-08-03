@@ -4830,23 +4830,6 @@
     "date": "2026-03-03"
    },
    {
-    "id": "nep-8475026915511",
-    "title": "H.D. Sweat Pant - Bright Jersey",
-    "price_yen": "¥23,100",
-    "url": "https://onlinestore.nepenthes.co.jp/products/h-d-sweat-pant-bright-jersey-9",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX428A-0.jpg?v=1772342430",
-    "created": "2026-02-28",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Purple",
-      "available": true
-     }
-    ],
-    "code": "SX428A",
-    "date": "2026-02-28"
-   },
-   {
     "id": "nep-8347725562039",
     "title": "Two Tuck Trouser - Stripe Karsey",
     "price_yen": "¥25,300",
@@ -12361,7 +12344,7 @@
     "title": "NEEDLES（ニードルズ） 【B'2nd EXCLUSIVE】TRACK JACKET - POLY SMOOTH",
     "price_yen": "¥26,000",
     "url": "https://mix.tokyo/products/7856255222",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856255222-110_MAIN.jpg?v=1785610918",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856255222-110_MAIN.jpg?v=1785697292",
     "created": "2026-07-03",
     "soldout": false,
     "colors": [
@@ -12390,7 +12373,7 @@
     "title": "NEEDLES（ニードルズ） 【B'2nd EXCLUSIVE】H.D.TRACK PANT - POLY SMOOTH",
     "price_yen": "¥21,000",
     "url": "https://mix.tokyo/products/7856210237",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856210237-054_MAIN.jpg?v=1785610936",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856210237-054_MAIN.jpg?v=1785697312",
     "created": "2026-07-03",
     "soldout": false,
     "colors": [
