@@ -4456,23 +4456,6 @@
     "date": "2022-12-12"
    },
    {
-    "id": "nep-7162672545975",
-    "title": "Tassel Bit Unlined Slip-On / Rough Out",
-    "price_yen": "¥29,260",
-    "url": "https://onlinestore.nepenthes.co.jp/products/tassel-bit-unlined-slip-on-rough-out",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/products/LQ335A-0.jpg?v=1661410168",
-    "created": "2022-07-26",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Taupe",
-      "available": false
-     }
-    ],
-    "code": "LQ335A",
-    "date": "2022-07-26"
-   },
-   {
     "id": "nep-7114220535991",
     "title": "Velvet Mule - Papillon Embroidery",
     "price_yen": "¥40,700",
@@ -5034,23 +5017,6 @@
     "date": "2023-04-10"
    },
    {
-    "id": "nep-8480142065847",
-    "title": "〈NEEDLES〉x〈ts(s)〉3 Color Block Pocket Tee",
-    "price_yen": "¥17,710",
-    "url": "https://onlinestore.nepenthes.co.jp/products/3-color-block-print-pocket-tee",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX2103A-0_751e8080-8117-4d61-a9c4-0a58a11a0429.jpg?v=1772614263",
-    "created": "2026-03-03",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Olive",
-      "available": true
-     }
-    ],
-    "code": "SX2103A",
-    "date": "2026-03-03"
-   },
-   {
     "id": "nep-8446707761335",
     "title": "Raw Edge Trouser - Linen Wool Houndtooth",
     "price_yen": "¥30,800",
@@ -5609,23 +5575,6 @@
      }
     ],
     "code": "SX444E",
-    "date": "2026-03-08"
-   },
-   {
-    "id": "nep-8490242834615",
-    "title": "S/S Pocket Tee - Cotton Jersey",
-    "price_yen": "¥12,100",
-    "url": "https://onlinestore.nepenthes.co.jp/products/s-s-pocket-tee-cotton-jersey-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX444D-0.jpg?v=1772948762",
-    "created": "2026-03-08",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Salmon",
-      "available": false
-     }
-    ],
-    "code": "SX444D",
     "date": "2026-03-08"
    },
    {
