@@ -3625,6 +3625,18 @@
   "stu-g116550131164": {
    "first": "2026-07-30",
    "title": "Needles x FILA Ventisei Track Jacket"
+  },
+  "stu-g116540015163": {
+   "first": "2026-08-04",
+   "title": "別注 Piping Cowboy H.D. Pant-Poly Double Cloth"
+  },
+  "stu-g116502001164": {
+   "first": "2026-08-04",
+   "title": "別注 Piping Cowboy One-Up S/S Shirt-Poly Double Cloth"
+  },
+  "stu-g116558001164": {
+   "first": "2026-08-04",
+   "title": "別注 Piping Cowboy Jacket-Poly Double Cloth"
   }
  },
  "MIX.TOKYO": {
@@ -10374,6 +10386,166 @@
   ],
   "STUDIOUS": [
    {
+    "id": "stu-g116540015163",
+    "title": "別注 Piping Cowboy H.D. Pant-Poly Double Cloth",
+    "price_yen": "¥34,100",
+    "url": "https://studious.co.jp/shop/g/g116540015163/",
+    "img": "https://studious.co.jp/img/goods/S/116540015163_79a48c36c8fe46a98f077895a30748d0.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     },
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "SX1557",
+    "date": "2026-08-04"
+   },
+   {
+    "id": "stu-g116502001164",
+    "title": "別注 Piping Cowboy One-Up S/S Shirt-Poly Double Cloth",
+    "price_yen": "¥37,400",
+    "url": "https://studious.co.jp/shop/g/g116502001164/",
+    "img": "https://studious.co.jp/img/goods/S/116502001164_d163b205da3c4d0bbdd37221f8d4c0d8.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     },
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "SX1556",
+    "date": "2026-08-04"
+   },
+   {
+    "id": "stu-g116558001164",
+    "title": "別注 Piping Cowboy Jacket-Poly Double Cloth",
+    "price_yen": "¥39,600",
+    "url": "https://studious.co.jp/shop/g/g116558001164/",
+    "img": "https://studious.co.jp/img/goods/S/116558001164_7f8b3903703f4ed4990f181e8e1829df.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     },
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "SX1555",
+    "date": "2026-08-04"
+   },
+   {
+    "id": "stu-g116581001160",
+    "title": "別注 Nylon Cap - Papillon Embroidery BLACK",
+    "price_yen": "¥12,100",
+    "url": "https://studious.co.jp/shop/g/g116581001160/",
+    "img": "https://studious.co.jp/img/goods/S/116581001160_f558c746c3f54cb4814ad63a7850cafb.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "SX1558",
+    "date": "2026-07-14"
+   },
+   {
+    "id": "stu-g116581001170",
+    "title": "別注 Nylon Cap - Papillon Embroidery IVORY",
+    "price_yen": "¥12,100",
+    "url": "https://studious.co.jp/shop/g/g116581001170/",
+    "img": "https://studious.co.jp/img/goods/S/116581001170_c0cd71c8a12844058bdf7643dfddd151.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "SX1558",
+    "date": "2026-07-14"
+   },
+   {
+    "id": "stu-g116587019070",
+    "title": "Pendant - 925 Silver (Papillon)",
+    "price_yen": "¥19,800",
+    "url": "https://studious.co.jp/shop/g/g116587019070/",
+    "img": "https://studious.co.jp/img/goods/S/116587019070_17572abffd924e46a0b43ec891c9f731.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "",
+    "date": "2026-07-17"
+   },
+   {
+    "id": "stu-g116587020074",
+    "title": "Ring - 925 Silver (Papillon)",
+    "price_yen": "¥17,600",
+    "url": "https://studious.co.jp/shop/g/g116587020074/",
+    "img": "https://studious.co.jp/img/goods/S/116587020074_c6bb2b85559344c88c9f65903c252a1f.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "",
+    "date": "2026-07-17"
+   },
+   {
+    "id": "stu-g116540139163",
+    "title": "H.D. Pant - BDU",
+    "price_yen": "¥26,400",
+    "url": "https://studious.co.jp/shop/g/g116540139163/",
+    "img": "https://studious.co.jp/img/goods/S/116540139163_8769546c6aef4a1daf55b0ffa228b8b6.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     },
+     {
+      "name": "",
+      "available": null
+     },
+     {
+      "name": "",
+      "available": null
+     },
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "TY210A",
+    "date": "2026-07-17"
+   },
+   {
     "id": "stu-g116540144163",
     "title": "Needles x FILA Ventisei H.D. Track Pant",
     "price_yen": "¥25,300",
@@ -10424,57 +10596,6 @@
     "date": "2026-07-30"
    },
    {
-    "id": "stu-g116581001160",
-    "title": "別注 Nylon Cap - Papillon Embroidery BLACK",
-    "price_yen": "¥12,100",
-    "url": "https://studious.co.jp/shop/g/g116581001160/",
-    "img": "https://studious.co.jp/img/goods/S/116581001160_f558c746c3f54cb4814ad63a7850cafb.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "SX1558",
-    "date": "2026-07-14"
-   },
-   {
-    "id": "stu-g116581001170",
-    "title": "別注 Nylon Cap - Papillon Embroidery IVORY",
-    "price_yen": "¥12,100",
-    "url": "https://studious.co.jp/shop/g/g116581001170/",
-    "img": "https://studious.co.jp/img/goods/S/116581001170_c0cd71c8a12844058bdf7643dfddd151.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "SX1558",
-    "date": "2026-07-14"
-   },
-   {
-    "id": "stu-g116440013163",
-    "title": "別注 H.D. Track Short - Poly Mesh",
-    "price_yen": "¥22,000",
-    "url": "https://studious.co.jp/shop/g/g116440013163/",
-    "img": "https://studious.co.jp/img/goods/S/116440013163_b2c5286eeb014ea1a3a9a82b011adc4d.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "SX1543",
-    "date": "2026-07-14"
-   },
-   {
     "id": "stu-g116440015163",
     "title": "別注 S/S Track Crew Neck Shirt - Mesh",
     "price_yen": "¥20,900",
@@ -10490,23 +10611,6 @@
     ],
     "code": "SX1548",
     "date": "2026-07-14"
-   },
-   {
-    "id": "stu-g116587019070",
-    "title": "Pendant - 925 Silver (Papillon)",
-    "price_yen": "¥19,800",
-    "url": "https://studious.co.jp/shop/g/g116587019070/",
-    "img": "https://studious.co.jp/img/goods/S/116587019070_17572abffd924e46a0b43ec891c9f731.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "",
-    "date": "2026-07-17"
    },
    {
     "id": "stu-g116340100033",
@@ -10609,52 +10713,6 @@
     "date": "2026-07-07"
    },
    {
-    "id": "stu-g116540139163",
-    "title": "H.D. Pant - BDU",
-    "price_yen": "¥26,400",
-    "url": "https://studious.co.jp/shop/g/g116540139163/",
-    "img": "https://studious.co.jp/img/goods/S/116540139163_8769546c6aef4a1daf55b0ffa228b8b6.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     },
-     {
-      "name": "",
-      "available": null
-     },
-     {
-      "name": "",
-      "available": null
-     },
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "TY210A",
-    "date": "2026-07-17"
-   },
-   {
-    "id": "stu-g116587020074",
-    "title": "Ring - 925 Silver (Papillon)",
-    "price_yen": "¥17,600",
-    "url": "https://studious.co.jp/shop/g/g116587020074/",
-    "img": "https://studious.co.jp/img/goods/S/116587020074_c6bb2b85559344c88c9f65903c252a1f.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "",
-    "date": "2026-07-17"
-   },
-   {
     "id": "stu-g116302137064",
     "title": "別注 Piping Cowboy S/S Shirt - Amunzen",
     "price_yen": "¥30,800",
@@ -10743,65 +10801,6 @@
     "date": "2026-06-04"
    },
    {
-    "id": "stu-g116240154633",
-    "title": "Track Pant - Poly Smooth",
-    "price_yen": "¥23,100",
-    "url": "https://studious.co.jp/shop/g/g116240154633/",
-    "img": "https://studious.co.jp/img/goods/S/116240154633_d23c9ab539e241b5a373564e466fd0b5.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     },
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "SX406",
-    "date": "2026-06-20"
-   },
-   {
-    "id": "stu-g116240236163",
-    "title": "H.D. Jean - 12oz Denim",
-    "price_yen": "¥31,900",
-    "url": "https://studious.co.jp/shop/g/g116240236163/",
-    "img": "https://studious.co.jp/img/goods/S/116240236163_25075861de9c486cb700bd98b8562d2f.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     },
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "SX201",
-    "date": "2026-06-03"
-   },
-   {
-    "id": "stu-g116240291203",
-    "title": "H.D. Pant - Military",
-    "price_yen": "¥26,400",
-    "url": "https://studious.co.jp/shop/g/g116240291203/",
-    "img": "https://studious.co.jp/img/goods/S/116240291203_896411fc32dc4a73bed5915fd6ca8d46.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "SX196",
-    "date": "2026-06-20"
-   },
-   {
     "id": "stu-g116372001162",
     "title": "Needles x PPACO LUX-2 Needles Edition with Studs",
     "price_yen": "¥21,780",
@@ -10862,6 +10861,48 @@
      }
     ],
     "code": "SX425",
+    "date": "2026-06-03"
+   },
+   {
+    "id": "stu-g116240154633",
+    "title": "Track Pant - Poly Smooth",
+    "price_yen": "¥23,100",
+    "url": "https://studious.co.jp/shop/g/g116240154633/",
+    "img": "https://studious.co.jp/img/goods/S/116240154633_d23c9ab539e241b5a373564e466fd0b5.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     },
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "SX406",
+    "date": "2026-06-20"
+   },
+   {
+    "id": "stu-g116240236163",
+    "title": "H.D. Jean - 12oz Denim",
+    "price_yen": "¥31,900",
+    "url": "https://studious.co.jp/shop/g/g116240236163/",
+    "img": "https://studious.co.jp/img/goods/S/116240236163_25075861de9c486cb700bd98b8562d2f.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     },
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "SX201",
     "date": "2026-06-03"
    },
    {
