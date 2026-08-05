@@ -6054,40 +6054,6 @@
     "date": "2026-01-23"
    },
    {
-    "id": "nep-8361711009975",
-    "title": "Baseball Cap - Poly Jacquard",
-    "price_yen": "¥6,600",
-    "url": "https://onlinestore.nepenthes.co.jp/products/baseball-cap-poly-jacquard-6",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX077B-0.jpg?v=1768558533",
-    "created": "2026-01-16",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Brown",
-      "available": false
-     }
-    ],
-    "code": "SX077B",
-    "date": "2026-01-16"
-   },
-   {
-    "id": "nep-8320016449719",
-    "title": "Line Crew Jacket - Double Weave Jacquard",
-    "price_yen": "¥30,800",
-    "url": "https://onlinestore.nepenthes.co.jp/products/line-crew-jacket-double-weave-jacq",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX241A-0.jpg?v=1766398454",
-    "created": "2025-12-22",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Red/Heart",
-      "available": false
-     }
-    ],
-    "code": "SX241A",
-    "date": "2025-12-22"
-   },
-   {
     "id": "nep-8312978178231",
     "title": "H.D. Pant - Double Weave Jacquard",
     "price_yen": "¥21,450",
