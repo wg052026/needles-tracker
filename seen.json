@@ -5218,11 +5218,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/h-d-pant-double-weave-jacquard-1",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX242B-0.jpg?v=1765965201",
     "created": "2025-12-16",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Navy/Star",
-      "available": true
+      "available": false
      }
     ],
     "code": "SX242B",
@@ -10796,6 +10796,27 @@
     "date": "2026-07-30"
    },
    {
+    "id": "stu-g116540138163",
+    "title": "H.D. Pant - Military",
+    "price_yen": "¥26,400",
+    "url": "https://studious.co.jp/shop/g/g116540138163/",
+    "img": "https://studious.co.jp/img/goods/S/116540138163_f5f3d6c832194324a89509e3aa4d0b3b.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     },
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "TY209A",
+    "date": "2026-08-05"
+   },
+   {
     "id": "stu-g116440015163",
     "title": "別注 S/S Track Crew Neck Shirt - Mesh",
     "price_yen": "¥20,900",
@@ -11141,27 +11162,6 @@
      }
     ],
     "code": "TY068D",
-    "date": "2026-08-05"
-   },
-   {
-    "id": "stu-g116540138163",
-    "title": "H.D. Pant - Military",
-    "price_yen": "¥26,400",
-    "url": "https://studious.co.jp/shop/g/g116540138163/",
-    "img": "https://studious.co.jp/img/goods/S/116540138163_f5f3d6c832194324a89509e3aa4d0b3b.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     },
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "TY209A",
     "date": "2026-08-05"
    },
    {
