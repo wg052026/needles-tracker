@@ -5543,6 +5543,23 @@
     "date": "2026-01-23"
    },
    {
+    "id": "nep-8320016482487",
+    "title": "Line Crew Jacket - Double Weave Jacquard",
+    "price_yen": "¥30,800",
+    "url": "https://onlinestore.nepenthes.co.jp/products/line-crew-jacket-double-weave-jacq-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX241B-0.jpg?v=1766398479",
+    "created": "2025-12-22",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Navy/Star",
+      "available": true
+     }
+    ],
+    "code": "SX241B",
+    "date": "2025-12-22"
+   },
+   {
     "id": "nep-8314261864631",
     "title": "Coverall - PE/C Twill",
     "price_yen": "¥58,300",
@@ -5558,6 +5575,57 @@
     ],
     "code": "RW1501C",
     "date": "2025-12-17"
+   },
+   {
+    "id": "nep-8312978374839",
+    "title": "H.D. Pant - Double Weave Jacquard",
+    "price_yen": "¥21,450",
+    "url": "https://onlinestore.nepenthes.co.jp/products/h-d-pant-double-weave-jacquard-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX242B-0.jpg?v=1765965201",
+    "created": "2025-12-16",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Navy/Star",
+      "available": true
+     }
+    ],
+    "code": "SX242B",
+    "date": "2025-12-16"
+   },
+   {
+    "id": "nep-8312975687863",
+    "title": "Zipped Hoody - Double Weave Jacquard",
+    "price_yen": "¥26,950",
+    "url": "https://onlinestore.nepenthes.co.jp/products/zipped-hoody-double-weave-jacquard-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX240B-0.jpg?v=1765965121",
+    "created": "2025-12-16",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Navy/Star",
+      "available": true
+     }
+    ],
+    "code": "SX240B",
+    "date": "2025-12-16"
+   },
+   {
+    "id": "nep-8312975622327",
+    "title": "Zipped Hoody - Double Weave Jacquard",
+    "price_yen": "¥26,950",
+    "url": "https://onlinestore.nepenthes.co.jp/products/zipped-hoody-double-weave-jacquard",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX240A-0.jpg?v=1765965094",
+    "created": "2025-12-16",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Red/Heart",
+      "available": true
+     }
+    ],
+    "code": "SX240A",
+    "date": "2025-12-16"
    },
    {
     "id": "nep-8311419306167",
@@ -6376,6 +6444,57 @@
     "date": "2026-01-23"
    },
    {
+    "id": "nep-8366949040311",
+    "title": "P-44 Jacket - Cotton Herringbone",
+    "price_yen": "¥29,700",
+    "url": "https://onlinestore.nepenthes.co.jp/products/p-44-jacket-cotton-herringbone-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX152B-0.jpg?v=1769155656",
+    "created": "2026-01-23",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "SX152B",
+    "date": "2026-01-23"
+   },
+   {
+    "id": "nep-8366949007543",
+    "title": "P-44 Jacket - Cotton Herringbone",
+    "price_yen": "¥29,700",
+    "url": "https://onlinestore.nepenthes.co.jp/products/p-44-jacket-cotton-herringbone",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX152A-0.jpg?v=1769155627",
+    "created": "2026-01-23",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Olive",
+      "available": true
+     }
+    ],
+    "code": "SX152A",
+    "date": "2026-01-23"
+   },
+   {
+    "id": "nep-8320016449719",
+    "title": "Line Crew Jacket - Double Weave Jacquard",
+    "price_yen": "¥30,800",
+    "url": "https://onlinestore.nepenthes.co.jp/products/line-crew-jacket-double-weave-jacq",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX241A-0.jpg?v=1766398454",
+    "created": "2025-12-22",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Red/Heart",
+      "available": true
+     }
+    ],
+    "code": "SX241A",
+    "date": "2025-12-22"
+   },
+   {
     "id": "nep-8312978178231",
     "title": "H.D. Pant - Double Weave Jacquard",
     "price_yen": "¥21,450",
@@ -6458,6 +6577,40 @@
      }
     ],
     "code": "SX514A",
+    "date": "2025-12-15"
+   },
+   {
+    "id": "nep-8311417372855",
+    "title": "Jungle Fatigue Jacket - C/N Oxford",
+    "price_yen": "¥25,850",
+    "url": "https://onlinestore.nepenthes.co.jp/products/jungle-fatigue-jacket-c-n-oxford-2",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/QV140A-0.jpg?v=1736904201",
+    "created": "2025-12-15",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Olive",
+      "available": true
+     }
+    ],
+    "code": "SX164A",
+    "date": "2025-12-15"
+   },
+   {
+    "id": "nep-8311417340087",
+    "title": "Field Jacket - C/N Oxford",
+    "price_yen": "¥15,950",
+    "url": "https://onlinestore.nepenthes.co.jp/products/field-jacket-c-n-oxford-5",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/OT092B-0.jpg?v=1703491890",
+    "created": "2025-12-15",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "SX163B",
     "date": "2025-12-15"
    },
    {
@@ -7113,11 +7266,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/western-yoke-sports-jkt-pe-c-type",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX126-0.jpg?v=1775284578",
     "created": "2026-04-04",
-    "soldout": true,
+    "soldout": false,
     "colors": [
      {
       "name": "Black",
-      "available": false
+      "available": true
      }
     ],
     "code": "SX126",
@@ -10861,23 +11014,6 @@
      }
     ],
     "code": "TY534B",
-    "date": "2026-07-27"
-   },
-   {
-    "id": "nep-8687352381623",
-    "title": "〈NEEDLES〉x〈FILA〉Ventisei H.D. Track Pant",
-    "price_yen": "¥25,300",
-    "url": "https://onlinestore.nepenthes.co.jp/products/ventisei-h-d-track-pant-2",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY534_C-Black_0.jpg?v=1785115236",
-    "created": "2026-07-27",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Black",
-      "available": true
-     }
-    ],
-    "code": "TY534C",
     "date": "2026-07-27"
    },
    {
