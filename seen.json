@@ -4724,11 +4724,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/narrow-track-pant-poly-smooth-24",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX407A-0.jpg?v=1767071134",
     "created": "2025-12-30",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Rust",
-      "available": true
+      "available": false
      }
     ],
     "code": "SX407A",
@@ -10827,11 +10827,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/star-cut-over-sized-windbreaker",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY530_A-WhiteNavyPurple_0.jpg?v=1785114362",
     "created": "2026-07-27",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Wht/Nvy/Ppl",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY530A",
@@ -12416,23 +12416,6 @@
      }
     ],
     "code": "TY572A",
-    "date": "2026-08-01"
-   },
-   {
-    "id": "nep-8693351219383",
-    "title": "〈NEEDLES〉x〈TIE A KNOT〉Crystal Beads Necklace",
-    "price_yen": "¥28,600",
-    "url": "https://onlinestore.nepenthes.co.jp/products/crystal-beads-necklace-4",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY572_E-BlueNavy_1.jpg?v=1785650754",
-    "created": "2026-08-01",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Blue/Navy",
-      "available": false
-     }
-    ],
-    "code": "TY572E",
     "date": "2026-08-01"
    },
    {
