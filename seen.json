@@ -4049,6 +4049,10 @@
   "stu-g116540138163": {
    "first": "2026-08-05",
    "title": "H.D. Pant - Military"
+  },
+  "stu-g116540144713": {
+   "first": "2026-08-09",
+   "title": "Needles x FILA Ventisei H.D. Track Pant"
   }
  },
  "MIX.TOKYO": {
@@ -12726,29 +12730,21 @@
     "date": "2026-07-17"
    },
    {
-    "id": "stu-g116540144163",
+    "id": "stu-g116540144713",
     "title": "Needles x FILA Ventisei H.D. Track Pant",
     "price_yen": "¥25,300",
-    "url": "https://studious.co.jp/shop/g/g116540144163/",
-    "img": "https://studious.co.jp/img/goods/S/116540144163_bebef75d11944987ba07285b5dbc19d1.jpg",
+    "url": "https://studious.co.jp/shop/g/g116540144713/",
+    "img": "https://studious.co.jp/img/goods/S/116540144713_5cc07e4faf52451ab47fd5269ebbfd75.jpg",
     "created": "",
     "soldout": false,
     "colors": [
      {
       "name": "",
       "available": null
-     },
-     {
-      "name": "",
-      "available": null
-     },
-     {
-      "name": "",
-      "available": null
      }
     ],
     "code": "",
-    "date": "2026-07-30"
+    "date": "2026-08-09"
    },
    {
     "id": "stu-g116550131164",
@@ -13660,7 +13656,7 @@
       "available": null
      }
     ],
-    "code": "RW167",
+    "code": "",
     "date": "2026-06-03"
    },
    {
@@ -13677,7 +13673,7 @@
       "available": null
      }
     ],
-    "code": "RW408",
+    "code": "",
     "date": "2026-06-03"
    },
    {
@@ -14497,7 +14493,7 @@
     "title": "NEEDLES（ニードルズ） 【B'2nd EXCLUSIVE】TRACK JACKET - POLY SMOOTH",
     "price_yen": "¥26,000",
     "url": "https://mix.tokyo/products/7856255222",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856255222-110_MAIN.jpg?v=1786129396",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856255222-110_MAIN.jpg?v=1786215763",
     "created": "2026-07-03",
     "soldout": false,
     "colors": [
@@ -14660,7 +14656,7 @@
     "title": "Needles/ニードルズ  別注Shawl Collar S/S Polo - Cotton Pique",
     "price_yen": "¥15,000",
     "url": "https://mix.tokyo/products/7816236201",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816236201-120_MAIN.jpg?v=1786129389",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816236201-120_MAIN.jpg?v=1786215747",
     "created": "2026-06-19",
     "soldout": false,
     "colors": [
@@ -14756,7 +14752,7 @@
     "title": "Needles/ニードルズ 別注H.D Track Shorts - Poly Smooth",
     "price_yen": "¥20,000",
     "url": "https://mix.tokyo/products/7816213205",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816213205-050_MAIN.jpg?v=1786129381",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816213205-050_MAIN.jpg?v=1786215737",
     "created": "2026-06-15",
     "soldout": true,
     "colors": [
@@ -14845,7 +14841,7 @@
      },
      {
       "name": "ブラック×パープル",
-      "available": true
+      "available": false
      },
      {
       "name": "オリーブ",
