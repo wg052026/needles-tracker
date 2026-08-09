@@ -5500,23 +5500,6 @@
     "date": "2026-01-31"
    },
    {
-    "id": "nep-8366950121655",
-    "title": "Boot-Cut Jean - Poly Twill",
-    "price_yen": "¥28,600",
-    "url": "https://onlinestore.nepenthes.co.jp/products/boot-cut-jean-poly-twill-24",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX230A-0.jpg?v=1769162085",
-    "created": "2026-01-23",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Indigo",
-      "available": false
-     }
-    ],
-    "code": "SX230A",
-    "date": "2026-01-23"
-   },
-   {
     "id": "nep-8366949204151",
     "title": "String Field Pant - Cotton Herringbone",
     "price_yen": "¥20,900",
@@ -8914,23 +8897,6 @@
      }
     ],
     "code": "TY090B",
-    "date": "2026-07-14"
-   },
-   {
-    "id": "nep-8664259526839",
-    "title": "Tool Tote - Medium",
-    "price_yen": "¥37,400",
-    "url": "https://onlinestore.nepenthes.co.jp/products/tool-tote-medium-2",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/RW081A-0_d5bda777-19f6-469d-b5c9-146853c715af.jpg?v=1784083115",
-    "created": "2026-07-14",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Purple",
-      "available": false
-     }
-    ],
-    "code": "TY091A",
     "date": "2026-07-14"
    },
    {
@@ -12459,11 +12425,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/crystal-beads-necklace-4",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY572_E-BlueNavy_1.jpg?v=1785650754",
     "created": "2026-08-01",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Blue/Navy",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY572E",
