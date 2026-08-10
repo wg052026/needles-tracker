@@ -4718,23 +4718,6 @@
     "date": "2022-12-12"
    },
    {
-    "id": "nep-8347728085175",
-    "title": "Narrow Track Pant - Poly Smooth",
-    "price_yen": "¥23,100",
-    "url": "https://onlinestore.nepenthes.co.jp/products/narrow-track-pant-poly-smooth-24",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX407A-0.jpg?v=1767071134",
-    "created": "2025-12-30",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Rust",
-      "available": false
-     }
-    ],
-    "code": "SX407A",
-    "date": "2025-12-30"
-   },
-   {
     "id": "nep-8035103441079",
     "title": "〈NEEDLES〉x〈CLARKS ORIGINALS〉Wallabee BT - Peace Buckle",
     "price_yen": "¥39,600",
@@ -10821,23 +10804,6 @@
     "date": "2026-07-27"
    },
    {
-    "id": "nep-8687351693495",
-    "title": "〈NEEDLES〉x〈FILA〉Star Cut Over Sized Windbreaker",
-    "price_yen": "¥31,900",
-    "url": "https://onlinestore.nepenthes.co.jp/products/star-cut-over-sized-windbreaker",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY530_A-WhiteNavyPurple_0.jpg?v=1785114362",
-    "created": "2026-07-27",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Wht/Nvy/Ppl",
-      "available": false
-     }
-    ],
-    "code": "TY530A",
-    "date": "2026-07-27"
-   },
-   {
     "id": "nep-8687351726263",
     "title": "〈NEEDLES〉x〈FILA〉Star Cut Over Sized Windbreaker",
     "price_yen": "¥31,900",
@@ -14601,7 +14567,7 @@
     "title": "Needles/ニードルズ  別注Shawl Collar S/S Polo - Cotton Pique",
     "price_yen": "¥15,000",
     "url": "https://mix.tokyo/products/7816236201",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816236201-120_MAIN.jpg?v=1786215747",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816236201-120_MAIN.jpg?v=1786302117",
     "created": "2026-06-19",
     "soldout": false,
     "colors": [
