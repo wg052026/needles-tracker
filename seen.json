@@ -10873,11 +10873,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/ventisei-track-jacket-2",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY532_C-Black_0.jpg?v=1785114726",
     "created": "2026-07-27",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Black",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY532C",
@@ -14375,11 +14375,11 @@
     "url": "https://mix.tokyo/products/7816210225",
     "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816210225-020_MAIN.jpg?v=1784113374",
     "created": "2026-06-19",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "ブラック",
-      "available": true
+      "available": false
      },
      {
       "name": "グレー",
