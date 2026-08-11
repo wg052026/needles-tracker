@@ -7184,11 +7184,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/s-s-pocket-tee-cotton-jersey-6",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX444B-0.jpg?v=1774073008",
     "created": "2026-03-20",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "H. Grey",
-      "available": true
+      "available": false
      }
     ],
     "code": "SX444B",
