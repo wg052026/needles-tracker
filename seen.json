@@ -4069,6 +4069,14 @@
   "stu-g116223032164": {
    "first": "2026-08-10",
    "title": "別注 Deconstructed Sweat Shirt - Cotton French Terry"
+  },
+  "stu-g116540166163": {
+   "first": "2026-08-12",
+   "title": "別注 H.D. Track Pant - Nylon Polyester"
+  },
+  "stu-g116558003165": {
+   "first": "2026-08-12",
+   "title": "別注 Track Jacket - Nylon Polyester"
   }
  },
  "MIX.TOKYO": {
@@ -5034,23 +5042,6 @@
     ],
     "code": "QV2031A",
     "date": "2025-04-18"
-   },
-   {
-    "id": "nep-8452401823927",
-    "title": "Papillon Emb. Jean Jacket - 12oz Denim",
-    "price_yen": "¥52,800",
-    "url": "https://onlinestore.nepenthes.co.jp/products/papillon-emb-jean-jkt-12oz-denim",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX210-0.jpg?v=1771668827",
-    "created": "2026-02-21",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Indigo",
-      "available": true
-     }
-    ],
-    "code": "SX210",
-    "date": "2026-02-21"
    },
    {
     "id": "nep-8374318825655",
@@ -11043,11 +11034,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/bird-shooting-cap-shetland-wool",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY064_A-Umber_1.jpg?v=1785647342",
     "created": "2026-08-01",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Umber",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY064A",
@@ -12450,6 +12441,48 @@
   ],
   "STUDIOUS": [
    {
+    "id": "stu-g116540166163",
+    "title": "別注 H.D. Track Pant - Nylon Polyester",
+    "price_yen": "¥28,600",
+    "url": "https://studious.co.jp/shop/g/g116540166163/",
+    "img": "https://studious.co.jp/img/goods/S/116540166163_da9d7b9913f54ea9b81c36257cb19852.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     },
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "SX1669",
+    "date": "2026-08-12"
+   },
+   {
+    "id": "stu-g116558003165",
+    "title": "別注 Track Jacket - Nylon Polyester",
+    "price_yen": "¥30,800",
+    "url": "https://studious.co.jp/shop/g/g116558003165/",
+    "img": "https://studious.co.jp/img/goods/S/116558003165_33a6338e914c4d0d9eefaa534fabea62.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     },
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "SX1668",
+    "date": "2026-08-12"
+   },
+   {
     "id": "stu-g116540015163",
     "title": "別注 Piping Cowboy H.D. Pant-Poly Double Cloth",
     "price_yen": "¥34,100",
@@ -12564,11 +12597,11 @@
     "date": "2026-07-17"
    },
    {
-    "id": "stu-g116587020074",
-    "title": "Ring - 925 Silver (Papillon)",
-    "price_yen": "¥17,600",
-    "url": "https://studious.co.jp/shop/g/g116587020074/",
-    "img": "https://studious.co.jp/img/goods/S/116587020074_c6bb2b85559344c88c9f65903c252a1f.jpg",
+    "id": "stu-g116550131304",
+    "title": "Needles x FILA Ventisei Track Jacket",
+    "price_yen": "¥28,600",
+    "url": "https://studious.co.jp/shop/g/g116550131304/",
+    "img": "https://studious.co.jp/img/goods/S/116550131304_25be94f2b197412188b72a84414caef2.jpg",
     "created": "",
     "soldout": false,
     "colors": [
@@ -12578,7 +12611,7 @@
      }
     ],
     "code": "",
-    "date": "2026-07-17"
+    "date": "2026-08-09"
    },
    {
     "id": "stu-g116540139163",
@@ -12611,23 +12644,6 @@
     "price_yen": "¥25,300",
     "url": "https://studious.co.jp/shop/g/g116540144713/",
     "img": "https://studious.co.jp/img/goods/S/116540144713_5cc07e4faf52451ab47fd5269ebbfd75.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "",
-    "date": "2026-08-09"
-   },
-   {
-    "id": "stu-g116550131304",
-    "title": "Needles x FILA Ventisei Track Jacket",
-    "price_yen": "¥28,600",
-    "url": "https://studious.co.jp/shop/g/g116550131304/",
-    "img": "https://studious.co.jp/img/goods/S/116550131304_25be94f2b197412188b72a84414caef2.jpg",
     "created": "",
     "soldout": false,
     "colors": [
@@ -12887,10 +12903,6 @@
     "created": "",
     "soldout": false,
     "colors": [
-     {
-      "name": "",
-      "available": null
-     },
      {
       "name": "",
       "available": null
