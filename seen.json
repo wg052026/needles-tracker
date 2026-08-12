@@ -3070,19 +3070,19 @@
   },
   "nep-8685779910839": {
    "first": "2026-07-24",
-   "title": "Track Jacket - Poly Jq."
+   "title": "Track Jacket - Poly Jacquard"
   },
   "nep-8685780598967": {
    "first": "2026-07-24",
-   "title": "Track Jacket - Poly Jq."
+   "title": "Track Jacket - Poly Jacquard"
   },
   "nep-8685780861111": {
    "first": "2026-07-24",
-   "title": "Track Jacket - Poly Jq."
+   "title": "Track Jacket - Poly Jacquard"
   },
   "nep-8685781057719": {
    "first": "2026-07-24",
-   "title": "Track Jacket - Poly Jq."
+   "title": "Track Jacket - Poly Jacquard"
   },
   "nep-8687423062199": {
    "first": "2026-07-27",
@@ -10596,7 +10596,7 @@
    },
    {
     "id": "nep-8685779910839",
-    "title": "Track Jacket - Poly Jq.",
+    "title": "Track Jacket - Poly Jacquard",
     "price_yen": "¥28,600",
     "url": "https://onlinestore.nepenthes.co.jp/products/track-jacket-poly-jq-35",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY347_A-PolkaDot_1.jpg?v=1784878130",
@@ -10613,7 +10613,7 @@
    },
    {
     "id": "nep-8685780598967",
-    "title": "Track Jacket - Poly Jq.",
+    "title": "Track Jacket - Poly Jacquard",
     "price_yen": "¥28,600",
     "url": "https://onlinestore.nepenthes.co.jp/products/track-jacket-poly-jq-36",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY347_C-Vortex_1.jpg?v=1784878055",
@@ -10630,7 +10630,7 @@
    },
    {
     "id": "nep-8685780861111",
-    "title": "Track Jacket - Poly Jq.",
+    "title": "Track Jacket - Poly Jacquard",
     "price_yen": "¥28,600",
     "url": "https://onlinestore.nepenthes.co.jp/products/track-jacket-poly-jq-37",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY347_D-Geometric_1.jpg?v=1784878005",
@@ -10647,7 +10647,7 @@
    },
    {
     "id": "nep-8685781057719",
-    "title": "Track Jacket - Poly Jq.",
+    "title": "Track Jacket - Poly Jacquard",
     "price_yen": "¥28,600",
     "url": "https://onlinestore.nepenthes.co.jp/products/track-jacket-poly-jq-38",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY347_E-Paisley_1.jpg?v=1784877948",
@@ -10867,23 +10867,6 @@
     "date": "2026-07-27"
    },
    {
-    "id": "nep-8687352217783",
-    "title": "〈NEEDLES〉x〈FILA〉Ventisei Track Pant",
-    "price_yen": "¥23,100",
-    "url": "https://onlinestore.nepenthes.co.jp/products/ventisei-track-pant-2",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY533_C-Black_0.jpg?v=1785114969",
-    "created": "2026-07-27",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Black",
-      "available": true
-     }
-    ],
-    "code": "TY533C",
-    "date": "2026-07-27"
-   },
-   {
     "id": "nep-8687352119479",
     "title": "〈NEEDLES〉x〈FILA〉Ventisei Track Pant",
     "price_yen": "¥23,100",
@@ -10941,11 +10924,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/bb-polo-shirt-2",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY535_C-Green_0.jpg?v=1785115366",
     "created": "2026-07-27",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Green",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY535C",
