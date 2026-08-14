@@ -9841,23 +9841,6 @@
     "date": "2026-07-14"
    },
    {
-    "id": "nep-8664290459831",
-    "title": "Track Pant - Tricot Sateen",
-    "price_yen": "¥26,400",
-    "url": "https://onlinestore.nepenthes.co.jp/products/track-pant-tricot-sateen-2",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX218A-0.jpg?v=1774673176",
-    "created": "2026-07-14",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Navy",
-      "available": true
-     }
-    ],
-    "code": "TY250A",
-    "date": "2026-07-14"
-   },
-   {
     "id": "nep-8664290590903",
     "title": "Track Pant - Tricot Sateen",
     "price_yen": "¥26,400",
@@ -15424,7 +15407,7 @@
     "colors": [
      {
       "name": "ブラック",
-      "available": false
+      "available": true
      },
      {
       "name": "ライトブラウン",
@@ -15436,7 +15419,7 @@
      },
      {
       "name": "ネイビー",
-      "available": false
+      "available": true
      }
     ],
     "code": "",
