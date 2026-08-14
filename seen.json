@@ -11836,11 +11836,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/v-neck-cardigan-poly-jq-abstract",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY261_A-Olive_1.jpg?v=1785648208",
     "created": "2026-08-01",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Olive",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY261A",
@@ -13625,11 +13625,11 @@
     "date": "2026-08-12"
    },
    {
-    "id": "stu-g116540015163",
-    "title": "別注 Piping Cowboy H.D. Pant-Poly Double Cloth",
-    "price_yen": "¥34,100",
-    "url": "https://studious.co.jp/shop/g/g116540015163/",
-    "img": "https://studious.co.jp/img/goods/S/116540015163_79a48c36c8fe46a98f077895a30748d0.jpg",
+    "id": "stu-g116558001164",
+    "title": "別注 Piping Cowboy Jacket-Poly Double Cloth",
+    "price_yen": "¥39,600",
+    "url": "https://studious.co.jp/shop/g/g116558001164/",
+    "img": "https://studious.co.jp/img/goods/S/116558001164_7f8b3903703f4ed4990f181e8e1829df.jpg",
     "created": "",
     "soldout": false,
     "colors": [
@@ -13642,7 +13642,7 @@
       "available": null
      }
     ],
-    "code": "SX1557",
+    "code": "SX1555",
     "date": "2026-08-04"
    },
    {
@@ -13667,11 +13667,11 @@
     "date": "2026-08-04"
    },
    {
-    "id": "stu-g116558001164",
-    "title": "別注 Piping Cowboy Jacket-Poly Double Cloth",
-    "price_yen": "¥39,600",
-    "url": "https://studious.co.jp/shop/g/g116558001164/",
-    "img": "https://studious.co.jp/img/goods/S/116558001164_7f8b3903703f4ed4990f181e8e1829df.jpg",
+    "id": "stu-g116540015163",
+    "title": "別注 Piping Cowboy H.D. Pant-Poly Double Cloth",
+    "price_yen": "¥34,100",
+    "url": "https://studious.co.jp/shop/g/g116540015163/",
+    "img": "https://studious.co.jp/img/goods/S/116540015163_79a48c36c8fe46a98f077895a30748d0.jpg",
     "created": "",
     "soldout": false,
     "colors": [
@@ -13684,7 +13684,7 @@
       "available": null
      }
     ],
-    "code": "SX1555",
+    "code": "SX1557",
     "date": "2026-08-04"
    },
    {
@@ -15355,7 +15355,7 @@
     "title": "NEEDLES（ニードルズ） 【B'2nd EXCLUSIVE】TRACK JACKET - POLY SMOOTH",
     "price_yen": "¥26,000",
     "url": "https://mix.tokyo/products/7856255222",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856255222-110_MAIN.jpg?v=1786215763",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856255222-120_MAIN.jpg?v=1786705378",
     "created": "2026-07-03",
     "soldout": false,
     "colors": [
@@ -15384,7 +15384,7 @@
     "title": "NEEDLES（ニードルズ） 【B'2nd EXCLUSIVE】H.D.TRACK PANT - POLY SMOOTH",
     "price_yen": "¥21,000",
     "url": "https://mix.tokyo/products/7856210237",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856210237-054_MAIN.jpg?v=1785697312",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856210237-010_MAIN.jpg?v=1786705377",
     "created": "2026-07-03",
     "soldout": false,
     "colors": [
