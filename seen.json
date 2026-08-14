@@ -11082,23 +11082,6 @@
     "date": "2026-07-27"
    },
    {
-    "id": "nep-8687352250551",
-    "title": "〈NEEDLES〉x〈FILA〉Ventisei H.D. Track Pant",
-    "price_yen": "¥25,300",
-    "url": "https://onlinestore.nepenthes.co.jp/products/ventisei-h-d-track-pant",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY534_A-Blue_0.jpg?v=1785115022",
-    "created": "2026-07-27",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Blue",
-      "available": true
-     }
-    ],
-    "code": "TY534A",
-    "date": "2026-07-27"
-   },
-   {
     "id": "nep-8687352283319",
     "title": "〈NEEDLES〉x〈FILA〉Ventisei H.D. Track Pant",
     "price_yen": "¥25,300",
@@ -15378,7 +15361,7 @@
     "colors": [
      {
       "name": "ブラック",
-      "available": false
+      "available": true
      },
      {
       "name": "ライトブラウン",
@@ -15390,7 +15373,7 @@
      },
      {
       "name": "ネイビー",
-      "available": false
+      "available": true
      }
     ],
     "code": "",
