@@ -4787,6 +4787,18 @@
   "mix-7992828264513": {
    "first": "2026-07-24",
    "title": "NEEDLES/ニードルズ/H.D.BUGGY JEAN - 12oz DENIM"
+  },
+  "mix-7912098431041": {
+   "first": "2026-05-26",
+   "title": "NEEDLES/ニードルズ/【LHP EXCLUSIVE】H.D.TRACK PANT - COTTON JERSEY"
+  },
+  "mix-7901883531329": {
+   "first": "2026-05-14",
+   "title": "NEEDLES/ニードルズ/【LHP EXCLUSIVE】H.D.TRACK PANT - C/PE VELOUR（BLACK）"
+  },
+  "mix-7901882974273": {
+   "first": "2026-05-14",
+   "title": "NEEDLES/ニードルズ/【LHP EXCLUSIVE】H.D. TRACK PANT - C/PE VEROUR(NAVY)"
   }
  },
  "_snapshots": {
@@ -10782,11 +10794,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/saddleman-shirt-poly-jq",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY345_A-PolkaDot_1.jpg?v=1784878244",
     "created": "2026-07-24",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Polka Dot",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY345A",
@@ -15128,6 +15140,61 @@
    }
   ],
   "MIX.TOKYO": [
+   {
+    "id": "mix-7912098431041",
+    "title": "NEEDLES/ニードルズ/【LHP EXCLUSIVE】H.D.TRACK PANT - COTTON JERSEY",
+    "price_yen": "¥28,000",
+    "url": "https://mix.tokyo/products/7846210256",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846210256-010_MAIN.jpg?v=1786129365",
+    "created": "2026-05-26",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "ブラック",
+      "available": true
+     },
+     {
+      "name": "グレー",
+      "available": true
+     }
+    ],
+    "code": "",
+    "date": "2026-05-26"
+   },
+   {
+    "id": "mix-7901883531329",
+    "title": "NEEDLES/ニードルズ/【LHP EXCLUSIVE】H.D.TRACK PANT - C/PE VELOUR（BLACK）",
+    "price_yen": "¥29,000",
+    "url": "https://mix.tokyo/products/7846210255",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846210255-010_MAIN.jpg?v=1783944134",
+    "created": "2026-05-14",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "ブラック",
+      "available": true
+     }
+    ],
+    "code": "",
+    "date": "2026-05-14"
+   },
+   {
+    "id": "mix-7901882974273",
+    "title": "NEEDLES/ニードルズ/【LHP EXCLUSIVE】H.D. TRACK PANT - C/PE VEROUR(NAVY)",
+    "price_yen": "¥29,000",
+    "url": "https://mix.tokyo/products/7846210254",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846210254-120_MAIN.jpg?v=1783962724",
+    "created": "2026-05-14",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "ネイビー",
+      "available": true
+     }
+    ],
+    "code": "",
+    "date": "2026-05-14"
+   },
    {
     "id": "mix-7992829083713",
     "title": "NEEDLES/ニードルズ/H.D.PANT - BDU",
