@@ -15339,11 +15339,11 @@
     "url": "https://mix.tokyo/products/7856134331",
     "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856134331-363_MAIN.jpg?v=1784028657",
     "created": "2026-07-14",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "アザー",
-      "available": true
+      "available": false
      }
     ],
     "code": "",
