@@ -5246,23 +5246,6 @@
     "date": "2023-07-20"
    },
    {
-    "id": "nep-8374318760119",
-    "title": "Papillon Emb. Straight Jean - 12oz Denim",
-    "price_yen": "¥31,900",
-    "url": "https://onlinestore.nepenthes.co.jp/products/papillon-emb-stra-jean-12ozdenim",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX211-0.jpg?v=1769834557",
-    "created": "2026-01-31",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Indigo",
-      "available": true
-     }
-    ],
-    "code": "SX211",
-    "date": "2026-01-31"
-   },
-   {
     "id": "nep-8068676780215",
     "title": "〈Needles〉x〈Factory900〉 RF-170",
     "price_yen": "¥60,500",
@@ -5278,23 +5261,6 @@
     ],
     "code": "QV2031A",
     "date": "2025-04-18"
-   },
-   {
-    "id": "nep-8374318825655",
-    "title": "Papillon Emb. Boot-Cut Jean - 12oz Denim",
-    "price_yen": "¥31,900",
-    "url": "https://onlinestore.nepenthes.co.jp/products/papillon-emb-b-cut-jean-12ozdenim",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX212-0.jpg?v=1769834587",
-    "created": "2026-01-31",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Indigo",
-      "available": true
-     }
-    ],
-    "code": "SX212",
-    "date": "2026-01-31"
    },
    {
     "id": "nep-8314261799095",
@@ -11729,11 +11695,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/pullover-knit-shirt-poly-jq-abstract-1",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY260_B-Bordeaux_1.jpg?v=1785648181",
     "created": "2026-08-01",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Bordeaux",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY260B",
