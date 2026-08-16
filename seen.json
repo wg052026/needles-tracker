@@ -11060,23 +11060,6 @@
     "date": "2026-07-27"
    },
    {
-    "id": "nep-8687352479927",
-    "title": "〈NEEDLES〉x〈FILA〉BB Polo Shirt",
-    "price_yen": "¥17,600",
-    "url": "https://onlinestore.nepenthes.co.jp/products/bb-polo-shirt-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY535_B-Black_0.jpg?v=1785115323",
-    "created": "2026-07-27",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Black",
-      "available": true
-     }
-    ],
-    "code": "TY535B",
-    "date": "2026-07-27"
-   },
-   {
     "id": "nep-8693329002679",
     "title": "Watch Cap - Shetland Wool",
     "price_yen": "¥11,000",
@@ -11686,23 +11669,6 @@
      }
     ],
     "code": "TY260A",
-    "date": "2026-08-01"
-   },
-   {
-    "id": "nep-8693341028535",
-    "title": "Pullover Knit Shirt - Poly Jq. / Abstract",
-    "price_yen": "¥24,200",
-    "url": "https://onlinestore.nepenthes.co.jp/products/pullover-knit-shirt-poly-jq-abstract-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY260_B-Bordeaux_1.jpg?v=1785648181",
-    "created": "2026-08-01",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Bordeaux",
-      "available": false
-     }
-    ],
-    "code": "TY260B",
     "date": "2026-08-01"
    },
    {
@@ -12519,23 +12485,6 @@
      }
     ],
     "code": "TY442B",
-    "date": "2026-08-01"
-   },
-   {
-    "id": "nep-8693350564023",
-    "title": "Wind Shirt - Poly Stretch Twill",
-    "price_yen": "¥29,700",
-    "url": "https://onlinestore.nepenthes.co.jp/products/wind-shirt-poly-stretch-twill",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY442_A-Charcoal_1.jpg?v=1785650040",
-    "created": "2026-08-01",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Charcoal",
-      "available": false
-     }
-    ],
-    "code": "TY442A",
     "date": "2026-08-01"
    },
    {
