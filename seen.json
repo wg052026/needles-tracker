@@ -15191,15 +15191,15 @@
     "url": "https://mix.tokyo/products/7846213224",
     "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846213224-030_MAIN.jpg?v=1785351764",
     "created": "2026-07-08",
-    "soldout": true,
+    "soldout": false,
     "colors": [
      {
       "name": "ブラック",
-      "available": false
+      "available": true
      },
      {
       "name": "ホワイト",
-      "available": false
+      "available": true
      }
     ],
     "code": "",
@@ -15212,15 +15212,15 @@
     "url": "https://mix.tokyo/products/7846210258",
     "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846210258-030_MAIN.jpg?v=1785351777",
     "created": "2026-07-08",
-    "soldout": true,
+    "soldout": false,
     "colors": [
      {
       "name": "ブラック",
-      "available": false
+      "available": true
      },
      {
       "name": "ホワイト",
-      "available": false
+      "available": true
      }
     ],
     "code": "",
@@ -15233,15 +15233,15 @@
     "url": "https://mix.tokyo/products/7846252254",
     "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846252254-010_MAIN.jpg?v=1785351772",
     "created": "2026-07-03",
-    "soldout": true,
+    "soldout": false,
     "colors": [
      {
       "name": "ブラック",
-      "available": false
+      "available": true
      },
      {
       "name": "ホワイト",
-      "available": false
+      "available": true
      }
     ],
     "code": "",
