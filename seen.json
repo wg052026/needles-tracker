@@ -15093,7 +15093,7 @@
     "title": "Needles/ニードルズ　別注Track Jacket - Poly Smooth",
     "price_yen": "¥26,000",
     "url": "https://mix.tokyo/products/7816252236",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816252236-440_MAIN.jpg?v=1784115073",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816252236-440_MAIN.jpg?v=1786993389",
     "created": "2026-07-15",
     "soldout": false,
     "colors": [
@@ -15122,7 +15122,7 @@
     "title": "Needles/ニードルズ　別注Track Pant - Poly Smooth",
     "price_yen": "¥21,000",
     "url": "https://mix.tokyo/products/7816210222",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816210222-440_MAIN.jpg?v=1784115067",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816210222-440_MAIN.jpg?v=1786993392",
     "created": "2026-07-15",
     "soldout": false,
     "colors": [
@@ -15235,7 +15235,7 @@
     "title": "NEEDLES（ニードルズ）7 Cut Wide Tee - College",
     "price_yen": "¥10,000",
     "url": "https://mix.tokyo/products/7856134331",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856134331-363_MAIN.jpg?v=1784028657",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856134331-363_MAIN.jpg?v=1786993364",
     "created": "2026-07-14",
     "soldout": true,
     "colors": [
@@ -15252,7 +15252,7 @@
     "title": "NEEDLES（ニードルズ） 【B'2nd EXCLUSIVE】TRACK JACKET - POLY SMOOTH",
     "price_yen": "¥26,000",
     "url": "https://mix.tokyo/products/7856255222",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856255222-120_MAIN.jpg?v=1786705378",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856255222-120_MAIN.jpg?v=1786993388",
     "created": "2026-07-03",
     "soldout": false,
     "colors": [
@@ -15281,7 +15281,7 @@
     "title": "NEEDLES（ニードルズ） 【B'2nd EXCLUSIVE】H.D.TRACK PANT - POLY SMOOTH",
     "price_yen": "¥21,000",
     "url": "https://mix.tokyo/products/7856210237",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856210237-010_MAIN.jpg?v=1786705377",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856210237-010_MAIN.jpg?v=1786993390",
     "created": "2026-07-03",
     "soldout": false,
     "colors": [
@@ -15417,19 +15417,19 @@
     "url": "https://mix.tokyo/products/7816236201",
     "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816236201-120_MAIN.jpg?v=1786561335",
     "created": "2026-06-19",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "ネイビー",
-      "available": true
+      "available": false
      },
      {
       "name": "グリーン",
-      "available": true
+      "available": false
      },
      {
       "name": "ロイヤル",
-      "available": true
+      "available": false
      }
     ],
     "code": "",
