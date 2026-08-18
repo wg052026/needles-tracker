@@ -6629,11 +6629,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/p-44-jacket-cotton-herringbone-1",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX152B-0.jpg?v=1769155656",
     "created": "2026-01-23",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Black",
-      "available": true
+      "available": false
      }
     ],
     "code": "SX152B",
