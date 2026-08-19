@@ -3690,27 +3690,27 @@
   },
   "nep-8701056745655": {
    "first": "2026-08-07",
-   "title": "V Neck Cardigan - Paisley bulky Lace"
+   "title": "V Neck Cardigan - Paisley Bulky Lace"
   },
   "nep-8701056778423": {
    "first": "2026-08-07",
-   "title": "V Neck Cardigan - Paisley bulky Lace"
+   "title": "V Neck Cardigan - Paisley Bulky Lace"
   },
   "nep-8701056909495": {
    "first": "2026-08-07",
-   "title": "V Neck Cardigan - Paisley bulky Lace"
+   "title": "V Neck Cardigan - Paisley Bulky Lace"
   },
   "nep-8701056975031": {
    "first": "2026-08-07",
-   "title": "L/S U Neck Tee - Paisley bulky Lace"
+   "title": "L/S U Neck Tee - Paisley Bulky Lace"
   },
   "nep-8701057007799": {
    "first": "2026-08-07",
-   "title": "L/S U Neck Tee - Paisley bulky Lace"
+   "title": "L/S U Neck Tee - Paisley Bulky Lace"
   },
   "nep-8701056942263": {
    "first": "2026-08-07",
-   "title": "L/S U Neck Tee - Paisley bulky Lace"
+   "title": "L/S U Neck Tee - Paisley Bulky Lace"
   },
   "nep-8701057138871": {
    "first": "2026-08-07",
@@ -13169,7 +13169,7 @@
    },
    {
     "id": "nep-8701056745655",
-    "title": "V Neck Cardigan - Paisley bulky Lace",
+    "title": "V Neck Cardigan - Paisley Bulky Lace",
     "price_yen": "¥18,700",
     "url": "https://onlinestore.nepenthes.co.jp/products/v-neck-cardigan-paisley-bulky-lace",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY384_A-Dk.Purple_1.jpg?v=1786164805",
@@ -13186,7 +13186,7 @@
    },
    {
     "id": "nep-8701056778423",
-    "title": "V Neck Cardigan - Paisley bulky Lace",
+    "title": "V Neck Cardigan - Paisley Bulky Lace",
     "price_yen": "¥18,700",
     "url": "https://onlinestore.nepenthes.co.jp/products/v-neck-cardigan-paisley-bulky-lace-1",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY384_B-Dk.Brown_1.jpg?v=1786164707",
@@ -13203,7 +13203,7 @@
    },
    {
     "id": "nep-8701056909495",
-    "title": "V Neck Cardigan - Paisley bulky Lace",
+    "title": "V Neck Cardigan - Paisley Bulky Lace",
     "price_yen": "¥18,700",
     "url": "https://onlinestore.nepenthes.co.jp/products/v-neck-cardigan-paisley-bulky-lace-2",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY384_C-Black_1.jpg?v=1786163342",
@@ -13220,7 +13220,7 @@
    },
    {
     "id": "nep-8701056975031",
-    "title": "L/S U Neck Tee - Paisley bulky Lace",
+    "title": "L/S U Neck Tee - Paisley Bulky Lace",
     "price_yen": "¥15,400",
     "url": "https://onlinestore.nepenthes.co.jp/products/l-s-u-neck-tee-paisley-bulky-lace-1",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY385_B-Dk.Brown_1.jpg?v=1786163274",
@@ -13237,7 +13237,7 @@
    },
    {
     "id": "nep-8701057007799",
-    "title": "L/S U Neck Tee - Paisley bulky Lace",
+    "title": "L/S U Neck Tee - Paisley Bulky Lace",
     "price_yen": "¥15,400",
     "url": "https://onlinestore.nepenthes.co.jp/products/l-s-u-neck-tee-paisley-bulky-lace-2",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY385_C-Black_1.jpg?v=1786163247",
@@ -13254,7 +13254,7 @@
    },
    {
     "id": "nep-8701056942263",
-    "title": "L/S U Neck Tee - Paisley bulky Lace",
+    "title": "L/S U Neck Tee - Paisley Bulky Lace",
     "price_yen": "¥15,400",
     "url": "https://onlinestore.nepenthes.co.jp/products/l-s-u-neck-tee-paisley-bulky-lace",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY385_A-Dk.Purple_1.jpg?v=1786163300",
@@ -15267,7 +15267,7 @@
     "colors": [
      {
       "name": "ブラック",
-      "available": true
+      "available": false
      },
      {
       "name": "ホワイト",
@@ -16137,23 +16137,6 @@
     ],
     "code": "",
     "date": "2026-03-31"
-   },
-   {
-    "id": "mix-7862425092161",
-    "title": "NEEDLES(ニードルズ) Balloon Track Skirt - Bright Jersey",
-    "price_yen": "¥17,500",
-    "url": "https://mix.tokyo/products/7856116703",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856116703-010_MAIN.jpg?v=1783953914",
-    "created": "2026-03-26",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "ブラック",
-      "available": false
-     }
-    ],
-    "code": "",
-    "date": "2026-03-26"
    }
   ]
  }
