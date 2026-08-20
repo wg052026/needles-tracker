@@ -5756,23 +5756,6 @@
     "date": "2025-12-17"
    },
    {
-    "id": "nep-8312978374839",
-    "title": "H.D. Pant - Double Weave Jacquard",
-    "price_yen": "¥21,450",
-    "url": "https://onlinestore.nepenthes.co.jp/products/h-d-pant-double-weave-jacquard-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX242B-0.jpg?v=1765965201",
-    "created": "2025-12-16",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Navy/Star",
-      "available": true
-     }
-    ],
-    "code": "SX242B",
-    "date": "2025-12-16"
-   },
-   {
     "id": "nep-8312975687863",
     "title": "Zipped Hoody - Double Weave Jacquard",
     "price_yen": "¥26,950",
@@ -11621,23 +11604,6 @@
     "date": "2026-08-01"
    },
    {
-    "id": "nep-8693340569783",
-    "title": "Pullover Knit Shirt - Poly Jq. / Abstract",
-    "price_yen": "¥24,200",
-    "url": "https://onlinestore.nepenthes.co.jp/products/pullover-knit-shirt-poly-jq-abstract",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY260_A-Olive_1.jpg?v=1785648161",
-    "created": "2026-08-01",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Olive",
-      "available": false
-     }
-    ],
-    "code": "TY260A",
-    "date": "2026-08-01"
-   },
-   {
     "id": "nep-8693343420599",
     "title": "V Neck Cardigan - Poly Jq. / Abstract",
     "price_yen": "¥26,400",
@@ -15043,7 +15009,7 @@
     "title": "NEEDLES/ニードルズ/【LHP EXCLUSIVE】H.D.TRACK PANT - COTTON JERSEY",
     "price_yen": "¥28,000",
     "url": "https://mix.tokyo/products/7846210256",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846210256-010_MAIN.jpg?v=1786129365",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846210256-010_MAIN.jpg?v=1787166178",
     "created": "2026-05-26",
     "soldout": false,
     "colors": [
@@ -15320,7 +15286,7 @@
     "title": "NEEDLES（ニードルズ） 【B'2nd EXCLUSIVE】TRACK JACKET - POLY SMOOTH",
     "price_yen": "¥26,000",
     "url": "https://mix.tokyo/products/7856255222",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856255222-120_MAIN.jpg?v=1787051022",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856255222-120_MAIN.jpg?v=1787166272",
     "created": "2026-07-03",
     "soldout": false,
     "colors": [
@@ -15633,7 +15599,7 @@
     "title": "NEEDLES/ニードルズ/【LHP EXCLUSIVE】H.D.TRACK PANT - POLY SMOOTH",
     "price_yen": "¥21,000",
     "url": "https://mix.tokyo/products/7846210253",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846210253-310_MAIN.jpg?v=1787137413",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846210253-310_MAIN.jpg?v=1787166272",
     "created": "2026-05-14",
     "soldout": true,
     "colors": [
@@ -15687,7 +15653,7 @@
     "title": "NEEDLES/ニードルズ/【LHP EXCLUSIVE】TRACK JACKET - POLY SMOOTH",
     "price_yen": "¥26,000",
     "url": "https://mix.tokyo/products/7846252250",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846252250-011_MAIN.jpg?v=1784746998",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846252250-410_MAIN.jpg?v=1787166391",
     "created": "2026-05-25",
     "soldout": false,
     "colors": [
