@@ -7405,23 +7405,6 @@
     "date": "2026-05-14"
    },
    {
-    "id": "nep-8571586019511",
-    "title": "Side Line Track Pant - Tricot Sateen",
-    "price_yen": "¥22,000",
-    "url": "https://onlinestore.nepenthes.co.jp/products/side-line-track-pant-tricot-sateen",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX1496A-00.jpg?v=1778720158",
-    "created": "2026-05-14",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Greige",
-      "available": true
-     }
-    ],
-    "code": "SX1496A",
-    "date": "2026-05-14"
-   },
-   {
     "id": "nep-8571586117815",
     "title": "Side Line Track Pant - Tricot Sateen",
     "price_yen": "¥22,000",
@@ -15593,23 +15576,6 @@
     ],
     "code": "",
     "date": "2026-06-11"
-   },
-   {
-    "id": "mix-7901885005889",
-    "title": "NEEDLES/ニードルズ/【LHP EXCLUSIVE】H.D.TRACK PANT - POLY SMOOTH",
-    "price_yen": "¥21,000",
-    "url": "https://mix.tokyo/products/7846210253",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846210253-310_MAIN.jpg?v=1787166272",
-    "created": "2026-05-14",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "ブラック×パープル",
-      "available": false
-     }
-    ],
-    "code": "",
-    "date": "2026-05-14"
    },
    {
     "id": "mix-7902598135873",
