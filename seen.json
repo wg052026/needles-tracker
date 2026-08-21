@@ -7375,23 +7375,6 @@
     "date": "2026-03-31"
    },
    {
-    "id": "nep-8525120241847",
-    "title": "Western Yoke Sports Jacket - PE/C Typewriter",
-    "price_yen": "¥32,450",
-    "url": "https://onlinestore.nepenthes.co.jp/products/western-yoke-sports-jkt-pe-c-type",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX126-0.jpg?v=1775284578",
-    "created": "2026-04-04",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Black",
-      "available": false
-     }
-    ],
-    "code": "SX126",
-    "date": "2026-04-04"
-   },
-   {
     "id": "nep-8571585986743",
     "title": "Papillon Emb. Side Line Tank Top - Tricot Sateen",
     "price_yen": "¥12,100",
@@ -14981,11 +14964,11 @@
     "url": "https://mix.tokyo/products/7846210256",
     "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846210256-010_MAIN.jpg?v=1787166178",
     "created": "2026-05-26",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "ブラック",
-      "available": true
+      "available": false
      },
      {
       "name": "グレー",
@@ -15256,7 +15239,7 @@
     "title": "NEEDLES（ニードルズ） 【B'2nd EXCLUSIVE】TRACK JACKET - POLY SMOOTH",
     "price_yen": "¥26,000",
     "url": "https://mix.tokyo/products/7856255222",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856255222-120_MAIN.jpg?v=1787166272",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856255222-120_MAIN.jpg?v=1787252627",
     "created": "2026-07-03",
     "soldout": false,
     "colors": [
@@ -15356,7 +15339,7 @@
     "title": "Needles/ニードルズ　別注H.D. Track Pant - NYLON",
     "price_yen": "¥26,000",
     "url": "https://mix.tokyo/products/7816210224",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816210224-110_MAIN.jpg?v=1784113363",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816210224-110_MAIN.jpg?v=1787252617",
     "created": "2026-06-19",
     "soldout": true,
     "colors": [
@@ -15444,7 +15427,7 @@
     "title": "Needles/ニードルズ　別注Track Jacket - NYLON",
     "price_yen": "¥28,000",
     "url": "https://mix.tokyo/products/7816252237",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816252237-110_MAIN.jpg?v=1784113383",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816252237-110_MAIN.jpg?v=1787252618",
     "created": "2026-06-19",
     "soldout": false,
     "colors": [
@@ -15515,7 +15498,7 @@
     "title": "Needles/ニードルズ 別注H.D Track Shorts - Poly Smooth",
     "price_yen": "¥20,000",
     "url": "https://mix.tokyo/products/7816213205",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816213205-050_MAIN.jpg?v=1786215737",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816213205-050_MAIN.jpg?v=1787252617",
     "created": "2026-06-15",
     "soldout": true,
     "colors": [
@@ -15722,7 +15705,7 @@
     "title": "Needles/ニードルズ　別注H.D. Pantt - Cotton Ripstop",
     "price_yen": "¥56,000",
     "url": "https://mix.tokyo/products/7816210227",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816210227-310_MAIN.jpg?v=1786129391",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816210227-310_MAIN.jpg?v=1787252623",
     "created": "2026-05-14",
     "soldout": false,
     "colors": [
@@ -15798,7 +15781,7 @@
     "title": "Needles/ニードルズ　別注Field Jacket - Cotton Ripstop",
     "price_yen": "¥61,000",
     "url": "https://mix.tokyo/products/7816252238",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816252238-310_MAIN.jpg?v=1786129394",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816252238-310_MAIN.jpg?v=1787252621",
     "created": "2026-05-14",
     "soldout": false,
     "colors": [
