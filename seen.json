@@ -3743,6 +3743,42 @@
   "nep-8701057630391": {
    "first": "2026-08-07",
    "title": "L/S Crew Neck Tee - Stripe Velour"
+  },
+  "nep-8711705854135": {
+   "first": "2026-08-14",
+   "title": "Loose B.B. Jacket - Sulfur Dye Duck"
+  },
+  "nep-8711706017975": {
+   "first": "2026-08-14",
+   "title": "Loose B.B. Jacket - Sulfur Dye Duck"
+  },
+  "nep-8711706771639": {
+   "first": "2026-08-14",
+   "title": "Piping Cowboy Jacket - Poly Double Cloth"
+  },
+  "nep-8711707066551": {
+   "first": "2026-08-14",
+   "title": "Piping Cowboy Jacket - Poly Double Cloth"
+  },
+  "nep-8711707984055": {
+   "first": "2026-08-14",
+   "title": "Dolman Sleeve Track Jacket - Bright Jersey"
+  },
+  "nep-8711707820215": {
+   "first": "2026-08-14",
+   "title": "Dolman Sleeve Track Jacket - Bright Jersey"
+  },
+  "nep-8711708180663": {
+   "first": "2026-08-14",
+   "title": "Dolman Sleeve Track Jacket - Bright Jersey"
+  },
+  "nep-8711710638263": {
+   "first": "2026-08-14",
+   "title": "Clog Sandal - Mary Jane / Suede"
+  },
+  "nep-8711710900407": {
+   "first": "2026-08-14",
+   "title": "Clog Sandal - Mary Jane / Suede"
   }
  },
  "STUDIOUS": {
@@ -13340,6 +13376,159 @@
     ],
     "code": "TY397B",
     "date": "2026-08-07"
+   },
+   {
+    "id": "nep-8711705854135",
+    "title": "Loose B.B. Jacket - Sulfur Dye Duck",
+    "price_yen": "¥91,300",
+    "url": "https://onlinestore.nepenthes.co.jp/products/loose-b-b-jacket-sulfur-dye-duck",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY166_A-Brown_1.jpg?v=1786768702",
+    "created": "2026-08-14",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Brown",
+      "available": true
+     }
+    ],
+    "code": "TY166A",
+    "date": "2026-08-14"
+   },
+   {
+    "id": "nep-8711706017975",
+    "title": "Loose B.B. Jacket - Sulfur Dye Duck",
+    "price_yen": "¥91,300",
+    "url": "https://onlinestore.nepenthes.co.jp/products/loose-b-b-jacket-sulfur-dye-duck-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY166_B-Black_1.jpg?v=1786768721",
+    "created": "2026-08-14",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY166B",
+    "date": "2026-08-14"
+   },
+   {
+    "id": "nep-8711706771639",
+    "title": "Piping Cowboy Jacket - Poly Double Cloth",
+    "price_yen": "¥39,600",
+    "url": "https://onlinestore.nepenthes.co.jp/products/piping-cowboy-jacket-poly-d-cloth-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY258_A-Purple_1.jpg?v=1786768748",
+    "created": "2026-08-14",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Purple",
+      "available": true
+     }
+    ],
+    "code": "TY258A",
+    "date": "2026-08-14"
+   },
+   {
+    "id": "nep-8711707066551",
+    "title": "Piping Cowboy Jacket - Poly Double Cloth",
+    "price_yen": "¥39,600",
+    "url": "https://onlinestore.nepenthes.co.jp/products/piping-cowboy-jacket-poly-d-cloth-2",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY258_B-Navy_1.jpg?v=1786768770",
+    "created": "2026-08-14",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Navy",
+      "available": true
+     }
+    ],
+    "code": "TY258B",
+    "date": "2026-08-14"
+   },
+   {
+    "id": "nep-8711707984055",
+    "title": "Dolman Sleeve Track Jacket - Bright Jersey",
+    "price_yen": "¥30,800",
+    "url": "https://onlinestore.nepenthes.co.jp/products/dolman-slv-track-jkt-bright-jersey-4",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY362_B-Purple_1.jpg?v=1786768819",
+    "created": "2026-08-14",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Purple",
+      "available": true
+     }
+    ],
+    "code": "TY362B",
+    "date": "2026-08-14"
+   },
+   {
+    "id": "nep-8711707820215",
+    "title": "Dolman Sleeve Track Jacket - Bright Jersey",
+    "price_yen": "¥30,800",
+    "url": "https://onlinestore.nepenthes.co.jp/products/dolman-slv-track-jkt-bright-jersey-3",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY362_A-Navy_1.jpg?v=1786768800",
+    "created": "2026-08-14",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Navy",
+      "available": true
+     }
+    ],
+    "code": "TY362A",
+    "date": "2026-08-14"
+   },
+   {
+    "id": "nep-8711708180663",
+    "title": "Dolman Sleeve Track Jacket - Bright Jersey",
+    "price_yen": "¥30,800",
+    "url": "https://onlinestore.nepenthes.co.jp/products/dolman-slv-track-jkt-bright-jersey-5",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY362_C-Black_1.jpg?v=1786768888",
+    "created": "2026-08-14",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY362C",
+    "date": "2026-08-14"
+   },
+   {
+    "id": "nep-8711710638263",
+    "title": "Clog Sandal - Mary Jane / Suede",
+    "price_yen": "¥34,100",
+    "url": "https://onlinestore.nepenthes.co.jp/products/clog-sandal-mary-jane-suede",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY482_A-Taupe_1.jpg?v=1786769271",
+    "created": "2026-08-14",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Taupe",
+      "available": true
+     }
+    ],
+    "code": "TY482A",
+    "date": "2026-08-14"
+   },
+   {
+    "id": "nep-8711710900407",
+    "title": "Clog Sandal - Mary Jane / Suede",
+    "price_yen": "¥34,100",
+    "url": "https://onlinestore.nepenthes.co.jp/products/clog-sandal-mary-jane-suede-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY482_B-Black_1.jpg?v=1786769292",
+    "created": "2026-08-14",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY482B",
+    "date": "2026-08-14"
    }
   ],
   "STUDIOUS": [
