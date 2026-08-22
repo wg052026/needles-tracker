@@ -11684,11 +11684,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/inverted-pleats-skirt-poly-d-cloth",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY328_A-Brown_1.jpg?v=1785648502",
     "created": "2026-08-01",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Brown",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY328A",
@@ -12636,11 +12636,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/zipped-work-jacket-10oz-pythonjacq-1",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY227_B-Black_1.jpg?v=1786166032",
     "created": "2026-08-07",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Black",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY227B",
@@ -15133,6 +15133,23 @@
    }
   ],
   "MIX.TOKYO": [
+   {
+    "id": "mix-7901885005889",
+    "title": "NEEDLES/ニードルズ/【LHP EXCLUSIVE】H.D.TRACK PANT - POLY SMOOTH",
+    "price_yen": "¥21,000",
+    "url": "https://mix.tokyo/products/7846210253",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846210253-310_MAIN.jpg?v=1787166272",
+    "created": "2026-05-14",
+    "soldout": true,
+    "colors": [
+     {
+      "name": "ブラック×パープル",
+      "available": false
+     }
+    ],
+    "code": "",
+    "date": "2026-05-14"
+   },
    {
     "id": "mix-7912098431041",
     "title": "NEEDLES/ニードルズ/【LHP EXCLUSIVE】H.D.TRACK PANT - COTTON JERSEY",
