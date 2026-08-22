@@ -15845,7 +15845,7 @@
     "colors": [
      {
       "name": "ブラック×ホワイト",
-      "available": true
+      "available": false
      },
      {
       "name": "ブラック×チャコール",
