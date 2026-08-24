@@ -12171,23 +12171,6 @@
     "date": "2026-08-07"
    },
    {
-    "id": "nep-8701052846263",
-    "title": "Uncon Shirt - Pixel Art",
-    "price_yen": "¥30,800",
-    "url": "https://onlinestore.nepenthes.co.jp/products/uncon-shirt-pixel-art-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY290_B-BlackPurple_1.jpg?v=1786166649",
-    "created": "2026-08-07",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Black/Purple",
-      "available": false
-     }
-    ],
-    "code": "TY290B",
-    "date": "2026-08-07"
-   },
-   {
     "id": "nep-8701052977335",
     "title": "Windsor Collar Uncon Shirt - W/R Ombre Plaid",
     "price_yen": "¥51,700",
