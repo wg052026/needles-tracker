@@ -7105,23 +7105,6 @@
     "date": "2026-05-19"
    },
    {
-    "id": "nep-8575246434487",
-    "title": "Bucket Hat - Papillon Print",
-    "price_yen": "¥13,200",
-    "url": "https://onlinestore.nepenthes.co.jp/products/bucket-hat-papillon-print-2",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX1491B-0.jpg?v=1779176027",
-    "created": "2026-05-19",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Black",
-      "available": true
-     }
-    ],
-    "code": "SX1491B",
-    "date": "2026-05-19"
-   },
-   {
     "id": "nep-8580330913975",
     "title": "Short Sleeve Polo Dress - Cotton Pique",
     "price_yen": "¥19,800",
@@ -12940,6 +12923,27 @@
     "date": "2026-08-04"
    },
    {
+    "id": "stu-g116540166163",
+    "title": "別注 H.D. Track Pant - Nylon Polyester",
+    "price_yen": "¥28,600",
+    "url": "https://studious.co.jp/shop/g/g116540166163/",
+    "img": "https://studious.co.jp/img/goods/S/116540166163_da9d7b9913f54ea9b81c36257cb19852.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     },
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "SX1669",
+    "date": "2026-08-12"
+   },
+   {
     "id": "stu-g116558001164",
     "title": "別注 Piping Cowboy Jacket-Poly Double Cloth",
     "price_yen": "¥39,600",
@@ -12980,65 +12984,6 @@
     ],
     "code": "SX1668",
     "date": "2026-08-12"
-   },
-   {
-    "id": "stu-g116540166163",
-    "title": "別注 H.D. Track Pant - Nylon Polyester",
-    "price_yen": "¥28,600",
-    "url": "https://studious.co.jp/shop/g/g116540166163/",
-    "img": "https://studious.co.jp/img/goods/S/116540166163_da9d7b9913f54ea9b81c36257cb19852.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     },
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "SX1669",
-    "date": "2026-08-12"
-   },
-   {
-    "id": "stu-g116550131164",
-    "title": "Needles x FILA Ventisei Track Jacket",
-    "price_yen": "¥28,600",
-    "url": "https://studious.co.jp/shop/g/g116550131164/",
-    "img": "https://studious.co.jp/img/goods/S/116550131164_0aed61689f1048deb46db8f0a651c93f.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     },
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "",
-    "date": "2026-07-30"
-   },
-   {
-    "id": "stu-g116440015163",
-    "title": "別注 S/S Track Crew Neck Shirt - Mesh",
-    "price_yen": "¥20,900",
-    "url": "https://studious.co.jp/shop/g/g116440015163/",
-    "img": "https://studious.co.jp/img/goods/S/116440015163_48a06a8efb834551be2b1ad58dbd11c0.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "SX1548",
-    "date": "2026-07-14"
    },
    {
     "id": "stu-g116581001160",
@@ -13090,6 +13035,61 @@
     ],
     "code": "",
     "date": "2026-07-17"
+   },
+   {
+    "id": "stu-g116550131164",
+    "title": "Needles x FILA Ventisei Track Jacket",
+    "price_yen": "¥28,600",
+    "url": "https://studious.co.jp/shop/g/g116550131164/",
+    "img": "https://studious.co.jp/img/goods/S/116550131164_0aed61689f1048deb46db8f0a651c93f.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     },
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "",
+    "date": "2026-07-30"
+   },
+   {
+    "id": "stu-g116440014163",
+    "title": "別注 H.D. Track Pant - Poly Mesh",
+    "price_yen": "¥23,100",
+    "url": "https://studious.co.jp/shop/g/g116440014163/",
+    "img": "https://studious.co.jp/img/goods/S/116440014163_08b1810970f642678000dfcef3328f3b.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "SX1549",
+    "date": "2026-07-14"
+   },
+   {
+    "id": "stu-g116440015163",
+    "title": "別注 S/S Track Crew Neck Shirt - Mesh",
+    "price_yen": "¥20,900",
+    "url": "https://studious.co.jp/shop/g/g116440015163/",
+    "img": "https://studious.co.jp/img/goods/S/116440015163_48a06a8efb834551be2b1ad58dbd11c0.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "SX1548",
+    "date": "2026-07-14"
    },
    {
     "id": "stu-g116540138163",
@@ -13153,6 +13153,27 @@
     ],
     "code": "",
     "date": "2026-08-09"
+   },
+   {
+    "id": "stu-g116302132165",
+    "title": "別注 Track S/S Shirt - Poly Smooth",
+    "price_yen": "¥22,000",
+    "url": "https://studious.co.jp/shop/g/g116302132165/",
+    "img": "https://studious.co.jp/img/goods/S/116302132165_6eec414927984346ad0b2f3586ea83fd.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     },
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "SX1541",
+    "date": "2026-06-04"
    },
    {
     "id": "stu-g116302137064",
