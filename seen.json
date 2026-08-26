@@ -5308,11 +5308,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/needles-x-factory-900-rf-170",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/QV2031A-0.jpg?v=1744940799",
     "created": "2025-04-18",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Green",
-      "available": true
+      "available": false
      }
     ],
     "code": "QV2031A",
