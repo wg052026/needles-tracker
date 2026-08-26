@@ -11525,23 +11525,6 @@
     "date": "2026-08-01"
    },
    {
-    "id": "nep-8694514155703",
-    "title": "C.C. Jacket - Wool Tartan Plaid",
-    "price_yen": "¥57,200",
-    "url": "https://onlinestore.nepenthes.co.jp/products/c-c-jacket-wool-tartan-plaid",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY314_Stuart_1_429016f8-37c4-4525-ac31-f13bd139f92d.jpg?v=1785651462",
-    "created": "2026-08-02",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Black Stuart",
-      "available": false
-     }
-    ],
-    "code": "TY314",
-    "date": "2026-08-02"
-   },
-   {
     "id": "nep-8694514286775",
     "title": "C.C. Vest - Wool Tartan Plaid",
     "price_yen": "¥35,200",
