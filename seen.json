@@ -4361,6 +4361,10 @@
   "stu-g116681003160": {
    "first": "2026-08-27",
    "title": "Watch Cap - Shetland Wool"
+  },
+  "stu-g116558004165": {
+   "first": "2026-08-28",
+   "title": "別注 Track Jacket - Corduroy"
   }
  },
  "MIX.TOKYO": {
@@ -4859,6 +4863,10 @@
   "mix-7901882974273": {
    "first": "2026-05-14",
    "title": "NEEDLES/ニードルズ/【LHP EXCLUSIVE】H.D. TRACK PANT - C/PE VEROUR(NAVY)"
+  },
+  "mix-8056409849921": {
+   "first": "2026-08-26",
+   "title": "Needles/ニードルズ　別注H.D. Track Pant - Poly Smooth"
   }
  },
  "_snapshots": {
@@ -12758,7 +12766,7 @@
     "title": "別注 H.D. Track Pant - Corduroy",
     "price_yen": "¥41,800",
     "url": "https://studious.co.jp/shop/g/g116540190163/",
-    "img": "https://studious.co.jp/img/goods/S/116540190163_5817490c345b459aa4c03dc38eaa4360.jpg",
+    "img": "https://studious.co.jp/img/goods/S/116540190163_bf975e15e1174c87921efe9b6874afa6.jpg",
     "created": "",
     "soldout": false,
     "colors": [
@@ -12787,7 +12795,7 @@
     "title": "別注 Track Pant - Corduroy",
     "price_yen": "¥38,500",
     "url": "https://studious.co.jp/shop/g/g116540189163/",
-    "img": "https://studious.co.jp/img/goods/S/116540189163_42efc6129fb347359406baf8fc2b0fbf.jpg",
+    "img": "https://studious.co.jp/img/goods/S/116540189163_c786441a2a5f4fcaa138a784ca9e5ef0.jpg",
     "created": "",
     "soldout": false,
     "colors": [
@@ -12810,6 +12818,56 @@
     ],
     "code": "SX1671",
     "date": "2026-08-26"
+   },
+   {
+    "id": "stu-g116558004165",
+    "title": "別注 Track Jacket - Corduroy",
+    "price_yen": "¥44,000",
+    "url": "https://studious.co.jp/shop/g/g116558004165/",
+    "img": "https://studious.co.jp/img/goods/S/116558004165_8d7a095c43f045c58a38a0a2b2ae8907.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     },
+     {
+      "name": "",
+      "available": null
+     },
+     {
+      "name": "",
+      "available": null
+     },
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "SX1670",
+    "date": "2026-08-28"
+   },
+   {
+    "id": "stu-g116540166163",
+    "title": "別注 H.D. Track Pant - Nylon Polyester",
+    "price_yen": "¥28,600",
+    "url": "https://studious.co.jp/shop/g/g116540166163/",
+    "img": "https://studious.co.jp/img/goods/S/116540166163_da9d7b9913f54ea9b81c36257cb19852.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     },
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "SX1669",
+    "date": "2026-08-12"
    },
    {
     "id": "stu-g116558001164",
@@ -12851,27 +12909,6 @@
      }
     ],
     "code": "SX1668",
-    "date": "2026-08-12"
-   },
-   {
-    "id": "stu-g116540166163",
-    "title": "別注 H.D. Track Pant - Nylon Polyester",
-    "price_yen": "¥28,600",
-    "url": "https://studious.co.jp/shop/g/g116540166163/",
-    "img": "https://studious.co.jp/img/goods/S/116540166163_da9d7b9913f54ea9b81c36257cb19852.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     },
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "SX1669",
     "date": "2026-08-12"
    },
    {
@@ -13118,23 +13155,6 @@
     "date": "2026-08-20"
    },
    {
-    "id": "stu-g116540144713",
-    "title": "Needles x FILA Ventisei H.D. Track Pant",
-    "price_yen": "¥25,300",
-    "url": "https://studious.co.jp/shop/g/g116540144713/",
-    "img": "https://studious.co.jp/img/goods/S/116540144713_5cc07e4faf52451ab47fd5269ebbfd75.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "",
-    "date": "2026-08-09"
-   },
-   {
     "id": "stu-g116550130164",
     "title": "Dolman Sleeve Track Jacket - Bright Jersey",
     "price_yen": "¥30,800",
@@ -13161,6 +13181,57 @@
     "price_yen": "¥28,600",
     "url": "https://studious.co.jp/shop/g/g116550131304/",
     "img": "https://studious.co.jp/img/goods/S/116550131304_25be94f2b197412188b72a84414caef2.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "",
+    "date": "2026-08-09"
+   },
+   {
+    "id": "stu-g116440014163",
+    "title": "別注 H.D. Track Pant - Poly Mesh",
+    "price_yen": "¥23,100",
+    "url": "https://studious.co.jp/shop/g/g116440014163/",
+    "img": "https://studious.co.jp/img/goods/S/116440014163_08b1810970f642678000dfcef3328f3b.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "SX1549",
+    "date": "2026-07-14"
+   },
+   {
+    "id": "stu-g116440015163",
+    "title": "別注 S/S Track Crew Neck Shirt - Mesh",
+    "price_yen": "¥20,900",
+    "url": "https://studious.co.jp/shop/g/g116440015163/",
+    "img": "https://studious.co.jp/img/goods/S/116440015163_48a06a8efb834551be2b1ad58dbd11c0.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "SX1548",
+    "date": "2026-07-14"
+   },
+   {
+    "id": "stu-g116540144713",
+    "title": "Needles x FILA Ventisei H.D. Track Pant",
+    "price_yen": "¥25,300",
+    "url": "https://studious.co.jp/shop/g/g116540144713/",
+    "img": "https://studious.co.jp/img/goods/S/116540144713_5cc07e4faf52451ab47fd5269ebbfd75.jpg",
     "created": "",
     "soldout": false,
     "colors": [
@@ -13268,40 +13339,6 @@
     ],
     "code": "TY068D",
     "date": "2026-08-05"
-   },
-   {
-    "id": "stu-g116440014163",
-    "title": "別注 H.D. Track Pant - Poly Mesh",
-    "price_yen": "¥23,100",
-    "url": "https://studious.co.jp/shop/g/g116440014163/",
-    "img": "https://studious.co.jp/img/goods/S/116440014163_08b1810970f642678000dfcef3328f3b.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "SX1549",
-    "date": "2026-07-14"
-   },
-   {
-    "id": "stu-g116440015163",
-    "title": "別注 S/S Track Crew Neck Shirt - Mesh",
-    "price_yen": "¥20,900",
-    "url": "https://studious.co.jp/shop/g/g116440015163/",
-    "img": "https://studious.co.jp/img/goods/S/116440015163_48a06a8efb834551be2b1ad58dbd11c0.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "SX1548",
-    "date": "2026-07-14"
    },
    {
     "id": "stu-g116540140163",
@@ -14505,6 +14542,35 @@
   ],
   "MIX.TOKYO": [
    {
+    "id": "mix-8056409849921",
+    "title": "Needles/ニードルズ　別注H.D. Track Pant - Poly Smooth",
+    "price_yen": "¥21,000",
+    "url": "https://mix.tokyo/products/7816210223",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816210223-440_MAIN.jpg?v=1787743852",
+    "created": "2026-08-26",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "ブラック",
+      "available": true
+     },
+     {
+      "name": "ブラウン",
+      "available": true
+     },
+     {
+      "name": "チャコール",
+      "available": true
+     },
+     {
+      "name": "ロイヤル",
+      "available": true
+     }
+    ],
+    "code": "",
+    "date": "2026-08-26"
+   },
+   {
     "id": "mix-7901885005889",
     "title": "NEEDLES/ニードルズ/【LHP EXCLUSIVE】H.D.TRACK PANT - POLY SMOOTH",
     "price_yen": "¥21,000",
@@ -14823,7 +14889,7 @@
     "title": "NEEDLES（ニードルズ） 【B'2nd EXCLUSIVE】TRACK JACKET - POLY SMOOTH",
     "price_yen": "¥26,000",
     "url": "https://mix.tokyo/products/7856255222",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856255222-120_MAIN.jpg?v=1787310163",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856255222-120_MAIN.jpg?v=1787828653",
     "created": "2026-07-03",
     "soldout": false,
     "colors": [
@@ -14852,7 +14918,7 @@
     "title": "NEEDLES（ニードルズ） 【B'2nd EXCLUSIVE】H.D.TRACK PANT - POLY SMOOTH",
     "price_yen": "¥21,000",
     "url": "https://mix.tokyo/products/7856210237",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856210237-010_MAIN.jpg?v=1787310165",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856210237-010_MAIN.jpg?v=1787828652",
     "created": "2026-07-03",
     "soldout": false,
     "colors": [
@@ -14923,7 +14989,7 @@
     "title": "Needles/ニードルズ　別注H.D. Track Pant - NYLON",
     "price_yen": "¥26,000",
     "url": "https://mix.tokyo/products/7816210224",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816210224-110_MAIN.jpg?v=1787655850",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816210224-110_MAIN.jpg?v=1787828644",
     "created": "2026-06-19",
     "soldout": true,
     "colors": [
@@ -15011,7 +15077,7 @@
     "title": "Needles/ニードルズ　別注Track Jacket - NYLON",
     "price_yen": "¥28,000",
     "url": "https://mix.tokyo/products/7816252237",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816252237-110_MAIN.jpg?v=1787655846",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816252237-110_MAIN.jpg?v=1787828644",
     "created": "2026-06-19",
     "soldout": false,
     "colors": [
@@ -15289,7 +15355,7 @@
     "title": "Needles/ニードルズ　別注H.D. Pantt - Cotton Ripstop",
     "price_yen": "¥56,000",
     "url": "https://mix.tokyo/products/7816210227",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816210227-310_MAIN.jpg?v=1787655872",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816210227-310_MAIN.jpg?v=1787828647",
     "created": "2026-05-14",
     "soldout": false,
     "colors": [
@@ -15365,7 +15431,7 @@
     "title": "Needles/ニードルズ　別注Field Jacket - Cotton Ripstop",
     "price_yen": "¥61,000",
     "url": "https://mix.tokyo/products/7816252238",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816252238-310_MAIN.jpg?v=1787655874",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816252238-310_MAIN.jpg?v=1787828648",
     "created": "2026-05-14",
     "soldout": false,
     "colors": [
@@ -15552,35 +15618,6 @@
     ],
     "code": "",
     "date": "2026-04-08"
-   },
-   {
-    "id": "mix-7859427442753",
-    "title": "Needles/ニードルズ  別注H.D Track Shorts - Poly Smooth",
-    "price_yen": "¥19,000",
-    "url": "https://mix.tokyo/products/7816113210",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816113210-391_MAIN.jpg?v=1783955520",
-    "created": "2026-03-23",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "ブラック",
-      "available": false
-     },
-     {
-      "name": "ダークブラウン",
-      "available": false
-     },
-     {
-      "name": "チャコール",
-      "available": false
-     },
-     {
-      "name": "サックス",
-      "available": false
-     }
-    ],
-    "code": "",
-    "date": "2026-03-23"
    }
   ]
  }
