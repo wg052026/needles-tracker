@@ -11035,11 +11035,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/haori-jacket-leopard-jacquard",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY143_Dk.PurpleBlack_1.jpg?v=1785647939",
     "created": "2026-08-01",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Dk.Ppl/Blk",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY143",
