@@ -12038,11 +12038,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/h-d-painter-jean-10oz-python-jacq-1",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY228_B-Black_1.jpg?v=1786166119",
     "created": "2026-08-07",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Black",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY228B",
