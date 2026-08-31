@@ -3923,6 +3923,62 @@
   "nep-8733365698743": {
    "first": "2026-08-26",
    "title": "Between Snap Shirt - Poly Fleece"
+  },
+  "nep-8735646056631": {
+   "first": "2026-08-27",
+   "title": "〈NEEDLES〉 x 〈BROOKS BROTHERS〉3B Sack Jacket - Emb. Corduroy"
+  },
+  "nep-8735646089399": {
+   "first": "2026-08-27",
+   "title": "〈NEEDLES〉 x 〈BROOKS BROTHERS〉3B Sack Jacket - Emb. Corduroy"
+  },
+  "nep-8735646122167": {
+   "first": "2026-08-27",
+   "title": "〈NEEDLES〉 x 〈BROOKS BROTHERS〉Wide Trousers - Emb. Corduroy"
+  },
+  "nep-8735646154935": {
+   "first": "2026-08-27",
+   "title": "〈NEEDLES〉 x 〈BROOKS BROTHERS〉Wide Trousers - Emb. Corduroy"
+  },
+  "nep-8735646220471": {
+   "first": "2026-08-27",
+   "title": "〈NEEDLES〉 x 〈BROOKS BROTHERS〉Multi Button BD Shirt"
+  },
+  "nep-8735646253239": {
+   "first": "2026-08-27",
+   "title": "〈NEEDLES〉 x 〈BROOKS BROTHERS〉Multi Button BD Shirt"
+  },
+  "nep-8735646286007": {
+   "first": "2026-08-27",
+   "title": "〈NEEDLES〉 x 〈BROOKS BROTHERS〉Mock Neck Sweater"
+  },
+  "nep-8735646318775": {
+   "first": "2026-08-27",
+   "title": "〈NEEDLES〉 x 〈BROOKS BROTHERS〉Mock Neck Sweater"
+  },
+  "nep-8735646351543": {
+   "first": "2026-08-27",
+   "title": "〈NEEDLES〉 x 〈BROOKS BROTHERS〉Mohair V Neck Sweater - Argyle"
+  },
+  "nep-8735646384311": {
+   "first": "2026-08-27",
+   "title": "〈NEEDLES〉 x 〈BROOKS BROTHERS〉Mohair V Neck Sweater - Argyle"
+  },
+  "nep-8735646417079": {
+   "first": "2026-08-27",
+   "title": "〈NEEDLES〉 x 〈BROOKS BROTHERS〉Emb. Silk Knit Tie"
+  },
+  "nep-8735646482615": {
+   "first": "2026-08-27",
+   "title": "〈NEEDLES〉 x 〈BROOKS BROTHERS〉Emb. Silk Knit Tie"
+  },
+  "nep-8735646613687": {
+   "first": "2026-08-27",
+   "title": "〈NEEDLES〉 x 〈BROOKS BROTHERS〉Penny Loafer - Shell Cordovan"
+  },
+  "nep-8735646580919": {
+   "first": "2026-08-27",
+   "title": "〈NEEDLES〉 x 〈BROOKS BROTHERS〉Penny Loafer - Shell Cordovan"
   }
  },
  "STUDIOUS": {
@@ -10247,142 +10303,6 @@
     "date": "2026-07-24"
    },
    {
-    "id": "nep-8687423062199",
-    "title": "Between Jacket - Poly Fleece",
-    "price_yen": "¥30,800",
-    "url": "https://onlinestore.nepenthes.co.jp/products/between-jacket-poly-fleece-2",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY431_C-Purple_1.jpg?v=1785124159",
-    "created": "2026-07-27",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Purple",
-      "available": true
-     }
-    ],
-    "code": "TY431C",
-    "date": "2026-07-27"
-   },
-   {
-    "id": "nep-8687422636215",
-    "title": "Between Jacket - Poly Fleece",
-    "price_yen": "¥30,800",
-    "url": "https://onlinestore.nepenthes.co.jp/products/between-jacket-poly-fleece",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY431_A-Olive_1.jpg?v=1785124088",
-    "created": "2026-07-27",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Olive",
-      "available": true
-     }
-    ],
-    "code": "TY431A",
-    "date": "2026-07-27"
-   },
-   {
-    "id": "nep-8687422865591",
-    "title": "Between Jacket - Poly Fleece",
-    "price_yen": "¥30,800",
-    "url": "https://onlinestore.nepenthes.co.jp/products/between-jacket-poly-fleece-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY431_B-Brown_1.jpg?v=1785124128",
-    "created": "2026-07-27",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Brown",
-      "available": true
-     }
-    ],
-    "code": "TY431B",
-    "date": "2026-07-27"
-   },
-   {
-    "id": "nep-8687423127735",
-    "title": "Between Jacket - Poly Fleece",
-    "price_yen": "¥30,800",
-    "url": "https://onlinestore.nepenthes.co.jp/products/between-jacket-poly-fleece-3",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY431_D-Black_1.jpg?v=1785124192",
-    "created": "2026-07-27",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Black",
-      "available": true
-     }
-    ],
-    "code": "TY431D",
-    "date": "2026-07-27"
-   },
-   {
-    "id": "nep-8687423488183",
-    "title": "Between Pant - Poly Fleece",
-    "price_yen": "¥29,700",
-    "url": "https://onlinestore.nepenthes.co.jp/products/between-pant-poly-fleece-3",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY433_D-Black_1_be11873a-3b50-41f6-a216-0a9936343f85.jpg?v=1785387828",
-    "created": "2026-07-27",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Black",
-      "available": true
-     }
-    ],
-    "code": "TY433D",
-    "date": "2026-07-27"
-   },
-   {
-    "id": "nep-8687423193271",
-    "title": "Between Pant - Poly Fleece",
-    "price_yen": "¥29,700",
-    "url": "https://onlinestore.nepenthes.co.jp/products/between-pant-poly-fleece",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY433_A-Olive_1.jpg?v=1785124233",
-    "created": "2026-07-27",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Olive",
-      "available": true
-     }
-    ],
-    "code": "TY433A",
-    "date": "2026-07-27"
-   },
-   {
-    "id": "nep-8687423226039",
-    "title": "Between Pant - Poly Fleece",
-    "price_yen": "¥29,700",
-    "url": "https://onlinestore.nepenthes.co.jp/products/between-pant-poly-fleece-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY433_B-Brown_1.jpg?v=1785124261",
-    "created": "2026-07-27",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Brown",
-      "available": true
-     }
-    ],
-    "code": "TY433B",
-    "date": "2026-07-27"
-   },
-   {
-    "id": "nep-8687423324343",
-    "title": "Between Pant - Poly Fleece",
-    "price_yen": "¥29,700",
-    "url": "https://onlinestore.nepenthes.co.jp/products/between-pant-poly-fleece-2",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY433_C-Purple_1.jpg?v=1785124307",
-    "created": "2026-07-27",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Purple",
-      "available": true
-     }
-    ],
-    "code": "TY433C",
-    "date": "2026-07-27"
-   },
-   {
     "id": "nep-8687351922871",
     "title": "〈NEEDLES〉x〈FILA〉Ventisei Track Jacket",
     "price_yen": "¥28,600",
@@ -11740,23 +11660,6 @@
      }
     ],
     "code": "TY571D",
-    "date": "2026-08-01"
-   },
-   {
-    "id": "nep-8693350596791",
-    "title": "Wind Shirt - Poly Stretch Twill",
-    "price_yen": "¥29,700",
-    "url": "https://onlinestore.nepenthes.co.jp/products/wind-shirt-poly-stretch-twill-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY442_B-Black_1.jpg?v=1785650057",
-    "created": "2026-08-01",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Black",
-      "available": true
-     }
-    ],
-    "code": "TY442B",
     "date": "2026-08-01"
    },
    {
@@ -13324,46 +13227,12 @@
     "date": "2026-08-26"
    },
    {
-    "id": "nep-8733365633207",
-    "title": "Between Snap Shirt - Poly Fleece",
-    "price_yen": "¥27,500",
-    "url": "https://onlinestore.nepenthes.co.jp/products/between-snap-shirt-poly-fleece",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY432_A-Olive_1_1.jpg?v=1787886683",
-    "created": "2026-08-26",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Olive",
-      "available": true
-     }
-    ],
-    "code": "TY432A",
-    "date": "2026-08-26"
-   },
-   {
-    "id": "nep-8733365731511",
-    "title": "Between Snap Shirt - Poly Fleece",
-    "price_yen": "¥27,500",
-    "url": "https://onlinestore.nepenthes.co.jp/products/between-snap-shirt-poly-fleece-2",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY432_C-Purple_1_1.jpg?v=1787886975",
-    "created": "2026-08-26",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Purple",
-      "available": true
-     }
-    ],
-    "code": "TY432C",
-    "date": "2026-08-26"
-   },
-   {
-    "id": "nep-8733365829815",
-    "title": "Between Snap Shirt - Poly Fleece",
-    "price_yen": "¥27,500",
-    "url": "https://onlinestore.nepenthes.co.jp/products/between-snap-shirt-poly-fleece-3",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY432_D-Black_1_1.jpg?v=1787887022",
-    "created": "2026-08-26",
+    "id": "nep-8735646056631",
+    "title": "〈NEEDLES〉 x 〈BROOKS BROTHERS〉3B Sack Jacket - Emb. Corduroy",
+    "price_yen": "¥107,800",
+    "url": "https://onlinestore.nepenthes.co.jp/products/3b-sack-jacket-emb-corduroy",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY2000A-00.jpg?v=1787809910",
+    "created": "2026-08-27",
     "soldout": false,
     "colors": [
      {
@@ -13371,16 +13240,152 @@
       "available": true
      }
     ],
-    "code": "TY432D",
-    "date": "2026-08-26"
+    "code": "TY2000A",
+    "date": "2026-08-27"
    },
    {
-    "id": "nep-8733365698743",
-    "title": "Between Snap Shirt - Poly Fleece",
-    "price_yen": "¥27,500",
-    "url": "https://onlinestore.nepenthes.co.jp/products/between-snap-shirt-poly-fleece-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY432_B-Brown_1_1.jpg?v=1787886780",
-    "created": "2026-08-26",
+    "id": "nep-8735646089399",
+    "title": "〈NEEDLES〉 x 〈BROOKS BROTHERS〉3B Sack Jacket - Emb. Corduroy",
+    "price_yen": "¥107,800",
+    "url": "https://onlinestore.nepenthes.co.jp/products/3b-sack-jacket-emb-corduroy-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY2000B-00.jpg?v=1787809881",
+    "created": "2026-08-27",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Bordeaux",
+      "available": true
+     }
+    ],
+    "code": "TY2000B",
+    "date": "2026-08-27"
+   },
+   {
+    "id": "nep-8735646122167",
+    "title": "〈NEEDLES〉 x 〈BROOKS BROTHERS〉Wide Trousers - Emb. Corduroy",
+    "price_yen": "¥52,800",
+    "url": "https://onlinestore.nepenthes.co.jp/products/wide-trousers-emb-corduroy",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY2001A-00.jpg?v=1787809845",
+    "created": "2026-08-27",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY2001A",
+    "date": "2026-08-27"
+   },
+   {
+    "id": "nep-8735646154935",
+    "title": "〈NEEDLES〉 x 〈BROOKS BROTHERS〉Wide Trousers - Emb. Corduroy",
+    "price_yen": "¥52,800",
+    "url": "https://onlinestore.nepenthes.co.jp/products/wide-trousers-emb-corduroy-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY2001B-00.jpg?v=1787809791",
+    "created": "2026-08-27",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Bordeaux",
+      "available": true
+     }
+    ],
+    "code": "TY2001B",
+    "date": "2026-08-27"
+   },
+   {
+    "id": "nep-8735646220471",
+    "title": "〈NEEDLES〉 x 〈BROOKS BROTHERS〉Multi Button BD Shirt",
+    "price_yen": "¥34,100",
+    "url": "https://onlinestore.nepenthes.co.jp/products/multi-button-bd-shirt",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY2002A-00.jpg?v=1787809753",
+    "created": "2026-08-27",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Green",
+      "available": true
+     }
+    ],
+    "code": "TY2002A",
+    "date": "2026-08-27"
+   },
+   {
+    "id": "nep-8735646253239",
+    "title": "〈NEEDLES〉 x 〈BROOKS BROTHERS〉Multi Button BD Shirt",
+    "price_yen": "¥34,100",
+    "url": "https://onlinestore.nepenthes.co.jp/products/multi-button-bd-shirt-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY2002B-00.jpg?v=1787809638",
+    "created": "2026-08-27",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Red",
+      "available": true
+     }
+    ],
+    "code": "TY2002B",
+    "date": "2026-08-27"
+   },
+   {
+    "id": "nep-8735646286007",
+    "title": "〈NEEDLES〉 x 〈BROOKS BROTHERS〉Mock Neck Sweater",
+    "price_yen": "¥39,600",
+    "url": "https://onlinestore.nepenthes.co.jp/products/mock-neck-sweater",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/0T3A0335-0.jpg?v=1788162490",
+    "created": "2026-08-27",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY2003A",
+    "date": "2026-08-27"
+   },
+   {
+    "id": "nep-8735646318775",
+    "title": "〈NEEDLES〉 x 〈BROOKS BROTHERS〉Mock Neck Sweater",
+    "price_yen": "¥39,600",
+    "url": "https://onlinestore.nepenthes.co.jp/products/mock-neck-sweater-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/0T3A0360-0.jpg?v=1788162273",
+    "created": "2026-08-27",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Purple",
+      "available": true
+     }
+    ],
+    "code": "TY2003B",
+    "date": "2026-08-27"
+   },
+   {
+    "id": "nep-8735646351543",
+    "title": "〈NEEDLES〉 x 〈BROOKS BROTHERS〉Mohair V Neck Sweater - Argyle",
+    "price_yen": "¥49,500",
+    "url": "https://onlinestore.nepenthes.co.jp/products/mohair-v-neck-sweater-argyle",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY2004A-00_b24082ac-170c-4e9c-9f48-12decbec9a76.jpg?v=1788162571",
+    "created": "2026-08-27",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY2004A",
+    "date": "2026-08-27"
+   },
+   {
+    "id": "nep-8735646384311",
+    "title": "〈NEEDLES〉 x 〈BROOKS BROTHERS〉Mohair V Neck Sweater - Argyle",
+    "price_yen": "¥49,500",
+    "url": "https://onlinestore.nepenthes.co.jp/products/mohair-v-neck-sweater-argyle-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY2004B-0_d3087209-b209-4d44-8d05-40b5b4f14277.jpg?v=1788162532",
+    "created": "2026-08-27",
     "soldout": false,
     "colors": [
      {
@@ -13388,8 +13393,76 @@
       "available": true
      }
     ],
-    "code": "TY432B",
-    "date": "2026-08-26"
+    "code": "TY2004B",
+    "date": "2026-08-27"
+   },
+   {
+    "id": "nep-8735646417079",
+    "title": "〈NEEDLES〉 x 〈BROOKS BROTHERS〉Emb. Silk Knit Tie",
+    "price_yen": "¥22,000",
+    "url": "https://onlinestore.nepenthes.co.jp/products/emb-silk-knit-tie",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY2005A-00.jpg?v=1787809242",
+    "created": "2026-08-27",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY2005A",
+    "date": "2026-08-27"
+   },
+   {
+    "id": "nep-8735646482615",
+    "title": "〈NEEDLES〉 x 〈BROOKS BROTHERS〉Emb. Silk Knit Tie",
+    "price_yen": "¥22,000",
+    "url": "https://onlinestore.nepenthes.co.jp/products/emb-silk-knit-tie-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY2005B-00.jpg?v=1787809219",
+    "created": "2026-08-27",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Purple",
+      "available": true
+     }
+    ],
+    "code": "TY2005B",
+    "date": "2026-08-27"
+   },
+   {
+    "id": "nep-8735646613687",
+    "title": "〈NEEDLES〉 x 〈BROOKS BROTHERS〉Penny Loafer - Shell Cordovan",
+    "price_yen": "¥154,000",
+    "url": "https://onlinestore.nepenthes.co.jp/products/penny-loafer-shell-cordovan-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY2006B-00.jpg?v=1787809190",
+    "created": "2026-08-27",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Burgundy",
+      "available": true
+     }
+    ],
+    "code": "TY2006B",
+    "date": "2026-08-27"
+   },
+   {
+    "id": "nep-8735646580919",
+    "title": "〈NEEDLES〉 x 〈BROOKS BROTHERS〉Penny Loafer - Shell Cordovan",
+    "price_yen": "¥154,000",
+    "url": "https://onlinestore.nepenthes.co.jp/products/penny-loafer-shell-cordovan",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY2006A-00.jpg?v=1787809159",
+    "created": "2026-08-27",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY2006A",
+    "date": "2026-08-27"
    }
   ],
   "STUDIOUS": [
@@ -15237,7 +15310,7 @@
     "title": "Needles/ニードルズ　別注H.D. Track Pant - Poly Smooth",
     "price_yen": "¥21,000",
     "url": "https://mix.tokyo/products/7816210223",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816210223-440_MAIN.jpg?v=1787743852",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816210223-010_MAIN.jpg?v=1788174144",
     "created": "2026-08-26",
     "soldout": false,
     "colors": [
@@ -15590,7 +15663,7 @@
      },
      {
       "name": "ライトブラウン",
-      "available": true
+      "available": false
      },
      {
       "name": "ブルー",
@@ -16309,35 +16382,6 @@
     ],
     "code": "",
     "date": "2026-04-08"
-   },
-   {
-    "id": "mix-7859427442753",
-    "title": "Needles/ニードルズ  別注H.D Track Shorts - Poly Smooth",
-    "price_yen": "¥19,000",
-    "url": "https://mix.tokyo/products/7816113210",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816113210-391_MAIN.jpg?v=1783955520",
-    "created": "2026-03-23",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "ブラック",
-      "available": false
-     },
-     {
-      "name": "ダークブラウン",
-      "available": false
-     },
-     {
-      "name": "チャコール",
-      "available": false
-     },
-     {
-      "name": "サックス",
-      "available": false
-     }
-    ],
-    "code": "",
-    "date": "2026-03-23"
    }
   ]
  }
