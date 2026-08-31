@@ -6269,23 +6269,6 @@
     "date": "2023-04-10"
    },
    {
-    "id": "nep-8490242867383",
-    "title": "S/S Pocket Tee - Cotton Jersey",
-    "price_yen": "¥12,100",
-    "url": "https://onlinestore.nepenthes.co.jp/products/s-s-pocket-tee-cotton-jersey-2",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX444E-0.jpg?v=1772948777",
-    "created": "2026-03-08",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Green",
-      "available": false
-     }
-    ],
-    "code": "SX444E",
-    "date": "2026-03-08"
-   },
-   {
     "id": "nep-8490242801847",
     "title": "S/S Pocket Tee - Cotton Jersey",
     "price_yen": "¥12,100",
@@ -8544,23 +8527,6 @@
      }
     ],
     "code": "TY092A",
-    "date": "2026-07-14"
-   },
-   {
-    "id": "nep-8664259592375",
-    "title": "Tool Tote - Medium",
-    "price_yen": "¥37,400",
-    "url": "https://onlinestore.nepenthes.co.jp/products/tool-tote-medium-3",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/RW081B-0.jpg?v=1784083038",
-    "created": "2026-07-14",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Black",
-      "available": false
-     }
-    ],
-    "code": "TY091B",
     "date": "2026-07-14"
    },
    {
@@ -11029,40 +10995,6 @@
     "date": "2026-08-01"
    },
    {
-    "id": "nep-8693333950647",
-    "title": "Haori Jacket - Leopard Jacquard",
-    "price_yen": "¥42,900",
-    "url": "https://onlinestore.nepenthes.co.jp/products/haori-jacket-leopard-jacquard",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY143_Dk.PurpleBlack_1.jpg?v=1785647939",
-    "created": "2026-08-01",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Dk.Ppl/Blk",
-      "available": false
-     }
-    ],
-    "code": "TY143",
-    "date": "2026-08-01"
-   },
-   {
-    "id": "nep-8693334016183",
-    "title": "Hakama Pant - Leopard Jacquard",
-    "price_yen": "¥39,600",
-    "url": "https://onlinestore.nepenthes.co.jp/products/hakama-pant-leopard-jacquard",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY144_Dk.PurpleBlack_1.jpg?v=1785647957",
-    "created": "2026-08-01",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Dk.Ppl/Blk",
-      "available": true
-     }
-    ],
-    "code": "TY144",
-    "date": "2026-08-01"
-   },
-   {
     "id": "nep-8693334442167",
     "title": "Widespread Collar Shirt - Wool Shaggy",
     "price_yen": "¥41,800",
@@ -11811,23 +11743,6 @@
     "date": "2026-08-01"
    },
    {
-    "id": "nep-8693350498487",
-    "title": "Wind Jacket - Poly Stretch Twill",
-    "price_yen": "¥42,900",
-    "url": "https://onlinestore.nepenthes.co.jp/products/wind-jacket-poly-stretch-twill-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY441_B-Black_1.jpg?v=1785650013",
-    "created": "2026-08-01",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Black",
-      "available": false
-     }
-    ],
-    "code": "TY441B",
-    "date": "2026-08-01"
-   },
-   {
     "id": "nep-8693350596791",
     "title": "Wind Shirt - Poly Stretch Twill",
     "price_yen": "¥29,700",
@@ -12029,23 +11944,6 @@
      }
     ],
     "code": "TY226B",
-    "date": "2026-08-07"
-   },
-   {
-    "id": "nep-8701050945719",
-    "title": "H.D. Painter Jean - 10oz Python Jacquard",
-    "price_yen": "¥39,600",
-    "url": "https://onlinestore.nepenthes.co.jp/products/h-d-painter-jean-10oz-python-jacq-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY228_B-Black_1.jpg?v=1786166119",
-    "created": "2026-08-07",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Black",
-      "available": false
-     }
-    ],
-    "code": "TY228B",
     "date": "2026-08-07"
    },
    {
