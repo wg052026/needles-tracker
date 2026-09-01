@@ -5560,23 +5560,6 @@
     "date": "2025-12-15"
    },
    {
-    "id": "nep-8164302160055",
-    "title": "Coverall - Reversed Sateen",
-    "price_yen": "¥38,500",
-    "url": "https://onlinestore.nepenthes.co.jp/products/coverall-reversed-sateen-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/QV145B-0_799aa3fe-7832-4e7a-a518-afdd331061b0.jpg?v=1751689942",
-    "created": "2025-07-01",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Black",
-      "available": true
-     }
-    ],
-    "code": "RW215B",
-    "date": "2025-07-01"
-   },
-   {
     "id": "nep-8164302094519",
     "title": "Coverall - Reversed Sateen",
     "price_yen": "¥38,500",
