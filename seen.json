@@ -7810,11 +7810,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/peace-bracelet-small-gold-plate-1",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX016Gold.jpg?v=1784096722",
     "created": "2026-07-14",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Gold",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY015",
@@ -11023,11 +11023,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/inverted-pleats-skirt-poly-d-cloth",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY328_A-Brown_1.jpg?v=1785648502",
     "created": "2026-08-01",
-    "soldout": true,
+    "soldout": false,
     "colors": [
      {
       "name": "Brown",
-      "available": false
+      "available": true
      }
     ],
     "code": "TY328A",
@@ -11813,23 +11813,6 @@
      }
     ],
     "code": "TY227A",
-    "date": "2026-08-07"
-   },
-   {
-    "id": "nep-8701050650807",
-    "title": "Coverall - 10oz Python Jacquard",
-    "price_yen": "¥49,500",
-    "url": "https://onlinestore.nepenthes.co.jp/products/coverall-10oz-python-jacquard-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY226_B-Black_1.jpg?v=1786165990",
-    "created": "2026-08-07",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Black",
-      "available": false
-     }
-    ],
-    "code": "TY226B",
     "date": "2026-08-07"
    },
    {
