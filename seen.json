@@ -7804,23 +7804,6 @@
     "date": "2026-07-14"
    },
    {
-    "id": "nep-8664235278519",
-    "title": "Peace Bracelet / Small - Gold Plate",
-    "price_yen": "¥108,900",
-    "url": "https://onlinestore.nepenthes.co.jp/products/peace-bracelet-small-gold-plate-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX016Gold.jpg?v=1784096722",
-    "created": "2026-07-14",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Gold",
-      "available": false
-     }
-    ],
-    "code": "TY015",
-    "date": "2026-07-14"
-   },
-   {
     "id": "nep-8664235409591",
     "title": "Peace Pendant / Small - Gold Plate",
     "price_yen": "¥30,800",
@@ -11799,23 +11782,6 @@
     "date": "2026-08-07"
    },
    {
-    "id": "nep-8701050683575",
-    "title": "Zipped Work Jacket - 10oz Python Jacquard",
-    "price_yen": "¥49,500",
-    "url": "https://onlinestore.nepenthes.co.jp/products/zipped-work-jacket-10oz-pythonjacq",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY227_A-Indigo_1.jpg?v=1786166008",
-    "created": "2026-08-07",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Indigo",
-      "available": true
-     }
-    ],
-    "code": "TY227A",
-    "date": "2026-08-07"
-   },
-   {
     "id": "nep-8701050781879",
     "title": "H.D. Painter Jean - 10oz Python Jacquard",
     "price_yen": "¥39,600",
@@ -11958,11 +11924,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/embroidered-tunic-ombre-jacquard",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY282_A-YellowRed_1.jpg?v=1786166442",
     "created": "2026-08-07",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Yellow/Red",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY282A",
