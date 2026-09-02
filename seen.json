@@ -10898,23 +10898,6 @@
     "date": "2026-08-01"
    },
    {
-    "id": "nep-8693334638775",
-    "title": "Widespread Collar Shirt - Wool Shaggy",
-    "price_yen": "¥41,800",
-    "url": "https://onlinestore.nepenthes.co.jp/products/widespread-collar-shirt-woolshaggy-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY177_B-Mustard_1.jpg?v=1785648102",
-    "created": "2026-08-01",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Mustard",
-      "available": true
-     }
-    ],
-    "code": "TY177B",
-    "date": "2026-08-01"
-   },
-   {
     "id": "nep-8693343420599",
     "title": "V Neck Cardigan - Poly Jq. / Abstract",
     "price_yen": "¥26,400",
@@ -11915,23 +11898,6 @@
      }
     ],
     "code": "TY282B",
-    "date": "2026-08-07"
-   },
-   {
-    "id": "nep-8701052354743",
-    "title": "Embroidered Tunic - Ombre Jacquard",
-    "price_yen": "¥37,400",
-    "url": "https://onlinestore.nepenthes.co.jp/products/embroidered-tunic-ombre-jacquard",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY282_A-YellowRed_1.jpg?v=1786166442",
-    "created": "2026-08-07",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Yellow/Red",
-      "available": false
-     }
-    ],
-    "code": "TY282A",
     "date": "2026-08-07"
    },
    {
@@ -15585,7 +15551,7 @@
     "title": "NEEDLES（ニードルズ） 【B'2nd EXCLUSIVE】TRACK JACKET - POLY SMOOTH",
     "price_yen": "¥26,000",
     "url": "https://mix.tokyo/products/7856255222",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856255222-120_MAIN.jpg?v=1787828653",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856255222-120_MAIN.jpg?v=1788346986",
     "created": "2026-07-03",
     "soldout": false,
     "colors": [
@@ -15614,7 +15580,7 @@
     "title": "NEEDLES（ニードルズ） 【B'2nd EXCLUSIVE】H.D.TRACK PANT - POLY SMOOTH",
     "price_yen": "¥21,000",
     "url": "https://mix.tokyo/products/7856210237",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856210237-010_MAIN.jpg?v=1787828652",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856210237-010_MAIN.jpg?v=1788346990",
     "created": "2026-07-03",
     "soldout": false,
     "colors": [
