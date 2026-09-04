@@ -9457,23 +9457,6 @@
     "date": "2026-07-14"
    },
    {
-    "id": "nep-8664290066615",
-    "title": "Track Jacket - Tricot Sateen",
-    "price_yen": "¥30,800",
-    "url": "https://onlinestore.nepenthes.co.jp/products/track-jacket-tricot-sateen-2",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX217A-0.jpg?v=1775903199",
-    "created": "2026-07-14",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Navy",
-      "available": true
-     }
-    ],
-    "code": "TY249A",
-    "date": "2026-07-14"
-   },
-   {
     "id": "nep-8664290590903",
     "title": "Track Pant - Tricot Sateen",
     "price_yen": "¥26,400",
@@ -10475,23 +10458,6 @@
     ],
     "code": "TY347E",
     "date": "2026-07-24"
-   },
-   {
-    "id": "nep-8687351922871",
-    "title": "〈NEEDLES〉x〈FILA〉Ventisei Track Jacket",
-    "price_yen": "¥28,600",
-    "url": "https://onlinestore.nepenthes.co.jp/products/ventisei-track-jacket-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY532_B-Pink_0.jpg?v=1785114685",
-    "created": "2026-07-27",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Pink",
-      "available": true
-     }
-    ],
-    "code": "TY532B",
-    "date": "2026-07-27"
    },
    {
     "id": "nep-8687351890103",
@@ -12395,23 +12361,6 @@
      }
     ],
     "code": "TY365C",
-    "date": "2026-08-07"
-   },
-   {
-    "id": "nep-8701056745655",
-    "title": "V Neck Cardigan - Paisley Bulky Lace",
-    "price_yen": "¥18,700",
-    "url": "https://onlinestore.nepenthes.co.jp/products/v-neck-cardigan-paisley-bulky-lace",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY384_A-Dk.Purple_1.jpg?v=1786164805",
-    "created": "2026-08-07",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Dk. Purple",
-      "available": true
-     }
-    ],
-    "code": "TY384A",
     "date": "2026-08-07"
    },
    {
@@ -16179,7 +16128,7 @@
     "title": "NEEDLES（ニードルズ）Piping Cowboy Jacket - Poly Double Cloth",
     "price_yen": "¥36,000",
     "url": "https://mix.tokyo/products/7856255245",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856255245-010_MAIN.jpg?v=1788433425",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856255245-010_MAIN.jpg?v=1788519774",
     "created": "2026-09-02",
     "soldout": false,
     "colors": [
@@ -16560,7 +16509,7 @@
     "title": "NEEDLES（ニードルズ） 【B'2nd EXCLUSIVE】TRACK JACKET - POLY SMOOTH",
     "price_yen": "¥26,000",
     "url": "https://mix.tokyo/products/7856255222",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856255222-120_MAIN.jpg?v=1788346986",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856255222-120_MAIN.jpg?v=1788519842",
     "created": "2026-07-03",
     "soldout": false,
     "colors": [
@@ -18017,6 +17966,35 @@
     ],
     "code": "",
     "date": "2026-03-17"
+   },
+   {
+    "id": "mix-7747168698433",
+    "title": "Needles/ニードルズ  別注Track Pant - Poly Smooth",
+    "price_yen": "¥21,000",
+    "url": "https://mix.tokyo/products/7816110242",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816110242-391_MAIN.jpg?v=1783963680",
+    "created": "2025-12-16",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "ブラック",
+      "available": false
+     },
+     {
+      "name": "ダークブラウン",
+      "available": false
+     },
+     {
+      "name": "サックス",
+      "available": true
+     },
+     {
+      "name": "チャコール",
+      "available": false
+     }
+    ],
+    "code": "",
+    "date": "2025-12-16"
    },
    {
     "id": "mix-7786915201089",
