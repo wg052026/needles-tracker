@@ -11282,11 +11282,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/zipped-track-pant-poly-smooth-30",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY354A-0.jpg?v=1785984359",
     "created": "2026-08-01",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Navy",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY354A",
@@ -13433,23 +13433,6 @@
     ],
     "code": "TY2006A",
     "date": "2026-08-27"
-   },
-   {
-    "id": "nep-8738186494135",
-    "title": "CB Gusset Sports Jacket - Leopard Jacquard",
-    "price_yen": "¥58,300",
-    "url": "https://onlinestore.nepenthes.co.jp/products/cb-gusset-sports-jacket-leop-jacq",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY155_A-BrownBlack_1.jpg?v=1787988052",
-    "created": "2026-08-28",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Brw/Blk",
-      "available": false
-     }
-    ],
-    "code": "TY155A",
-    "date": "2026-08-28"
    },
    {
     "id": "nep-8738187346103",
