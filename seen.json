@@ -10392,6 +10392,23 @@
     "date": "2026-07-24"
    },
    {
+    "id": "nep-8687351922871",
+    "title": "〈NEEDLES〉x〈FILA〉Ventisei Track Jacket",
+    "price_yen": "¥28,600",
+    "url": "https://onlinestore.nepenthes.co.jp/products/ventisei-track-jacket-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY532_B-Pink_0.jpg?v=1785114685",
+    "created": "2026-07-27",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Pink",
+      "available": true
+     }
+    ],
+    "code": "TY532B",
+    "date": "2026-07-27"
+   },
+   {
     "id": "nep-8687351890103",
     "title": "〈NEEDLES〉x〈FILA〉Ventisei Track Jacket",
     "price_yen": "¥28,600",
@@ -13424,11 +13441,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/cb-gusset-sports-jacket-leop-jacq",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY155_A-BrownBlack_1.jpg?v=1787988052",
     "created": "2026-08-28",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Brw/Blk",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY155A",
