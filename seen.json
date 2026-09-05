@@ -9633,11 +9633,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/rib-socks-shetland-wool-3",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY067_D-Black_1.jpg?v=1784172139",
     "created": "2026-07-15",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Black",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY067D",
