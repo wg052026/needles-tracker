@@ -5598,23 +5598,6 @@
     "date": "2025-07-17"
    },
    {
-    "id": "nep-7251576520887",
-    "title": "Peace Buckle Belt - Python",
-    "price_yen": "¥26,400",
-    "url": "https://onlinestore.nepenthes.co.jp/products/peace-buckle-belt-python",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/products/MR042-0.jpg?v=1670896818",
-    "created": "2022-12-12",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Python",
-      "available": true
-     }
-    ],
-    "code": "MR042",
-    "date": "2022-12-12"
-   },
-   {
     "id": "nep-7114220535991",
     "title": "Velvet Mule - Papillon Embroidery",
     "price_yen": "¥40,700",
@@ -5734,23 +5717,6 @@
     "date": "2023-07-20"
    },
    {
-    "id": "nep-8314261799095",
-    "title": "Coverall - PE/C Twill",
-    "price_yen": "¥58,300",
-    "url": "https://onlinestore.nepenthes.co.jp/products/coverall-pe-c-twill",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/0T3A1009-0.jpg?v=1766014338",
-    "created": "2025-12-17",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Burgundy",
-      "available": true
-     }
-    ],
-    "code": "RW1501A",
-    "date": "2025-12-17"
-   },
-   {
     "id": "nep-8311419764919",
     "title": "Velvet Mule - Papillon Embroidery",
     "price_yen": "¥52,800",
@@ -5851,40 +5817,6 @@
     ],
     "code": "QV442A",
     "date": "2024-12-11"
-   },
-   {
-    "id": "nep-7251577077943",
-    "title": "Peace Buckle Bracelet - Crocodile Embossed Leather",
-    "price_yen": "¥11,000",
-    "url": "https://onlinestore.nepenthes.co.jp/products/peace-buckle-bracelet-crocodile-embossed-leather",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/products/MR048A-0.jpg?v=1675400583",
-    "created": "2022-12-12",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Brown",
-      "available": true
-     }
-    ],
-    "code": "MR048A",
-    "date": "2022-12-12"
-   },
-   {
-    "id": "nep-8314261766327",
-    "title": "Zipped Work Hoody - PE/C Twill",
-    "price_yen": "¥56,100",
-    "url": "https://onlinestore.nepenthes.co.jp/products/zipped-work-hoody-pe-c-twill-2",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/0T3A1361-0.jpg?v=1766014277",
-    "created": "2025-12-17",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Green",
-      "available": true
-     }
-    ],
-    "code": "RW1500C",
-    "date": "2025-12-17"
    },
    {
     "id": "nep-8312993906871",
@@ -17015,7 +16947,7 @@
     "url": "https://mix.tokyo/products/7846231232",
     "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846231232-010_MAIN.jpg?v=1785265382",
     "created": "2026-05-14",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "ブラック",
@@ -17023,7 +16955,7 @@
      },
      {
       "name": "グレー",
-      "available": true
+      "available": false
      }
     ],
     "code": "",
