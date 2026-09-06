@@ -11571,11 +11571,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/crystal-beads-necklace-1",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY572_B-BlackClear_1.jpg?v=1785650474",
     "created": "2026-08-01",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Black/Clear",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY572B",
@@ -16115,7 +16115,7 @@
      },
      {
       "name": "オリーブ",
-      "available": true
+      "available": false
      },
      {
       "name": "チャコール",
