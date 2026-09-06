@@ -9627,23 +9627,6 @@
     "date": "2026-07-15"
    },
    {
-    "id": "nep-8666554663095",
-    "title": "Rib Socks - Shetland Wool",
-    "price_yen": "¥4,180",
-    "url": "https://onlinestore.nepenthes.co.jp/products/rib-socks-shetland-wool-3",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY067_D-Black_1.jpg?v=1784172139",
-    "created": "2026-07-15",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Black",
-      "available": false
-     }
-    ],
-    "code": "TY067D",
-    "date": "2026-07-15"
-   },
-   {
     "id": "nep-8666555941047",
     "title": "Chore Coat - Kasuri Jacquard",
     "price_yen": "¥63,800",
@@ -11273,23 +11256,6 @@
      }
     ],
     "code": "TY353B",
-    "date": "2026-08-01"
-   },
-   {
-    "id": "nep-8693348925623",
-    "title": "Zipped Track Pant - Poly Smooth",
-    "price_yen": "¥23,100",
-    "url": "https://onlinestore.nepenthes.co.jp/products/zipped-track-pant-poly-smooth-30",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY354A-0.jpg?v=1785984359",
-    "created": "2026-08-01",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Navy",
-      "available": false
-     }
-    ],
-    "code": "TY354A",
     "date": "2026-08-01"
    },
    {
