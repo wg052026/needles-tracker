@@ -12013,11 +12013,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/uncon-shirt-pixel-art",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY290_A-BlackWhite_1.jpg?v=1786166630",
     "created": "2026-08-07",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Black/White",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY290A",
@@ -16065,7 +16065,7 @@
      },
      {
       "name": "ロイヤル",
-      "available": true
+      "available": false
      }
     ],
     "code": "",
