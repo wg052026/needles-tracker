@@ -12007,23 +12007,6 @@
     "date": "2026-08-07"
    },
    {
-    "id": "nep-8701052813495",
-    "title": "Uncon Shirt - Pixel Art",
-    "price_yen": "¥30,800",
-    "url": "https://onlinestore.nepenthes.co.jp/products/uncon-shirt-pixel-art",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY290_A-BlackWhite_1.jpg?v=1786166630",
-    "created": "2026-08-07",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Black/White",
-      "available": false
-     }
-    ],
-    "code": "TY290A",
-    "date": "2026-08-07"
-   },
-   {
     "id": "nep-8701052977335",
     "title": "Windsor Collar Uncon Shirt - W/R Ombre Plaid",
     "price_yen": "¥51,700",
@@ -13900,11 +13883,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/work-shirt-ikat-basket-weave-1",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY305_B-Blue_1.jpg?v=1787986172",
     "created": "2026-08-28",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Blue",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY305B",
@@ -14242,35 +14225,6 @@
     "date": "2026-09-04"
    },
    {
-    "id": "stu-g116540190163",
-    "title": "別注 H.D. Track Pant - Corduroy",
-    "price_yen": "¥41,800",
-    "url": "https://studious.co.jp/shop/g/g116540190163/",
-    "img": "https://studious.co.jp/img/goods/S/116540190163_bf975e15e1174c87921efe9b6874afa6.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     },
-     {
-      "name": "",
-      "available": null
-     },
-     {
-      "name": "",
-      "available": null
-     },
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "SX1672",
-    "date": "2026-08-26"
-   },
-   {
     "id": "stu-g116558004165",
     "title": "別注 Track Jacket - Corduroy",
     "price_yen": "¥44,000",
@@ -14298,6 +14252,23 @@
     ],
     "code": "SX1670",
     "date": "2026-08-28"
+   },
+   {
+    "id": "stu-g116540143163",
+    "title": "H.D. Sweat Pant - Bright Jersey",
+    "price_yen": "¥23,100",
+    "url": "https://studious.co.jp/shop/g/g116540143163/",
+    "img": "https://studious.co.jp/img/goods/S/116540143163_96a4d0f4d39849f58e58a2dba3194d97.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "TY369",
+    "date": "2026-08-29"
    },
    {
     "id": "stu-g116540189163",
@@ -14329,20 +14300,53 @@
     "date": "2026-08-26"
    },
    {
-    "id": "stu-g116540143163",
-    "title": "H.D. Sweat Pant - Bright Jersey",
-    "price_yen": "¥23,100",
-    "url": "https://studious.co.jp/shop/g/g116540143163/",
-    "img": "https://studious.co.jp/img/goods/S/116540143163_96a4d0f4d39849f58e58a2dba3194d97.jpg",
+    "id": "stu-g116540190163",
+    "title": "別注 H.D. Track Pant - Corduroy",
+    "price_yen": "¥41,800",
+    "url": "https://studious.co.jp/shop/g/g116540190163/",
+    "img": "https://studious.co.jp/img/goods/S/116540190163_bf975e15e1174c87921efe9b6874afa6.jpg",
     "created": "",
     "soldout": false,
     "colors": [
      {
       "name": "",
       "available": null
+     },
+     {
+      "name": "",
+      "available": null
+     },
+     {
+      "name": "",
+      "available": null
+     },
+     {
+      "name": "",
+      "available": null
      }
     ],
-    "code": "TY369",
+    "code": "SX1672",
+    "date": "2026-08-26"
+   },
+   {
+    "id": "stu-g116550128164",
+    "title": "D.N. Coverall - Moleskin",
+    "price_yen": "¥48,400",
+    "url": "https://studious.co.jp/shop/g/g116550128164/",
+    "img": "https://studious.co.jp/img/goods/S/116550128164_a721ff94d2614c1ea0fbadef4ca12d4e.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     },
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "TY195",
     "date": "2026-08-29"
    },
    {
@@ -14399,27 +14403,6 @@
     ],
     "code": "SX1556",
     "date": "2026-08-04"
-   },
-   {
-    "id": "stu-g116550128164",
-    "title": "D.N. Coverall - Moleskin",
-    "price_yen": "¥48,400",
-    "url": "https://studious.co.jp/shop/g/g116550128164/",
-    "img": "https://studious.co.jp/img/goods/S/116550128164_a721ff94d2614c1ea0fbadef4ca12d4e.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     },
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "TY195",
-    "date": "2026-08-29"
    },
    {
     "id": "stu-g116581001160",
@@ -16787,7 +16770,7 @@
      },
      {
       "name": "ブラック×チャコール",
-      "available": true
+      "available": false
      },
      {
       "name": "ホワイト",
