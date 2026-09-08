@@ -5287,6 +5287,10 @@
   "mix-8062347280449": {
    "first": "2026-09-02",
    "title": "NEEDLES（ニードルズ） Souvenir Jacket - Knit Pile TY245"
+  },
+  "mix-8063831146561": {
+   "first": "2026-09-04",
+   "title": "NEEDLES/ニードルズ/Samue Jacket - Fringe Jacq"
   }
  },
  "_snapshots": {
@@ -15950,6 +15954,23 @@
   ],
   "MIX.TOKYO": [
    {
+    "id": "mix-8063831146561",
+    "title": "NEEDLES/ニードルズ/Samue Jacket - Fringe Jacq",
+    "price_yen": "¥39,000",
+    "url": "https://mix.tokyo/products/7846252337",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846252337-050_MAIN.jpg?v=1788521441",
+    "created": "2026-09-04",
+    "soldout": true,
+    "colors": [
+     {
+      "name": "ブラウン",
+      "available": false
+     }
+    ],
+    "code": "",
+    "date": "2026-09-04"
+   },
+   {
     "id": "mix-8062348197953",
     "title": "Needles/ニードルズ　Souvenir Jacket - Knit Pile　スーベニアジャケットニットパイル",
     "price_yen": "¥36,000",
@@ -16081,15 +16102,15 @@
     "url": "https://mix.tokyo/products/7846210256",
     "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846210256-010_MAIN.jpg?v=1787338968",
     "created": "2026-05-26",
-    "soldout": true,
+    "soldout": false,
     "colors": [
      {
       "name": "ブラック",
-      "available": false
+      "available": true
      },
      {
       "name": "グレー",
-      "available": false
+      "available": true
      }
     ],
     "code": "",
@@ -17005,11 +17026,11 @@
     "url": "https://mix.tokyo/products/7846132221",
     "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846132221-010_MAIN.jpg?v=1783947489",
     "created": "2026-04-16",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "ブラック",
-      "available": true
+      "available": false
      },
      {
       "name": "グレー",
@@ -17210,15 +17231,15 @@
     "url": "https://mix.tokyo/products/7846110251",
     "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846110251-367_MAIN.jpg?v=1783951230",
     "created": "2026-03-24",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "ブラック",
-      "available": true
+      "available": false
      },
      {
       "name": "インディゴ",
-      "available": true
+      "available": false
      }
     ],
     "code": "",
@@ -17654,7 +17675,7 @@
     "url": "https://mix.tokyo/products/7846132222",
     "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846132222-010_MAIN.jpg?v=1783958188",
     "created": "2026-03-16",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "ブラック",
@@ -17662,7 +17683,7 @@
      },
      {
       "name": "グレー",
-      "available": true
+      "available": false
      }
     ],
     "code": "",
