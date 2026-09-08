@@ -16077,7 +16077,7 @@
      },
      {
       "name": "ホワイト",
-      "available": true
+      "available": false
      },
      {
       "name": "ブラック×パープル",
@@ -16406,7 +16406,7 @@
     "title": "NEEDLES（ニードルズ） 【B'2nd EXCLUSIVE】H.D.TRACK PANT - POLY SMOOTH",
     "price_yen": "¥21,000",
     "url": "https://mix.tokyo/products/7856210237",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856210237-010_MAIN.jpg?v=1788346990",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856210237-010_MAIN.jpg?v=1788865440",
     "created": "2026-07-03",
     "soldout": false,
     "colors": [
