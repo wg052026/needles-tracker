@@ -13877,23 +13877,6 @@
     "date": "2026-08-28"
    },
    {
-    "id": "nep-8738189672631",
-    "title": "Work Shirt - Ikat Basket Weave",
-    "price_yen": "¥37,400",
-    "url": "https://onlinestore.nepenthes.co.jp/products/work-shirt-ikat-basket-weave-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY305_B-Blue_1.jpg?v=1787986172",
-    "created": "2026-08-28",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Blue",
-      "available": false
-     }
-    ],
-    "code": "TY305B",
-    "date": "2026-08-28"
-   },
-   {
     "id": "nep-8738190000311",
     "title": "Track Jacket - Poly Smooth",
     "price_yen": "¥28,600",
