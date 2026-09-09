@@ -5291,6 +5291,10 @@
   "mix-8063831146561": {
    "first": "2026-09-04",
    "title": "NEEDLES/ニードルズ/Samue Jacket - Fringe Jacq"
+  },
+  "mix-8063833538625": {
+   "first": "2026-09-04",
+   "title": "NEEDLES/ニードルズ/WATCH CAP - SHETLAND WOOL"
   }
  },
  "_snapshots": {
@@ -11099,11 +11103,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/inverted-pleats-skirt-poly-d-cloth",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY328_A-Brown_1.jpg?v=1785648502",
     "created": "2026-08-01",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Brown",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY328A",
@@ -14241,23 +14245,6 @@
     "date": "2026-08-28"
    },
    {
-    "id": "stu-g116540143163",
-    "title": "H.D. Sweat Pant - Bright Jersey",
-    "price_yen": "¥23,100",
-    "url": "https://studious.co.jp/shop/g/g116540143163/",
-    "img": "https://studious.co.jp/img/goods/S/116540143163_96a4d0f4d39849f58e58a2dba3194d97.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "TY369",
-    "date": "2026-08-29"
-   },
-   {
     "id": "stu-g116540189163",
     "title": "別注 Track Pant - Corduroy",
     "price_yen": "¥38,500",
@@ -14334,6 +14321,23 @@
      }
     ],
     "code": "TY195",
+    "date": "2026-08-29"
+   },
+   {
+    "id": "stu-g116540143163",
+    "title": "H.D. Sweat Pant - Bright Jersey",
+    "price_yen": "¥23,100",
+    "url": "https://studious.co.jp/shop/g/g116540143163/",
+    "img": "https://studious.co.jp/img/goods/S/116540143163_96a4d0f4d39849f58e58a2dba3194d97.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "TY369",
     "date": "2026-08-29"
    },
    {
@@ -15954,6 +15958,31 @@
   ],
   "MIX.TOKYO": [
    {
+    "id": "mix-8063833538625",
+    "title": "NEEDLES/ニードルズ/WATCH CAP - SHETLAND WOOL",
+    "price_yen": "¥10,000",
+    "url": "https://mix.tokyo/products/7846274285",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846274285-010_MAIN.jpg?v=1788865400",
+    "created": "2026-09-04",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "ブラック",
+      "available": true
+     },
+     {
+      "name": "ブラウン",
+      "available": false
+     },
+     {
+      "name": "ネイビー",
+      "available": false
+     }
+    ],
+    "code": "",
+    "date": "2026-09-04"
+   },
+   {
     "id": "mix-8063831146561",
     "title": "NEEDLES/ニードルズ/Samue Jacket - Fringe Jacq",
     "price_yen": "¥39,000",
@@ -16110,7 +16139,7 @@
      },
      {
       "name": "グレー",
-      "available": true
+      "available": false
      }
     ],
     "code": "",
@@ -16479,15 +16508,15 @@
     "url": "https://mix.tokyo/products/7816210224",
     "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816210224-110_MAIN.jpg?v=1787828644",
     "created": "2026-06-19",
-    "soldout": true,
+    "soldout": false,
     "colors": [
      {
       "name": "ブラック",
-      "available": false
+      "available": true
      },
      {
       "name": "ブルー",
-      "available": false
+      "available": true
      }
     ],
     "code": "",
