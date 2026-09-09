@@ -5295,6 +5295,38 @@
   "mix-8063833538625": {
    "first": "2026-09-04",
    "title": "NEEDLES/ニードルズ/WATCH CAP - SHETLAND WOOL"
+  },
+  "mix-8067273064513": {
+   "first": "2026-09-08",
+   "title": "NEEDLES/ニードルズ/LOOSE B.B. JKT - SULFUR DYE DUCK"
+  },
+  "mix-8067272540225": {
+   "first": "2026-09-08",
+   "title": "NEEDLES/ニードルズ/EMBROIDERED TUNIC - OMBRE JACQUARD"
+  },
+  "mix-8066403401793": {
+   "first": "2026-09-07",
+   "title": "NEEDLES/ニードルズ/STRING H.D. PANT - FRINGE JACQUARD / DIAMOND"
+  },
+  "mix-8063833669697": {
+   "first": "2026-09-04",
+   "title": "NEEDLES/ニードルズ/BALACLAVA - SHETLAND WOOL"
+  },
+  "mix-8063832424513": {
+   "first": "2026-09-04",
+   "title": "NEEDLES/ニードルズ/DARTSJEAN JK - 13OZ PYTHON JACQUARD"
+  },
+  "mix-8063832031297": {
+   "first": "2026-09-04",
+   "title": "NEEDLES/ニードルズ/H.D. PANT - JEAN / 13OZ PYTHON JACQUARD"
+  },
+  "mix-8063831900225": {
+   "first": "2026-09-04",
+   "title": "NEEDLES/ニードルズ/BUCKET HAT - SHETLAND WOOL"
+  },
+  "mix-8063830949953": {
+   "first": "2026-09-04",
+   "title": "NEEDLES/ニードルズ/CONVERTIBLE GROVE - SHETLAND WOOL"
   }
  },
  "_snapshots": {
@@ -11097,23 +11129,6 @@
     "date": "2026-08-01"
    },
    {
-    "id": "nep-8693346271415",
-    "title": "Inverted Pleats Skirt - Poly D.Cloth Stretch",
-    "price_yen": "¥31,900",
-    "url": "https://onlinestore.nepenthes.co.jp/products/inverted-pleats-skirt-poly-d-cloth",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY328_A-Brown_1.jpg?v=1785648502",
-    "created": "2026-08-01",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Brown",
-      "available": false
-     }
-    ],
-    "code": "TY328A",
-    "date": "2026-08-01"
-   },
-   {
     "id": "nep-8693347319991",
     "title": "Boot-Cut Jean - Poly Jq.",
     "price_yen": "¥26,400",
@@ -15958,6 +15973,78 @@
   ],
   "MIX.TOKYO": [
    {
+    "id": "mix-8067273064513",
+    "title": "NEEDLES/ニードルズ/LOOSE B.B. JKT - SULFUR DYE DUCK",
+    "price_yen": "¥83,000",
+    "url": "https://mix.tokyo/products/7846252338",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846252338-055_MAIN.jpg?v=1788951816",
+    "created": "2026-09-08",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "ブラック",
+      "available": true
+     },
+     {
+      "name": "ブラウンカモ２",
+      "available": true
+     }
+    ],
+    "code": "",
+    "date": "2026-09-08"
+   },
+   {
+    "id": "mix-8067272540225",
+    "title": "NEEDLES/ニードルズ/EMBROIDERED TUNIC - OMBRE JACQUARD",
+    "price_yen": "¥34,000",
+    "url": "https://mix.tokyo/products/7846220279",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846220279-100_MAIN.jpg?v=1788951778",
+    "created": "2026-09-08",
+    "soldout": true,
+    "colors": [
+     {
+      "name": "レッド",
+      "available": false
+     }
+    ],
+    "code": "",
+    "date": "2026-09-08"
+   },
+   {
+    "id": "mix-8066403401793",
+    "title": "NEEDLES/ニードルズ/STRING H.D. PANT - FRINGE JACQUARD / DIAMOND",
+    "price_yen": "¥36,000",
+    "url": "https://mix.tokyo/products/7846210328",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846210328-050_MAIN.jpg?v=1788951794",
+    "created": "2026-09-07",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "ブラウン",
+      "available": true
+     }
+    ],
+    "code": "",
+    "date": "2026-09-07"
+   },
+   {
+    "id": "mix-8063833669697",
+    "title": "NEEDLES/ニードルズ/BALACLAVA - SHETLAND WOOL",
+    "price_yen": "¥12,000",
+    "url": "https://mix.tokyo/products/7846274286",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846274286-010_MAIN.jpg?v=1788951795",
+    "created": "2026-09-04",
+    "soldout": true,
+    "colors": [
+     {
+      "name": "ブラック",
+      "available": false
+     }
+    ],
+    "code": "",
+    "date": "2026-09-04"
+   },
+   {
     "id": "mix-8063833538625",
     "title": "NEEDLES/ニードルズ/WATCH CAP - SHETLAND WOOL",
     "price_yen": "¥10,000",
@@ -15977,6 +16064,82 @@
      {
       "name": "ネイビー",
       "available": false
+     }
+    ],
+    "code": "",
+    "date": "2026-09-04"
+   },
+   {
+    "id": "mix-8063832424513",
+    "title": "NEEDLES/ニードルズ/DARTSJEAN JK - 13OZ PYTHON JACQUARD",
+    "price_yen": "¥38,000",
+    "url": "https://mix.tokyo/products/7846252340",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846252340-367_MAIN.jpg?v=1788951807",
+    "created": "2026-09-04",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "インディゴ",
+      "available": true
+     }
+    ],
+    "code": "",
+    "date": "2026-09-04"
+   },
+   {
+    "id": "mix-8063832031297",
+    "title": "NEEDLES/ニードルズ/H.D. PANT - JEAN / 13OZ PYTHON JACQUARD",
+    "price_yen": "¥34,000",
+    "url": "https://mix.tokyo/products/7846210331",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846210331-367_MAIN.jpg?v=1788951803",
+    "created": "2026-09-04",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "インディゴ",
+      "available": true
+     }
+    ],
+    "code": "",
+    "date": "2026-09-04"
+   },
+   {
+    "id": "mix-8063831900225",
+    "title": "NEEDLES/ニードルズ/BUCKET HAT - SHETLAND WOOL",
+    "price_yen": "¥10,000",
+    "url": "https://mix.tokyo/products/7846274287",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846274287-050_MAIN.jpg?v=1788951786",
+    "created": "2026-09-04",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "ブラック",
+      "available": true
+     },
+     {
+      "name": "ブラウン",
+      "available": false
+     },
+     {
+      "name": "ネイビー",
+      "available": false
+     }
+    ],
+    "code": "",
+    "date": "2026-09-04"
+   },
+   {
+    "id": "mix-8063830949953",
+    "title": "NEEDLES/ニードルズ/CONVERTIBLE GROVE - SHETLAND WOOL",
+    "price_yen": "¥7,000",
+    "url": "https://mix.tokyo/products/7846274288",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846274288-010_MAIN.jpg?v=1788951778",
+    "created": "2026-09-04",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "ブラック",
+      "available": true
      }
     ],
     "code": "",
@@ -16063,7 +16226,7 @@
     "title": "Needles/ニードルズ　別注H.D. Track Pant - Poly Smooth",
     "price_yen": "¥21,000",
     "url": "https://mix.tokyo/products/7816210223",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816210223-010_MAIN.jpg?v=1788807752",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816210223-010_MAIN.jpg?v=1788951844",
     "created": "2026-08-26",
     "soldout": false,
     "colors": [
@@ -16131,11 +16294,11 @@
     "url": "https://mix.tokyo/products/7846210256",
     "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846210256-010_MAIN.jpg?v=1787338968",
     "created": "2026-05-26",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "ブラック",
-      "available": true
+      "available": false
      },
      {
       "name": "グレー",
@@ -16247,7 +16410,7 @@
     "title": "Needles/ニードルズ　別注Track Jacket - Poly Smooth",
     "price_yen": "¥26,000",
     "url": "https://mix.tokyo/products/7816252236",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816252236-440_MAIN.jpg?v=1786993389",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816252236-440_MAIN.jpg?v=1788951844",
     "created": "2026-07-15",
     "soldout": false,
     "colors": [
@@ -16569,7 +16732,7 @@
     "title": "Needles/ニードルズ  別注Shawl Collar S/S Polo - Cotton Pique",
     "price_yen": "¥15,000",
     "url": "https://mix.tokyo/products/7816236201",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816236201-120_MAIN.jpg?v=1786561335",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816236201-140_MAIN.jpg?v=1788951826",
     "created": "2026-06-19",
     "soldout": false,
     "colors": [
