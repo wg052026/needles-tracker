@@ -16118,11 +16118,11 @@
      },
      {
       "name": "ブラウン",
-      "available": false
+      "available": true
      },
      {
       "name": "ネイビー",
-      "available": false
+      "available": true
      }
     ],
     "code": "",
