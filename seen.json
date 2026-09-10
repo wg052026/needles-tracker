@@ -4163,6 +4163,30 @@
   "nep-8738191638711": {
    "first": "2026-08-28",
    "title": "Shawl Collar L/S Polo - Cotton Pique"
+  },
+  "nep-8760508612791": {
+   "first": "2026-09-09",
+   "title": "Round Collar Jacket - Buffalo Plaid Melton"
+  },
+  "nep-8760511070391": {
+   "first": "2026-09-09",
+   "title": "China Button Chore Coat-Pin St Jacq"
+  },
+  "nep-8760511365303": {
+   "first": "2026-09-09",
+   "title": "China Button Chore Coat-Pin St Jacq"
+  },
+  "nep-8760511758519": {
+   "first": "2026-09-09",
+   "title": "String Balloon Pant - Pin St Jacquard"
+  },
+  "nep-8760511987895": {
+   "first": "2026-09-09",
+   "title": "String Balloon Pant - Pin Stripe Jacquard"
+  },
+  "nep-8760514609335": {
+   "first": "2026-09-09",
+   "title": "Pullover Knit Shirt-Poly Jq./Paisley"
   }
  },
  "STUDIOUS": {
@@ -7032,57 +7056,6 @@
     "date": "2023-08-29"
    },
    {
-    "id": "nep-7304743682231",
-    "title": "Braided Deer Necklace",
-    "price_yen": "¥40,700",
-    "url": "https://onlinestore.nepenthes.co.jp/products/braided-deer-necklace-4",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/products/MR608E-0.jpg?v=1681105302",
-    "created": "2023-04-10",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Blk/Grn",
-      "available": true
-     }
-    ],
-    "code": "MR608E",
-    "date": "2023-04-10"
-   },
-   {
-    "id": "nep-7304743583927",
-    "title": "Braided Deer Necklace",
-    "price_yen": "¥40,700",
-    "url": "https://onlinestore.nepenthes.co.jp/products/braided-deer-necklace-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/products/MR608B-0.jpg?v=1681105333",
-    "created": "2023-04-10",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Ppl/Grn",
-      "available": true
-     }
-    ],
-    "code": "MR608B",
-    "date": "2023-04-10"
-   },
-   {
-    "id": "nep-7304743551159",
-    "title": "Braided Deer Necklace",
-    "price_yen": "¥40,700",
-    "url": "https://onlinestore.nepenthes.co.jp/products/braided-deer-necklace",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/products/MR608A-0.jpg?v=1681105339",
-    "created": "2023-04-10",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Ppl/Wht",
-      "available": true
-     }
-    ],
-    "code": "MR608A",
-    "date": "2023-04-10"
-   },
-   {
     "id": "nep-8519122845879",
     "title": "Marine Pant - Reversed Sateen",
     "price_yen": "¥28,600",
@@ -8313,11 +8286,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/papillon-western-tip-belt-suede-4",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/NS037A-0_8e359125-b630-4054-b91c-52966fd984cb.jpg?v=1751691728",
     "created": "2026-07-14",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Taupe",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY036A",
@@ -12019,11 +11992,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/uncon-shirt-chambray-shadow-2",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY289_C-Green_1.jpg?v=1786166576",
     "created": "2026-08-07",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Green",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY289C",
@@ -14006,7 +13979,7 @@
     "title": "Track Pant - Poly Smooth",
     "price_yen": "¥23,100",
     "url": "https://onlinestore.nepenthes.co.jp/products/track-pant-poly-smooth-35",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY351A-0_fc0bae47-83da-451c-a557-9e3220ddd631.jpg?v=1788400868",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY351A-0_7d694d62-a85d-400f-bb6c-757fbf703e70.jpg?v=1789023642",
     "created": "2026-08-28",
     "soldout": false,
     "colors": [
@@ -14023,7 +13996,7 @@
     "title": "Track Pant - Poly Smooth",
     "price_yen": "¥23,100",
     "url": "https://onlinestore.nepenthes.co.jp/products/track-pant-poly-smooth-37",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY351C-0_23fc1bd8-cae0-45d2-8e12-ec73e74ee3a4.jpg?v=1788398399",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY351C-0_ac252d87-6c7e-4c1b-9e55-40fa1cc89c56.jpg?v=1789023689",
     "created": "2026-08-28",
     "soldout": false,
     "colors": [
@@ -14040,7 +14013,7 @@
     "title": "Track Pant - Poly Smooth",
     "price_yen": "¥23,100",
     "url": "https://onlinestore.nepenthes.co.jp/products/track-pant-poly-smooth-36",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY351B-0_99b6de5e-ebb7-43b1-ad7a-86f613b81803.jpg?v=1788402792",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY351B-0_2aea22d4-fff2-49db-a67f-059b3ea779b9.jpg?v=1789023668",
     "created": "2026-08-28",
     "soldout": false,
     "colors": [
@@ -14136,6 +14109,108 @@
     ],
     "code": "TY395B",
     "date": "2026-08-28"
+   },
+   {
+    "id": "nep-8760508612791",
+    "title": "Round Collar Jacket - Buffalo Plaid Melton",
+    "price_yen": "¥90,200",
+    "url": "https://onlinestore.nepenthes.co.jp/products/round-collar-jkt-buffaloplaid-melton",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY126_A-Yellow_1.jpg?v=1789002704",
+    "created": "2026-09-09",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Yellow",
+      "available": true
+     }
+    ],
+    "code": "TY126A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": "nep-8760511070391",
+    "title": "China Button Chore Coat-Pin St Jacq",
+    "price_yen": "¥64,900",
+    "url": "https://onlinestore.nepenthes.co.jp/products/china-button-chore-coat-pin-st-jacq",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY147_A-Green_1.jpg?v=1789003183",
+    "created": "2026-09-09",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Green",
+      "available": true
+     }
+    ],
+    "code": "TY147A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": "nep-8760511365303",
+    "title": "China Button Chore Coat-Pin St Jacq",
+    "price_yen": "¥64,900",
+    "url": "https://onlinestore.nepenthes.co.jp/products/china-button-chore-coat-pin-st-jacq-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY147_B-Brown_1.jpg?v=1789003197",
+    "created": "2026-09-09",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Brown",
+      "available": true
+     }
+    ],
+    "code": "TY147B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": "nep-8760511758519",
+    "title": "String Balloon Pant - Pin St Jacquard",
+    "price_yen": "¥48,400",
+    "url": "https://onlinestore.nepenthes.co.jp/products/string-balloon-pant-pin-st-jacq",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY148_A-Green_1.jpg?v=1789003854",
+    "created": "2026-09-09",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Green",
+      "available": true
+     }
+    ],
+    "code": "TY148A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": "nep-8760511987895",
+    "title": "String Balloon Pant - Pin Stripe Jacquard",
+    "price_yen": "¥48,400",
+    "url": "https://onlinestore.nepenthes.co.jp/products/string-balloon-pant-pin-st-jacq-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY148_B-Brown_1.jpg?v=1789003875",
+    "created": "2026-09-09",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Brown",
+      "available": true
+     }
+    ],
+    "code": "TY148B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": "nep-8760514609335",
+    "title": "Pullover Knit Shirt-Poly Jq./Paisley",
+    "price_yen": "¥22,000",
+    "url": "https://onlinestore.nepenthes.co.jp/products/pullover-knit-shirt-poly-jq-paisley",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY262_A-BlueBrown_1.jpg?v=1789004477",
+    "created": "2026-09-09",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Blu/Brw",
+      "available": true
+     }
+    ],
+    "code": "TY262A",
+    "date": "2026-09-09"
    }
   ],
   "STUDIOUS": [
@@ -16281,7 +16356,7 @@
      },
      {
       "name": "チャコール",
-      "available": true
+      "available": false
      }
     ],
     "code": "",
@@ -16888,7 +16963,7 @@
     "colors": [
      {
       "name": "ブラック×ホワイト",
-      "available": false
+      "available": true
      },
      {
       "name": "ブラック×チャコール",
@@ -16904,7 +16979,7 @@
      },
      {
       "name": "オリーブ",
-      "available": false
+      "available": true
      },
      {
       "name": "チャコール",
