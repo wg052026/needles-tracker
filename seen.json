@@ -4375,6 +4375,10 @@
   "nep-8760551473335": {
    "first": "2026-09-09",
    "title": "Mohair Crew Neck Cardigan - Solid"
+  },
+  "nep-8769778090167": {
+   "first": "2026-09-11",
+   "title": "Shearling Coat - Sheepskin"
   }
  },
  "STUDIOUS": {
@@ -15206,6 +15210,23 @@
     ],
     "code": "TY415B",
     "date": "2026-09-09"
+   },
+   {
+    "id": "nep-8769778090167",
+    "title": "Shearling Coat - Sheepskin",
+    "price_yen": "¥294,800",
+    "url": "https://onlinestore.nepenthes.co.jp/products/shearling-coat-sheepskin",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/RW180A-0.jpg?v=1789119849",
+    "created": "2026-09-11",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Brown",
+      "available": true
+     }
+    ],
+    "code": "RW180A",
+    "date": "2026-09-11"
    }
   ],
   "STUDIOUS": [
