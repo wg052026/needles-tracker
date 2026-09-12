@@ -14732,11 +14732,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/shawl-collar-coat-wool-jacquard",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY122_A-Flower_1.jpg?v=1789000818",
     "created": "2026-09-09",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Flower",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY122A",
