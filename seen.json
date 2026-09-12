@@ -4170,15 +4170,15 @@
   },
   "nep-8760511070391": {
    "first": "2026-09-09",
-   "title": "China Button Chore Coat-Pin St Jacq"
+   "title": "China Button Chore Coat - Pin Stripe Jacquard"
   },
   "nep-8760511365303": {
    "first": "2026-09-09",
-   "title": "China Button Chore Coat-Pin St Jacq"
+   "title": "China Button Chore Coat - Pin Stripe Jacquard"
   },
   "nep-8760511758519": {
    "first": "2026-09-09",
-   "title": "String Balloon Pant - Pin St Jacquard"
+   "title": "String Balloon Pant - Pin Stripe Jacquard"
   },
   "nep-8760511987895": {
    "first": "2026-09-09",
@@ -4186,7 +4186,7 @@
   },
   "nep-8760514609335": {
    "first": "2026-09-09",
-   "title": "Pullover Knit Shirt-Poly Jq./Paisley"
+   "title": "Pullover Knit Shirt - Poly Jq. / Paisley"
   },
   "nep-8760493605047": {
    "first": "2026-09-09",
@@ -4238,19 +4238,19 @@
   },
   "nep-8760502550711": {
    "first": "2026-09-09",
-   "title": "Miles Jacket - Faded Stripe"
+   "title": "Miles Jacket - Faded Windowpane / Faded Stripe"
   },
   "nep-8760502223031": {
    "first": "2026-09-09",
-   "title": "Miles Jacket - Faded Windowpane"
+   "title": "Miles Jacket - Faded Windowpane / Faded Stripe"
   },
   "nep-8760502780087": {
    "first": "2026-09-09",
-   "title": "Side Tab Tucked Trouser - Windowpane"
+   "title": "Side Tab Tucked Trouser - Faded Windowpane / Faded Stripe"
   },
   "nep-8760503042231": {
    "first": "2026-09-09",
-   "title": "Side Tab Tucked Trouser - Stripe"
+   "title": "Side Tab Tucked Trouser - Faded Windowpane / Faded Stripe"
   },
   "nep-8760505106615": {
    "first": "2026-09-09",
@@ -4262,7 +4262,7 @@
   },
   "nep-8760514937015": {
    "first": "2026-09-09",
-   "title": "Pullover Knit Shirt-Poly Jq./Paisley"
+   "title": "Pullover Knit Shirt - Poly Jq. / Paisley"
   },
   "nep-8760515297463": {
    "first": "2026-09-09",
@@ -4294,11 +4294,11 @@
   },
   "nep-8760525553847": {
    "first": "2026-09-09",
-   "title": "Pajama Pant - Cut Jacq Heart Fringe"
+   "title": "Pajama Pant - Cut Jacquard Heart Fringe"
   },
   "nep-8760525717687": {
    "first": "2026-09-09",
-   "title": "Long Point Collar Jkt - PythonVelvet"
+   "title": "Long Point Collar Jacket - Python Velvet"
   },
   "nep-8760526110903": {
    "first": "2026-09-09",
@@ -4338,19 +4338,19 @@
   },
   "nep-8760543674551": {
    "first": "2026-09-09",
-   "title": "Regular Collar L/S Polo - Ctn Pique"
+   "title": "Regular Collar L/S Polo - Cotton Pique"
   },
   "nep-8760543543479": {
    "first": "2026-09-09",
-   "title": "Regular Collar L/S Polo - Ctn Pique"
+   "title": "Regular Collar L/S Polo - Cotton Pique"
   },
   "nep-8760543871159": {
    "first": "2026-09-09",
-   "title": "Regular Collar L/S Polo - Ctn Pique"
+   "title": "Regular Collar L/S Polo - Cotton Pique"
   },
   "nep-8760544002231": {
    "first": "2026-09-09",
-   "title": "Regular Collar L/S Polo - Ctn Pique"
+   "title": "Regular Collar L/S Polo - Cotton Pique"
   },
   "nep-8760550981815": {
    "first": "2026-09-09",
@@ -4379,6 +4379,30 @@
   "nep-8769778090167": {
    "first": "2026-09-11",
    "title": "Shearling Coat - Sheepskin"
+  },
+  "nep-8664292196535": {
+   "first": "2026-07-14",
+   "title": "L/S Mock Neck Tee - Poly Jersey"
+  },
+  "nep-8664293310647": {
+   "first": "2026-07-14",
+   "title": "L/S Crew Neck Tee - Poly Jersey"
+  },
+  "nep-8664293048503": {
+   "first": "2026-07-14",
+   "title": "L/S Crew Neck Tee - Poly Jersey"
+  },
+  "nep-8664293540023": {
+   "first": "2026-07-14",
+   "title": "L/S Crew Neck Tee - Poly Jersey"
+  },
+  "nep-8664293736631": {
+   "first": "2026-07-14",
+   "title": "S/S Crew Neck Tee - Poly Jersey"
+  },
+  "nep-8664294162615": {
+   "first": "2026-07-14",
+   "title": "S/S Crew Neck Tee - Poly Jersey"
   }
  },
  "STUDIOUS": {
@@ -9653,6 +9677,125 @@
     "date": "2026-07-14"
    },
    {
+    "id": "nep-8664292196535",
+    "title": "L/S Mock Neck Tee - Poly Jersey",
+    "price_yen": "¥13,200",
+    "url": "https://onlinestore.nepenthes.co.jp/products/l-s-mock-neck-tee-poly-jersey-23",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/QV359C-0.jpg?v=1737507333",
+    "created": "2026-07-14",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY399C",
+    "date": "2026-07-14"
+   },
+   {
+    "id": "nep-8664293310647",
+    "title": "L/S Crew Neck Tee - Poly Jersey",
+    "price_yen": "¥13,200",
+    "url": "https://onlinestore.nepenthes.co.jp/products/l-s-crew-neck-tee-poly-jersey-22",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/QV361B-0_ab7f2b0b-f72a-4393-b781-d3ed4033007e.jpg?v=1751687340",
+    "created": "2026-07-14",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Dk. Purple",
+      "available": true
+     }
+    ],
+    "code": "TY401B",
+    "date": "2026-07-14"
+   },
+   {
+    "id": "nep-8664293048503",
+    "title": "L/S Crew Neck Tee - Poly Jersey",
+    "price_yen": "¥13,200",
+    "url": "https://onlinestore.nepenthes.co.jp/products/l-s-crew-neck-tee-poly-jersey-21",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/QV361A-0_41479ed6-63dd-491a-9bb6-49ba7aae9b54.jpg?v=1751687416",
+    "created": "2026-07-14",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "White",
+      "available": true
+     }
+    ],
+    "code": "TY401A",
+    "date": "2026-07-14"
+   },
+   {
+    "id": "nep-8664293540023",
+    "title": "L/S Crew Neck Tee - Poly Jersey",
+    "price_yen": "¥13,200",
+    "url": "https://onlinestore.nepenthes.co.jp/products/l-s-crew-neck-tee-poly-jersey-23",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/QV361C-0_00c5591c-e04b-4850-835b-2db5bf8dd519.jpg?v=1751687143",
+    "created": "2026-07-14",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY401C",
+    "date": "2026-07-14"
+   },
+   {
+    "id": "nep-8664293736631",
+    "title": "S/S Crew Neck Tee - Poly Jersey",
+    "price_yen": "¥12,100",
+    "url": "https://onlinestore.nepenthes.co.jp/products/s-s-crew-neck-tee-poly-jersey-23",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/QV362A-0.jpg?v=1738050136",
+    "created": "2026-07-14",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "White",
+      "available": true
+     }
+    ],
+    "code": "TY402A",
+    "date": "2026-07-14"
+   },
+   {
+    "id": "nep-8664293933239",
+    "title": "S/S Crew Neck Tee - Poly Jersey",
+    "price_yen": "¥12,100",
+    "url": "https://onlinestore.nepenthes.co.jp/products/s-s-crew-neck-tee-poly-jersey-24",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/QV362B-0.jpg?v=1738050127",
+    "created": "2026-07-14",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Dk. Purple",
+      "available": true
+     }
+    ],
+    "code": "TY402B",
+    "date": "2026-07-14"
+   },
+   {
+    "id": "nep-8664294162615",
+    "title": "S/S Crew Neck Tee - Poly Jersey",
+    "price_yen": "¥12,100",
+    "url": "https://onlinestore.nepenthes.co.jp/products/s-s-crew-neck-tee-poly-jersey-25",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/QV362C-0.jpg?v=1738050116",
+    "created": "2026-07-14",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY402C",
+    "date": "2026-07-14"
+   },
+   {
     "id": "nep-8664304910519",
     "title": "〈NEEDLES〉x〈PPACO〉LUX-2 Needles Edition with Studs",
     "price_yen": "¥21,780",
@@ -11291,11 +11434,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/inverted-pleats-skirt-poly-d-cloth-2",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY328_C-Purple_1_7690809a-6b19-4550-9c87-29e59900e89c.jpg?v=1785648762",
     "created": "2026-08-01",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Purple",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY328C",
@@ -14516,7 +14659,7 @@
    },
    {
     "id": "nep-8760502550711",
-    "title": "Miles Jacket - Faded Stripe",
+    "title": "Miles Jacket - Faded Windowpane / Faded Stripe",
     "price_yen": "¥60,500",
     "url": "https://onlinestore.nepenthes.co.jp/products/miles-jacket-faded-stripe",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY112_B-FadedStripe_1.jpg?v=1788938892",
@@ -14533,7 +14676,7 @@
    },
    {
     "id": "nep-8760502223031",
-    "title": "Miles Jacket - Faded Windowpane",
+    "title": "Miles Jacket - Faded Windowpane / Faded Stripe",
     "price_yen": "¥60,500",
     "url": "https://onlinestore.nepenthes.co.jp/products/miles-jacket-faded-windowpane",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY112_A-FadedWindowpane_1.jpg?v=1788938873",
@@ -14550,7 +14693,7 @@
    },
    {
     "id": "nep-8760502780087",
-    "title": "Side Tab Tucked Trouser - Windowpane",
+    "title": "Side Tab Tucked Trouser - Faded Windowpane / Faded Stripe",
     "price_yen": "¥44,000",
     "url": "https://onlinestore.nepenthes.co.jp/products/side-tab-tucked-trouser-windowpane",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY113_A-FadedWindowpane_1.jpg?v=1788999843",
@@ -14567,7 +14710,7 @@
    },
    {
     "id": "nep-8760503042231",
-    "title": "Side Tab Tucked Trouser - Stripe",
+    "title": "Side Tab Tucked Trouser - Faded Windowpane / Faded Stripe",
     "price_yen": "¥44,000",
     "url": "https://onlinestore.nepenthes.co.jp/products/side-tab-tucked-trouser-stripe",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY113_B-FadedStripe_1.jpg?v=1789000383",
@@ -14635,7 +14778,7 @@
    },
    {
     "id": "nep-8760511070391",
-    "title": "China Button Chore Coat-Pin St Jacq",
+    "title": "China Button Chore Coat - Pin Stripe Jacquard",
     "price_yen": "¥64,900",
     "url": "https://onlinestore.nepenthes.co.jp/products/china-button-chore-coat-pin-st-jacq",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY147_A-Green_1.jpg?v=1789003183",
@@ -14652,7 +14795,7 @@
    },
    {
     "id": "nep-8760511365303",
-    "title": "China Button Chore Coat-Pin St Jacq",
+    "title": "China Button Chore Coat - Pin Stripe Jacquard",
     "price_yen": "¥64,900",
     "url": "https://onlinestore.nepenthes.co.jp/products/china-button-chore-coat-pin-st-jacq-1",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY147_B-Brown_1.jpg?v=1789003197",
@@ -14669,7 +14812,7 @@
    },
    {
     "id": "nep-8760511758519",
-    "title": "String Balloon Pant - Pin St Jacquard",
+    "title": "String Balloon Pant - Pin Stripe Jacquard",
     "price_yen": "¥48,400",
     "url": "https://onlinestore.nepenthes.co.jp/products/string-balloon-pant-pin-st-jacq",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY148_A-Green_1.jpg?v=1789003854",
@@ -14703,7 +14846,7 @@
    },
    {
     "id": "nep-8760514609335",
-    "title": "Pullover Knit Shirt-Poly Jq./Paisley",
+    "title": "Pullover Knit Shirt - Poly Jq. / Paisley",
     "price_yen": "¥22,000",
     "url": "https://onlinestore.nepenthes.co.jp/products/pullover-knit-shirt-poly-jq-paisley",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY262_A-BlueBrown_1.jpg?v=1789004477",
@@ -14720,7 +14863,7 @@
    },
    {
     "id": "nep-8760514937015",
-    "title": "Pullover Knit Shirt-Poly Jq./Paisley",
+    "title": "Pullover Knit Shirt - Poly Jq. / Paisley",
     "price_yen": "¥22,000",
     "url": "https://onlinestore.nepenthes.co.jp/products/pullover-knit-shirt-poly-jq-paisley-1",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY262_B-PurpleBlack_1.jpg?v=1789004494",
@@ -14856,7 +14999,7 @@
    },
    {
     "id": "nep-8760525553847",
-    "title": "Pajama Pant - Cut Jacq Heart Fringe",
+    "title": "Pajama Pant - Cut Jacquard Heart Fringe",
     "price_yen": "¥39,600",
     "url": "https://onlinestore.nepenthes.co.jp/products/pajama-pant-cut-jacq-heart-fringe",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY336_A-Black_1.jpg?v=1789006570",
@@ -14873,7 +15016,7 @@
    },
    {
     "id": "nep-8760525717687",
-    "title": "Long Point Collar Jkt - PythonVelvet",
+    "title": "Long Point Collar Jacket - Python Velvet",
     "price_yen": "¥57,200",
     "url": "https://onlinestore.nepenthes.co.jp/products/long-point-collar-jkt-pythonvelvet",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY337_A-Purple_1.jpg?v=1789006311",
@@ -15043,7 +15186,7 @@
    },
    {
     "id": "nep-8760543674551",
-    "title": "Regular Collar L/S Polo - Ctn Pique",
+    "title": "Regular Collar L/S Polo - Cotton Pique",
     "price_yen": "¥16,500",
     "url": "https://onlinestore.nepenthes.co.jp/products/regular-collar-l-s-polo-ctn-pique-1",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY396_B-Purple_1.jpg?v=1789007861",
@@ -15060,7 +15203,7 @@
    },
    {
     "id": "nep-8760543543479",
-    "title": "Regular Collar L/S Polo - Ctn Pique",
+    "title": "Regular Collar L/S Polo - Cotton Pique",
     "price_yen": "¥16,500",
     "url": "https://onlinestore.nepenthes.co.jp/products/regular-collar-l-s-polo-ctn-pique",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY396_A-Beige_1.jpg?v=1789007873",
@@ -15077,7 +15220,7 @@
    },
    {
     "id": "nep-8760543871159",
-    "title": "Regular Collar L/S Polo - Ctn Pique",
+    "title": "Regular Collar L/S Polo - Cotton Pique",
     "price_yen": "¥16,500",
     "url": "https://onlinestore.nepenthes.co.jp/products/regular-collar-l-s-polo-ctn-pique-2",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY396_C-Brown_1.jpg?v=1789007854",
@@ -15094,7 +15237,7 @@
    },
    {
     "id": "nep-8760544002231",
-    "title": "Regular Collar L/S Polo - Ctn Pique",
+    "title": "Regular Collar L/S Polo - Cotton Pique",
     "price_yen": "¥16,500",
     "url": "https://onlinestore.nepenthes.co.jp/products/regular-collar-l-s-polo-ctn-pique-3",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY396_D-Black_1.jpg?v=1789007847",
@@ -17145,11 +17288,11 @@
     "url": "https://mix.tokyo/products/7846220279",
     "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846220279-100_MAIN.jpg?v=1788951778",
     "created": "2026-09-08",
-    "soldout": true,
+    "soldout": false,
     "colors": [
      {
       "name": "レッド",
-      "available": false
+      "available": true
      }
     ],
     "code": "",
