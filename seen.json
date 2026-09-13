@@ -10193,11 +10193,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/one-side-dolman-coat-abstract-jacq-1",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY102_B-Black_1.jpg?v=1784275937",
     "created": "2026-07-17",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Black",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY102B",
@@ -11077,11 +11077,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/neck-warmer-shetland-wool-1",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY065_B-Twilight_1.jpg?v=1785647432",
     "created": "2026-08-01",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Twilight",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY065B",
@@ -14800,11 +14800,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/china-button-chore-coat-pin-st-jacq-1",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY147_B-Brown_1.jpg?v=1789003197",
     "created": "2026-09-09",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Brown",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY147B",
@@ -17863,7 +17863,7 @@
     "colors": [
      {
       "name": "ブラック",
-      "available": true
+      "available": false
      },
      {
       "name": "ライトブラウン",
