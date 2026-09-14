@@ -8504,23 +8504,6 @@
     "date": "2026-07-14"
    },
    {
-    "id": "nep-8664241963191",
-    "title": "Papillon Western Tip Belt - Suede",
-    "price_yen": "¥20,900",
-    "url": "https://onlinestore.nepenthes.co.jp/products/papillon-western-tip-belt-suede-4",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/NS037A-0_8e359125-b630-4054-b91c-52966fd984cb.jpg?v=1751691728",
-    "created": "2026-07-14",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Taupe",
-      "available": false
-     }
-    ],
-    "code": "TY036A",
-    "date": "2026-07-14"
-   },
-   {
     "id": "nep-8664242225335",
     "title": "Papillon Western Tip Belt - Suede",
     "price_yen": "¥20,900",
@@ -10187,23 +10170,6 @@
     "date": "2026-07-17"
    },
    {
-    "id": "nep-8672548028599",
-    "title": "One Side Dolman Coat - Abstract Jacquard",
-    "price_yen": "¥85,800",
-    "url": "https://onlinestore.nepenthes.co.jp/products/one-side-dolman-coat-abstract-jacq-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY102_B-Black_1.jpg?v=1784275937",
-    "created": "2026-07-17",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Black",
-      "available": false
-     }
-    ],
-    "code": "TY102B",
-    "date": "2026-07-17"
-   },
-   {
     "id": "nep-8672548389047",
     "title": "Round Collar Jacket - Papillon Jacquard",
     "price_yen": "¥74,800",
@@ -10663,23 +10629,6 @@
     "date": "2026-07-24"
    },
    {
-    "id": "nep-8685779910839",
-    "title": "Track Jacket - Poly Jacquard",
-    "price_yen": "¥28,600",
-    "url": "https://onlinestore.nepenthes.co.jp/products/track-jacket-poly-jq-35",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY347_A-PolkaDot_1.jpg?v=1784878130",
-    "created": "2026-07-24",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Polka Dot",
-      "available": true
-     }
-    ],
-    "code": "TY347A",
-    "date": "2026-07-24"
-   },
-   {
     "id": "nep-8685780598967",
     "title": "Track Jacket - Poly Jacquard",
     "price_yen": "¥28,600",
@@ -11071,23 +11020,6 @@
     "date": "2026-08-01"
    },
    {
-    "id": "nep-8693329985719",
-    "title": "Neck Warmer - Shetland Wool",
-    "price_yen": "¥8,800",
-    "url": "https://onlinestore.nepenthes.co.jp/products/neck-warmer-shetland-wool-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY065_B-Twilight_1.jpg?v=1785647432",
-    "created": "2026-08-01",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Twilight",
-      "available": false
-     }
-    ],
-    "code": "TY065B",
-    "date": "2026-08-01"
-   },
-   {
     "id": "nep-8693330477239",
     "title": "Bucket Hat - Shetland Wool",
     "price_yen": "¥11,000",
@@ -11425,23 +11357,6 @@
      }
     ],
     "code": "TY327C",
-    "date": "2026-08-01"
-   },
-   {
-    "id": "nep-8693346533559",
-    "title": "Inverted Pleats Skirt - Poly D.Cloth Stretch",
-    "price_yen": "¥31,900",
-    "url": "https://onlinestore.nepenthes.co.jp/products/inverted-pleats-skirt-poly-d-cloth-2",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY328_C-Purple_1_7690809a-6b19-4550-9c87-29e59900e89c.jpg?v=1785648762",
-    "created": "2026-08-01",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Purple",
-      "available": false
-     }
-    ],
-    "code": "TY328C",
     "date": "2026-08-01"
    },
    {
@@ -12329,23 +12244,6 @@
     "date": "2026-08-07"
    },
    {
-    "id": "nep-8701052780727",
-    "title": "Uncon Shirt - Chambray Shadow",
-    "price_yen": "¥42,900",
-    "url": "https://onlinestore.nepenthes.co.jp/products/uncon-shirt-chambray-shadow-2",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY289_C-Green_1.jpg?v=1786166576",
-    "created": "2026-08-07",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Green",
-      "available": false
-     }
-    ],
-    "code": "TY289C",
-    "date": "2026-08-07"
-   },
-   {
     "id": "nep-8701052977335",
     "title": "Windsor Collar Uncon Shirt - W/R Ombre Plaid",
     "price_yen": "¥51,700",
@@ -12649,23 +12547,6 @@
      }
     ],
     "code": "TY385C",
-    "date": "2026-08-07"
-   },
-   {
-    "id": "nep-8701056942263",
-    "title": "L/S U Neck Tee - Paisley Bulky Lace",
-    "price_yen": "¥15,400",
-    "url": "https://onlinestore.nepenthes.co.jp/products/l-s-u-neck-tee-paisley-bulky-lace",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY385_A-Dk.Purple_1.jpg?v=1786163300",
-    "created": "2026-08-07",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Dk. Purple",
-      "available": false
-     }
-    ],
-    "code": "TY385A",
     "date": "2026-08-07"
    },
    {
@@ -13655,23 +13536,6 @@
     "date": "2026-08-27"
    },
    {
-    "id": "nep-8735646482615",
-    "title": "〈NEEDLES〉 x 〈BROOKS BROTHERS〉Emb. Silk Knit Tie",
-    "price_yen": "¥22,000",
-    "url": "https://onlinestore.nepenthes.co.jp/products/emb-silk-knit-tie-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY2005B-00.jpg?v=1787809219",
-    "created": "2026-08-27",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Purple",
-      "available": false
-     }
-    ],
-    "code": "TY2005B",
-    "date": "2026-08-27"
-   },
-   {
     "id": "nep-8735646613687",
     "title": "〈NEEDLES〉 x 〈BROOKS BROTHERS〉Penny Loafer - Shell Cordovan",
     "price_yen": "¥154,000",
@@ -14043,23 +13907,6 @@
      }
     ],
     "code": "TY302B",
-    "date": "2026-08-28"
-   },
-   {
-    "id": "nep-8738189017271",
-    "title": "Work Shirt - Ikat Stripe",
-    "price_yen": "¥31,900",
-    "url": "https://onlinestore.nepenthes.co.jp/products/work-shirt-ikat-stripe",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY303_A-PurpleOrange_1.jpg?v=1787987199",
-    "created": "2026-08-28",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Ppl/Org",
-      "available": true
-     }
-    ],
-    "code": "TY303A",
     "date": "2026-08-28"
    },
    {
@@ -14715,31 +14562,14 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/side-tab-tucked-trouser-stripe",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY113_B-FadedStripe_1.jpg?v=1789000383",
     "created": "2026-09-09",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Stripe",
-      "available": true
-     }
-    ],
-    "code": "TY113B",
-    "date": "2026-09-09"
-   },
-   {
-    "id": "nep-8760505106615",
-    "title": "Shawl Collar Coat - Wool Jacquard",
-    "price_yen": "¥121,000",
-    "url": "https://onlinestore.nepenthes.co.jp/products/shawl-collar-coat-wool-jacquard",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY122_A-Flower_1.jpg?v=1789000818",
-    "created": "2026-09-09",
     "soldout": true,
     "colors": [
      {
-      "name": "Flower",
+      "name": "Stripe",
       "available": false
      }
     ],
-    "code": "TY122A",
+    "code": "TY113B",
     "date": "2026-09-09"
    },
    {
@@ -14927,40 +14757,6 @@
      }
     ],
     "code": "TY329A",
-    "date": "2026-09-09"
-   },
-   {
-    "id": "nep-8760522604727",
-    "title": "Lined Boa Jacket - Houndstooth",
-    "price_yen": "¥58,300",
-    "url": "https://onlinestore.nepenthes.co.jp/products/lined-boa-jacket-houndstooth-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY329_B-Red_1.jpg?v=1789005288",
-    "created": "2026-09-09",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Red",
-      "available": false
-     }
-    ],
-    "code": "TY329B",
-    "date": "2026-09-09"
-   },
-   {
-    "id": "nep-8760524636343",
-    "title": "C.C. Skirt - Houndstooth",
-    "price_yen": "¥29,700",
-    "url": "https://onlinestore.nepenthes.co.jp/products/c-c-skirt-houndstooth-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY330_B-Red_1.jpg?v=1789005651",
-    "created": "2026-09-09",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Red",
-      "available": false
-     }
-    ],
-    "code": "TY330B",
     "date": "2026-09-09"
    },
    {
