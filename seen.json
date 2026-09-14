@@ -14556,23 +14556,6 @@
     "date": "2026-09-09"
    },
    {
-    "id": "nep-8760503042231",
-    "title": "Side Tab Tucked Trouser - Faded Windowpane / Faded Stripe",
-    "price_yen": "¥44,000",
-    "url": "https://onlinestore.nepenthes.co.jp/products/side-tab-tucked-trouser-stripe",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY113_B-FadedStripe_1.jpg?v=1789000383",
-    "created": "2026-09-09",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Stripe",
-      "available": false
-     }
-    ],
-    "code": "TY113B",
-    "date": "2026-09-09"
-   },
-   {
     "id": "nep-8760505303223",
     "title": "Shawl Collar Coat - Wool Jacquard",
     "price_yen": "¥121,000",
@@ -17992,7 +17975,7 @@
      },
      {
       "name": "チャコール",
-      "available": true
+      "available": false
      }
     ],
     "code": "",
@@ -18017,7 +18000,7 @@
      },
      {
       "name": "ホワイト",
-      "available": true
+      "available": false
      },
      {
       "name": "ブラック×パープル",
