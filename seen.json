@@ -4403,6 +4403,14 @@
   "nep-8664294162615": {
    "first": "2026-07-14",
    "title": "S/S Crew Neck Tee - Poly Jersey"
+  },
+  "nep-8765789667511": {
+   "first": "2026-09-10",
+   "title": "〈NEEDLES〉x 〈SOREL〉Ambler Waterproof"
+  },
+  "nep-8765789175991": {
+   "first": "2026-09-10",
+   "title": "〈NEEDLES〉x 〈SOREL〉Ambler Chukka Waterproof"
   }
  },
  "STUDIOUS": {
@@ -15134,6 +15142,40 @@
     "date": "2026-09-09"
    },
    {
+    "id": "nep-8765789667511",
+    "title": "〈NEEDLES〉x 〈SOREL〉Ambler Waterproof",
+    "price_yen": "¥25,850",
+    "url": "https://onlinestore.nepenthes.co.jp/products/ambler-wp",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY566_UltraVioletBlack_11.jpg?v=1789092600",
+    "created": "2026-09-10",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black/Purple",
+      "available": true
+     }
+    ],
+    "code": "TY566",
+    "date": "2026-09-10"
+   },
+   {
+    "id": "nep-8765789175991",
+    "title": "〈NEEDLES〉x 〈SOREL〉Ambler Chukka Waterproof",
+    "price_yen": "¥30,250",
+    "url": "https://onlinestore.nepenthes.co.jp/products/ambler-chukka-wp",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY565_UltraVioletBlack_11.jpg?v=1789092538",
+    "created": "2026-09-10",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black/Purple",
+      "available": true
+     }
+    ],
+    "code": "TY565",
+    "date": "2026-09-10"
+   },
+   {
     "id": "nep-8769778090167",
     "title": "Shearling Coat - Sheepskin",
     "price_yen": "¥294,800",
@@ -15186,10 +15228,6 @@
     "created": "",
     "soldout": false,
     "colors": [
-     {
-      "name": "",
-      "available": null
-     },
      {
       "name": "",
       "available": null
