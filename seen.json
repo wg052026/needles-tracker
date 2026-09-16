@@ -5583,6 +5583,10 @@
   "mix-8063830949953": {
    "first": "2026-09-04",
    "title": "NEEDLES/ニードルズ/CONVERTIBLE GROVE - SHETLAND WOOL"
+  },
+  "mix-8082670780481": {
+   "first": "2026-09-15",
+   "title": "NEEDLES（ニードルズ）Piping Cowboy Pant - Poly Double Cloth"
   }
  },
  "_snapshots": {
@@ -14655,11 +14659,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/pullover-knit-shirt-poly-jq-paisley-1",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY262_B-PurpleBlack_1.jpg?v=1789004494",
     "created": "2026-09-09",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Ppl/Blk",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY262B",
@@ -16412,23 +16416,6 @@
     "date": "2026-06-03"
    },
    {
-    "id": "stu-g115553020334",
-    "title": "Fringe Cardigan - Wool Plaid",
-    "price_yen": "¥59,400",
-    "url": "https://studious.co.jp/shop/g/g115553020334/",
-    "img": "https://studious.co.jp/img/goods/S/115553020334_c203235a04514798a404dd72377741c5.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "RW265",
-    "date": "2026-06-03"
-   },
-   {
     "id": "stu-g115553022164",
     "title": "Ranch Jacket - 8W Corduroy",
     "price_yen": "¥71,500",
@@ -17044,6 +17031,23 @@
   ],
   "MIX.TOKYO": [
    {
+    "id": "mix-8082670780481",
+    "title": "NEEDLES（ニードルズ）Piping Cowboy Pant - Poly Double Cloth",
+    "price_yen": "¥30,000",
+    "url": "https://mix.tokyo/products/7856210291",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856210291-010_MAIN.jpg?v=1789471903",
+    "created": "2026-09-15",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "ブラック",
+      "available": true
+     }
+    ],
+    "code": "",
+    "date": "2026-09-15"
+   },
+   {
     "id": "mix-8067273064513",
     "title": "NEEDLES/ニードルズ/LOOSE B.B. JKT - SULFUR DYE DUCK",
     "price_yen": "¥83,000",
@@ -17105,11 +17109,11 @@
     "url": "https://mix.tokyo/products/7846274286",
     "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846274286-010_MAIN.jpg?v=1788951795",
     "created": "2026-09-04",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "ブラック",
-      "available": true
+      "available": false
      }
     ],
     "code": "",
