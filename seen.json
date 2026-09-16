@@ -12660,40 +12660,6 @@
     "date": "2026-08-07"
    },
    {
-    "id": "nep-8701057597623",
-    "title": "L/S Crew Neck Tee - Stripe Velour",
-    "price_yen": "¥20,900",
-    "url": "https://onlinestore.nepenthes.co.jp/products/l-s-crew-neck-tee-stripe-velour",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY397_A-Dk.Purple_1.jpg?v=1786161149",
-    "created": "2026-08-07",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Dk. Purple",
-      "available": true
-     }
-    ],
-    "code": "TY397A",
-    "date": "2026-08-07"
-   },
-   {
-    "id": "nep-8701057630391",
-    "title": "L/S Crew Neck Tee - Stripe Velour",
-    "price_yen": "¥20,900",
-    "url": "https://onlinestore.nepenthes.co.jp/products/l-s-crew-neck-tee-stripe-velour-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY397_B-Black_1.jpg?v=1786161102",
-    "created": "2026-08-07",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Black",
-      "available": true
-     }
-    ],
-    "code": "TY397B",
-    "date": "2026-08-07"
-   },
-   {
     "id": "nep-8711705854135",
     "title": "Loose B.B. Jacket - Sulfur Dye Duck",
     "price_yen": "¥91,300",
@@ -17399,7 +17365,7 @@
     "url": "https://mix.tokyo/products/7846210256",
     "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846210256-010_MAIN.jpg?v=1787338968",
     "created": "2026-05-26",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "ブラック",
@@ -17407,7 +17373,7 @@
      },
      {
       "name": "グレー",
-      "available": true
+      "available": false
      }
     ],
     "code": "",
