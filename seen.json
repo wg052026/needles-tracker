@@ -11667,11 +11667,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/balloon-track-skirt-bright-jersey-7",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY364_B-Purple_1.jpg?v=1785649402",
     "created": "2026-08-01",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Purple",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY364B",
@@ -15281,7 +15281,7 @@
     "title": "別注 H.D. Track Pant - Corduroy",
     "price_yen": "¥41,800",
     "url": "https://studious.co.jp/shop/g/g116540190163/",
-    "img": "https://studious.co.jp/img/goods/S/116540190163_bf975e15e1174c87921efe9b6874afa6.jpg",
+    "img": "https://studious.co.jp/img/goods/S/116540190163_85da800d0cb04beda32ac476d00b9813.jpg",
     "created": "",
     "soldout": false,
     "colors": [
@@ -15310,7 +15310,7 @@
     "title": "別注 Track Jacket - Corduroy",
     "price_yen": "¥44,000",
     "url": "https://studious.co.jp/shop/g/g116558004165/",
-    "img": "https://studious.co.jp/img/goods/S/116558004165_8d7a095c43f045c58a38a0a2b2ae8907.jpg",
+    "img": "https://studious.co.jp/img/goods/S/116558004165_e5bb06f59e8f4f56a9a9486bc6ea4500.jpg",
     "created": "",
     "soldout": false,
     "colors": [
@@ -15339,7 +15339,7 @@
     "title": "別注 Track Pant - Corduroy",
     "price_yen": "¥38,500",
     "url": "https://studious.co.jp/shop/g/g116540189163/",
-    "img": "https://studious.co.jp/img/goods/S/116540189163_c786441a2a5f4fcaa138a784ca9e5ef0.jpg",
+    "img": "https://studious.co.jp/img/goods/S/116540189163_77326bab225a44b5a5342e7599e7531b.jpg",
     "created": "",
     "soldout": false,
     "colors": [
