@@ -4411,6 +4411,122 @@
   "nep-8765789175991": {
    "first": "2026-09-10",
    "title": "〈NEEDLES〉x 〈SOREL〉Ambler Chukka Waterproof"
+  },
+  "nep-8773603000503": {
+   "first": "2026-09-12",
+   "title": "Rabbit Fur Coat - Animal Printed"
+  },
+  "nep-8773607817399": {
+   "first": "2026-09-12",
+   "title": "Rabbit Fur Cardigan - Animal Printed"
+  },
+  "nep-8773609455799": {
+   "first": "2026-09-12",
+   "title": "Rabbit Fur Cardigan - Animal Printed"
+  },
+  "nep-8773639307447": {
+   "first": "2026-09-12",
+   "title": "Travel Jacket - Harris Tweed"
+  },
+  "nep-8774888390839": {
+   "first": "2026-09-13",
+   "title": "Travel Jacket - Harris Tweed"
+  },
+  "nep-8774888521911": {
+   "first": "2026-09-13",
+   "title": "Travel Vest - Harris Tweed"
+  },
+  "nep-8774888554679": {
+   "first": "2026-09-13",
+   "title": "Travel Vest - Harris Tweed"
+  },
+  "nep-8774889078967": {
+   "first": "2026-09-13",
+   "title": "B.B. Jacket - Wool Jacquard"
+  },
+  "nep-8774889242807": {
+   "first": "2026-09-13",
+   "title": "B.B. Jacket - Wool Jacquard"
+  },
+  "nep-8774889439415": {
+   "first": "2026-09-13",
+   "title": "H.D. Pant - Wool Diagonal Jacquard"
+  },
+  "nep-8774889865399": {
+   "first": "2026-09-13",
+   "title": "Frisco Short Jacket - Heavy Twill"
+  },
+  "nep-8774889930935": {
+   "first": "2026-09-13",
+   "title": "Frisco Short Jacket - Heavy Twill"
+  },
+  "nep-8774889996471": {
+   "first": "2026-09-13",
+   "title": "Frisco Vest - Heavy Twill"
+  },
+  "nep-8774890094775": {
+   "first": "2026-09-13",
+   "title": "Frisco Vest - Heavy Twill"
+  },
+  "nep-8774890553527": {
+   "first": "2026-09-13",
+   "title": "CB Gusset Sports Jacket - PE/W Gabardine"
+  },
+  "nep-8774890389687": {
+   "first": "2026-09-13",
+   "title": "CB Gusset Sports Jacket - PE/W Gabardine"
+  },
+  "nep-8774890815671": {
+   "first": "2026-09-13",
+   "title": "Western Leisure Jacket - Poly Double Cloth"
+  },
+  "nep-8774890881207": {
+   "first": "2026-09-13",
+   "title": "Western Leisure Jacket - Poly Double Cloth"
+  },
+  "nep-8774890913975": {
+   "first": "2026-09-13",
+   "title": "Western Leisure Jacket - Poly Double Cloth"
+  },
+  "nep-8774891176119": {
+   "first": "2026-09-13",
+   "title": "V Neck Cardigan - Bright Jersey"
+  },
+  "nep-8774891143351": {
+   "first": "2026-09-13",
+   "title": "V Neck Cardigan - Bright Jersey"
+  },
+  "nep-8774891208887": {
+   "first": "2026-09-13",
+   "title": "V Neck Cardigan - Bright Jersey"
+  },
+  "nep-8774891372727": {
+   "first": "2026-09-13",
+   "title": "Mock Neck Shirt - Bright Jersey"
+  },
+  "nep-8774891438263": {
+   "first": "2026-09-13",
+   "title": "Mock Neck Shirt - Bright Jersey"
+  },
+  "nep-8774891405495": {
+   "first": "2026-09-13",
+   "title": "Mock Neck Shirt - Bright Jersey"
+  },
+  "nep-8774891733175": {
+   "first": "2026-09-13",
+   "title": "Crew Sweat Shirt - Cotton Jacquard/Python"
+  },
+  "nep-8774891831479": {
+   "first": "2026-09-13",
+   "title": "H.D. Sweat Pant - Cotton Jacquard/Python"
+  },
+  "nep-8774891765943": {
+   "first": "2026-09-13",
+   "title": "Crew Sweat Shirt - Cotton Jacquard/Python"
+  },
+  "nep-8774891995319": {
+   "first": "2026-09-13",
+   "title": "H.D. Sweat Pant - Cotton Jacquard/Python"
   }
  },
  "STUDIOUS": {
@@ -11661,23 +11777,6 @@
     "date": "2026-08-01"
    },
    {
-    "id": "nep-8693349515447",
-    "title": "Balloon Track Skirt - Bright Jersey",
-    "price_yen": "¥27,500",
-    "url": "https://onlinestore.nepenthes.co.jp/products/balloon-track-skirt-bright-jersey-7",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY364_B-Purple_1.jpg?v=1785649402",
-    "created": "2026-08-01",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Purple",
-      "available": false
-     }
-    ],
-    "code": "TY364B",
-    "date": "2026-08-01"
-   },
-   {
     "id": "nep-8693349646519",
     "title": "Zipped Sweat Pant - Bright Jersey",
     "price_yen": "¥20,900",
@@ -15161,6 +15260,499 @@
     ],
     "code": "RW180A",
     "date": "2026-09-11"
+   },
+   {
+    "id": "nep-8773603000503",
+    "title": "Rabbit Fur Coat - Animal Printed",
+    "price_yen": "¥176,000",
+    "url": "https://onlinestore.nepenthes.co.jp/products/rabbit-fur-coat-animal-printed",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY103_A-Leopard_1.jpg?v=1789283045",
+    "created": "2026-09-12",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Leopard",
+      "available": true
+     }
+    ],
+    "code": "TY103A",
+    "date": "2026-09-12"
+   },
+   {
+    "id": "nep-8773607817399",
+    "title": "Rabbit Fur Cardigan - Animal Printed",
+    "price_yen": "¥104,500",
+    "url": "https://onlinestore.nepenthes.co.jp/products/rabbit-fur-cardigan-animal-printed",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY104_A-Leopard_1.jpg?v=1789282880",
+    "created": "2026-09-12",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Leopard",
+      "available": true
+     }
+    ],
+    "code": "TY104A",
+    "date": "2026-09-12"
+   },
+   {
+    "id": "nep-8773609455799",
+    "title": "Rabbit Fur Cardigan - Animal Printed",
+    "price_yen": "¥104,500",
+    "url": "https://onlinestore.nepenthes.co.jp/products/rabbit-fur-cardigan-animal-printed-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY104_B-Tiger_1.jpg?v=1789282840",
+    "created": "2026-09-12",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Tiger",
+      "available": true
+     }
+    ],
+    "code": "TY104B",
+    "date": "2026-09-12"
+   },
+   {
+    "id": "nep-8773639307447",
+    "title": "Travel Jacket - Harris Tweed",
+    "price_yen": "¥99,000",
+    "url": "https://onlinestore.nepenthes.co.jp/products/travel-jacket-harris-tweed",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY117_A-Herringbone_1.jpg?v=1789282768",
+    "created": "2026-09-12",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Herringbone",
+      "available": true
+     }
+    ],
+    "code": "TY117A",
+    "date": "2026-09-12"
+   },
+   {
+    "id": "nep-8774888390839",
+    "title": "Travel Jacket - Harris Tweed",
+    "price_yen": "¥99,000",
+    "url": "https://onlinestore.nepenthes.co.jp/products/travel-jacket-harris-tweed-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY117_B-Plaid_1.jpg?v=1789282619",
+    "created": "2026-09-13",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Plaid",
+      "available": true
+     }
+    ],
+    "code": "TY117B",
+    "date": "2026-09-13"
+   },
+   {
+    "id": "nep-8774888521911",
+    "title": "Travel Vest - Harris Tweed",
+    "price_yen": "¥79,200",
+    "url": "https://onlinestore.nepenthes.co.jp/products/travel-vest-harris-tweed",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY118_A-Herringbone_1.jpg?v=1789282564",
+    "created": "2026-09-13",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Herringbone",
+      "available": true
+     }
+    ],
+    "code": "TY118A",
+    "date": "2026-09-13"
+   },
+   {
+    "id": "nep-8774888554679",
+    "title": "Travel Vest - Harris Tweed",
+    "price_yen": "¥79,200",
+    "url": "https://onlinestore.nepenthes.co.jp/products/travel-vest-harris-tweed-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY118_B-Plaid_1.jpg?v=1789282523",
+    "created": "2026-09-13",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Plaid",
+      "available": true
+     }
+    ],
+    "code": "TY118B",
+    "date": "2026-09-13"
+   },
+   {
+    "id": "nep-8774889078967",
+    "title": "B.B. Jacket - Wool Jacquard",
+    "price_yen": "¥96,800",
+    "url": "https://onlinestore.nepenthes.co.jp/products/b-b-jacket-wool-jacquard-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY123_B-Papillon_1.jpg?v=1789282250",
+    "created": "2026-09-13",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Papillon",
+      "available": true
+     }
+    ],
+    "code": "TY123B",
+    "date": "2026-09-13"
+   },
+   {
+    "id": "nep-8774889242807",
+    "title": "B.B. Jacket - Wool Jacquard",
+    "price_yen": "¥96,800",
+    "url": "https://onlinestore.nepenthes.co.jp/products/b-b-jacket-wool-jacquard-2",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY123_C-Leopard_1.jpg?v=1789282164",
+    "created": "2026-09-13",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Leopard",
+      "available": true
+     }
+    ],
+    "code": "TY123C",
+    "date": "2026-09-13"
+   },
+   {
+    "id": "nep-8774889439415",
+    "title": "H.D. Pant - Wool Diagonal Jacquard",
+    "price_yen": "¥52,800",
+    "url": "https://onlinestore.nepenthes.co.jp/products/h-d-pant-wool-diagonal-jacquard",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY131_Dk.Navy_1.jpg?v=1789282128",
+    "created": "2026-09-13",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Dk. Navy",
+      "available": true
+     }
+    ],
+    "code": "TY131",
+    "date": "2026-09-13"
+   },
+   {
+    "id": "nep-8774889865399",
+    "title": "Frisco Short Jacket - Heavy Twill",
+    "price_yen": "¥40,700",
+    "url": "https://onlinestore.nepenthes.co.jp/products/frisco-short-jacket-heavy-twill",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY216_A-Purple_1.jpg?v=1789273849",
+    "created": "2026-09-13",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Purple",
+      "available": true
+     }
+    ],
+    "code": "TY216A",
+    "date": "2026-09-13"
+   },
+   {
+    "id": "nep-8774889930935",
+    "title": "Frisco Short Jacket - Heavy Twill",
+    "price_yen": "¥40,700",
+    "url": "https://onlinestore.nepenthes.co.jp/products/frisco-short-jacket-heavy-twill-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY216_B-Black_1.jpg?v=1789273824",
+    "created": "2026-09-13",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY216B",
+    "date": "2026-09-13"
+   },
+   {
+    "id": "nep-8774889996471",
+    "title": "Frisco Vest - Heavy Twill",
+    "price_yen": "¥28,600",
+    "url": "https://onlinestore.nepenthes.co.jp/products/frisco-vest-heavy-twill",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY217_A-Purple_1.jpg?v=1789273798",
+    "created": "2026-09-13",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Purple",
+      "available": true
+     }
+    ],
+    "code": "TY217A",
+    "date": "2026-09-13"
+   },
+   {
+    "id": "nep-8774890094775",
+    "title": "Frisco Vest - Heavy Twill",
+    "price_yen": "¥28,600",
+    "url": "https://onlinestore.nepenthes.co.jp/products/frisco-vest-heavy-twill-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY217_B-Black_1.jpg?v=1789273754",
+    "created": "2026-09-13",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY217B",
+    "date": "2026-09-13"
+   },
+   {
+    "id": "nep-8774890553527",
+    "title": "CB Gusset Sports Jacket - PE/W Gabardine",
+    "price_yen": "¥51,700",
+    "url": "https://onlinestore.nepenthes.co.jp/products/cb-gusset-sports-jacket-pe-w-gabar-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY251_C-Black_1.jpg?v=1789273646",
+    "created": "2026-09-13",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY251C",
+    "date": "2026-09-13"
+   },
+   {
+    "id": "nep-8774890389687",
+    "title": "CB Gusset Sports Jacket - PE/W Gabardine",
+    "price_yen": "¥51,700",
+    "url": "https://onlinestore.nepenthes.co.jp/products/cb-gusset-sports-jacket-pe-w-gabar",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY251_B-Olive_1.jpg?v=1789273679",
+    "created": "2026-09-13",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Olive",
+      "available": true
+     }
+    ],
+    "code": "TY251B",
+    "date": "2026-09-13"
+   },
+   {
+    "id": "nep-8774890815671",
+    "title": "Western Leisure Jacket - Poly Double Cloth",
+    "price_yen": "¥58,300",
+    "url": "https://onlinestore.nepenthes.co.jp/products/western-leisure-jkt-poly-d-cloth",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY257_A-Purple_1.jpg?v=1789273608",
+    "created": "2026-09-13",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Purple",
+      "available": true
+     }
+    ],
+    "code": "TY257A",
+    "date": "2026-09-13"
+   },
+   {
+    "id": "nep-8774890881207",
+    "title": "Western Leisure Jacket - Poly Double Cloth",
+    "price_yen": "¥58,300",
+    "url": "https://onlinestore.nepenthes.co.jp/products/western-leisure-jkt-poly-d-cloth-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY257_B-Navy_1.jpg?v=1789273582",
+    "created": "2026-09-13",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Navy",
+      "available": true
+     }
+    ],
+    "code": "TY257B",
+    "date": "2026-09-13"
+   },
+   {
+    "id": "nep-8774890913975",
+    "title": "Western Leisure Jacket - Poly Double Cloth",
+    "price_yen": "¥58,300",
+    "url": "https://onlinestore.nepenthes.co.jp/products/western-leisure-jkt-poly-d-cloth-2",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY257_C-Black_1.jpg?v=1789273555",
+    "created": "2026-09-13",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY257C",
+    "date": "2026-09-13"
+   },
+   {
+    "id": "nep-8774891176119",
+    "title": "V Neck Cardigan - Bright Jersey",
+    "price_yen": "¥19,800",
+    "url": "https://onlinestore.nepenthes.co.jp/products/v-neck-cardigan-bright-jersey-13",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY366_B-Purple_1.jpg?v=1789273478",
+    "created": "2026-09-13",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Purple",
+      "available": true
+     }
+    ],
+    "code": "TY366B",
+    "date": "2026-09-13"
+   },
+   {
+    "id": "nep-8774891143351",
+    "title": "V Neck Cardigan - Bright Jersey",
+    "price_yen": "¥19,800",
+    "url": "https://onlinestore.nepenthes.co.jp/products/v-neck-cardigan-bright-jersey-12",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY366_A-Navy_1.jpg?v=1789273508",
+    "created": "2026-09-13",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Navy",
+      "available": true
+     }
+    ],
+    "code": "TY366A",
+    "date": "2026-09-13"
+   },
+   {
+    "id": "nep-8774891208887",
+    "title": "V Neck Cardigan - Bright Jersey",
+    "price_yen": "¥19,800",
+    "url": "https://onlinestore.nepenthes.co.jp/products/v-neck-cardigan-bright-jersey-14",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY366_C-Black_1.jpg?v=1789273449",
+    "created": "2026-09-13",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY366C",
+    "date": "2026-09-13"
+   },
+   {
+    "id": "nep-8774891372727",
+    "title": "Mock Neck Shirt - Bright Jersey",
+    "price_yen": "¥18,700",
+    "url": "https://onlinestore.nepenthes.co.jp/products/mock-neck-shirt-bright-jersey-3",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY367_A-Navy_1.jpg?v=1789273387",
+    "created": "2026-09-13",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Navy",
+      "available": true
+     }
+    ],
+    "code": "TY367A",
+    "date": "2026-09-13"
+   },
+   {
+    "id": "nep-8774891438263",
+    "title": "Mock Neck Shirt - Bright Jersey",
+    "price_yen": "¥18,700",
+    "url": "https://onlinestore.nepenthes.co.jp/products/mock-neck-shirt-bright-jersey-5",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY367_C-Black_1.jpg?v=1789273323",
+    "created": "2026-09-13",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY367C",
+    "date": "2026-09-13"
+   },
+   {
+    "id": "nep-8774891405495",
+    "title": "Mock Neck Shirt - Bright Jersey",
+    "price_yen": "¥18,700",
+    "url": "https://onlinestore.nepenthes.co.jp/products/mock-neck-shirt-bright-jersey-4",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY367_B-Purple_1.jpg?v=1789273360",
+    "created": "2026-09-13",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Purple",
+      "available": true
+     }
+    ],
+    "code": "TY367B",
+    "date": "2026-09-13"
+   },
+   {
+    "id": "nep-8774891733175",
+    "title": "Crew Sweat Shirt - Cotton Jacquard/Python",
+    "price_yen": "¥37,400",
+    "url": "https://onlinestore.nepenthes.co.jp/products/crew-sweat-shirt-cotton-jq-python",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY378_A-Dk.Purple_1.jpg?v=1789273285",
+    "created": "2026-09-13",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Dk. Purple",
+      "available": true
+     }
+    ],
+    "code": "TY378A",
+    "date": "2026-09-13"
+   },
+   {
+    "id": "nep-8774891831479",
+    "title": "H.D. Sweat Pant - Cotton Jacquard/Python",
+    "price_yen": "¥42,900",
+    "url": "https://onlinestore.nepenthes.co.jp/products/h-d-sweat-pant-cotton-jq-python",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY379_A-Dk.Purple_1.jpg?v=1789273227",
+    "created": "2026-09-13",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Dk. Purple",
+      "available": true
+     }
+    ],
+    "code": "TY379A",
+    "date": "2026-09-13"
+   },
+   {
+    "id": "nep-8774891765943",
+    "title": "Crew Sweat Shirt - Cotton Jacquard/Python",
+    "price_yen": "¥37,400",
+    "url": "https://onlinestore.nepenthes.co.jp/products/crew-sweat-shirt-cotton-jq-python-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY378_B-Black_1.jpg?v=1789273258",
+    "created": "2026-09-13",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY378B",
+    "date": "2026-09-13"
+   },
+   {
+    "id": "nep-8774891995319",
+    "title": "H.D. Sweat Pant - Cotton Jacquard/Python",
+    "price_yen": "¥42,900",
+    "url": "https://onlinestore.nepenthes.co.jp/products/h-d-sweat-pant-cotton-jq-python-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY379_B-Black_1.jpg?v=1789273187",
+    "created": "2026-09-13",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY379B",
+    "date": "2026-09-13"
    }
   ],
   "STUDIOUS": [
