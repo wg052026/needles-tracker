@@ -5703,6 +5703,26 @@
   "mix-8082670780481": {
    "first": "2026-09-15",
    "title": "NEEDLES（ニードルズ）Piping Cowboy Pant - Poly Double Cloth"
+  },
+  "mix-8085644017729": {
+   "first": "2026-09-17",
+   "title": "NEEDLES / ニードルズ / H.D. Sweat Pant - Bright Jersey"
+  },
+  "mix-8083898269761": {
+   "first": "2026-09-16",
+   "title": "Needles/ニードルズ　 Track Crew Neck Shirt - Poly Smooth  TY350"
+  },
+  "mix-8083897024577": {
+   "first": "2026-09-16",
+   "title": "Needles/ニードルズ　Track Pant - Poly Smooth"
+  },
+  "mix-8083896008769": {
+   "first": "2026-09-16",
+   "title": "NEEDLES / ニードルズ/ Track Jacket - Poly Smooth"
+  },
+  "mix-8083894796353": {
+   "first": "2026-09-16",
+   "title": "Needles/ニードルズ　Track Jacket - Poly Smooth　TY349C"
   }
  },
  "_snapshots": {
@@ -12089,11 +12109,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/darts-bottom-jean-jkt-13ozpythonjacq",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY222_A-Indigo_1.jpg?v=1786165090",
     "created": "2026-08-07",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Indigo",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY222A",
@@ -12276,11 +12296,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/one-up-shirt-wool-ombre-plaid-1",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY278_B-BlueKhaki_1.jpg?v=1786166395",
     "created": "2026-08-07",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Blue/Khaki",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY278B",
@@ -17623,6 +17643,123 @@
   ],
   "MIX.TOKYO": [
    {
+    "id": "mix-8085644017729",
+    "title": "NEEDLES / ニードルズ / H.D. Sweat Pant - Bright Jersey",
+    "price_yen": "¥21,000",
+    "url": "https://mix.tokyo/products/7856210295",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856210295-010_MAIN.jpg?v=1789644661",
+    "created": "2026-09-17",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "ブラック",
+      "available": true
+     }
+    ],
+    "code": "",
+    "date": "2026-09-17"
+   },
+   {
+    "id": "mix-8083898269761",
+    "title": "Needles/ニードルズ　 Track Crew Neck Shirt - Poly Smooth  TY350",
+    "price_yen": "¥20,000",
+    "url": "https://mix.tokyo/products/7816230214",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816230214-010_MAIN.jpg?v=1789558302",
+    "created": "2026-09-16",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "ブラック",
+      "available": true
+     },
+     {
+      "name": "パープル",
+      "available": true
+     },
+     {
+      "name": "ネイビー",
+      "available": true
+     }
+    ],
+    "code": "",
+    "date": "2026-09-16"
+   },
+   {
+    "id": "mix-8083897024577",
+    "title": "Needles/ニードルズ　Track Pant - Poly Smooth",
+    "price_yen": "¥21,000",
+    "url": "https://mix.tokyo/products/7816210240",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816210240-010_MAIN.jpg?v=1789558291",
+    "created": "2026-09-16",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "ブラック",
+      "available": true
+     },
+     {
+      "name": "パープル",
+      "available": true
+     },
+     {
+      "name": "ネイビー",
+      "available": true
+     }
+    ],
+    "code": "",
+    "date": "2026-09-16"
+   },
+   {
+    "id": "mix-8083896008769",
+    "title": "NEEDLES / ニードルズ/ Track Jacket - Poly Smooth",
+    "price_yen": "¥26,000",
+    "url": "https://mix.tokyo/products/7856255247",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856255247-010_MAIN.jpg?v=1789643048",
+    "created": "2026-09-16",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "ブラック",
+      "available": true
+     },
+     {
+      "name": "パープル",
+      "available": true
+     },
+     {
+      "name": "ネイビー",
+      "available": true
+     }
+    ],
+    "code": "",
+    "date": "2026-09-16"
+   },
+   {
+    "id": "mix-8083894796353",
+    "title": "Needles/ニードルズ　Track Jacket - Poly Smooth　TY349C",
+    "price_yen": "¥26,000",
+    "url": "https://mix.tokyo/products/7816252266",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816252266-010_MAIN.jpg?v=1789558274",
+    "created": "2026-09-16",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "ブラック",
+      "available": true
+     },
+     {
+      "name": "パープル",
+      "available": true
+     },
+     {
+      "name": "ネイビー",
+      "available": true
+     }
+    ],
+    "code": "",
+    "date": "2026-09-16"
+   },
+   {
     "id": "mix-8082670780481",
     "title": "NEEDLES（ニードルズ）Piping Cowboy Pant - Poly Double Cloth",
     "price_yen": "¥30,000",
@@ -19032,23 +19169,6 @@
     ],
     "code": "",
     "date": "2026-03-31"
-   },
-   {
-    "id": "mix-7862425092161",
-    "title": "NEEDLES(ニードルズ) Balloon Track Skirt - Bright Jersey",
-    "price_yen": "¥17,500",
-    "url": "https://mix.tokyo/products/7856116703",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856116703-010_MAIN.jpg?v=1789239794",
-    "created": "2026-03-26",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "ブラック",
-      "available": false
-     }
-    ],
-    "code": "",
-    "date": "2026-03-26"
    }
   ]
  }
