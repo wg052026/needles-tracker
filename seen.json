@@ -11104,23 +11104,6 @@
     "date": "2026-08-01"
    },
    {
-    "id": "nep-8693329723575",
-    "title": "Bird Shooting Cap - Shetland Wool",
-    "price_yen": "¥16,500",
-    "url": "https://onlinestore.nepenthes.co.jp/products/bird-shooting-cap-shetland-wool-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY064_B-Twilight_1.jpg?v=1785647358",
-    "created": "2026-08-01",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Twilight",
-      "available": true
-     }
-    ],
-    "code": "TY064B",
-    "date": "2026-08-01"
-   },
-   {
     "id": "nep-8693330116791",
     "title": "Neck Warmer - Shetland Wool",
     "price_yen": "¥8,800",
@@ -12107,23 +12090,6 @@
     "date": "2026-08-07"
    },
    {
-    "id": "nep-8701049831607",
-    "title": "Darts Bottom Jean Jacket - 13oz Python Jacquard",
-    "price_yen": "¥45,100",
-    "url": "https://onlinestore.nepenthes.co.jp/products/darts-bottom-jean-jkt-13ozpythonjacq",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY222_A-Indigo_1.jpg?v=1786165090",
-    "created": "2026-08-07",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Indigo",
-      "available": false
-     }
-    ],
-    "code": "TY222A",
-    "date": "2026-08-07"
-   },
-   {
     "id": "nep-8701049897143",
     "title": "Darts Bottom Jean Jacket - 13oz Python Jacquard",
     "price_yen": "¥45,100",
@@ -12291,23 +12257,6 @@
      }
     ],
     "code": "TY258C",
-    "date": "2026-08-07"
-   },
-   {
-    "id": "nep-8701052223671",
-    "title": "One-Up Shirt - Wool Ombre Plaid",
-    "price_yen": "¥46,200",
-    "url": "https://onlinestore.nepenthes.co.jp/products/one-up-shirt-wool-ombre-plaid-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY278_B-BlueKhaki_1.jpg?v=1786166395",
-    "created": "2026-08-07",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Blue/Khaki",
-      "available": false
-     }
-    ],
-    "code": "TY278B",
     "date": "2026-08-07"
    },
    {
