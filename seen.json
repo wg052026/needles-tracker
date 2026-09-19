@@ -5145,6 +5145,10 @@
   "stu-g116631030114": {
    "first": "2026-09-11",
    "title": "Mohair Crew Neck Cardigan - Solid"
+  },
+  "stu-g116523019164": {
+   "first": "2026-09-19",
+   "title": "Mock Neck Shirt - Bright Jersey"
   }
  },
  "MIX.TOKYO": {
@@ -16016,6 +16020,27 @@
     ],
     "code": "TY362B",
     "date": "2026-08-26"
+   },
+   {
+    "id": "stu-g116523019164",
+    "title": "Mock Neck Shirt - Bright Jersey",
+    "price_yen": "¥18,700",
+    "url": "https://studious.co.jp/shop/g/g116523019164/",
+    "img": "https://studious.co.jp/img/goods/S/116523019164_13d209a5dc1f4d6b87739e7237c1f4b2.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     },
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "TY367",
+    "date": "2026-09-19"
    },
    {
     "id": "stu-g116631030114",
