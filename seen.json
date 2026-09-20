@@ -11025,11 +11025,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/balaclava-shetland-wool-1",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY063_B-Twilight_1.jpg?v=1785647294",
     "created": "2026-08-01",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Twilight",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY063B",
@@ -12402,11 +12402,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/pin-tuck-collar-shirt-geometric-jacq-1",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY294_B-Navy_1.jpg?v=1786166901",
     "created": "2026-08-07",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Navy",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY294B",
@@ -17989,7 +17989,7 @@
     "colors": [
      {
       "name": "ブラック",
-      "available": true
+      "available": false
      },
      {
       "name": "ブラウン",
