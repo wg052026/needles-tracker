@@ -11019,23 +11019,6 @@
     "date": "2026-08-01"
    },
    {
-    "id": "nep-8693329363127",
-    "title": "Balaclava - Shetland Wool",
-    "price_yen": "¥13,200",
-    "url": "https://onlinestore.nepenthes.co.jp/products/balaclava-shetland-wool-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY063_B-Twilight_1.jpg?v=1785647294",
-    "created": "2026-08-01",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Twilight",
-      "available": false
-     }
-    ],
-    "code": "TY063B",
-    "date": "2026-08-01"
-   },
-   {
     "id": "nep-8693329789111",
     "title": "Bird Shooting Cap - Shetland Wool",
     "price_yen": "¥16,500",
@@ -12393,23 +12376,6 @@
      }
     ],
     "code": "TY294A",
-    "date": "2026-08-07"
-   },
-   {
-    "id": "nep-8701054353591",
-    "title": "Pin-Tuck Collar Shirt - Geometric Jacquard",
-    "price_yen": "¥35,200",
-    "url": "https://onlinestore.nepenthes.co.jp/products/pin-tuck-collar-shirt-geometric-jacq-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY294_B-Navy_1.jpg?v=1786166901",
-    "created": "2026-08-07",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Navy",
-      "available": false
-     }
-    ],
-    "code": "TY294B",
     "date": "2026-08-07"
    },
    {
@@ -15800,10 +15766,6 @@
     "created": "",
     "soldout": false,
     "colors": [
-     {
-      "name": "",
-      "available": null
-     },
      {
       "name": "",
       "available": null
