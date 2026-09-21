@@ -10866,23 +10866,6 @@
     "date": "2026-07-27"
    },
    {
-    "id": "nep-8687352283319",
-    "title": "〈NEEDLES〉x〈FILA〉Ventisei H.D. Track Pant",
-    "price_yen": "¥25,300",
-    "url": "https://onlinestore.nepenthes.co.jp/products/ventisei-h-d-track-pant-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY534_B-Pink_0.jpg?v=1785115170",
-    "created": "2026-07-27",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Pink",
-      "available": true
-     }
-    ],
-    "code": "TY534B",
-    "date": "2026-07-27"
-   },
-   {
     "id": "nep-8687352447159",
     "title": "〈NEEDLES〉x〈FILA〉BB Polo Shirt",
     "price_yen": "¥17,600",
@@ -11869,23 +11852,6 @@
     "date": "2026-08-01"
    },
    {
-    "id": "nep-8693350170807",
-    "title": "L/S U Neck Tee - Feather Tulle",
-    "price_yen": "¥17,600",
-    "url": "https://onlinestore.nepenthes.co.jp/products/l-s-u-neck-tee-feather-tulle-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY381_B-Navy_1_0c144c8c-ddb2-497f-930c-c6ab77625e41.jpg?v=1788401432",
-    "created": "2026-08-01",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Navy",
-      "available": true
-     }
-    ],
-    "code": "TY381B",
-    "date": "2026-08-01"
-   },
-   {
     "id": "nep-8693350203575",
     "title": "L/S U Neck Tee - Feather Tulle",
     "price_yen": "¥17,600",
@@ -12546,23 +12512,6 @@
      }
     ],
     "code": "TY384C",
-    "date": "2026-08-07"
-   },
-   {
-    "id": "nep-8701056975031",
-    "title": "L/S U Neck Tee - Paisley Bulky Lace",
-    "price_yen": "¥15,400",
-    "url": "https://onlinestore.nepenthes.co.jp/products/l-s-u-neck-tee-paisley-bulky-lace-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY385_B-Dk.Brown_1.jpg?v=1786163274",
-    "created": "2026-08-07",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Dk. Brown",
-      "available": true
-     }
-    ],
-    "code": "TY385B",
     "date": "2026-08-07"
    },
    {
@@ -17976,7 +17925,7 @@
     "url": "https://mix.tokyo/products/7846210253",
     "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846210253-410_MAIN.jpg?v=1789556599",
     "created": "2026-05-14",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "ブラック×ホワイト",
@@ -17984,7 +17933,7 @@
      },
      {
       "name": "ブラック×チャコール",
-      "available": true
+      "available": false
      },
      {
       "name": "ホワイト",
