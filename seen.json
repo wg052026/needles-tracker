@@ -12090,23 +12090,6 @@
     "date": "2026-08-07"
    },
    {
-    "id": "nep-8701050618039",
-    "title": "Coverall - 10oz Python Jacquard",
-    "price_yen": "¥49,500",
-    "url": "https://onlinestore.nepenthes.co.jp/products/coverall-10oz-python-jacquard",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY226_A-Indigo_1.jpg?v=1786165956",
-    "created": "2026-08-07",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Indigo",
-      "available": true
-     }
-    ],
-    "code": "TY226A",
-    "date": "2026-08-07"
-   },
-   {
     "id": "nep-8701050781879",
     "title": "H.D. Painter Jean - 10oz Python Jacquard",
     "price_yen": "¥39,600",
@@ -12852,23 +12835,6 @@
      }
     ],
     "code": "TY176B",
-    "date": "2026-08-25"
-   },
-   {
-    "id": "nep-8732034105527",
-    "title": "Fur Jacket - Multi Color Block",
-    "price_yen": "¥143,000",
-    "url": "https://onlinestore.nepenthes.co.jp/products/fur-jacket-multi-color-block",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY181_Multi_1.jpg?v=1787722348",
-    "created": "2026-08-25",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Multi",
-      "available": false
-     }
-    ],
-    "code": "TY181",
     "date": "2026-08-25"
    },
    {
@@ -14731,11 +14697,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/pajama-pant-cut-jacq-heart-fringe",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY336_A-Black_1.jpg?v=1789006570",
     "created": "2026-09-09",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Black",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY336A",
