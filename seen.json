@@ -14691,23 +14691,6 @@
     "date": "2026-09-09"
    },
    {
-    "id": "nep-8760525553847",
-    "title": "Pajama Pant - Cut Jacquard Heart Fringe",
-    "price_yen": "¥39,600",
-    "url": "https://onlinestore.nepenthes.co.jp/products/pajama-pant-cut-jacq-heart-fringe",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY336_A-Black_1.jpg?v=1789006570",
-    "created": "2026-09-09",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Black",
-      "available": false
-     }
-    ],
-    "code": "TY336A",
-    "date": "2026-09-09"
-   },
-   {
     "id": "nep-8760525717687",
     "title": "Long Point Collar Jacket - Python Velvet",
     "price_yen": "¥57,200",
