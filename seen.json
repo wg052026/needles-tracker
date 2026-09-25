@@ -5794,11 +5794,11 @@
   },
   "mix-8035581952065": {
    "first": "2026-08-13",
-   "title": "NEEDLES/ニードルズ/TRACK JACKET - COTTON JERSEY DAMAGE"
+   "title": "NEEDLES/ニードルズ/【LHP EXCLUSIVE】TRACK JACKET - COTTON JERSEY DAMAGE"
   },
   "mix-8035581034561": {
    "first": "2026-08-13",
-   "title": "NEEDLES/ニードルズ/H.D. TRACK PANT - COTTON JERSEY DAMAGE"
+   "title": "NEEDLES/ニードルズ/【LHP EXCLUSIVE】H.D. TRACK PANT - COTTON JERSEY DAMAGE"
   }
  },
  "_snapshots": {
@@ -11709,11 +11709,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/zipped-track-pant-poly-smooth-31",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY354B-0.jpg?v=1785984328",
     "created": "2026-08-01",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Purple",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY354B",
@@ -12168,11 +12168,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/h-d-painter-jean-10oz-python-jacq",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY228_A-Indigo_1.jpg?v=1786166080",
     "created": "2026-08-07",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Indigo",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY228A",
@@ -17771,10 +17771,10 @@
   "MIX.TOKYO": [
    {
     "id": "mix-8035581952065",
-    "title": "NEEDLES/ニードルズ/TRACK JACKET - COTTON JERSEY DAMAGE",
+    "title": "NEEDLES/ニードルズ/【LHP EXCLUSIVE】TRACK JACKET - COTTON JERSEY DAMAGE",
     "price_yen": "¥49,000",
     "url": "https://mix.tokyo/products/7846252253",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846252253-020_MAIN.jpg?v=1790242141",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846252253-020_MAIN.jpg?v=1790334226",
     "created": "2026-08-13",
     "soldout": false,
     "colors": [
@@ -17792,10 +17792,10 @@
    },
    {
     "id": "mix-8035581034561",
-    "title": "NEEDLES/ニードルズ/H.D. TRACK PANT - COTTON JERSEY DAMAGE",
+    "title": "NEEDLES/ニードルズ/【LHP EXCLUSIVE】H.D. TRACK PANT - COTTON JERSEY DAMAGE",
     "price_yen": "¥45,000",
     "url": "https://mix.tokyo/products/7846210257",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846210257-020_MAIN.jpg?v=1790299836",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846210257-020_MAIN.jpg?v=1790334238",
     "created": "2026-08-13",
     "soldout": false,
     "colors": [
@@ -17816,7 +17816,7 @@
     "title": "NEEDLES / ニードルズ / H.D. Sweat Pant - Bright Jersey",
     "price_yen": "¥21,000",
     "url": "https://mix.tokyo/products/7856210295",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856210295-010_MAIN.jpg?v=1789644661",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856210295-010_MAIN.jpg?v=1790334222",
     "created": "2026-09-17",
     "soldout": false,
     "colors": [
@@ -18197,7 +18197,7 @@
     "url": "https://mix.tokyo/products/7816210223",
     "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816210223-410_MAIN.jpg?v=1790247845",
     "created": "2026-08-26",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "ブラック",
@@ -18209,7 +18209,7 @@
      },
      {
       "name": "チャコール",
-      "available": true
+      "available": false
      },
      {
       "name": "ロイヤル",
