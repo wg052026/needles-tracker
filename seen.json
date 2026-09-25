@@ -4527,6 +4527,66 @@
   "nep-8774891995319": {
    "first": "2026-09-13",
    "title": "H.D. Sweat Pant - Cotton Jacquard/Python"
+  },
+  "nep-8792628691127": {
+   "first": "2026-09-19",
+   "title": "H.D. Apron Pant - Sulfur Dye Duck"
+  },
+  "nep-8792628822199": {
+   "first": "2026-09-19",
+   "title": "H.D. Apron Pant - Sulfur Dye Duck"
+  },
+  "nep-8792629280951": {
+   "first": "2026-09-19",
+   "title": "Deck Jacket - Waxed High Density"
+  },
+  "nep-8792629248183": {
+   "first": "2026-09-19",
+   "title": "Deck Jacket - Waxed High Density"
+  },
+  "nep-8792629805239": {
+   "first": "2026-09-19",
+   "title": "Painter Pant - Heavy Twill"
+  },
+  "nep-8792629838007": {
+   "first": "2026-09-19",
+   "title": "Painter Pant - Heavy Twill"
+  },
+  "nep-8792630034615": {
+   "first": "2026-09-19",
+   "title": "Painter Skirt - Heavy Twill"
+  },
+  "nep-8792630001847": {
+   "first": "2026-09-19",
+   "title": "Painter Skirt - Heavy Twill"
+  },
+  "nep-8792630853815": {
+   "first": "2026-09-19",
+   "title": "Classic Shirt - Hibiscus Jacquard"
+  },
+  "nep-8792630984887": {
+   "first": "2026-09-19",
+   "title": "Classic Shirt - Hibiscus Jacquard"
+  },
+  "nep-8792631345335": {
+   "first": "2026-09-19",
+   "title": "Jodhpurs Track Pant - Poly Smooth"
+  },
+  "nep-8792631378103": {
+   "first": "2026-09-19",
+   "title": "Jodhpurs Track Pant - Poly Smooth"
+  },
+  "nep-8792631214263": {
+   "first": "2026-09-19",
+   "title": "Jodhpurs Track Pant - Poly Smooth"
+  },
+  "nep-8792631738551": {
+   "first": "2026-09-19",
+   "title": "Deconstructed H.D. Sweat Pant"
+  },
+  "nep-8792631804087": {
+   "first": "2026-09-19",
+   "title": "Deconstructed H.D. Sweat Pant"
   }
  },
  "STUDIOUS": {
@@ -5731,6 +5791,14 @@
   "mix-8083894796353": {
    "first": "2026-09-16",
    "title": "Needles/ニードルズ　Track Jacket - Poly Smooth　TY349C"
+  },
+  "mix-8035581952065": {
+   "first": "2026-08-13",
+   "title": "NEEDLES/ニードルズ/TRACK JACKET - COTTON JERSEY DAMAGE"
+  },
+  "mix-8035581034561": {
+   "first": "2026-08-13",
+   "title": "NEEDLES/ニードルズ/H.D. TRACK PANT - COTTON JERSEY DAMAGE"
   }
  },
  "_snapshots": {
@@ -15560,6 +15628,261 @@
     ],
     "code": "TY379B",
     "date": "2026-09-13"
+   },
+   {
+    "id": "nep-8792628691127",
+    "title": "H.D. Apron Pant - Sulfur Dye Duck",
+    "price_yen": "¥57,200",
+    "url": "https://onlinestore.nepenthes.co.jp/products/h-d-apron-pant-sulfur-dye-duck",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY167_A-Brown_1.jpg?v=1789877584",
+    "created": "2026-09-19",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Brown",
+      "available": true
+     }
+    ],
+    "code": "TY167A",
+    "date": "2026-09-19"
+   },
+   {
+    "id": "nep-8792628822199",
+    "title": "H.D. Apron Pant - Sulfur Dye Duck",
+    "price_yen": "¥57,200",
+    "url": "https://onlinestore.nepenthes.co.jp/products/h-d-apron-pant-sulfur-dye-duck-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY167_B-Black_1.jpg?v=1789877622",
+    "created": "2026-09-19",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY167B",
+    "date": "2026-09-19"
+   },
+   {
+    "id": "nep-8792629280951",
+    "title": "Deck Jacket - Waxed High Density",
+    "price_yen": "¥79,200",
+    "url": "https://onlinestore.nepenthes.co.jp/products/deck-jacket-waxed-high-density-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY169_B-Black_1.jpg?v=1789877727",
+    "created": "2026-09-19",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY169B",
+    "date": "2026-09-19"
+   },
+   {
+    "id": "nep-8792629248183",
+    "title": "Deck Jacket - Waxed High Density",
+    "price_yen": "¥79,200",
+    "url": "https://onlinestore.nepenthes.co.jp/products/deck-jacket-waxed-high-density",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY169_A-Olive_1.jpg?v=1789877668",
+    "created": "2026-09-19",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Olive",
+      "available": true
+     }
+    ],
+    "code": "TY169A",
+    "date": "2026-09-19"
+   },
+   {
+    "id": "nep-8792629805239",
+    "title": "Painter Pant - Heavy Twill",
+    "price_yen": "¥34,100",
+    "url": "https://onlinestore.nepenthes.co.jp/products/painter-pant-heavy-twill",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY219_A-Purple_1.jpg?v=1789877792",
+    "created": "2026-09-19",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Purple",
+      "available": true
+     }
+    ],
+    "code": "TY219A",
+    "date": "2026-09-19"
+   },
+   {
+    "id": "nep-8792629838007",
+    "title": "Painter Pant - Heavy Twill",
+    "price_yen": "¥34,100",
+    "url": "https://onlinestore.nepenthes.co.jp/products/painter-pant-heavy-twill-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY219_B-Black_1.jpg?v=1789877826",
+    "created": "2026-09-19",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY219B",
+    "date": "2026-09-19"
+   },
+   {
+    "id": "nep-8792630034615",
+    "title": "Painter Skirt - Heavy Twill",
+    "price_yen": "¥33,000",
+    "url": "https://onlinestore.nepenthes.co.jp/products/painter-skirt-heavy-twill-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY220_B-Black_1.jpg?v=1789877892",
+    "created": "2026-09-19",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY220B",
+    "date": "2026-09-19"
+   },
+   {
+    "id": "nep-8792630001847",
+    "title": "Painter Skirt - Heavy Twill",
+    "price_yen": "¥33,000",
+    "url": "https://onlinestore.nepenthes.co.jp/products/painter-skirt-heavy-twill",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY220_A-Purple_1.jpg?v=1789877859",
+    "created": "2026-09-19",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Purple",
+      "available": true
+     }
+    ],
+    "code": "TY220A",
+    "date": "2026-09-19"
+   },
+   {
+    "id": "nep-8792630853815",
+    "title": "Classic Shirt - Hibiscus Jacquard",
+    "price_yen": "¥45,100",
+    "url": "https://onlinestore.nepenthes.co.jp/products/classic-shirt-hibiscus-jacquard",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY279_A-Blue_1.jpg?v=1789878033",
+    "created": "2026-09-19",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Blue",
+      "available": true
+     }
+    ],
+    "code": "TY279A",
+    "date": "2026-09-19"
+   },
+   {
+    "id": "nep-8792630984887",
+    "title": "Classic Shirt - Hibiscus Jacquard",
+    "price_yen": "¥45,100",
+    "url": "https://onlinestore.nepenthes.co.jp/products/classic-shirt-hibiscus-jacquard-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY279_B-Green_1.jpg?v=1789878056",
+    "created": "2026-09-19",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Green",
+      "available": true
+     }
+    ],
+    "code": "TY279B",
+    "date": "2026-09-19"
+   },
+   {
+    "id": "nep-8792631345335",
+    "title": "Jodhpurs Track Pant - Poly Smooth",
+    "price_yen": "¥23,100",
+    "url": "https://onlinestore.nepenthes.co.jp/products/jodhpurs-track-pant-poly-smooth-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY356_B-Purple_1.jpg?v=1789878158",
+    "created": "2026-09-19",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Purple",
+      "available": true
+     }
+    ],
+    "code": "TY356B",
+    "date": "2026-09-19"
+   },
+   {
+    "id": "nep-8792631378103",
+    "title": "Jodhpurs Track Pant - Poly Smooth",
+    "price_yen": "¥23,100",
+    "url": "https://onlinestore.nepenthes.co.jp/products/jodhpurs-track-pant-poly-smooth-2",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY356_C-Black_1.jpg?v=1789878185",
+    "created": "2026-09-19",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY356C",
+    "date": "2026-09-19"
+   },
+   {
+    "id": "nep-8792631214263",
+    "title": "Jodhpurs Track Pant - Poly Smooth",
+    "price_yen": "¥23,100",
+    "url": "https://onlinestore.nepenthes.co.jp/products/jodhpurs-track-pant-poly-smooth",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY356_A-Navy_1.jpg?v=1789878114",
+    "created": "2026-09-19",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Navy",
+      "available": true
+     }
+    ],
+    "code": "TY356A",
+    "date": "2026-09-19"
+   },
+   {
+    "id": "nep-8792631738551",
+    "title": "Deconstructed H.D. Sweat Pant",
+    "price_yen": "¥46,200",
+    "url": "https://onlinestore.nepenthes.co.jp/products/deconstructed-h-d-sweat-pant-4",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY377_C-ForestGreen_1.jpg?v=1789878228",
+    "created": "2026-09-19",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Forest",
+      "available": true
+     }
+    ],
+    "code": "TY377C",
+    "date": "2026-09-19"
+   },
+   {
+    "id": "nep-8792631804087",
+    "title": "Deconstructed H.D. Sweat Pant",
+    "price_yen": "¥46,200",
+    "url": "https://onlinestore.nepenthes.co.jp/products/deconstructed-h-d-sweat-pant-5",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY377_D-Black_1.jpg?v=1789878256",
+    "created": "2026-09-19",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY377D",
+    "date": "2026-09-19"
    }
   ],
   "STUDIOUS": [
@@ -17446,6 +17769,48 @@
    }
   ],
   "MIX.TOKYO": [
+   {
+    "id": "mix-8035581952065",
+    "title": "NEEDLES/ニードルズ/TRACK JACKET - COTTON JERSEY DAMAGE",
+    "price_yen": "¥49,000",
+    "url": "https://mix.tokyo/products/7846252253",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846252253-020_MAIN.jpg?v=1790242141",
+    "created": "2026-08-13",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "ブラック",
+      "available": true
+     },
+     {
+      "name": "グレー",
+      "available": true
+     }
+    ],
+    "code": "",
+    "date": "2026-08-13"
+   },
+   {
+    "id": "mix-8035581034561",
+    "title": "NEEDLES/ニードルズ/H.D. TRACK PANT - COTTON JERSEY DAMAGE",
+    "price_yen": "¥45,000",
+    "url": "https://mix.tokyo/products/7846210257",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846210257-020_MAIN.jpg?v=1790299836",
+    "created": "2026-08-13",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "ブラック",
+      "available": true
+     },
+     {
+      "name": "グレー",
+      "available": true
+     }
+    ],
+    "code": "",
+    "date": "2026-08-13"
+   },
    {
     "id": "mix-8085644017729",
     "title": "NEEDLES / ニードルズ / H.D. Sweat Pant - Bright Jersey",
