@@ -14650,11 +14650,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/pullover-knit-shirt-poly-jq-paisley",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY262_A-BlueBrown_1.jpg?v=1789004477",
     "created": "2026-09-09",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Blu/Brw",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY262A",
@@ -15126,11 +15126,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/ambler-chukka-wp",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY565_UltraVioletBlack_11_4af9ab24-c8e2-4209-a7b0-c53ce1647351.jpg?v=1789606128",
     "created": "2026-09-10",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Black/Purple",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY565",
