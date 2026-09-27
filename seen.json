@@ -7861,23 +7861,6 @@
     "date": "2026-05-19"
    },
    {
-    "id": "nep-8575246401719",
-    "title": "Bucket Hat - Papillon Print",
-    "price_yen": "¥13,200",
-    "url": "https://onlinestore.nepenthes.co.jp/products/bucket-hat-papillon-print-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX1491A-0.jpg?v=1779176043",
-    "created": "2026-05-19",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "White",
-      "available": false
-     }
-    ],
-    "code": "SX1491A",
-    "date": "2026-05-19"
-   },
-   {
     "id": "nep-8580330913975",
     "title": "Short Sleeve Polo Dress - Cotton Pique",
     "price_yen": "¥19,800",
@@ -11074,23 +11057,6 @@
     "date": "2026-08-01"
    },
    {
-    "id": "nep-8693329789111",
-    "title": "Bird Shooting Cap - Shetland Wool",
-    "price_yen": "¥16,500",
-    "url": "https://onlinestore.nepenthes.co.jp/products/bird-shooting-cap-shetland-wool-2",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY064_C-Loden_1.jpg?v=1785647375",
-    "created": "2026-08-01",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Loden",
-      "available": true
-     }
-    ],
-    "code": "TY064C",
-    "date": "2026-08-01"
-   },
-   {
     "id": "nep-8693329854647",
     "title": "Neck Warmer - Shetland Wool",
     "price_yen": "¥8,800",
@@ -11703,23 +11669,6 @@
     "date": "2026-08-01"
    },
    {
-    "id": "nep-8693348958391",
-    "title": "Zipped Track Pant - Poly Smooth",
-    "price_yen": "¥23,100",
-    "url": "https://onlinestore.nepenthes.co.jp/products/zipped-track-pant-poly-smooth-31",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY354B-0.jpg?v=1785984328",
-    "created": "2026-08-01",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Purple",
-      "available": false
-     }
-    ],
-    "code": "TY354B",
-    "date": "2026-08-01"
-   },
-   {
     "id": "nep-8693349318839",
     "title": "Sarouel Track Pant - Bright Jersey",
     "price_yen": "¥23,100",
@@ -12159,23 +12108,6 @@
      }
     ],
     "code": "TY224A",
-    "date": "2026-08-07"
-   },
-   {
-    "id": "nep-8701050781879",
-    "title": "H.D. Painter Jean - 10oz Python Jacquard",
-    "price_yen": "¥39,600",
-    "url": "https://onlinestore.nepenthes.co.jp/products/h-d-painter-jean-10oz-python-jacq",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY228_A-Indigo_1.jpg?v=1786166080",
-    "created": "2026-08-07",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Indigo",
-      "available": false
-     }
-    ],
-    "code": "TY228A",
     "date": "2026-08-07"
    },
    {
@@ -14644,23 +14576,6 @@
     "date": "2026-09-09"
    },
    {
-    "id": "nep-8760514609335",
-    "title": "Pullover Knit Shirt - Poly Jq. / Paisley",
-    "price_yen": "¥22,000",
-    "url": "https://onlinestore.nepenthes.co.jp/products/pullover-knit-shirt-poly-jq-paisley",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY262_A-BlueBrown_1.jpg?v=1789004477",
-    "created": "2026-09-09",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Blu/Brw",
-      "available": false
-     }
-    ],
-    "code": "TY262A",
-    "date": "2026-09-09"
-   },
-   {
     "id": "nep-8760514937015",
     "title": "Pullover Knit Shirt - Poly Jq. / Paisley",
     "price_yen": "¥22,000",
@@ -15117,23 +15032,6 @@
      }
     ],
     "code": "TY566",
-    "date": "2026-09-10"
-   },
-   {
-    "id": "nep-8765789175991",
-    "title": "〈NEEDLES〉x 〈SOREL〉Ambler Chukka Waterproof",
-    "price_yen": "¥30,250",
-    "url": "https://onlinestore.nepenthes.co.jp/products/ambler-chukka-wp",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY565_UltraVioletBlack_11_4af9ab24-c8e2-4209-a7b0-c53ce1647351.jpg?v=1789606128",
-    "created": "2026-09-10",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Black/Purple",
-      "available": false
-     }
-    ],
-    "code": "TY565",
     "date": "2026-09-10"
    },
    {
