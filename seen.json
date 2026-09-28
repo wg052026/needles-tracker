@@ -4587,6 +4587,18 @@
   "nep-8792631804087": {
    "first": "2026-09-19",
    "title": "Deconstructed H.D. Sweat Pant"
+  },
+  "nep-8809516630199": {
+   "first": "2026-09-28",
+   "title": "Shearling Coat - Sheepskin"
+  },
+  "nep-8809570369719": {
+   "first": "2026-09-28",
+   "title": "〈NEEDLES〉x 〈SOREL〉Ambler Chukka Waterproof"
+  },
+  "nep-8809570697399": {
+   "first": "2026-09-28",
+   "title": "〈NEEDLES〉x 〈SOREL〉Ambler Waterproof"
   }
  },
  "STUDIOUS": {
@@ -15018,23 +15030,6 @@
     "date": "2026-09-09"
    },
    {
-    "id": "nep-8765789667511",
-    "title": "〈NEEDLES〉x 〈SOREL〉Ambler Waterproof",
-    "price_yen": "¥25,850",
-    "url": "https://onlinestore.nepenthes.co.jp/products/ambler-wp",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY566_UltraVioletBlack_11_2881087a-9d28-45e2-a34e-148e683ac4e3.jpg?v=1789606106",
-    "created": "2026-09-10",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Black/Purple",
-      "available": true
-     }
-    ],
-    "code": "TY566",
-    "date": "2026-09-10"
-   },
-   {
     "id": "nep-8769778090167",
     "title": "Shearling Coat - Sheepskin",
     "price_yen": "¥294,800",
@@ -15585,11 +15580,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/deck-jacket-waxed-high-density",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY169_A-Olive_1.jpg?v=1789877668",
     "created": "2026-09-19",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Olive",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY169A",
@@ -15781,6 +15776,57 @@
     ],
     "code": "TY377D",
     "date": "2026-09-19"
+   },
+   {
+    "id": "nep-8809516630199",
+    "title": "Shearling Coat - Sheepskin",
+    "price_yen": "¥294,800",
+    "url": "https://onlinestore.nepenthes.co.jp/products/shearling-coat-sheepskin-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/RW180B-0.jpg?v=1790572990",
+    "created": "2026-09-28",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "RW180B",
+    "date": "2026-09-28"
+   },
+   {
+    "id": "nep-8809570369719",
+    "title": "〈NEEDLES〉x 〈SOREL〉Ambler Chukka Waterproof",
+    "price_yen": "¥30,250",
+    "url": "https://onlinestore.nepenthes.co.jp/products/ambler-chukka-wp",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY565_UltraVioletBlack_11.jpg?v=1789092538",
+    "created": "2026-09-28",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black/Purple",
+      "available": true
+     }
+    ],
+    "code": "TY565",
+    "date": "2026-09-28"
+   },
+   {
+    "id": "nep-8809570697399",
+    "title": "〈NEEDLES〉x 〈SOREL〉Ambler Waterproof",
+    "price_yen": "¥25,850",
+    "url": "https://onlinestore.nepenthes.co.jp/products/ambler-wp",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY566_UltraVioletBlack_11.jpg?v=1789092600",
+    "created": "2026-09-28",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black/Purple",
+      "available": true
+     }
+    ],
+    "code": "TY566",
+    "date": "2026-09-28"
    }
   ],
   "STUDIOUS": [
