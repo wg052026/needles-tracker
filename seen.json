@@ -19026,11 +19026,11 @@
     "url": "https://mix.tokyo/products/7846252251",
     "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846252251-120_MAIN.jpg?v=1784746937",
     "created": "2026-05-14",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "ネイビー",
-      "available": true
+      "available": false
      }
     ],
     "code": "",
