@@ -4599,6 +4599,10 @@
   "nep-8809570697399": {
    "first": "2026-09-28",
    "title": "〈NEEDLES〉x 〈SOREL〉Ambler Waterproof"
+  },
+  "nep-7304743616695": {
+   "first": "2023-04-10",
+   "title": "Braided Deer Necklace"
   }
  },
  "STUDIOUS": {
@@ -5225,6 +5229,10 @@
   "stu-g116558003215": {
    "first": "2026-09-24",
    "title": "別注 Track Jacket - Nylon Polyester"
+  },
+  "stu-g116540166213": {
+   "first": "2026-09-29",
+   "title": "別注 H.D. Track Pant - Nylon Polyester"
   }
  },
  "MIX.TOKYO": {
@@ -7497,6 +7505,74 @@
     ],
     "code": "NS326B",
     "date": "2023-08-29"
+   },
+   {
+    "id": "nep-7304743682231",
+    "title": "Braided Deer Necklace",
+    "price_yen": "¥40,700",
+    "url": "https://onlinestore.nepenthes.co.jp/products/braided-deer-necklace-4",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/products/MR608E-0.jpg?v=1681105302",
+    "created": "2023-04-10",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Blk/Grn",
+      "available": true
+     }
+    ],
+    "code": "MR608E",
+    "date": "2023-04-10"
+   },
+   {
+    "id": "nep-7304743616695",
+    "title": "Braided Deer Necklace",
+    "price_yen": "¥40,700",
+    "url": "https://onlinestore.nepenthes.co.jp/products/braided-deer-necklace-2",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/products/MR608C-0.jpg?v=1681105319",
+    "created": "2023-04-10",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Ppl/Blue",
+      "available": true
+     }
+    ],
+    "code": "MR608C",
+    "date": "2023-04-10"
+   },
+   {
+    "id": "nep-7304743583927",
+    "title": "Braided Deer Necklace",
+    "price_yen": "¥40,700",
+    "url": "https://onlinestore.nepenthes.co.jp/products/braided-deer-necklace-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/products/MR608B-0.jpg?v=1681105333",
+    "created": "2023-04-10",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Ppl/Grn",
+      "available": true
+     }
+    ],
+    "code": "MR608B",
+    "date": "2023-04-10"
+   },
+   {
+    "id": "nep-7304743551159",
+    "title": "Braided Deer Necklace",
+    "price_yen": "¥40,700",
+    "url": "https://onlinestore.nepenthes.co.jp/products/braided-deer-necklace",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/products/MR608A-0.jpg?v=1681105339",
+    "created": "2023-04-10",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Ppl/Wht",
+      "available": true
+     }
+    ],
+    "code": "MR608A",
+    "date": "2023-04-10"
    },
    {
     "id": "nep-8519122845879",
@@ -9817,11 +9893,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/track-pant-tricot-sateen-3",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX218B-0.jpg?v=1774673143",
     "created": "2026-07-14",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Black",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY250B",
@@ -12503,11 +12579,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/l-s-u-neck-tee-paisley-bulky-lace-2",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY385_C-Black_1.jpg?v=1786163247",
     "created": "2026-08-07",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Black",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY385C",
@@ -15917,35 +15993,6 @@
     "date": "2026-08-26"
    },
    {
-    "id": "stu-g116540189163",
-    "title": "別注 Track Pant - Corduroy",
-    "price_yen": "¥38,500",
-    "url": "https://studious.co.jp/shop/g/g116540189163/",
-    "img": "https://studious.co.jp/img/goods/S/116540189163_77326bab225a44b5a5342e7599e7531b.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     },
-     {
-      "name": "",
-      "available": null
-     },
-     {
-      "name": "",
-      "available": null
-     },
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "SX1671",
-    "date": "2026-08-26"
-   },
-   {
     "id": "stu-g116558004165",
     "title": "別注 Track Jacket - Corduroy",
     "price_yen": "¥44,000",
@@ -15973,6 +16020,35 @@
     ],
     "code": "SX1670",
     "date": "2026-08-28"
+   },
+   {
+    "id": "stu-g116540189163",
+    "title": "別注 Track Pant - Corduroy",
+    "price_yen": "¥38,500",
+    "url": "https://studious.co.jp/shop/g/g116540189163/",
+    "img": "https://studious.co.jp/img/goods/S/116540189163_77326bab225a44b5a5342e7599e7531b.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     },
+     {
+      "name": "",
+      "available": null
+     },
+     {
+      "name": "",
+      "available": null
+     },
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "SX1671",
+    "date": "2026-08-26"
    },
    {
     "id": "stu-g116540143163",
@@ -16004,10 +16080,6 @@
     "created": "",
     "soldout": false,
     "colors": [
-     {
-      "name": "",
-      "available": null
-     },
      {
       "name": "",
       "available": null
@@ -16176,25 +16248,21 @@
     "date": "2026-08-09"
    },
    {
-    "id": "stu-g116540166163",
+    "id": "stu-g116540166213",
     "title": "別注 H.D. Track Pant - Nylon Polyester",
     "price_yen": "¥28,600",
-    "url": "https://studious.co.jp/shop/g/g116540166163/",
-    "img": "https://studious.co.jp/img/goods/S/116540166163_da9d7b9913f54ea9b81c36257cb19852.jpg",
+    "url": "https://studious.co.jp/shop/g/g116540166213/",
+    "img": "https://studious.co.jp/img/goods/S/116540166213_b3e4e81cb14a4dd7b764f27ebe4db15f.jpg",
     "created": "",
     "soldout": false,
     "colors": [
      {
       "name": "",
       "available": null
-     },
-     {
-      "name": "",
-      "available": null
      }
     ],
     "code": "SX1669",
-    "date": "2026-08-12"
+    "date": "2026-09-29"
    },
    {
     "id": "stu-g116550131304",
@@ -16250,6 +16318,57 @@
     ],
     "code": "SX1668",
     "date": "2026-09-24"
+   },
+   {
+    "id": "stu-g116581001160",
+    "title": "別注 Nylon Cap - Papillon Embroidery BLACK",
+    "price_yen": "¥12,100",
+    "url": "https://studious.co.jp/shop/g/g116581001160/",
+    "img": "https://studious.co.jp/img/goods/S/116581001160_f558c746c3f54cb4814ad63a7850cafb.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "SX1558",
+    "date": "2026-07-14"
+   },
+   {
+    "id": "stu-g116581001170",
+    "title": "別注 Nylon Cap - Papillon Embroidery IVORY",
+    "price_yen": "¥12,100",
+    "url": "https://studious.co.jp/shop/g/g116581001170/",
+    "img": "https://studious.co.jp/img/goods/S/116581001170_c0cd71c8a12844058bdf7643dfddd151.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "SX1558",
+    "date": "2026-07-14"
+   },
+   {
+    "id": "stu-g116587020074",
+    "title": "Ring - 925 Silver (Papillon)",
+    "price_yen": "¥17,600",
+    "url": "https://studious.co.jp/shop/g/g116587020074/",
+    "img": "https://studious.co.jp/img/goods/S/116587020074_c6bb2b85559344c88c9f65903c252a1f.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "",
+    "date": "2026-07-17"
    },
    {
     "id": "stu-g116550128164",
@@ -16359,57 +16478,6 @@
     ],
     "code": "TY068D",
     "date": "2026-08-05"
-   },
-   {
-    "id": "stu-g116581001160",
-    "title": "別注 Nylon Cap - Papillon Embroidery BLACK",
-    "price_yen": "¥12,100",
-    "url": "https://studious.co.jp/shop/g/g116581001160/",
-    "img": "https://studious.co.jp/img/goods/S/116581001160_f558c746c3f54cb4814ad63a7850cafb.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "SX1558",
-    "date": "2026-07-14"
-   },
-   {
-    "id": "stu-g116581001170",
-    "title": "別注 Nylon Cap - Papillon Embroidery IVORY",
-    "price_yen": "¥12,100",
-    "url": "https://studious.co.jp/shop/g/g116581001170/",
-    "img": "https://studious.co.jp/img/goods/S/116581001170_c0cd71c8a12844058bdf7643dfddd151.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "SX1558",
-    "date": "2026-07-14"
-   },
-   {
-    "id": "stu-g116587020074",
-    "title": "Ring - 925 Silver (Papillon)",
-    "price_yen": "¥17,600",
-    "url": "https://studious.co.jp/shop/g/g116587020074/",
-    "img": "https://studious.co.jp/img/goods/S/116587020074_c6bb2b85559344c88c9f65903c252a1f.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "",
-    "date": "2026-07-17"
    },
    {
     "id": "stu-g116322192035",
@@ -17866,11 +17934,11 @@
     "url": "https://mix.tokyo/products/7846220279",
     "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846220279-100_MAIN.jpg?v=1788951778",
     "created": "2026-09-08",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "レッド",
-      "available": true
+      "available": false
      }
     ],
     "code": "",
@@ -17959,11 +18027,11 @@
     "url": "https://mix.tokyo/products/7846210331",
     "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846210331-367_MAIN.jpg?v=1788951803",
     "created": "2026-09-04",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "インディゴ",
-      "available": true
+      "available": false
      }
     ],
     "code": "",
@@ -19197,15 +19265,15 @@
     "url": "https://mix.tokyo/products/7846110250",
     "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846110250-367_MAIN.jpg?v=1783938640",
     "created": "2026-03-31",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "ブラック",
-      "available": true
+      "available": false
      },
      {
       "name": "インディゴ",
-      "available": true
+      "available": false
      }
     ],
     "code": "",
