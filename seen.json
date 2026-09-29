@@ -13823,23 +13823,6 @@
     "date": "2026-08-28"
    },
    {
-    "id": "nep-8738189050039",
-    "title": "Work Shirt - Ikat Stripe",
-    "price_yen": "¥31,900",
-    "url": "https://onlinestore.nepenthes.co.jp/products/work-shirt-ikat-stripe-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY303_B-Red_1.jpg?v=1787987177",
-    "created": "2026-08-28",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Red",
-      "available": true
-     }
-    ],
-    "code": "TY303B",
-    "date": "2026-08-28"
-   },
-   {
     "id": "nep-8738189213879",
     "title": "One-Up Shirt - Printed Flannel / Plaid",
     "price_yen": "¥27,500",
@@ -15554,23 +15537,6 @@
      }
     ],
     "code": "TY169B",
-    "date": "2026-09-19"
-   },
-   {
-    "id": "nep-8792629248183",
-    "title": "Deck Jacket - Waxed High Density",
-    "price_yen": "¥79,200",
-    "url": "https://onlinestore.nepenthes.co.jp/products/deck-jacket-waxed-high-density",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY169_A-Olive_1.jpg?v=1789877668",
-    "created": "2026-09-19",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Olive",
-      "available": false
-     }
-    ],
-    "code": "TY169A",
     "date": "2026-09-19"
    },
    {
@@ -18784,7 +18750,7 @@
     "colors": [
      {
       "name": "ブラック×ホワイト",
-      "available": true
+      "available": false
      },
      {
       "name": "ブラック×チャコール",
