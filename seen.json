@@ -4603,6 +4603,26 @@
   "nep-7304743616695": {
    "first": "2023-04-10",
    "title": "Braided Deer Necklace"
+  },
+  "nep-8806290063543": {
+   "first": "2026-09-26",
+   "title": "Round Collar Cardigan - Solid"
+  },
+  "nep-8806290030775": {
+   "first": "2026-09-26",
+   "title": "Round Collar Cardigan - Solid"
+  },
+  "nep-8811526521015": {
+   "first": "2026-09-29",
+   "title": "〈NEEDLES〉x〈TAILOR TOYO〉Souvenir Jacket"
+  },
+  "nep-8811526783159": {
+   "first": "2026-09-29",
+   "title": "〈NEEDLES〉x〈SUN SURF〉Hawaiian Shirt"
+  },
+  "nep-8811527012535": {
+   "first": "2026-09-29",
+   "title": "〈NEEDLES〉x〈SUN SURF〉Hawaiian Shirt"
   }
  },
  "STUDIOUS": {
@@ -7626,57 +7646,6 @@
     "date": "2026-03-31"
    },
    {
-    "id": "nep-8571585986743",
-    "title": "Papillon Emb. Side Line Tank Top - Tricot Sateen",
-    "price_yen": "¥12,100",
-    "url": "https://onlinestore.nepenthes.co.jp/products/papillon-emb-side-line-tank-top-tricot-sateen-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX1495B-00.jpg?v=1778720127",
-    "created": "2026-05-14",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Red",
-      "available": true
-     }
-    ],
-    "code": "SX1495B",
-    "date": "2026-05-14"
-   },
-   {
-    "id": "nep-8571586117815",
-    "title": "Side Line Track Pant - Tricot Sateen",
-    "price_yen": "¥22,000",
-    "url": "https://onlinestore.nepenthes.co.jp/products/side-line-track-pant-tricot-sateen-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX1496B-00.jpg?v=1778720176",
-    "created": "2026-05-14",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Red",
-      "available": true
-     }
-    ],
-    "code": "SX1496B",
-    "date": "2026-05-14"
-   },
-   {
-    "id": "nep-8571586183351",
-    "title": "Side Line Track Short -Tricot Sateen",
-    "price_yen": "¥20,900",
-    "url": "https://onlinestore.nepenthes.co.jp/products/side-line-track-short-tricot-sateen-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX1497B-00.jpg?v=1778720246",
-    "created": "2026-05-14",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Red",
-      "available": true
-     }
-    ],
-    "code": "SX1497B",
-    "date": "2026-05-14"
-   },
-   {
     "id": "nep-8573781639351",
     "title": "Tenugui Bandana - Kiriko",
     "price_yen": "¥3,520",
@@ -7743,278 +7712,6 @@
     ],
     "code": "SX057B",
     "date": "2026-05-16"
-   },
-   {
-    "id": "nep-8575245942967",
-    "title": "Short Sleeve Italian Collar Shirt - Papillon Print",
-    "price_yen": "¥30,800",
-    "url": "https://onlinestore.nepenthes.co.jp/products/s-s-italian-collar-shirt-papillon-print-2",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX1485A-0.jpg?v=1779176382",
-    "created": "2026-05-19",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "White",
-      "available": true
-     }
-    ],
-    "code": "SX1485A",
-    "date": "2026-05-19"
-   },
-   {
-    "id": "nep-8575245975735",
-    "title": "Short Sleeve Italian Collar Shirt - Papillon Print",
-    "price_yen": "¥30,800",
-    "url": "https://onlinestore.nepenthes.co.jp/products/s-s-italian-collar-shirt-papillon-print-3",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX1485B-0.jpg?v=1779176361",
-    "created": "2026-05-19",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Black",
-      "available": true
-     }
-    ],
-    "code": "SX1485B",
-    "date": "2026-05-19"
-   },
-   {
-    "id": "nep-8575246008503",
-    "title": "Balloon Pant - Papillon Print",
-    "price_yen": "¥35,200",
-    "url": "https://onlinestore.nepenthes.co.jp/products/balloon-pant-papillon-print-2",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX1486A-0.jpg?v=1779176341",
-    "created": "2026-05-19",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "White",
-      "available": true
-     }
-    ],
-    "code": "SX1486A",
-    "date": "2026-05-19"
-   },
-   {
-    "id": "nep-8575246041271",
-    "title": "Balloon Pant - Papillon Print",
-    "price_yen": "¥35,200",
-    "url": "https://onlinestore.nepenthes.co.jp/products/balloon-pant-papillon-print-3",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX1486B-0.jpg?v=1779176319",
-    "created": "2026-05-19",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Black",
-      "available": true
-     }
-    ],
-    "code": "SX1486B",
-    "date": "2026-05-19"
-   },
-   {
-    "id": "nep-8575246074039",
-    "title": "H.D. Short - Papillon Print",
-    "price_yen": "¥33,000",
-    "url": "https://onlinestore.nepenthes.co.jp/products/h-d-short-papillon-print-2",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX1487A-0.jpg?v=1779176295",
-    "created": "2026-05-19",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "White",
-      "available": true
-     }
-    ],
-    "code": "SX1487A",
-    "date": "2026-05-19"
-   },
-   {
-    "id": "nep-8575246172343",
-    "title": "H.D. Short - Papillon Print",
-    "price_yen": "¥33,000",
-    "url": "https://onlinestore.nepenthes.co.jp/products/h-d-short-papillon-print-3",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX1487B-0.jpg?v=1779176267",
-    "created": "2026-05-19",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Black",
-      "available": true
-     }
-    ],
-    "code": "SX1487B",
-    "date": "2026-05-19"
-   },
-   {
-    "id": "nep-8575246205111",
-    "title": "Tenugui - Papillon Print",
-    "price_yen": "¥3,850",
-    "url": "https://onlinestore.nepenthes.co.jp/products/tenugui-papillon-print-2",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX1488A-0.jpg?v=1779176239",
-    "created": "2026-05-19",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "White",
-      "available": true
-     }
-    ],
-    "code": "SX1488A",
-    "date": "2026-05-19"
-   },
-   {
-    "id": "nep-8575246237879",
-    "title": "Tenugui - Papillon Print",
-    "price_yen": "¥3,850",
-    "url": "https://onlinestore.nepenthes.co.jp/products/tenugui-papillon-print-3",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX1488B-0.jpg?v=1779176195",
-    "created": "2026-05-19",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Black",
-      "available": true
-     }
-    ],
-    "code": "SX1488B",
-    "date": "2026-05-19"
-   },
-   {
-    "id": "nep-8575246270647",
-    "title": "String Bag - Papillon Print",
-    "price_yen": "¥9,900",
-    "url": "https://onlinestore.nepenthes.co.jp/products/string-bag-papillon-print-2",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX1489A-0.jpg?v=1779176131",
-    "created": "2026-05-19",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "White",
-      "available": true
-     }
-    ],
-    "code": "SX1489A",
-    "date": "2026-05-19"
-   },
-   {
-    "id": "nep-8575246303415",
-    "title": "String Bag - Papillon Print",
-    "price_yen": "¥9,900",
-    "url": "https://onlinestore.nepenthes.co.jp/products/string-bag-papillon-print-3",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX1489B-0.jpg?v=1779176102",
-    "created": "2026-05-19",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Black",
-      "available": true
-     }
-    ],
-    "code": "SX1489B",
-    "date": "2026-05-19"
-   },
-   {
-    "id": "nep-8575246336183",
-    "title": "Book Bag - Papillon Print",
-    "price_yen": "¥13,200",
-    "url": "https://onlinestore.nepenthes.co.jp/products/book-bag-papillon-print-2",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX1490A-0.jpg?v=1779176079",
-    "created": "2026-05-19",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "White",
-      "available": true
-     }
-    ],
-    "code": "SX1490A",
-    "date": "2026-05-19"
-   },
-   {
-    "id": "nep-8575246368951",
-    "title": "Book Bag - Papillon Print",
-    "price_yen": "¥13,200",
-    "url": "https://onlinestore.nepenthes.co.jp/products/book-bag-papillon-print-3",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX1490B-0.jpg?v=1779176062",
-    "created": "2026-05-19",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Black",
-      "available": true
-     }
-    ],
-    "code": "SX1490B",
-    "date": "2026-05-19"
-   },
-   {
-    "id": "nep-8580330913975",
-    "title": "Short Sleeve Polo Dress - Cotton Pique",
-    "price_yen": "¥19,800",
-    "url": "https://onlinestore.nepenthes.co.jp/products/s-s-polo-dress-cotton-pique",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX1498A-0.jpg?v=1779757589",
-    "created": "2026-05-26",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Beige",
-      "available": true
-     }
-    ],
-    "code": "SX1498A",
-    "date": "2026-05-26"
-   },
-   {
-    "id": "nep-8580331241655",
-    "title": "Mini Book Bag - Cotton Pique",
-    "price_yen": "¥9,900",
-    "url": "https://onlinestore.nepenthes.co.jp/products/mini-book-bag-cotton-pique",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX1499A-0.jpg?v=1779758577",
-    "created": "2026-05-26",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Beige",
-      "available": true
-     }
-    ],
-    "code": "SX1499A",
-    "date": "2026-05-26"
-   },
-   {
-    "id": "nep-8580331339959",
-    "title": "Mini Book Bag - Cotton Pique",
-    "price_yen": "¥9,900",
-    "url": "https://onlinestore.nepenthes.co.jp/products/mini-book-bag-cotton-pique-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX1499B-0.jpg?v=1779758493",
-    "created": "2026-05-26",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Purple",
-      "available": true
-     }
-    ],
-    "code": "SX1499B",
-    "date": "2026-05-26"
-   },
-   {
-    "id": "nep-8580331438263",
-    "title": "Mini Book Bag - Cotton Pique",
-    "price_yen": "¥9,900",
-    "url": "https://onlinestore.nepenthes.co.jp/products/mini-book-bag-cotton-pique-2",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX1499C-0.jpg?v=1779757625",
-    "created": "2026-05-26",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Brown",
-      "available": true
-     }
-    ],
-    "code": "SX1499C",
-    "date": "2026-05-26"
    },
    {
     "id": "nep-8623061303479",
@@ -12664,11 +12361,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/l-s-u-neck-tee-geo-raschel-lace-5",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY387_C-Black_1.jpg?v=1786161189",
     "created": "2026-08-07",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Black",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY387C",
@@ -15786,6 +15483,40 @@
     "date": "2026-09-19"
    },
    {
+    "id": "nep-8806290063543",
+    "title": "Round Collar Cardigan - Solid",
+    "price_yen": "¥41,800",
+    "url": "https://onlinestore.nepenthes.co.jp/products/round-collar-cardigan-solid-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY417_B-OrangeRust_1.jpg?v=1790480782",
+    "created": "2026-09-26",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Orange",
+      "available": true
+     }
+    ],
+    "code": "TY417B",
+    "date": "2026-09-26"
+   },
+   {
+    "id": "nep-8806290030775",
+    "title": "Round Collar Cardigan - Solid",
+    "price_yen": "¥41,800",
+    "url": "https://onlinestore.nepenthes.co.jp/products/round-collar-cardigan-solid",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY417_A-Green_1.jpg?v=1790481052",
+    "created": "2026-09-26",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Green",
+      "available": true
+     }
+    ],
+    "code": "TY417A",
+    "date": "2026-09-26"
+   },
+   {
     "id": "nep-8809516630199",
     "title": "Shearling Coat - Sheepskin",
     "price_yen": "¥294,800",
@@ -15835,6 +15566,57 @@
     ],
     "code": "TY566",
     "date": "2026-09-28"
+   },
+   {
+    "id": "nep-8811526521015",
+    "title": "〈NEEDLES〉x〈TAILOR TOYO〉Souvenir Jacket",
+    "price_yen": "¥99,000",
+    "url": "https://onlinestore.nepenthes.co.jp/products/souvenir-jacket",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TOYO-0012.jpg?v=1790658819",
+    "created": "2026-09-29",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY2010",
+    "date": "2026-09-29"
+   },
+   {
+    "id": "nep-8811526783159",
+    "title": "〈NEEDLES〉x〈SUN SURF〉Hawaiian Shirt",
+    "price_yen": "¥38,500",
+    "url": "https://onlinestore.nepenthes.co.jp/products/hawaiian-shirt",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SUNSURF-001.jpg?v=1790659965",
+    "created": "2026-09-29",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Navy",
+      "available": true
+     }
+    ],
+    "code": "TY2011A",
+    "date": "2026-09-29"
+   },
+   {
+    "id": "nep-8811527012535",
+    "title": "〈NEEDLES〉x〈SUN SURF〉Hawaiian Shirt",
+    "price_yen": "¥38,500",
+    "url": "https://onlinestore.nepenthes.co.jp/products/hawaiian-shirt-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SUNSURF-007.jpg?v=1790660437",
+    "created": "2026-09-29",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Lt. Blue",
+      "available": true
+     }
+    ],
+    "code": "TY2011B",
+    "date": "2026-09-29"
    }
   ],
   "STUDIOUS": [
@@ -17739,7 +17521,7 @@
     "title": "NEEDLES/ニードルズ/【LHP EXCLUSIVE】H.D. TRACK PANT - COTTON JERSEY DAMAGE",
     "price_yen": "¥45,000",
     "url": "https://mix.tokyo/products/7846210257",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846210257-020_MAIN.jpg?v=1790362968",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846210257-010_MAIN.jpg?v=1790766156",
     "created": "2026-08-13",
     "soldout": false,
     "colors": [
@@ -19767,173 +19549,6 @@
     "colors": [
      {
       "name": "ブラック",
-      "available": false
-     }
-    ],
-    "code": "",
-    "date": "2026-03-17"
-   },
-   {
-    "id": "mix-7855204859969",
-    "title": "NEEDLES/ニードルズ/DECONSTRUCTED SWEAT SHIRT",
-    "price_yen": "¥32,000",
-    "url": "https://mix.tokyo/products/7846132222",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846132222-010_MAIN.jpg?v=1783958188",
-    "created": "2026-03-16",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "ブラック",
-      "available": false
-     },
-     {
-      "name": "グレー",
-      "available": false
-     }
-    ],
-    "code": "",
-    "date": "2026-03-16"
-   },
-   {
-    "id": "mix-7855496724545",
-    "title": "Needles/ニードルズ　H.D. Track Pant - Poly Smooth",
-    "price_yen": "¥14,700",
-    "url": "https://mix.tokyo/products/7816110216",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816110216-436_MAIN.jpg?v=1783953176",
-    "created": "2026-03-17",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "ダークグレー",
-      "available": false
-     },
-     {
-      "name": "グリーン",
-      "available": false
-     },
-     {
-      "name": "ラスト",
-      "available": false
-     }
-    ],
-    "code": "",
-    "date": "2026-03-17"
-   },
-   {
-    "id": "mix-7855496626241",
-    "title": "Needles/ニードルズ　Pleated Track Skirt - Poly Smooth",
-    "price_yen": "¥14,700",
-    "url": "https://mix.tokyo/products/7816114201",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816114201-436_MAIN.jpg?v=1789239817",
-    "created": "2026-03-17",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "ダークグレー",
-      "available": false
-     },
-     {
-      "name": "グリーン",
-      "available": false
-     },
-     {
-      "name": "ラスト",
-      "available": false
-     }
-    ],
-    "code": "",
-    "date": "2026-03-17"
-   },
-   {
-    "id": "mix-7855496462401",
-    "title": "Needles/ニードルズ　Track Jacket - Poly Smooth",
-    "price_yen": "¥18,200",
-    "url": "https://mix.tokyo/products/7816152219",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816152219-436_MAIN.jpg?v=1783951894",
-    "created": "2026-03-17",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "ダークグレー",
-      "available": false
-     },
-     {
-      "name": "グリーン",
-      "available": false
-     },
-     {
-      "name": "ラスト",
-      "available": false
-     }
-    ],
-    "code": "",
-    "date": "2026-03-17"
-   },
-   {
-    "id": "mix-7855206006849",
-    "title": "NEEDLES/ニードルズ/H.D.PANT - BDU",
-    "price_yen": "¥24,000",
-    "url": "https://mix.tokyo/products/7846110249",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846110249-010_MAIN.jpg?v=1783951578",
-    "created": "2026-03-16",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "ブラック",
-      "available": false
-     },
-     {
-      "name": "オリーブ",
-      "available": false
-     }
-    ],
-    "code": "",
-    "date": "2026-03-16"
-   },
-   {
-    "id": "mix-7855496527937",
-    "title": "Needles/ニードルズ  Track Pant - Poly Smooth",
-    "price_yen": "¥14,700",
-    "url": "https://mix.tokyo/products/7816110215",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816110215-436_MAIN.jpg?v=1783957630",
-    "created": "2026-03-17",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "ダークグレー",
-      "available": false
-     },
-     {
-      "name": "グリーン",
-      "available": false
-     },
-     {
-      "name": "ラスト",
-      "available": false
-     }
-    ],
-    "code": "",
-    "date": "2026-03-17"
-   },
-   {
-    "id": "mix-7855496396865",
-    "title": "Needles/ニードルズ   Track Crew Neck Shirt - Poly Smooth",
-    "price_yen": "¥14,000",
-    "url": "https://mix.tokyo/products/7816130202",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816130202-140_MAIN.jpg?v=1783945967",
-    "created": "2026-03-17",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "ダークグレー",
-      "available": false
-     },
-     {
-      "name": "グリーン",
-      "available": false
-     },
-     {
-      "name": "ラスト",
       "available": false
      }
     ],
