@@ -9887,23 +9887,6 @@
     "date": "2026-07-14"
    },
    {
-    "id": "nep-8664290590903",
-    "title": "Track Pant - Tricot Sateen",
-    "price_yen": "¥26,400",
-    "url": "https://onlinestore.nepenthes.co.jp/products/track-pant-tricot-sateen-3",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX218B-0.jpg?v=1774673143",
-    "created": "2026-07-14",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Black",
-      "available": false
-     }
-    ],
-    "code": "TY250B",
-    "date": "2026-07-14"
-   },
-   {
     "id": "nep-8664291836087",
     "title": "L/S Mock Neck Tee - Poly Jersey",
     "price_yen": "¥13,200",
@@ -10981,11 +10964,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/ventisei-track-jacket",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY532_A-Blue_0.jpg?v=1785114644",
     "created": "2026-07-27",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Blue",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY532A",
