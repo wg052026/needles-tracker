@@ -4623,6 +4623,66 @@
   "nep-8811527012535": {
    "first": "2026-09-29",
    "title": "〈NEEDLES〉x〈SUN SURF〉Hawaiian Shirt"
+  },
+  "nep-8806286000311": {
+   "first": "2026-09-26",
+   "title": "Hooded Down Sur Coat - Waxed High Density"
+  },
+  "nep-8806286033079": {
+   "first": "2026-09-26",
+   "title": "Hooded Down Sur Coat - Waxed High Density"
+  },
+  "nep-8806286655671": {
+   "first": "2026-09-26",
+   "title": "CB Gusset Sports Jacket - PE/W Gabardine"
+  },
+  "nep-8806286819511": {
+   "first": "2026-09-26",
+   "title": "Work Shirt - W/L Shadow Plaid"
+  },
+  "nep-8806288031927": {
+   "first": "2026-09-26",
+   "title": "Work Shirt - W/L Shadow Plaid"
+  },
+  "nep-8806289178807": {
+   "first": "2026-09-26",
+   "title": "Pleated Track Skirt - Poly Smooth"
+  },
+  "nep-8806289244343": {
+   "first": "2026-09-26",
+   "title": "Pleated Track Skirt - Poly Smooth"
+  },
+  "nep-8806289277111": {
+   "first": "2026-09-26",
+   "title": "Pleated Track Skirt - Poly Smooth"
+  },
+  "nep-8806289572023": {
+   "first": "2026-09-26",
+   "title": "L/S Pocket Tee - Cotton Jersey"
+  },
+  "nep-8806289539255": {
+   "first": "2026-09-26",
+   "title": "L/S Pocket Tee - Cotton Jersey"
+  },
+  "nep-8806289703095": {
+   "first": "2026-09-26",
+   "title": "L/S Pocket Tee - Cotton Jersey"
+  },
+  "nep-8806289735863": {
+   "first": "2026-09-26",
+   "title": "L/S Pocket Tee - Cotton Jersey"
+  },
+  "nep-8806289768631": {
+   "first": "2026-09-26",
+   "title": "L/S Pocket Tee - Cotton Jersey"
+  },
+  "nep-8806290096311": {
+   "first": "2026-09-26",
+   "title": "Round Collar Cardigan - Solid"
+  },
+  "nep-8807767015607": {
+   "first": "2026-09-27",
+   "title": "Long Point Collar Jacket - Cut Jaquard Heart Fringe"
   }
  },
  "STUDIOUS": {
@@ -15483,6 +15543,227 @@
     "date": "2026-09-19"
    },
    {
+    "id": "nep-8806286000311",
+    "title": "Hooded Down Sur Coat - Waxed High Density",
+    "price_yen": "¥104,500",
+    "url": "https://onlinestore.nepenthes.co.jp/products/hooded-down-sur-coat-wax-high-den",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY168_A-Green_1.jpg?v=1790482038",
+    "created": "2026-09-26",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Green",
+      "available": true
+     }
+    ],
+    "code": "TY168A",
+    "date": "2026-09-26"
+   },
+   {
+    "id": "nep-8806286033079",
+    "title": "Hooded Down Sur Coat - Waxed High Density",
+    "price_yen": "¥104,500",
+    "url": "https://onlinestore.nepenthes.co.jp/products/hooded-down-sur-coat-wax-high-den-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY168_B-Black_1.jpg?v=1790481821",
+    "created": "2026-09-26",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY168B",
+    "date": "2026-09-26"
+   },
+   {
+    "id": "nep-8806286655671",
+    "title": "CB Gusset Sports Jacket - PE/W Gabardine",
+    "price_yen": "¥51,700",
+    "url": "https://onlinestore.nepenthes.co.jp/products/cb-gusset-sports-jacket-pe-w-gabar-2",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY251_A-Brown_1.jpg?v=1790481445",
+    "created": "2026-09-26",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Brown",
+      "available": true
+     }
+    ],
+    "code": "TY251A",
+    "date": "2026-09-26"
+   },
+   {
+    "id": "nep-8806286819511",
+    "title": "Work Shirt - W/L Shadow Plaid",
+    "price_yen": "¥42,900",
+    "url": "https://onlinestore.nepenthes.co.jp/products/work-shirt-w-l-shadow-plaid",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY287_A-Blue_1.jpg?v=1790481407",
+    "created": "2026-09-26",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Blue",
+      "available": true
+     }
+    ],
+    "code": "TY287A",
+    "date": "2026-09-26"
+   },
+   {
+    "id": "nep-8806288031927",
+    "title": "Work Shirt - W/L Shadow Plaid",
+    "price_yen": "¥42,900",
+    "url": "https://onlinestore.nepenthes.co.jp/products/work-shirt-w-l-shadow-plaid-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY287_B-Purple_1.jpg?v=1790481376",
+    "created": "2026-09-26",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Purple",
+      "available": true
+     }
+    ],
+    "code": "TY287B",
+    "date": "2026-09-26"
+   },
+   {
+    "id": "nep-8806289178807",
+    "title": "Pleated Track Skirt - Poly Smooth",
+    "price_yen": "¥23,100",
+    "url": "https://onlinestore.nepenthes.co.jp/products/pleated-track-skirt-poly-smooth-9",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY357_A-Navy_1.jpg?v=1790481333",
+    "created": "2026-09-26",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Navy",
+      "available": true
+     }
+    ],
+    "code": "TY357A",
+    "date": "2026-09-26"
+   },
+   {
+    "id": "nep-8806289244343",
+    "title": "Pleated Track Skirt - Poly Smooth",
+    "price_yen": "¥23,100",
+    "url": "https://onlinestore.nepenthes.co.jp/products/pleated-track-skirt-poly-smooth-10",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY357_B-Purple_1.jpg?v=1790481305",
+    "created": "2026-09-26",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Purple",
+      "available": true
+     }
+    ],
+    "code": "TY357B",
+    "date": "2026-09-26"
+   },
+   {
+    "id": "nep-8806289277111",
+    "title": "Pleated Track Skirt - Poly Smooth",
+    "price_yen": "¥23,100",
+    "url": "https://onlinestore.nepenthes.co.jp/products/pleated-track-skirt-poly-smooth-11",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY357_C-Black_1.jpg?v=1790481262",
+    "created": "2026-09-26",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY357C",
+    "date": "2026-09-26"
+   },
+   {
+    "id": "nep-8806289572023",
+    "title": "L/S Pocket Tee - Cotton Jersey",
+    "price_yen": "¥15,400",
+    "url": "https://onlinestore.nepenthes.co.jp/products/l-s-pocket-tee-cotton-jersey-7",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY398_B-H.Grey_1.jpg?v=1790481190",
+    "created": "2026-09-26",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "H. Grey",
+      "available": true
+     }
+    ],
+    "code": "TY398B",
+    "date": "2026-09-26"
+   },
+   {
+    "id": "nep-8806289539255",
+    "title": "L/S Pocket Tee - Cotton Jersey",
+    "price_yen": "¥15,400",
+    "url": "https://onlinestore.nepenthes.co.jp/products/l-s-pocket-tee-cotton-jersey-6",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY398_A-White_1.jpg?v=1790481214",
+    "created": "2026-09-26",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "White",
+      "available": true
+     }
+    ],
+    "code": "TY398A",
+    "date": "2026-09-26"
+   },
+   {
+    "id": "nep-8806289703095",
+    "title": "L/S Pocket Tee - Cotton Jersey",
+    "price_yen": "¥15,400",
+    "url": "https://onlinestore.nepenthes.co.jp/products/l-s-pocket-tee-cotton-jersey-8",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY398_C-Steel_1.jpg?v=1790481148",
+    "created": "2026-09-26",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Steel Blue",
+      "available": true
+     }
+    ],
+    "code": "TY398C",
+    "date": "2026-09-26"
+   },
+   {
+    "id": "nep-8806289735863",
+    "title": "L/S Pocket Tee - Cotton Jersey",
+    "price_yen": "¥15,400",
+    "url": "https://onlinestore.nepenthes.co.jp/products/l-s-pocket-tee-cotton-jersey-9",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY398_D-Dk.Brown_1.jpg?v=1790481123",
+    "created": "2026-09-26",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Dk. Brown",
+      "available": true
+     }
+    ],
+    "code": "TY398D",
+    "date": "2026-09-26"
+   },
+   {
+    "id": "nep-8806289768631",
+    "title": "L/S Pocket Tee - Cotton Jersey",
+    "price_yen": "¥15,400",
+    "url": "https://onlinestore.nepenthes.co.jp/products/l-s-pocket-tee-cotton-jersey-10",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY398_E-Purple_1.jpg?v=1790481101",
+    "created": "2026-09-26",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Purple",
+      "available": true
+     }
+    ],
+    "code": "TY398E",
+    "date": "2026-09-26"
+   },
+   {
     "id": "nep-8806290063543",
     "title": "Round Collar Cardigan - Solid",
     "price_yen": "¥41,800",
@@ -15515,6 +15796,40 @@
     ],
     "code": "TY417A",
     "date": "2026-09-26"
+   },
+   {
+    "id": "nep-8806290096311",
+    "title": "Round Collar Cardigan - Solid",
+    "price_yen": "¥41,800",
+    "url": "https://onlinestore.nepenthes.co.jp/products/round-collar-cardigan-solid-2",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY417_C-Charcoal_1.jpg?v=1790480742",
+    "created": "2026-09-26",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Charcoal",
+      "available": true
+     }
+    ],
+    "code": "TY417C",
+    "date": "2026-09-26"
+   },
+   {
+    "id": "nep-8807767015607",
+    "title": "Long Point Collar Jacket - Cut Jaquard Heart Fringe",
+    "price_yen": "¥45,100",
+    "url": "https://onlinestore.nepenthes.co.jp/products/long-point-collar-jkt-cut-jq-heart",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY335_A-Black_1.jpg?v=1790566442",
+    "created": "2026-09-27",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY335A",
+    "date": "2026-09-27"
    },
    {
     "id": "nep-8809516630199",
