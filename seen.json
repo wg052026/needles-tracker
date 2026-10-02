@@ -4594,11 +4594,11 @@
   },
   "nep-8809570369719": {
    "first": "2026-09-28",
-   "title": "〈NEEDLES〉x 〈SOREL〉Ambler Chukka Waterproof"
+   "title": "〈NEEDLES〉x〈SOREL〉Ambler Chukka Waterproof"
   },
   "nep-8809570697399": {
    "first": "2026-09-28",
-   "title": "〈NEEDLES〉x 〈SOREL〉Ambler Waterproof"
+   "title": "〈NEEDLES〉x〈SOREL〉Ambler Waterproof"
   },
   "nep-7304743616695": {
    "first": "2023-04-10",
@@ -9440,23 +9440,6 @@
     "date": "2026-08-14"
    },
    {
-    "id": "nep-8701057007799",
-    "title": "L/S U Neck Tee - Paisley Bulky Lace",
-    "price_yen": "¥15,400",
-    "url": "https://onlinestore.nepenthes.co.jp/products/l-s-u-neck-tee-paisley-bulky-lace-2",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY385_C-Black_1.jpg?v=1786163247",
-    "created": "2026-08-07",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Black",
-      "available": false
-     }
-    ],
-    "code": "TY385C",
-    "date": "2026-08-07"
-   },
-   {
     "id": "nep-8701053829303",
     "title": "Open Collar Shirt - Tile Pattern Jacquard",
     "price_yen": "¥31,900",
@@ -10172,7 +10155,7 @@
    },
    {
     "id": "nep-8809570697399",
-    "title": "〈NEEDLES〉x 〈SOREL〉Ambler Waterproof",
+    "title": "〈NEEDLES〉x〈SOREL〉Ambler Waterproof",
     "price_yen": "¥25,850",
     "url": "https://onlinestore.nepenthes.co.jp/products/ambler-wp",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY566_UltraVioletBlack_11.jpg?v=1789092600",
@@ -11957,7 +11940,7 @@
    },
    {
     "id": "nep-8809570369719",
-    "title": "〈NEEDLES〉x 〈SOREL〉Ambler Chukka Waterproof",
+    "title": "〈NEEDLES〉x〈SOREL〉Ambler Chukka Waterproof",
     "price_yen": "¥30,250",
     "url": "https://onlinestore.nepenthes.co.jp/products/ambler-chukka-wp",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY565_UltraVioletBlack_11.jpg?v=1789092538",
@@ -13603,23 +13586,6 @@
     ],
     "code": "TY482B",
     "date": "2026-08-14"
-   },
-   {
-    "id": "nep-8701057433783",
-    "title": "L/S U Neck Tee - Geometric Raschel Lace",
-    "price_yen": "¥15,400",
-    "url": "https://onlinestore.nepenthes.co.jp/products/l-s-u-neck-tee-geo-raschel-lace-5",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY387_C-Black_1.jpg?v=1786161189",
-    "created": "2026-08-07",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Black",
-      "available": false
-     }
-    ],
-    "code": "TY387C",
-    "date": "2026-08-07"
    },
    {
     "id": "nep-8701057237175",
