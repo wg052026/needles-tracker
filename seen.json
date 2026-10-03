@@ -10317,11 +10317,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/travel-jacket-harris-tweed-1",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY117_B-Plaid_1.jpg?v=1789282619",
     "created": "2026-09-13",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Plaid",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY117B",
@@ -18917,7 +18917,7 @@
      },
      {
       "name": "ブラック×チャコール",
-      "available": true
+      "available": false
      },
      {
       "name": "ホワイト",
