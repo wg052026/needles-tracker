@@ -6169,11 +6169,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/59-fifty-papillon-emb-1",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/NEEDLES-0_f5b28fe3-6778-4fff-b59b-d13671b7e3ca.jpg?v=1782367525",
     "created": "2026-06-25",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Black",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY3001",
@@ -7308,11 +7308,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/wide-trousers-emb-corduroy-1",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY2001B-00.jpg?v=1787809791",
     "created": "2026-08-27",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Bordeaux",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY2001B",
@@ -10657,11 +10657,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/swing-jacket-wool-shaggy-1",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY176_B-Mustard_1.jpg?v=1787722304",
     "created": "2026-08-25",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Mustard",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY176B",
@@ -11915,11 +11915,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/souvenir-jacket",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TOYO-0012.jpg?v=1790658819",
     "created": "2026-09-29",
-    "soldout": true,
+    "soldout": false,
     "colors": [
      {
       "name": "Black",
-      "available": false
+      "available": true
      }
     ],
     "code": "TY2010",
