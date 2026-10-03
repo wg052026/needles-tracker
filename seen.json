@@ -9858,11 +9858,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/papillon-western-tip-belt-suede-5",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/NS037B-0_97fd6af9-f8e9-4b2c-aca1-8fae19bc7d64.jpg?v=1751691679",
     "created": "2026-07-14",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Black",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY036B",
@@ -10657,11 +10657,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/swing-jacket-wool-shaggy-1",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY176_B-Mustard_1.jpg?v=1787722304",
     "created": "2026-08-25",
-    "soldout": true,
+    "soldout": false,
     "colors": [
      {
       "name": "Mustard",
-      "available": false
+      "available": true
      }
     ],
     "code": "TY176B",
@@ -11915,11 +11915,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/souvenir-jacket",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TOYO-0012.jpg?v=1790658819",
     "created": "2026-09-29",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Black",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY2010",
