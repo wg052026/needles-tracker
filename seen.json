@@ -11915,11 +11915,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/souvenir-jacket",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TOYO-0012.jpg?v=1790658819",
     "created": "2026-09-29",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Black",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY2010",
