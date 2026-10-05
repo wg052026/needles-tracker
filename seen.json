@@ -17927,11 +17927,11 @@
     "url": "https://mix.tokyo/products/7846252340",
     "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846252340-367_MAIN.jpg?v=1788951807",
     "created": "2026-09-04",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "インディゴ",
-      "available": true
+      "available": false
      }
     ],
     "code": "",
@@ -18112,7 +18112,7 @@
      },
      {
       "name": "ブラック×チャコール",
-      "available": true
+      "available": false
      },
      {
       "name": "ホワイト",
@@ -18338,15 +18338,15 @@
     "url": "https://mix.tokyo/products/7846213224",
     "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846213224-030_MAIN.jpg?v=1785351764",
     "created": "2026-07-08",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "ブラック",
-      "available": true
+      "available": false
      },
      {
       "name": "ホワイト",
-      "available": true
+      "available": false
      }
     ],
     "code": "",
@@ -18731,7 +18731,7 @@
     "url": "https://mix.tokyo/products/7846213220",
     "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846213220-410_MAIN.jpg?v=1784746973",
     "created": "2026-05-15",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "ブラック×ホワイト",
@@ -18743,11 +18743,11 @@
      },
      {
       "name": "ホワイト",
-      "available": true
+      "available": false
      },
      {
       "name": "ブラック×パープル",
-      "available": true
+      "available": false
      },
      {
       "name": "オリーブ",
