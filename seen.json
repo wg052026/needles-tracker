@@ -5890,7 +5890,7 @@
   },
   "mix-8083894796353": {
    "first": "2026-09-16",
-   "title": "Needles/ニードルズ　Track Jacket - Poly Smooth　TY349C"
+   "title": "Needles/ニードルズ　Track Jacket - Poly Smooth　TY349"
   },
   "mix-8035581952065": {
    "first": "2026-08-13",
@@ -5903,6 +5903,10 @@
   "mix-10328254742593": {
    "first": "2026-10-01",
    "title": "NEEDLES / ニードルズ / H.D. Track Pant - Poly Smooth"
+  },
+  "mix-10331420098625": {
+   "first": "2026-10-02",
+   "title": "Needles/ニードルズ　H.D. Track Pant - Poly Smooth TY355"
   }
  },
  "_snapshots": {
@@ -15706,11 +15710,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/souvenir-jacket",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TOYO-0012.jpg?v=1790658819",
     "created": "2026-09-29",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Black",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY2010",
@@ -17594,6 +17598,31 @@
   ],
   "MIX.TOKYO": [
    {
+    "id": "mix-10331420098625",
+    "title": "Needles/ニードルズ　H.D. Track Pant - Poly Smooth TY355",
+    "price_yen": "¥21,000",
+    "url": "https://mix.tokyo/products/7816210241",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816210241-010_MAIN.jpg?v=1790967832",
+    "created": "2026-10-02",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "ブラック",
+      "available": true
+     },
+     {
+      "name": "パープル",
+      "available": true
+     },
+     {
+      "name": "ネイビー",
+      "available": true
+     }
+    ],
+    "code": "",
+    "date": "2026-10-02"
+   },
+   {
     "id": "mix-10328254742593",
     "title": "NEEDLES / ニードルズ / H.D. Track Pant - Poly Smooth",
     "price_yen": "¥21,000",
@@ -17623,7 +17652,7 @@
     "title": "NEEDLES/ニードルズ/【LHP EXCLUSIVE】TRACK JACKET - COTTON JERSEY DAMAGE",
     "price_yen": "¥49,000",
     "url": "https://mix.tokyo/products/7846252253",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846252253-020_MAIN.jpg?v=1791161895",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846252253-020_MAIN.jpg?v=1791198134",
     "created": "2026-08-13",
     "soldout": false,
     "colors": [
@@ -17644,7 +17673,7 @@
     "title": "NEEDLES/ニードルズ/【LHP EXCLUSIVE】H.D. TRACK PANT - COTTON JERSEY DAMAGE",
     "price_yen": "¥45,000",
     "url": "https://mix.tokyo/products/7846210257",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846210257-010_MAIN.jpg?v=1791161891",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846210257-010_MAIN.jpg?v=1791198136",
     "created": "2026-08-13",
     "soldout": false,
     "colors": [
@@ -17754,10 +17783,10 @@
    },
    {
     "id": "mix-8083894796353",
-    "title": "Needles/ニードルズ　Track Jacket - Poly Smooth　TY349C",
+    "title": "Needles/ニードルズ　Track Jacket - Poly Smooth　TY349",
     "price_yen": "¥26,000",
     "url": "https://mix.tokyo/products/7816252266",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816252266-010_MAIN.jpg?v=1790967877",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816252266-010_MAIN.jpg?v=1791198273",
     "created": "2026-09-16",
     "soldout": false,
     "colors": [
