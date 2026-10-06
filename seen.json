@@ -12089,11 +12089,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/l-s-u-neck-tee-feather-tulle-2",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY381_C-Black_1.jpg?v=1785649955",
     "created": "2026-08-01",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Black",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY381C",
@@ -13925,11 +13925,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/one-up-shirt-ikat-stripe",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY302_A-PurpleOrange_1.jpg?v=1787987279",
     "created": "2026-08-28",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Ppl/Org",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY302A",
@@ -13942,11 +13942,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/one-up-shirt-ikat-stripe-1",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY302_B-Red_1.jpg?v=1787987252",
     "created": "2026-08-28",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Red",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY302B",
@@ -15685,6 +15685,23 @@
     ],
     "code": "TY566",
     "date": "2026-09-28"
+   },
+   {
+    "id": "nep-8811526521015",
+    "title": "〈NEEDLES〉x〈TAILOR TOYO〉Souvenir Jacket",
+    "price_yen": "¥99,000",
+    "url": "https://onlinestore.nepenthes.co.jp/products/souvenir-jacket",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TOYO-0012.jpg?v=1790658819",
+    "created": "2026-09-29",
+    "soldout": true,
+    "colors": [
+     {
+      "name": "Black",
+      "available": false
+     }
+    ],
+    "code": "TY2010",
+    "date": "2026-09-29"
    }
   ],
   "STUDIOUS": [
@@ -17677,7 +17694,7 @@
     "title": "Needles/ニードルズ　 Track Crew Neck Shirt - Poly Smooth  TY350",
     "price_yen": "¥20,000",
     "url": "https://mix.tokyo/products/7816230214",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816230214-120_MAIN.jpg?v=1790967887",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816230214-080_MAIN.jpg?v=1791284799",
     "created": "2026-09-16",
     "soldout": false,
     "colors": [
