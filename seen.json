@@ -8795,11 +8795,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/pendant-925-silver-27",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/PU023C-0.jpg?v=1720056228",
     "created": "2026-07-14",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Papillon",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY009C",
