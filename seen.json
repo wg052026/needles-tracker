@@ -12083,23 +12083,6 @@
     "date": "2026-08-01"
    },
    {
-    "id": "nep-8693350203575",
-    "title": "L/S U Neck Tee - Feather Tulle",
-    "price_yen": "¥17,600",
-    "url": "https://onlinestore.nepenthes.co.jp/products/l-s-u-neck-tee-feather-tulle-2",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY381_C-Black_1.jpg?v=1785649955",
-    "created": "2026-08-01",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Black",
-      "available": false
-     }
-    ],
-    "code": "TY381C",
-    "date": "2026-08-01"
-   },
-   {
     "id": "nep-8693350727863",
     "title": "〈NEEDLES〉x〈TIE A KNOT〉Crystal Beads Ring Small",
     "price_yen": "¥26,400",
@@ -13919,40 +13902,6 @@
     "date": "2026-08-28"
    },
    {
-    "id": "nep-8738188820663",
-    "title": "One-Up Shirt - Ikat Stripe",
-    "price_yen": "¥31,900",
-    "url": "https://onlinestore.nepenthes.co.jp/products/one-up-shirt-ikat-stripe",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY302_A-PurpleOrange_1.jpg?v=1787987279",
-    "created": "2026-08-28",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Ppl/Org",
-      "available": false
-     }
-    ],
-    "code": "TY302A",
-    "date": "2026-08-28"
-   },
-   {
-    "id": "nep-8738188853431",
-    "title": "One-Up Shirt - Ikat Stripe",
-    "price_yen": "¥31,900",
-    "url": "https://onlinestore.nepenthes.co.jp/products/one-up-shirt-ikat-stripe-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY302_B-Red_1.jpg?v=1787987252",
-    "created": "2026-08-28",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Red",
-      "available": false
-     }
-    ],
-    "code": "TY302B",
-    "date": "2026-08-28"
-   },
-   {
     "id": "nep-8738188984503",
     "title": "One-Up Shirt - Ikat Stripe",
     "price_yen": "¥31,900",
@@ -14990,23 +14939,6 @@
     "date": "2026-09-13"
    },
    {
-    "id": "nep-8774889439415",
-    "title": "H.D. Pant - Wool Diagonal Jacquard",
-    "price_yen": "¥52,800",
-    "url": "https://onlinestore.nepenthes.co.jp/products/h-d-pant-wool-diagonal-jacquard",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY131_Dk.Navy_1.jpg?v=1789282128",
-    "created": "2026-09-13",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Dk. Navy",
-      "available": false
-     }
-    ],
-    "code": "TY131",
-    "date": "2026-09-13"
-   },
-   {
     "id": "nep-8774889930935",
     "title": "Frisco Short Jacket - Heavy Twill",
     "price_yen": "¥40,700",
@@ -15685,23 +15617,6 @@
     ],
     "code": "TY566",
     "date": "2026-09-28"
-   },
-   {
-    "id": "nep-8811526521015",
-    "title": "〈NEEDLES〉x〈TAILOR TOYO〉Souvenir Jacket",
-    "price_yen": "¥99,000",
-    "url": "https://onlinestore.nepenthes.co.jp/products/souvenir-jacket",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TOYO-0012.jpg?v=1790658819",
-    "created": "2026-09-29",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Black",
-      "available": false
-     }
-    ],
-    "code": "TY2010",
-    "date": "2026-09-29"
    }
   ],
   "STUDIOUS": [
