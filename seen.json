@@ -4683,6 +4683,102 @@
   "nep-8807767015607": {
    "first": "2026-09-27",
    "title": "Long Point Collar Jacket - Cut Jaquard Heart Fringe"
+  },
+  "nep-8825493684407": {
+   "first": "2026-10-05",
+   "title": "Baseball Cap - C/W Mole Twill"
+  },
+  "nep-8825493848247": {
+   "first": "2026-10-05",
+   "title": "Baseball Cap - Shrink Wool"
+  },
+  "nep-8825493749943": {
+   "first": "2026-10-05",
+   "title": "Baseball Cap - Wool Diagonal Jacq."
+  },
+  "nep-8825494241463": {
+   "first": "2026-10-05",
+   "title": "Cap Shoulder Sports Jacket-Leo Jacq"
+  },
+  "nep-8825494405303": {
+   "first": "2026-10-05",
+   "title": "Cap Shoulder Sports Jacket-Leo Jacq"
+  },
+  "nep-8825495027895": {
+   "first": "2026-10-05",
+   "title": "Lettered Jacket - Cowhide Leather"
+  },
+  "nep-8825495191735": {
+   "first": "2026-10-05",
+   "title": "Lettered Jacket - Cowhide Leather"
+  },
+  "nep-8825495355575": {
+   "first": "2026-10-05",
+   "title": "Lettered Jacket - Cowhide Leather"
+  },
+  "nep-8825497714871": {
+   "first": "2026-10-05",
+   "title": "Papillon Emb. Straight Jean-14W Cord"
+  },
+  "nep-8825497845943": {
+   "first": "2026-10-05",
+   "title": "Papillon Emb. Straight Jean-14W Cord"
+  },
+  "nep-8825498534071": {
+   "first": "2026-10-05",
+   "title": "Papillon Emb. Boot-Cut Jean-14W Cord"
+  },
+  "nep-8825498697911": {
+   "first": "2026-10-05",
+   "title": "Papillon Emb. Boot-Cut Jean-14W Cord"
+  },
+  "nep-8825499648183": {
+   "first": "2026-10-05",
+   "title": "Deconstructed Sweat Shirt"
+  },
+  "nep-8825499484343": {
+   "first": "2026-10-05",
+   "title": "Deconstructed Sweat Shirt"
+  },
+  "nep-8825499779255": {
+   "first": "2026-10-05",
+   "title": "Deconstructed Sweat Shirt"
+  },
+  "nep-8825499975863": {
+   "first": "2026-10-05",
+   "title": "Deconstructed Sweat Shirt"
+  },
+  "nep-8825503776951": {
+   "first": "2026-10-05",
+   "title": "Deconstructed H.D. Sweat Pant"
+  },
+  "nep-8825503940791": {
+   "first": "2026-10-05",
+   "title": "Deconstructed H.D. Sweat Pant"
+  },
+  "nep-8825504563383": {
+   "first": "2026-10-05",
+   "title": "L/S Pocket Tee - Cotton Jersey"
+  },
+  "nep-8825505251511": {
+   "first": "2026-10-05",
+   "title": "Mohair Cardigan - Folklore"
+  },
+  "nep-8825505382583": {
+   "first": "2026-10-05",
+   "title": "Mohair Cardigan - Abstract"
+  },
+  "nep-8825506201783": {
+   "first": "2026-10-05",
+   "title": "Mohair Knit Vest - Solid"
+  },
+  "nep-8825506332855": {
+   "first": "2026-10-05",
+   "title": "Mohair Knit Vest - Solid"
+  },
+  "nep-8825506496695": {
+   "first": "2026-10-05",
+   "title": "Mohair Knit Vest - Solid"
   }
  },
  "STUDIOUS": {
@@ -8789,23 +8885,6 @@
     "date": "2026-07-14"
    },
    {
-    "id": "nep-8664234918071",
-    "title": "Pendant - 925 Silver",
-    "price_yen": "¥19,800",
-    "url": "https://onlinestore.nepenthes.co.jp/products/pendant-925-silver-27",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/PU023C-0.jpg?v=1720056228",
-    "created": "2026-07-14",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Papillon",
-      "available": false
-     }
-    ],
-    "code": "TY009C",
-    "date": "2026-07-14"
-   },
-   {
     "id": "nep-8664234950839",
     "title": "Pendant - Gold Plate",
     "price_yen": "¥20,900",
@@ -9466,23 +9545,6 @@
      }
     ],
     "code": "TY059A",
-    "date": "2026-07-14"
-   },
-   {
-    "id": "nep-8664257757367",
-    "title": "Bandana - Rectangle",
-    "price_yen": "¥3,850",
-    "url": "https://onlinestore.nepenthes.co.jp/products/bandana-rectangle-3",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/RW048B-0.jpg?v=1779862989",
-    "created": "2026-07-14",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Eggplant",
-      "available": false
-     }
-    ],
-    "code": "TY059B",
     "date": "2026-07-14"
    },
    {
@@ -15621,6 +15683,414 @@
     ],
     "code": "TY566",
     "date": "2026-09-28"
+   },
+   {
+    "id": "nep-8825493684407",
+    "title": "Baseball Cap - C/W Mole Twill",
+    "price_yen": "¥15,400",
+    "url": "https://onlinestore.nepenthes.co.jp/products/baseball-cap-c-w-mole-twill",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY073_Navy_1.jpg?v=1791181155",
+    "created": "2026-10-05",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Navy",
+      "available": true
+     }
+    ],
+    "code": "TY073",
+    "date": "2026-10-05"
+   },
+   {
+    "id": "nep-8825493848247",
+    "title": "Baseball Cap - Shrink Wool",
+    "price_yen": "¥16,500",
+    "url": "https://onlinestore.nepenthes.co.jp/products/baseball-cap-shrink-wool",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY075_Dk.Navy_1.jpg?v=1791180871",
+    "created": "2026-10-05",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Dk. Navy",
+      "available": true
+     }
+    ],
+    "code": "TY075",
+    "date": "2026-10-05"
+   },
+   {
+    "id": "nep-8825493749943",
+    "title": "Baseball Cap - Wool Diagonal Jacq.",
+    "price_yen": "¥15,400",
+    "url": "https://onlinestore.nepenthes.co.jp/products/baseball-cap-wool-diagonal-jacq",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY074_Dk.Navy_1.jpg?v=1791180999",
+    "created": "2026-10-05",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Dk. Navy",
+      "available": true
+     }
+    ],
+    "code": "TY074",
+    "date": "2026-10-05"
+   },
+   {
+    "id": "nep-8825494241463",
+    "title": "Cap Shoulder Sports Jacket-Leo Jacq",
+    "price_yen": "¥52,800",
+    "url": "https://onlinestore.nepenthes.co.jp/products/cap-shoulder-sports-jacket-leo-jacq",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY156_A-BrownBlack_1.jpg?v=1791180776",
+    "created": "2026-10-05",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Brw/Blk",
+      "available": true
+     }
+    ],
+    "code": "TY156A",
+    "date": "2026-10-05"
+   },
+   {
+    "id": "nep-8825494405303",
+    "title": "Cap Shoulder Sports Jacket-Leo Jacq",
+    "price_yen": "¥52,800",
+    "url": "https://onlinestore.nepenthes.co.jp/products/cap-shoulder-sports-jacket-leo-jacq-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY156_B-BlackPurple_1.jpg?v=1791180514",
+    "created": "2026-10-05",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black/Purple",
+      "available": true
+     }
+    ],
+    "code": "TY156B",
+    "date": "2026-10-05"
+   },
+   {
+    "id": "nep-8825495027895",
+    "title": "Lettered Jacket - Cowhide Leather",
+    "price_yen": "¥253,000",
+    "url": "https://onlinestore.nepenthes.co.jp/products/lettered-jacket-cowhide-leather",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY162_A-Purple_1.jpg?v=1791180426",
+    "created": "2026-10-05",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Purple",
+      "available": true
+     }
+    ],
+    "code": "TY162A",
+    "date": "2026-10-05"
+   },
+   {
+    "id": "nep-8825495191735",
+    "title": "Lettered Jacket - Cowhide Leather",
+    "price_yen": "¥253,000",
+    "url": "https://onlinestore.nepenthes.co.jp/products/lettered-jacket-cowhide-leather-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY162_B-Blue_1.jpg?v=1791180370",
+    "created": "2026-10-05",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Blue",
+      "available": true
+     }
+    ],
+    "code": "TY162B",
+    "date": "2026-10-05"
+   },
+   {
+    "id": "nep-8825495355575",
+    "title": "Lettered Jacket - Cowhide Leather",
+    "price_yen": "¥253,000",
+    "url": "https://onlinestore.nepenthes.co.jp/products/lettered-jacket-cowhide-leather-2",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY162_C-Black_1.jpg?v=1791177654",
+    "created": "2026-10-05",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY162C",
+    "date": "2026-10-05"
+   },
+   {
+    "id": "nep-8825497714871",
+    "title": "Papillon Emb. Straight Jean-14W Cord",
+    "price_yen": "¥35,200",
+    "url": "https://onlinestore.nepenthes.co.jp/products/papillon-emb-straight-jean-14w-cord",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY240_A-Brown_1.jpg?v=1791177531",
+    "created": "2026-10-05",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Brown",
+      "available": true
+     }
+    ],
+    "code": "TY240A",
+    "date": "2026-10-05"
+   },
+   {
+    "id": "nep-8825497845943",
+    "title": "Papillon Emb. Straight Jean-14W Cord",
+    "price_yen": "¥35,200",
+    "url": "https://onlinestore.nepenthes.co.jp/products/papillon-emb-straight-jean-14w-cord-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY240_B-Black_1.jpg?v=1791177452",
+    "created": "2026-10-05",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY240B",
+    "date": "2026-10-05"
+   },
+   {
+    "id": "nep-8825498534071",
+    "title": "Papillon Emb. Boot-Cut Jean-14W Cord",
+    "price_yen": "¥35,200",
+    "url": "https://onlinestore.nepenthes.co.jp/products/papillon-emb-boot-cut-jean-14w-cord",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY241_A-Brown_1.jpg?v=1791177398",
+    "created": "2026-10-05",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Brown",
+      "available": true
+     }
+    ],
+    "code": "TY241A",
+    "date": "2026-10-05"
+   },
+   {
+    "id": "nep-8825498697911",
+    "title": "Papillon Emb. Boot-Cut Jean-14W Cord",
+    "price_yen": "¥35,200",
+    "url": "https://onlinestore.nepenthes.co.jp/products/papillon-emb-boot-cut-jean-14w-cord-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY241_B-Black_1.jpg?v=1791177269",
+    "created": "2026-10-05",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY241B",
+    "date": "2026-10-05"
+   },
+   {
+    "id": "nep-8825499648183",
+    "title": "Deconstructed Sweat Shirt",
+    "price_yen": "¥39,600",
+    "url": "https://onlinestore.nepenthes.co.jp/products/deconstructed-sweat-shirt-5",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY376_B-Rust_1.jpg?v=1791177154",
+    "created": "2026-10-05",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Rust",
+      "available": true
+     }
+    ],
+    "code": "TY376B",
+    "date": "2026-10-05"
+   },
+   {
+    "id": "nep-8825499484343",
+    "title": "Deconstructed Sweat Shirt",
+    "price_yen": "¥39,600",
+    "url": "https://onlinestore.nepenthes.co.jp/products/deconstructed-sweat-shirt-4",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY376_A-H.Grey_1.jpg?v=1791177200",
+    "created": "2026-10-05",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "H. Grey",
+      "available": true
+     }
+    ],
+    "code": "TY376A",
+    "date": "2026-10-05"
+   },
+   {
+    "id": "nep-8825499779255",
+    "title": "Deconstructed Sweat Shirt",
+    "price_yen": "¥39,600",
+    "url": "https://onlinestore.nepenthes.co.jp/products/deconstructed-sweat-shirt-6",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY376_C-ForestGreen_1.jpg?v=1791177105",
+    "created": "2026-10-05",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Forest",
+      "available": true
+     }
+    ],
+    "code": "TY376C",
+    "date": "2026-10-05"
+   },
+   {
+    "id": "nep-8825499975863",
+    "title": "Deconstructed Sweat Shirt",
+    "price_yen": "¥39,600",
+    "url": "https://onlinestore.nepenthes.co.jp/products/deconstructed-sweat-shirt-7",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY376_D-Black_1.jpg?v=1791177009",
+    "created": "2026-10-05",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY376D",
+    "date": "2026-10-05"
+   },
+   {
+    "id": "nep-8825503776951",
+    "title": "Deconstructed H.D. Sweat Pant",
+    "price_yen": "¥46,200",
+    "url": "https://onlinestore.nepenthes.co.jp/products/deconstructed-h-d-sweat-pant-6",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY377_A-H.Grey_1.jpg?v=1791176976",
+    "created": "2026-10-05",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "H. Grey",
+      "available": true
+     }
+    ],
+    "code": "TY377A",
+    "date": "2026-10-05"
+   },
+   {
+    "id": "nep-8825503940791",
+    "title": "Deconstructed H.D. Sweat Pant",
+    "price_yen": "¥46,200",
+    "url": "https://onlinestore.nepenthes.co.jp/products/deconstructed-h-d-sweat-pant-7",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY377_B-Rust_1.jpg?v=1791176799",
+    "created": "2026-10-05",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Rust",
+      "available": true
+     }
+    ],
+    "code": "TY377B",
+    "date": "2026-10-05"
+   },
+   {
+    "id": "nep-8825504563383",
+    "title": "L/S Pocket Tee - Cotton Jersey",
+    "price_yen": "¥15,400",
+    "url": "https://onlinestore.nepenthes.co.jp/products/l-s-pocket-tee-cotton-jersey-11",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY398_F-Black_1.jpg?v=1791176750",
+    "created": "2026-10-05",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY398F",
+    "date": "2026-10-05"
+   },
+   {
+    "id": "nep-8825505251511",
+    "title": "Mohair Cardigan - Folklore",
+    "price_yen": "¥34,100",
+    "url": "https://onlinestore.nepenthes.co.jp/products/mohair-cardigan-folklore",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY411_Camel_1.jpg?v=1791176638",
+    "created": "2026-10-05",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Camel",
+      "available": true
+     }
+    ],
+    "code": "TY411",
+    "date": "2026-10-05"
+   },
+   {
+    "id": "nep-8825505382583",
+    "title": "Mohair Cardigan - Abstract",
+    "price_yen": "¥34,100",
+    "url": "https://onlinestore.nepenthes.co.jp/products/mohair-cardigan-abstract",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY412_BlackRed_1.jpg?v=1791176123",
+    "created": "2026-10-05",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Blk/Red",
+      "available": true
+     }
+    ],
+    "code": "TY412",
+    "date": "2026-10-05"
+   },
+   {
+    "id": "nep-8825506201783",
+    "title": "Mohair Knit Vest - Solid",
+    "price_yen": "¥25,300",
+    "url": "https://onlinestore.nepenthes.co.jp/products/mohair-knit-vest-solid-3",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY416_A-Green_1.jpg?v=1791167873",
+    "created": "2026-10-05",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Green",
+      "available": true
+     }
+    ],
+    "code": "TY416A",
+    "date": "2026-10-05"
+   },
+   {
+    "id": "nep-8825506332855",
+    "title": "Mohair Knit Vest - Solid",
+    "price_yen": "¥25,300",
+    "url": "https://onlinestore.nepenthes.co.jp/products/mohair-knit-vest-solid-4",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY416_B-OrangeRust_1.jpg?v=1791167859",
+    "created": "2026-10-05",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Orange",
+      "available": true
+     }
+    ],
+    "code": "TY416B",
+    "date": "2026-10-05"
+   },
+   {
+    "id": "nep-8825506496695",
+    "title": "Mohair Knit Vest - Solid",
+    "price_yen": "¥25,300",
+    "url": "https://onlinestore.nepenthes.co.jp/products/mohair-knit-vest-solid-5",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY416_C-Charcoal_1.jpg?v=1791167779",
+    "created": "2026-10-05",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Charcoal",
+      "available": true
+     }
+    ],
+    "code": "TY416C",
+    "date": "2026-10-05"
    }
   ],
   "STUDIOUS": [
@@ -18031,7 +18501,7 @@
      },
      {
       "name": "ブラック×チャコール",
-      "available": false
+      "available": true
      },
      {
       "name": "ホワイト",
@@ -18043,7 +18513,7 @@
      },
      {
       "name": "オリーブ",
-      "available": false
+      "available": true
      },
      {
       "name": "チャコール",
