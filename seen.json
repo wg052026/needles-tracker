@@ -6007,6 +6007,14 @@
   "mix-10331420098625": {
    "first": "2026-10-02",
    "title": "Needles/ニードルズ　H.D. Track Pant - Poly Smooth TY355"
+  },
+  "mix-10331419181121": {
+   "first": "2026-10-02",
+   "title": "NEEDLES/ニードルズ/MOHAIR CARDIGAN - NORDIC"
+  },
+  "mix-10331420688449": {
+   "first": "2026-10-02",
+   "title": "NEEDLES/ニードルズ/MOHAIR CARDIGAN - STRIPE"
   }
  },
  "_snapshots": {
@@ -6545,11 +6553,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/rib-collar-track-jacket-c-pevelour-1",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY358_B-Navy_1_fd0d9b67-ba2e-4cca-b2a1-1bc3830c1c85.jpg?v=1785119994",
     "created": "2026-07-17",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Navy",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY358B",
@@ -17987,6 +17995,40 @@
   ],
   "MIX.TOKYO": [
    {
+    "id": "mix-10331419181121",
+    "title": "NEEDLES/ニードルズ/MOHAIR CARDIGAN - NORDIC",
+    "price_yen": "¥31,000",
+    "url": "https://mix.tokyo/products/7846241218",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846241218-310_MAIN.jpg?v=1791370993",
+    "created": "2026-10-02",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "オリーブ",
+      "available": true
+     }
+    ],
+    "code": "",
+    "date": "2026-10-02"
+   },
+   {
+    "id": "mix-10331420688449",
+    "title": "NEEDLES/ニードルズ/MOHAIR CARDIGAN - STRIPE",
+    "price_yen": "¥31,000",
+    "url": "https://mix.tokyo/products/7846241216",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846241216-110_MAIN.jpg?v=1791370987",
+    "created": "2026-10-02",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "ブルー",
+      "available": true
+     }
+    ],
+    "code": "",
+    "date": "2026-10-02"
+   },
+   {
     "id": "mix-10331420098625",
     "title": "Needles/ニードルズ　H.D. Track Pant - Poly Smooth TY355",
     "price_yen": "¥21,000",
@@ -18517,7 +18559,7 @@
      },
      {
       "name": "チャコール",
-      "available": false
+      "available": true
      }
     ],
     "code": "",
@@ -18890,7 +18932,7 @@
     "colors": [
      {
       "name": "ブラック",
-      "available": true
+      "available": false
      },
      {
       "name": "グレー",
