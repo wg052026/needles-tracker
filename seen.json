@@ -6547,23 +6547,6 @@
     "date": "2026-07-17"
    },
    {
-    "id": "nep-8672552321207",
-    "title": "Rib Collar Track Jacket - C/PE Velour",
-    "price_yen": "¥34,100",
-    "url": "https://onlinestore.nepenthes.co.jp/products/rib-collar-track-jacket-c-pevelour-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY358_B-Navy_1_fd0d9b67-ba2e-4cca-b2a1-1bc3830c1c85.jpg?v=1785119994",
-    "created": "2026-07-17",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Navy",
-      "available": false
-     }
-    ],
-    "code": "TY358B",
-    "date": "2026-07-17"
-   },
-   {
     "id": "nep-8672552517815",
     "title": "Rib Collar Track Jacket - C/PE Velour",
     "price_yen": "¥34,100",
@@ -14101,11 +14084,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/one-up-shirt-printed-flannel-plaid-10",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY304_F-GreyOlive_1.jpg?v=1787986350",
     "created": "2026-08-28",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Grey/Olive",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY304F",
