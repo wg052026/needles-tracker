@@ -8179,40 +8179,6 @@
     "date": "2025-12-15"
    },
    {
-    "id": "nep-8312993906871",
-    "title": "Zipped Sweat Pant - Bright Jersey",
-    "price_yen": "¥20,900",
-    "url": "https://onlinestore.nepenthes.co.jp/products/zipped-sweat-pant-bright-jersey-12",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX427A-0.jpg?v=1765965996",
-    "created": "2025-12-16",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Purple",
-      "available": true
-     }
-    ],
-    "code": "SX427A",
-    "date": "2025-12-16"
-   },
-   {
-    "id": "nep-8312993972407",
-    "title": "Zipped Sweat Pant - Bright Jersey",
-    "price_yen": "¥20,900",
-    "url": "https://onlinestore.nepenthes.co.jp/products/zipped-sweat-pant-bright-jersey-13",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX427B-0.jpg?v=1765966044",
-    "created": "2025-12-16",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Dk. Green",
-      "available": true
-     }
-    ],
-    "code": "SX427B",
-    "date": "2025-12-16"
-   },
-   {
     "id": "nep-8314261864631",
     "title": "Coverall - PE/C Twill",
     "price_yen": "¥58,300",
@@ -8279,23 +8245,6 @@
     ],
     "code": "RW1502C",
     "date": "2025-12-17"
-   },
-   {
-    "id": "nep-8374319349943",
-    "title": "H.D. Pant - Paisley Jacquard",
-    "price_yen": "¥45,100",
-    "url": "https://onlinestore.nepenthes.co.jp/products/h-d-pant-paisley-jacquard-2",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX349-0.jpg?v=1769834965",
-    "created": "2026-01-31",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Off White",
-      "available": true
-     }
-    ],
-    "code": "SX349",
-    "date": "2026-01-31"
    },
    {
     "id": "nep-8402284282039",
@@ -17982,7 +17931,7 @@
     "title": "Needles/ニードルズ　H.D. Track Pant - Poly Smooth TY355",
     "price_yen": "¥21,000",
     "url": "https://mix.tokyo/products/7816210241",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816210241-010_MAIN.jpg?v=1791486136",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816210241-010_MAIN.jpg?v=1791572531",
     "created": "2026-10-02",
     "soldout": false,
     "colors": [
@@ -18007,7 +17956,7 @@
     "title": "NEEDLES / ニードルズ / H.D. Track Pant - Poly Smooth",
     "price_yen": "¥21,000",
     "url": "https://mix.tokyo/products/7856210293",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856210293-080_MAIN.jpg?v=1791486139",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856210293-080_MAIN.jpg?v=1791572539",
     "created": "2026-10-01",
     "soldout": false,
     "colors": [
@@ -18492,7 +18441,7 @@
      },
      {
       "name": "ブラック×チャコール",
-      "available": true
+      "available": false
      },
      {
       "name": "ホワイト",
