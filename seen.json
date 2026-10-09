@@ -11239,23 +11239,6 @@
     "date": "2026-07-24"
    },
    {
-    "id": "nep-8685780861111",
-    "title": "Track Jacket - Poly Jacquard",
-    "price_yen": "¥28,600",
-    "url": "https://onlinestore.nepenthes.co.jp/products/track-jacket-poly-jq-37",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY347_D-Geometric_1.jpg?v=1784878005",
-    "created": "2026-07-24",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Geometric",
-      "available": true
-     }
-    ],
-    "code": "TY347D",
-    "date": "2026-07-24"
-   },
-   {
     "id": "nep-8685781057719",
     "title": "Track Jacket - Poly Jacquard",
     "price_yen": "¥28,600",
@@ -14075,23 +14058,6 @@
      }
     ],
     "code": "TY304E",
-    "date": "2026-08-28"
-   },
-   {
-    "id": "nep-8738189476023",
-    "title": "One-Up Shirt - Printed Flannel / Plaid",
-    "price_yen": "¥27,500",
-    "url": "https://onlinestore.nepenthes.co.jp/products/one-up-shirt-printed-flannel-plaid-10",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY304_F-GreyOlive_1.jpg?v=1787986350",
-    "created": "2026-08-28",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Grey/Olive",
-      "available": false
-     }
-    ],
-    "code": "TY304F",
     "date": "2026-08-28"
    },
    {
