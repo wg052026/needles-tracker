@@ -9511,11 +9511,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/stole-cotton-gauze-22",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX060B-0.jpg?v=1767069336",
     "created": "2026-07-14",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Eggplant",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY060B",
@@ -18445,7 +18445,7 @@
      },
      {
       "name": "ホワイト",
-      "available": true
+      "available": false
      },
      {
       "name": "ブラック×パープル",
