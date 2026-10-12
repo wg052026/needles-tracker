@@ -2750,11 +2750,11 @@
   },
   "nep-8664285511863": {
    "first": "2026-07-14",
-   "title": "Papillon Emb. Boot-Cut Jean-12ozDenim"
+   "title": "Papillon Emb. Boot-Cut Jean - 12oz Denim"
   },
   "nep-8664285413559": {
    "first": "2026-07-14",
-   "title": "Papillon Emb. Straight Jean-12ozDenim"
+   "title": "Papillon Emb. Straight Jean - 12oz Denim"
   },
   "nep-8664291836087": {
    "first": "2026-07-14",
@@ -4694,15 +4694,15 @@
   },
   "nep-8825493749943": {
    "first": "2026-10-05",
-   "title": "Baseball Cap - Wool Diagonal Jacq."
+   "title": "Baseball Cap - Wool Diagonal Jacquard"
   },
   "nep-8825494241463": {
    "first": "2026-10-05",
-   "title": "Cap Shoulder Sports Jacket-Leo Jacq"
+   "title": "Cap Shoulder Sports Jacket - Leopard Jacquard"
   },
   "nep-8825494405303": {
    "first": "2026-10-05",
-   "title": "Cap Shoulder Sports Jacket-Leo Jacq"
+   "title": "Cap Shoulder Sports Jacket - Leopard Jacquard"
   },
   "nep-8825495027895": {
    "first": "2026-10-05",
@@ -4718,19 +4718,19 @@
   },
   "nep-8825497714871": {
    "first": "2026-10-05",
-   "title": "Papillon Emb. Straight Jean-14W Cord"
+   "title": "Papillon Emb. Straight Jean - 14W Corduroy"
   },
   "nep-8825497845943": {
    "first": "2026-10-05",
-   "title": "Papillon Emb. Straight Jean-14W Cord"
+   "title": "Papillon Emb. Straight Jean - 14W Corduroy"
   },
   "nep-8825498534071": {
    "first": "2026-10-05",
-   "title": "Papillon Emb. Boot-Cut Jean-14W Cord"
+   "title": "Papillon Emb. Boot-Cut Jean - 14W Corduroy"
   },
   "nep-8825498697911": {
    "first": "2026-10-05",
-   "title": "Papillon Emb. Boot-Cut Jean-14W Cord"
+   "title": "Papillon Emb. Boot-Cut Jean - 14W Corduroy"
   },
   "nep-8825499648183": {
    "first": "2026-10-05",
@@ -10220,7 +10220,7 @@
    },
    {
     "id": "nep-8664285413559",
-    "title": "Papillon Emb. Straight Jean-12ozDenim",
+    "title": "Papillon Emb. Straight Jean - 12oz Denim",
     "price_yen": "¥31,900",
     "url": "https://onlinestore.nepenthes.co.jp/products/papillon-emb-straight-jean-12ozdeni",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX211-0.jpg?v=1769834557",
@@ -10237,7 +10237,7 @@
    },
    {
     "id": "nep-8664285511863",
-    "title": "Papillon Emb. Boot-Cut Jean-12ozDenim",
+    "title": "Papillon Emb. Boot-Cut Jean - 12oz Denim",
     "price_yen": "¥31,900",
     "url": "https://onlinestore.nepenthes.co.jp/products/papillon-emb-boot-cut-jean-12ozdeni",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX212-0.jpg?v=1769834587",
@@ -12690,11 +12690,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/v-neck-cardigan-geo-raschel-lace-4",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY386_B-Eggplant_1.jpg?v=1786163013",
     "created": "2026-08-07",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Eggplant",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY386B",
@@ -12707,11 +12707,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/v-neck-cardigan-geo-raschel-lace-5",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY386_C-Black_1.jpg?v=1786162971",
     "created": "2026-08-07",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Black",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY386C",
@@ -12775,11 +12775,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/loose-b-b-jacket-sulfur-dye-duck-1",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY166_B-Black_1.jpg?v=1786768721",
     "created": "2026-08-14",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Black",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY166B",
@@ -15626,7 +15626,7 @@
    },
    {
     "id": "nep-8825493749943",
-    "title": "Baseball Cap - Wool Diagonal Jacq.",
+    "title": "Baseball Cap - Wool Diagonal Jacquard",
     "price_yen": "¥15,400",
     "url": "https://onlinestore.nepenthes.co.jp/products/baseball-cap-wool-diagonal-jacq",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY074_Dk.Navy_1.jpg?v=1791180999",
@@ -15643,7 +15643,7 @@
    },
    {
     "id": "nep-8825494241463",
-    "title": "Cap Shoulder Sports Jacket-Leo Jacq",
+    "title": "Cap Shoulder Sports Jacket - Leopard Jacquard",
     "price_yen": "¥52,800",
     "url": "https://onlinestore.nepenthes.co.jp/products/cap-shoulder-sports-jacket-leo-jacq",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY156_A-BrownBlack_1.jpg?v=1791180776",
@@ -15660,7 +15660,7 @@
    },
    {
     "id": "nep-8825494405303",
-    "title": "Cap Shoulder Sports Jacket-Leo Jacq",
+    "title": "Cap Shoulder Sports Jacket - Leopard Jacquard",
     "price_yen": "¥52,800",
     "url": "https://onlinestore.nepenthes.co.jp/products/cap-shoulder-sports-jacket-leo-jacq-1",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY156_B-BlackPurple_1.jpg?v=1791180514",
@@ -15728,7 +15728,7 @@
    },
    {
     "id": "nep-8825497714871",
-    "title": "Papillon Emb. Straight Jean-14W Cord",
+    "title": "Papillon Emb. Straight Jean - 14W Corduroy",
     "price_yen": "¥35,200",
     "url": "https://onlinestore.nepenthes.co.jp/products/papillon-emb-straight-jean-14w-cord",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY240_A-Brown_1.jpg?v=1791177531",
@@ -15745,7 +15745,7 @@
    },
    {
     "id": "nep-8825497845943",
-    "title": "Papillon Emb. Straight Jean-14W Cord",
+    "title": "Papillon Emb. Straight Jean - 14W Corduroy",
     "price_yen": "¥35,200",
     "url": "https://onlinestore.nepenthes.co.jp/products/papillon-emb-straight-jean-14w-cord-1",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY240_B-Black_1.jpg?v=1791177452",
@@ -15762,7 +15762,7 @@
    },
    {
     "id": "nep-8825498534071",
-    "title": "Papillon Emb. Boot-Cut Jean-14W Cord",
+    "title": "Papillon Emb. Boot-Cut Jean - 14W Corduroy",
     "price_yen": "¥35,200",
     "url": "https://onlinestore.nepenthes.co.jp/products/papillon-emb-boot-cut-jean-14w-cord",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY241_A-Brown_1.jpg?v=1791177398",
@@ -15779,7 +15779,7 @@
    },
    {
     "id": "nep-8825498697911",
-    "title": "Papillon Emb. Boot-Cut Jean-14W Cord",
+    "title": "Papillon Emb. Boot-Cut Jean - 14W Corduroy",
     "price_yen": "¥35,200",
     "url": "https://onlinestore.nepenthes.co.jp/products/papillon-emb-boot-cut-jean-14w-cord-1",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY241_B-Black_1.jpg?v=1791177269",
