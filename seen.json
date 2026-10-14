@@ -8876,23 +8876,6 @@
     "date": "2026-07-14"
    },
    {
-    "id": "nep-8664235376823",
-    "title": "Peace Pendant / Small - 925 Silver",
-    "price_yen": "¥28,600",
-    "url": "https://onlinestore.nepenthes.co.jp/products/peace-pendant-small-925-silver-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX017Silver.jpg?v=1784096383",
-    "created": "2026-07-14",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Silver",
-      "available": false
-     }
-    ],
-    "code": "TY016",
-    "date": "2026-07-14"
-   },
-   {
     "id": "nep-8664235409591",
     "title": "Peace Pendant / Small - Gold Plate",
     "price_yen": "¥30,800",
@@ -11698,23 +11681,6 @@
     "date": "2026-08-01"
    },
    {
-    "id": "nep-8693343420599",
-    "title": "V Neck Cardigan - Poly Jq. / Abstract",
-    "price_yen": "¥26,400",
-    "url": "https://onlinestore.nepenthes.co.jp/products/v-neck-cardigan-poly-jq-abstract-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY261_B-Bordeaux_1.jpg?v=1785648226",
-    "created": "2026-08-01",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Bordeaux",
-      "available": false
-     }
-    ],
-    "code": "TY261B",
-    "date": "2026-08-01"
-   },
-   {
     "id": "nep-8693344567479",
     "title": "Short Sports Jacket - Poly D.Cloth Stretch",
     "price_yen": "¥51,700",
@@ -12180,11 +12146,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/darts-jean-jacket-13oz-python-jacq",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY221_A-Indigo_1.jpg?v=1786165026",
     "created": "2026-08-07",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Indigo",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY221A",
@@ -14007,23 +13973,6 @@
      }
     ],
     "code": "TY395B",
-    "date": "2026-08-28"
-   },
-   {
-    "id": "nep-8738191671479",
-    "title": "Shawl Collar L/S Polo - Cotton Pique",
-    "price_yen": "¥16,500",
-    "url": "https://onlinestore.nepenthes.co.jp/products/shawl-collar-l-s-polo-cotton-pique-8",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY395_C-Brown_1.jpg?v=1787984758",
-    "created": "2026-08-28",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Brown",
-      "available": false
-     }
-    ],
-    "code": "TY395C",
     "date": "2026-08-28"
    },
    {
