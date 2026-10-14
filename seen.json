@@ -8482,11 +8482,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/59-fifty-papillon-emb-1",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/NEEDLES-0_f5b28fe3-6778-4fff-b59b-d13671b7e3ca.jpg?v=1782367525",
     "created": "2026-06-25",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Black",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY3001",
@@ -17794,7 +17794,7 @@
     "title": "Needles/ニードルズ　Deconstructed H.D. Sweat Pant TY377",
     "price_yen": "¥42,000",
     "url": "https://mix.tokyo/products/7816210243",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816210243-010_MAIN.jpg?v=1791975761",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816210243-010_MAIN.jpg?v=1792004534",
     "created": "2026-10-13",
     "soldout": false,
     "colors": [
