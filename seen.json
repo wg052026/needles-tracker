@@ -6015,6 +6015,14 @@
   "mix-10331420688449": {
    "first": "2026-10-02",
    "title": "NEEDLES/ニードルズ/MOHAIR CARDIGAN - STRIPE"
+  },
+  "mix-10346395533377": {
+   "first": "2026-10-13",
+   "title": "Needles/ニードルズ　Pleated Track Skirt - Poly Smooth TY357"
+  },
+  "mix-10346398744641": {
+   "first": "2026-10-13",
+   "title": "Needles/ニードルズ　Deconstructed H.D. Sweat Pant TY377"
   }
  },
  "_snapshots": {
@@ -15865,28 +15873,11 @@
   ],
   "STUDIOUS": [
    {
-    "id": "stu-g116550127164",
-    "title": "Reilroad Zip Jacket -Melange Double Cloth",
-    "price_yen": "¥49,500",
-    "url": "https://studious.co.jp/shop/g/g116550127164/",
-    "img": "https://studious.co.jp/img/goods/S/116550127164_24e232b708c44527a1dca5cd672564ee.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "TY190C",
-    "date": "2026-10-07"
-   },
-   {
-    "id": "stu-g116540142163",
-    "title": "H.D. Track Pant - Poly Smooth",
-    "price_yen": "¥23,100",
-    "url": "https://studious.co.jp/shop/g/g116540142163/",
-    "img": "https://studious.co.jp/img/goods/S/116540142163_a5dda5c5b4aa4fecad6f47a176ce1215.jpg",
+    "id": "stu-g116523018165",
+    "title": "Track Crew Neck Shirt - Poly Smooth",
+    "price_yen": "¥22,000",
+    "url": "https://studious.co.jp/shop/g/g116523018165/",
+    "img": "https://studious.co.jp/img/goods/S/116523018165_b7203a0d3e9c45cba5e5023e6bbfd6d1.jpg",
     "created": "",
     "soldout": false,
     "colors": [
@@ -15901,10 +15892,14 @@
      {
       "name": "",
       "available": null
+     },
+     {
+      "name": "",
+      "available": null
      }
     ],
-    "code": "TY355",
-    "date": "2026-09-11"
+    "code": "TY350",
+    "date": "2026-09-04"
    },
    {
     "id": "stu-g116540141163",
@@ -15936,11 +15931,11 @@
     "date": "2026-09-04"
    },
    {
-    "id": "stu-g116550129164",
-    "title": "Track Jacket - Poly Smooth",
-    "price_yen": "¥28,600",
-    "url": "https://studious.co.jp/shop/g/g116550129164/",
-    "img": "https://studious.co.jp/img/goods/S/116550129164_e95b12b4fa084c679be7ae94af637d08.jpg",
+    "id": "stu-g116540142163",
+    "title": "H.D. Track Pant - Poly Smooth",
+    "price_yen": "¥23,100",
+    "url": "https://studious.co.jp/shop/g/g116540142163/",
+    "img": "https://studious.co.jp/img/goods/S/116540142163_a5dda5c5b4aa4fecad6f47a176ce1215.jpg",
     "created": "",
     "soldout": false,
     "colors": [
@@ -15957,37 +15952,8 @@
       "available": null
      }
     ],
-    "code": "TY349",
-    "date": "2026-09-04"
-   },
-   {
-    "id": "stu-g116523018165",
-    "title": "Track Crew Neck Shirt - Poly Smooth",
-    "price_yen": "¥22,000",
-    "url": "https://studious.co.jp/shop/g/g116523018165/",
-    "img": "https://studious.co.jp/img/goods/S/116523018165_b7203a0d3e9c45cba5e5023e6bbfd6d1.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     },
-     {
-      "name": "",
-      "available": null
-     },
-     {
-      "name": "",
-      "available": null
-     },
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "TY350",
-    "date": "2026-09-04"
+    "code": "TY355",
+    "date": "2026-09-11"
    },
    {
     "id": "stu-g116540190163",
@@ -16017,6 +15983,82 @@
     ],
     "code": "SX1672",
     "date": "2026-08-26"
+   },
+   {
+    "id": "stu-g116550129164",
+    "title": "Track Jacket - Poly Smooth",
+    "price_yen": "¥28,600",
+    "url": "https://studious.co.jp/shop/g/g116550129164/",
+    "img": "https://studious.co.jp/img/goods/S/116550129164_e95b12b4fa084c679be7ae94af637d08.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     },
+     {
+      "name": "",
+      "available": null
+     },
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "TY349",
+    "date": "2026-09-04"
+   },
+   {
+    "id": "stu-g116581001160",
+    "title": "別注 Nylon Cap - Papillon Embroidery BLACK",
+    "price_yen": "¥12,100",
+    "url": "https://studious.co.jp/shop/g/g116581001160/",
+    "img": "https://studious.co.jp/img/goods/S/116581001160_f558c746c3f54cb4814ad63a7850cafb.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "SX1558",
+    "date": "2026-07-14"
+   },
+   {
+    "id": "stu-g116581001170",
+    "title": "別注 Nylon Cap - Papillon Embroidery IVORY",
+    "price_yen": "¥12,100",
+    "url": "https://studious.co.jp/shop/g/g116581001170/",
+    "img": "https://studious.co.jp/img/goods/S/116581001170_c0cd71c8a12844058bdf7643dfddd151.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "SX1558",
+    "date": "2026-07-14"
+   },
+   {
+    "id": "stu-g116550127164",
+    "title": "Reilroad Zip Jacket -Melange Double Cloth",
+    "price_yen": "¥49,500",
+    "url": "https://studious.co.jp/shop/g/g116550127164/",
+    "img": "https://studious.co.jp/img/goods/S/116550127164_24e232b708c44527a1dca5cd672564ee.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "TY190C",
+    "date": "2026-10-07"
    },
    {
     "id": "stu-g116540189163",
@@ -16453,40 +16495,6 @@
     ],
     "code": "TY068D",
     "date": "2026-08-05"
-   },
-   {
-    "id": "stu-g116581001160",
-    "title": "別注 Nylon Cap - Papillon Embroidery BLACK",
-    "price_yen": "¥12,100",
-    "url": "https://studious.co.jp/shop/g/g116581001160/",
-    "img": "https://studious.co.jp/img/goods/S/116581001160_f558c746c3f54cb4814ad63a7850cafb.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "SX1558",
-    "date": "2026-07-14"
-   },
-   {
-    "id": "stu-g116581001170",
-    "title": "別注 Nylon Cap - Papillon Embroidery IVORY",
-    "price_yen": "¥12,100",
-    "url": "https://studious.co.jp/shop/g/g116581001170/",
-    "img": "https://studious.co.jp/img/goods/S/116581001170_c0cd71c8a12844058bdf7643dfddd151.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "SX1558",
-    "date": "2026-07-14"
    },
    {
     "id": "stu-g116587020074",
@@ -17756,6 +17764,48 @@
    }
   ],
   "MIX.TOKYO": [
+   {
+    "id": "mix-10346395533377",
+    "title": "Needles/ニードルズ　Pleated Track Skirt - Poly Smooth TY357",
+    "price_yen": "¥21,000",
+    "url": "https://mix.tokyo/products/7816214201",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816214201-010_MAIN.jpg?v=1791975744",
+    "created": "2026-10-13",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "ブラック",
+      "available": true
+     },
+     {
+      "name": "パープル",
+      "available": true
+     },
+     {
+      "name": "ネイビー",
+      "available": true
+     }
+    ],
+    "code": "",
+    "date": "2026-10-13"
+   },
+   {
+    "id": "mix-10346398744641",
+    "title": "Needles/ニードルズ　Deconstructed H.D. Sweat Pant TY377",
+    "price_yen": "¥42,000",
+    "url": "https://mix.tokyo/products/7816210243",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816210243-010_MAIN.jpg?v=1791975761",
+    "created": "2026-10-13",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "ブラック",
+      "available": true
+     }
+    ],
+    "code": "",
+    "date": "2026-10-13"
+   },
    {
     "id": "mix-10331419181121",
     "title": "NEEDLES/ニードルズ/MOHAIR CARDIGAN - NORDIC",
