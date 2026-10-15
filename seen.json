@@ -4779,6 +4779,70 @@
   "nep-8825506496695": {
    "first": "2026-10-05",
    "title": "Mohair Knit Vest - Solid"
+  },
+  "nep-8841708896439": {
+   "first": "2026-10-13",
+   "title": "Warm Up Pant - PE/W Gabardine"
+  },
+  "nep-8841709027511": {
+   "first": "2026-10-13",
+   "title": "Warm Up Pant - PE/W Gabardine"
+  },
+  "nep-8841709060279": {
+   "first": "2026-10-13",
+   "title": "Warm Up Pant - PE/W Gabardine"
+  },
+  "nep-8841709584567": {
+   "first": "2026-10-13",
+   "title": "L/S High Neck Tee - Wool Jersey"
+  },
+  "nep-8841709519031": {
+   "first": "2026-10-13",
+   "title": "L/S High Neck Tee - Wool Jersey"
+  },
+  "nep-8841709682871": {
+   "first": "2026-10-13",
+   "title": "L/S High Neck Tee - Wool Jersey"
+  },
+  "nep-8841709748407": {
+   "first": "2026-10-13",
+   "title": "L/S Mock Neck Tee - Wool Jersey"
+  },
+  "nep-8841709846711": {
+   "first": "2026-10-13",
+   "title": "L/S Mock Neck Tee - Wool Jersey"
+  },
+  "nep-8841710043319": {
+   "first": "2026-10-13",
+   "title": "L/S Mock Neck Tee - Wool Jersey"
+  },
+  "nep-8841710076087": {
+   "first": "2026-10-13",
+   "title": "Leggings - Wool Jersey"
+  },
+  "nep-8841710239927": {
+   "first": "2026-10-13",
+   "title": "Leggings - Wool Jersey"
+  },
+  "nep-8841710272695": {
+   "first": "2026-10-13",
+   "title": "Leggings - Wool Jersey"
+  },
+  "nep-8841721643191": {
+   "first": "2026-10-13",
+   "title": "〈NEEDLES〉x〈A TRIBE  CALLED QUEST〉 Roll Neck Cardigan"
+  },
+  "nep-8841721282743": {
+   "first": "2026-10-13",
+   "title": "〈NEEDLES〉x〈A TRIBE  CALLED QUEST〉 Track Pant - Poly Smooth"
+  },
+  "nep-8841721020599": {
+   "first": "2026-10-13",
+   "title": "〈NEEDLES〉x〈A TRIBE  CALLED QUEST〉 Track Jacket - Poly Smooth"
+  },
+  "nep-8841720758455": {
+   "first": "2026-10-13",
+   "title": "〈NEEDLES〉x〈A TRIBE  CALLED QUEST〉 B.B. Jacket - Wool Melton"
   }
  },
  "STUDIOUS": {
@@ -8476,23 +8540,6 @@
     "date": "2026-05-16"
    },
    {
-    "id": "nep-8623061303479",
-    "title": "〈NEEDLES〉x〈NEW ERA〉59 Fifty - Papillon Emb.",
-    "price_yen": "¥8,250",
-    "url": "https://onlinestore.nepenthes.co.jp/products/59-fifty-papillon-emb-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/NEEDLES-0_f5b28fe3-6778-4fff-b59b-d13671b7e3ca.jpg?v=1782367525",
-    "created": "2026-06-25",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Black",
-      "available": false
-     }
-    ],
-    "code": "TY3001",
-    "date": "2026-06-25"
-   },
-   {
     "id": "nep-8654463271095",
     "title": "H.D. Pant - Fatigue",
     "price_yen": "¥26,400",
@@ -12148,23 +12195,6 @@
     "date": "2026-08-07"
    },
    {
-    "id": "nep-8701049733303",
-    "title": "Darts Jean Jacket - 13oz Python Jacquard",
-    "price_yen": "¥41,800",
-    "url": "https://onlinestore.nepenthes.co.jp/products/darts-jean-jacket-13oz-python-jacq",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY221_A-Indigo_1.jpg?v=1786165026",
-    "created": "2026-08-07",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Indigo",
-      "available": false
-     }
-    ],
-    "code": "TY221A",
-    "date": "2026-08-07"
-   },
-   {
     "id": "nep-8701049798839",
     "title": "Darts Jean Jacket - 13oz Python Jacquard",
     "price_yen": "¥41,800",
@@ -14868,23 +14898,6 @@
     "date": "2026-09-13"
    },
    {
-    "id": "nep-8774890815671",
-    "title": "Western Leisure Jacket - Poly Double Cloth",
-    "price_yen": "¥58,300",
-    "url": "https://onlinestore.nepenthes.co.jp/products/western-leisure-jkt-poly-d-cloth",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY257_A-Purple_1.jpg?v=1789273608",
-    "created": "2026-09-13",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Purple",
-      "available": true
-     }
-    ],
-    "code": "TY257A",
-    "date": "2026-09-13"
-   },
-   {
     "id": "nep-8774890881207",
     "title": "Western Leisure Jacket - Poly Double Cloth",
     "price_yen": "¥58,300",
@@ -15869,6 +15882,278 @@
     ],
     "code": "TY416C",
     "date": "2026-10-05"
+   },
+   {
+    "id": "nep-8841708896439",
+    "title": "Warm Up Pant - PE/W Gabardine",
+    "price_yen": "¥35,200",
+    "url": "https://onlinestore.nepenthes.co.jp/products/warm-up-pant-pe-w-gabardine-3",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY252_A-Brown_1.jpg?v=1791874572",
+    "created": "2026-10-13",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Brown",
+      "available": true
+     }
+    ],
+    "code": "TY252A",
+    "date": "2026-10-13"
+   },
+   {
+    "id": "nep-8841709027511",
+    "title": "Warm Up Pant - PE/W Gabardine",
+    "price_yen": "¥35,200",
+    "url": "https://onlinestore.nepenthes.co.jp/products/warm-up-pant-pe-w-gabardine-4",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY252_B-Olive_1.jpg?v=1791874615",
+    "created": "2026-10-13",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Olive",
+      "available": true
+     }
+    ],
+    "code": "TY252B",
+    "date": "2026-10-13"
+   },
+   {
+    "id": "nep-8841709060279",
+    "title": "Warm Up Pant - PE/W Gabardine",
+    "price_yen": "¥35,200",
+    "url": "https://onlinestore.nepenthes.co.jp/products/warm-up-pant-pe-w-gabardine-5",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY252_C-Black_1.jpg?v=1791874640",
+    "created": "2026-10-13",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY252C",
+    "date": "2026-10-13"
+   },
+   {
+    "id": "nep-8841709584567",
+    "title": "L/S High Neck Tee - Wool Jersey",
+    "price_yen": "¥19,800",
+    "url": "https://onlinestore.nepenthes.co.jp/products/l-s-high-neck-tee-wool-jersey-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY388_B-Red_1.jpg?v=1791874737",
+    "created": "2026-10-13",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Red",
+      "available": true
+     }
+    ],
+    "code": "TY388B",
+    "date": "2026-10-13"
+   },
+   {
+    "id": "nep-8841709519031",
+    "title": "L/S High Neck Tee - Wool Jersey",
+    "price_yen": "¥19,800",
+    "url": "https://onlinestore.nepenthes.co.jp/products/l-s-high-neck-tee-wool-jersey",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY388_A-White_1.jpg?v=1791874692",
+    "created": "2026-10-13",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "White",
+      "available": true
+     }
+    ],
+    "code": "TY388A",
+    "date": "2026-10-13"
+   },
+   {
+    "id": "nep-8841709682871",
+    "title": "L/S High Neck Tee - Wool Jersey",
+    "price_yen": "¥19,800",
+    "url": "https://onlinestore.nepenthes.co.jp/products/l-s-high-neck-tee-wool-jersey-2",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY388_C-Black_1.jpg?v=1791874777",
+    "created": "2026-10-13",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY388C",
+    "date": "2026-10-13"
+   },
+   {
+    "id": "nep-8841709748407",
+    "title": "L/S Mock Neck Tee - Wool Jersey",
+    "price_yen": "¥18,700",
+    "url": "https://onlinestore.nepenthes.co.jp/products/l-s-mock-neck-tee-wool-jersey",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY389_A-White_1.jpg?v=1791874807",
+    "created": "2026-10-13",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "White",
+      "available": true
+     }
+    ],
+    "code": "TY389A",
+    "date": "2026-10-13"
+   },
+   {
+    "id": "nep-8841709846711",
+    "title": "L/S Mock Neck Tee - Wool Jersey",
+    "price_yen": "¥18,700",
+    "url": "https://onlinestore.nepenthes.co.jp/products/l-s-mock-neck-tee-wool-jersey-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY389_B-Red_1.jpg?v=1791874837",
+    "created": "2026-10-13",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Red",
+      "available": true
+     }
+    ],
+    "code": "TY389B",
+    "date": "2026-10-13"
+   },
+   {
+    "id": "nep-8841710043319",
+    "title": "L/S Mock Neck Tee - Wool Jersey",
+    "price_yen": "¥18,700",
+    "url": "https://onlinestore.nepenthes.co.jp/products/l-s-mock-neck-tee-wool-jersey-2",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY389_C-Black_1.jpg?v=1791874878",
+    "created": "2026-10-13",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY389C",
+    "date": "2026-10-13"
+   },
+   {
+    "id": "nep-8841710076087",
+    "title": "Leggings - Wool Jersey",
+    "price_yen": "¥19,800",
+    "url": "https://onlinestore.nepenthes.co.jp/products/leggings-wool-jersey",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY390_A-White_1.jpg?v=1791874900",
+    "created": "2026-10-13",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "White",
+      "available": true
+     }
+    ],
+    "code": "TY390A",
+    "date": "2026-10-13"
+   },
+   {
+    "id": "nep-8841710239927",
+    "title": "Leggings - Wool Jersey",
+    "price_yen": "¥19,800",
+    "url": "https://onlinestore.nepenthes.co.jp/products/leggings-wool-jersey-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY390_B-Red_1.jpg?v=1791874929",
+    "created": "2026-10-13",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Red",
+      "available": true
+     }
+    ],
+    "code": "TY390B",
+    "date": "2026-10-13"
+   },
+   {
+    "id": "nep-8841710272695",
+    "title": "Leggings - Wool Jersey",
+    "price_yen": "¥19,800",
+    "url": "https://onlinestore.nepenthes.co.jp/products/leggings-wool-jersey-2",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY390_C-Black_1.jpg?v=1791874948",
+    "created": "2026-10-13",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY390C",
+    "date": "2026-10-13"
+   },
+   {
+    "id": "nep-8841721643191",
+    "title": "〈NEEDLES〉x〈A TRIBE  CALLED QUEST〉 Roll Neck Cardigan",
+    "price_yen": "¥107,800",
+    "url": "https://onlinestore.nepenthes.co.jp/products/roll-neck-cardigan",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY563-0_e989ef63-63f8-417e-943b-c2b2790e0e0e.jpg?v=1791940322",
+    "created": "2026-10-13",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Blk/Red/Grn",
+      "available": true
+     }
+    ],
+    "code": "TY563",
+    "date": "2026-10-13"
+   },
+   {
+    "id": "nep-8841721282743",
+    "title": "〈NEEDLES〉x〈A TRIBE  CALLED QUEST〉 Track Pant - Poly Smooth",
+    "price_yen": "¥24,200",
+    "url": "https://onlinestore.nepenthes.co.jp/products/track-pant-poly-smooth-38",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY562-0_625e8dfe-95db-4bad-a690-d9f5ed4ff090.jpg?v=1791940282",
+    "created": "2026-10-13",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY562",
+    "date": "2026-10-13"
+   },
+   {
+    "id": "nep-8841721020599",
+    "title": "〈NEEDLES〉x〈A TRIBE  CALLED QUEST〉 Track Jacket - Poly Smooth",
+    "price_yen": "¥29,700",
+    "url": "https://onlinestore.nepenthes.co.jp/products/track-jacket-poly-smooth-41",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY561-0_2d3353a1-4d29-41f1-9b98-dc2f22d544b3.jpg?v=1791940233",
+    "created": "2026-10-13",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY561",
+    "date": "2026-10-13"
+   },
+   {
+    "id": "nep-8841720758455",
+    "title": "〈NEEDLES〉x〈A TRIBE  CALLED QUEST〉 B.B. Jacket - Wool Melton",
+    "price_yen": "¥77,000",
+    "url": "https://onlinestore.nepenthes.co.jp/products/b-b-jacket-wool-melton",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY560-0_48d6ce7b-f15c-47d6-b0b8-c136e777105c.jpg?v=1791940173",
+    "created": "2026-10-13",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY560",
+    "date": "2026-10-13"
    }
   ],
   "STUDIOUS": [
