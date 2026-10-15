@@ -13895,23 +13895,6 @@
     "date": "2026-08-28"
    },
    {
-    "id": "nep-8738189279415",
-    "title": "One-Up Shirt - Printed Flannel / Plaid",
-    "price_yen": "¥27,500",
-    "url": "https://onlinestore.nepenthes.co.jp/products/one-up-shirt-printed-flannel-plaid-7",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY304_C-RedBrown_1.jpg?v=1787986620",
-    "created": "2026-08-28",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Red/Brown",
-      "available": true
-     }
-    ],
-    "code": "TY304C",
-    "date": "2026-08-28"
-   },
-   {
     "id": "nep-8738189410487",
     "title": "One-Up Shirt - Printed Flannel / Plaid",
     "price_yen": "¥27,500",
@@ -14003,11 +13986,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/shawl-collar-l-s-polo-cotton-pique-7",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY395_B-Purple_1.jpg?v=1787984888",
     "created": "2026-08-28",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Purple",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY395B",
