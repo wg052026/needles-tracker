@@ -5477,6 +5477,22 @@
   "stu-g116550127164": {
    "first": "2026-10-07",
    "title": "Reilroad Zip Jacket -Melange Double Cloth"
+  },
+  "stu-g116523033133": {
+   "first": "2026-10-16",
+   "title": "DeconstructedSweatShirt"
+  },
+  "stu-g116550133165": {
+   "first": "2026-10-16",
+   "title": "Needles x A Tribe Called Quest Track Jacket - Poly Smooth"
+  },
+  "stu-g116540146164": {
+   "first": "2026-10-16",
+   "title": "Needles x A Tribe Called Quest Track Pant - Poly Smooth"
+  },
+  "stu-g116650054165": {
+   "first": "2026-10-16",
+   "title": "Needles x A Tribe Called Quest B.B. Jacket - Wool Melton"
   }
  },
  "MIX.TOKYO": {
@@ -6087,6 +6103,14 @@
   "mix-10346398744641": {
    "first": "2026-10-13",
    "title": "Needles/ニードルズ　Deconstructed H.D. Sweat Pant TY377"
+  },
+  "mix-10353235853377": {
+   "first": "2026-10-15",
+   "title": "NEEDLES/ニードルズ/DECONSTRUCTED H.D. SWEAT PANT"
+  },
+  "mix-10353234575425": {
+   "first": "2026-10-15",
+   "title": "NEEDLES/ニードルズ/PLEATED TRACK ST - POLY SMOOTH"
   }
  },
  "_snapshots": {
@@ -15391,23 +15415,6 @@
     "date": "2026-09-26"
    },
    {
-    "id": "nep-8807767015607",
-    "title": "Long Point Collar Jacket - Cut Jaquard Heart Fringe",
-    "price_yen": "¥45,100",
-    "url": "https://onlinestore.nepenthes.co.jp/products/long-point-collar-jkt-cut-jq-heart",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY335_A-Black_1.jpg?v=1790566442",
-    "created": "2026-09-27",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Black",
-      "available": true
-     }
-    ],
-    "code": "TY335A",
-    "date": "2026-09-27"
-   },
-   {
     "id": "nep-8809516630199",
     "title": "Shearling Coat - Sheepskin",
     "price_yen": "¥294,800",
@@ -16141,11 +16148,117 @@
   ],
   "STUDIOUS": [
    {
-    "id": "stu-g116523018165",
-    "title": "Track Crew Neck Shirt - Poly Smooth",
-    "price_yen": "¥22,000",
-    "url": "https://studious.co.jp/shop/g/g116523018165/",
-    "img": "https://studious.co.jp/img/goods/S/116523018165_b7203a0d3e9c45cba5e5023e6bbfd6d1.jpg",
+    "id": "stu-g116523033133",
+    "title": "DeconstructedSweatShirt",
+    "price_yen": "¥39,600",
+    "url": "https://studious.co.jp/shop/g/g116523033133/",
+    "img": "https://studious.co.jp/img/goods/S/116523033133_2646c5921fe045a38a7c4f6a80f88267.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     },
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "TY376A",
+    "date": "2026-10-16"
+   },
+   {
+    "id": "stu-g116550133165",
+    "title": "Needles x A Tribe Called Quest Track Jacket - Poly Smooth",
+    "price_yen": "¥29,700",
+    "url": "https://studious.co.jp/shop/g/g116550133165/",
+    "img": "https://studious.co.jp/img/goods/S/116550133165_bbedeca80a5949b5a91d6280a6fc4db9.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "TY561",
+    "date": "2026-10-16"
+   },
+   {
+    "id": "stu-g116540146164",
+    "title": "Needles x A Tribe Called Quest Track Pant - Poly Smooth",
+    "price_yen": "¥24,200",
+    "url": "https://studious.co.jp/shop/g/g116540146164/",
+    "img": "https://studious.co.jp/img/goods/S/116540146164_db909b6a772b419b9b5a4627ea487034.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "TY562",
+    "date": "2026-10-16"
+   },
+   {
+    "id": "stu-g116650054165",
+    "title": "Needles x A Tribe Called Quest B.B. Jacket - Wool Melton",
+    "price_yen": "¥77,000",
+    "url": "https://studious.co.jp/shop/g/g116650054165/",
+    "img": "https://studious.co.jp/img/goods/S/116650054165_db2c363581f04d23b404b0423a66e1cf.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "TY560",
+    "date": "2026-10-16"
+   },
+   {
+    "id": "stu-g116581001160",
+    "title": "別注 Nylon Cap - Papillon Embroidery BLACK",
+    "price_yen": "¥12,100",
+    "url": "https://studious.co.jp/shop/g/g116581001160/",
+    "img": "https://studious.co.jp/img/goods/S/116581001160_f558c746c3f54cb4814ad63a7850cafb.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "SX1558",
+    "date": "2026-07-14"
+   },
+   {
+    "id": "stu-g116581001170",
+    "title": "別注 Nylon Cap - Papillon Embroidery IVORY",
+    "price_yen": "¥12,100",
+    "url": "https://studious.co.jp/shop/g/g116581001170/",
+    "img": "https://studious.co.jp/img/goods/S/116581001170_c0cd71c8a12844058bdf7643dfddd151.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "SX1558",
+    "date": "2026-07-14"
+   },
+   {
+    "id": "stu-g116540190163",
+    "title": "別注 H.D. Track Pant - Corduroy",
+    "price_yen": "¥41,800",
+    "url": "https://studious.co.jp/shop/g/g116540190163/",
+    "img": "https://studious.co.jp/img/goods/S/116540190163_85da800d0cb04beda32ac476d00b9813.jpg",
     "created": "",
     "soldout": false,
     "colors": [
@@ -16166,7 +16279,32 @@
       "available": null
      }
     ],
-    "code": "TY350",
+    "code": "SX1672",
+    "date": "2026-08-26"
+   },
+   {
+    "id": "stu-g116550129164",
+    "title": "Track Jacket - Poly Smooth",
+    "price_yen": "¥28,600",
+    "url": "https://studious.co.jp/shop/g/g116550129164/",
+    "img": "https://studious.co.jp/img/goods/S/116550129164_e95b12b4fa084c679be7ae94af637d08.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     },
+     {
+      "name": "",
+      "available": null
+     },
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "TY349",
     "date": "2026-09-04"
    },
    {
@@ -16224,11 +16362,11 @@
     "date": "2026-09-11"
    },
    {
-    "id": "stu-g116540190163",
-    "title": "別注 H.D. Track Pant - Corduroy",
-    "price_yen": "¥41,800",
-    "url": "https://studious.co.jp/shop/g/g116540190163/",
-    "img": "https://studious.co.jp/img/goods/S/116540190163_85da800d0cb04beda32ac476d00b9813.jpg",
+    "id": "stu-g116523018165",
+    "title": "Track Crew Neck Shirt - Poly Smooth",
+    "price_yen": "¥22,000",
+    "url": "https://studious.co.jp/shop/g/g116523018165/",
+    "img": "https://studious.co.jp/img/goods/S/116523018165_b7203a0d3e9c45cba5e5023e6bbfd6d1.jpg",
     "created": "",
     "soldout": false,
     "colors": [
@@ -16249,67 +16387,8 @@
       "available": null
      }
     ],
-    "code": "SX1672",
-    "date": "2026-08-26"
-   },
-   {
-    "id": "stu-g116550129164",
-    "title": "Track Jacket - Poly Smooth",
-    "price_yen": "¥28,600",
-    "url": "https://studious.co.jp/shop/g/g116550129164/",
-    "img": "https://studious.co.jp/img/goods/S/116550129164_e95b12b4fa084c679be7ae94af637d08.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     },
-     {
-      "name": "",
-      "available": null
-     },
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "TY349",
+    "code": "TY350",
     "date": "2026-09-04"
-   },
-   {
-    "id": "stu-g116581001160",
-    "title": "別注 Nylon Cap - Papillon Embroidery BLACK",
-    "price_yen": "¥12,100",
-    "url": "https://studious.co.jp/shop/g/g116581001160/",
-    "img": "https://studious.co.jp/img/goods/S/116581001160_f558c746c3f54cb4814ad63a7850cafb.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "SX1558",
-    "date": "2026-07-14"
-   },
-   {
-    "id": "stu-g116581001170",
-    "title": "別注 Nylon Cap - Papillon Embroidery IVORY",
-    "price_yen": "¥12,100",
-    "url": "https://studious.co.jp/shop/g/g116581001170/",
-    "img": "https://studious.co.jp/img/goods/S/116581001170_c0cd71c8a12844058bdf7643dfddd151.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "SX1558",
-    "date": "2026-07-14"
    },
    {
     "id": "stu-g116550127164",
@@ -16584,23 +16663,6 @@
     "date": "2026-08-09"
    },
    {
-    "id": "stu-g116540166213",
-    "title": "別注 H.D. Track Pant - Nylon Polyester",
-    "price_yen": "¥28,600",
-    "url": "https://studious.co.jp/shop/g/g116540166213/",
-    "img": "https://studious.co.jp/img/goods/S/116540166213_b3e4e81cb14a4dd7b764f27ebe4db15f.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "SX1669",
-    "date": "2026-09-29"
-   },
-   {
     "id": "stu-g116550131304",
     "title": "Needles x FILA Ventisei Track Jacket",
     "price_yen": "¥28,600",
@@ -16616,44 +16678,6 @@
     ],
     "code": "",
     "date": "2026-08-09"
-   },
-   {
-    "id": "stu-g116558001164",
-    "title": "別注 Piping Cowboy Jacket-Poly Double Cloth",
-    "price_yen": "¥39,600",
-    "url": "https://studious.co.jp/shop/g/g116558001164/",
-    "img": "https://studious.co.jp/img/goods/S/116558001164_7f8b3903703f4ed4990f181e8e1829df.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     },
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "SX1555",
-    "date": "2026-08-04"
-   },
-   {
-    "id": "stu-g116558003215",
-    "title": "別注 Track Jacket - Nylon Polyester",
-    "price_yen": "¥30,800",
-    "url": "https://studious.co.jp/shop/g/g116558003215/",
-    "img": "https://studious.co.jp/img/goods/S/116558003215_4d6b5d3316754fb397fad0d2c2fc4491.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "SX1668",
-    "date": "2026-09-24"
    },
    {
     "id": "stu-g116550128164",
@@ -16719,6 +16743,78 @@
     "date": "2026-08-04"
    },
    {
+    "id": "stu-g116558001164",
+    "title": "別注 Piping Cowboy Jacket-Poly Double Cloth",
+    "price_yen": "¥39,600",
+    "url": "https://studious.co.jp/shop/g/g116558001164/",
+    "img": "https://studious.co.jp/img/goods/S/116558001164_7f8b3903703f4ed4990f181e8e1829df.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     },
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "SX1555",
+    "date": "2026-08-04"
+   },
+   {
+    "id": "stu-g116558003215",
+    "title": "別注 Track Jacket - Nylon Polyester",
+    "price_yen": "¥30,800",
+    "url": "https://studious.co.jp/shop/g/g116558003215/",
+    "img": "https://studious.co.jp/img/goods/S/116558003215_4d6b5d3316754fb397fad0d2c2fc4491.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "SX1668",
+    "date": "2026-09-24"
+   },
+   {
+    "id": "stu-g116587020074",
+    "title": "Ring - 925 Silver (Papillon)",
+    "price_yen": "¥17,600",
+    "url": "https://studious.co.jp/shop/g/g116587020074/",
+    "img": "https://studious.co.jp/img/goods/S/116587020074_c6bb2b85559344c88c9f65903c252a1f.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "",
+    "date": "2026-07-17"
+   },
+   {
+    "id": "stu-g116540166213",
+    "title": "別注 H.D. Track Pant - Nylon Polyester",
+    "price_yen": "¥28,600",
+    "url": "https://studious.co.jp/shop/g/g116540166213/",
+    "img": "https://studious.co.jp/img/goods/S/116540166213_b3e4e81cb14a4dd7b764f27ebe4db15f.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "SX1669",
+    "date": "2026-09-29"
+   },
+   {
     "id": "stu-g116681003160",
     "title": "Watch Cap - Shetland Wool",
     "price_yen": "¥11,000",
@@ -16763,23 +16859,6 @@
     ],
     "code": "TY068D",
     "date": "2026-08-05"
-   },
-   {
-    "id": "stu-g116587020074",
-    "title": "Ring - 925 Silver (Papillon)",
-    "price_yen": "¥17,600",
-    "url": "https://studious.co.jp/shop/g/g116587020074/",
-    "img": "https://studious.co.jp/img/goods/S/116587020074_c6bb2b85559344c88c9f65903c252a1f.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "",
-    "date": "2026-07-17"
    },
    {
     "id": "stu-g116322192035",
@@ -18033,6 +18112,52 @@
   ],
   "MIX.TOKYO": [
    {
+    "id": "mix-10353235853377",
+    "title": "NEEDLES/ニードルズ/DECONSTRUCTED H.D. SWEAT PANT",
+    "price_yen": "¥42,000",
+    "url": "https://mix.tokyo/products/7846210333",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846210333-140_MAIN.jpg?v=1792090942",
+    "created": "2026-10-15",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "ブラック",
+      "available": true
+     },
+     {
+      "name": "グリーン",
+      "available": true
+     }
+    ],
+    "code": "",
+    "date": "2026-10-15"
+   },
+   {
+    "id": "mix-10353234575425",
+    "title": "NEEDLES/ニードルズ/PLEATED TRACK ST - POLY SMOOTH",
+    "price_yen": "¥21,000",
+    "url": "https://mix.tokyo/products/7846210332",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846210332-120_MAIN.jpg?v=1792063859",
+    "created": "2026-10-15",
+    "soldout": true,
+    "colors": [
+     {
+      "name": "ブラック",
+      "available": false
+     },
+     {
+      "name": "パープル",
+      "available": false
+     },
+     {
+      "name": "ネイビー",
+      "available": false
+     }
+    ],
+    "code": "",
+    "date": "2026-10-15"
+   },
+   {
     "id": "mix-10346395533377",
     "title": "Needles/ニードルズ　Pleated Track Skirt - Poly Smooth TY357",
     "price_yen": "¥21,000",
@@ -18615,7 +18740,7 @@
     "url": "https://mix.tokyo/products/7846210253",
     "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846210253-410_MAIN.jpg?v=1789556599",
     "created": "2026-05-14",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "ブラック×ホワイト",
@@ -18639,7 +18764,7 @@
      },
      {
       "name": "チャコール",
-      "available": true
+      "available": false
      }
     ],
     "code": "",
