@@ -8094,11 +8094,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/one-up-shirt-printed-flannel-plaid-8",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY304_D-BlueNavy_1.jpg?v=1787986520",
     "created": "2026-08-28",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Blue/Navy",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY304D",
@@ -9624,11 +9624,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/bracelet-red-coral-9",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/PU050-0.jpg?v=1733884389",
     "created": "2026-07-14",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Red",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY049",
@@ -11188,11 +11188,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/baseball-cap-poly-jq-33",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY072_D-Geometric_1.jpg?v=1788938185",
     "created": "2026-09-09",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Geometric",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY072D",
@@ -11426,11 +11426,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/l-s-u-neck-tee-geo-raschel-lace-4",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY387_B-Eggplant_1.jpg?v=1786161737",
     "created": "2026-08-07",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Eggplant",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY387B",
@@ -13772,11 +13772,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/work-shirt-ikat-stripe-2",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY303_C-PurpleBlue_1.jpg?v=1787986980",
     "created": "2026-08-28",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Ppl/Blue",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY303C",
