@@ -9403,11 +9403,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/neck-warmer-shetland-wool",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY065_A-Umber_1.jpg?v=1785647416",
     "created": "2026-08-01",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Umber",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY065A",
