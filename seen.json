@@ -18638,7 +18638,7 @@
     "url": "https://mix.tokyo/products/7846210253",
     "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846210253-410_MAIN.jpg?v=1789556599",
     "created": "2026-05-14",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "ブラック×ホワイト",
@@ -18650,7 +18650,7 @@
      },
      {
       "name": "ホワイト",
-      "available": true
+      "available": false
      },
      {
       "name": "ブラック×パープル",
@@ -19633,52 +19633,6 @@
     ],
     "code": "",
     "date": "2026-04-16"
-   },
-   {
-    "id": "mix-7875737256001",
-    "title": "NEEDLES/ニードルズ/SS POCKET T - COTTON JERSEY",
-    "price_yen": "¥11,000",
-    "url": "https://mix.tokyo/products/7846134269",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846134269-010_MAIN.jpg?v=1783958792",
-    "created": "2026-04-08",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "ブラック",
-      "available": false
-     },
-     {
-      "name": "グレー",
-      "available": false
-     },
-     {
-      "name": "オフホワイト",
-      "available": false
-     }
-    ],
-    "code": "",
-    "date": "2026-04-08"
-   },
-   {
-    "id": "mix-7875737518145",
-    "title": "NEEDLES/ニードルズ/PIPING COWBOY PT - DOUBLE CLOTH",
-    "price_yen": "¥15,000",
-    "url": "https://mix.tokyo/products/7846110254",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846110254-010_MAIN.jpg?v=1784214369",
-    "created": "2026-04-08",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "ブラック",
-      "available": false
-     },
-     {
-      "name": "ブラウン",
-      "available": false
-     }
-    ],
-    "code": "",
-    "date": "2026-04-08"
    }
   ]
  }
