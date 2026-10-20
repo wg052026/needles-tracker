@@ -2742,7 +2742,7 @@
   },
   "nep-8664285348023": {
    "first": "2026-07-14",
-   "title": "Papillon Emb. Jean Jacket-12oz Denim"
+   "title": "Papillon Emb. Jean Jacket - 12oz Denim"
   },
   "nep-8664285249719": {
    "first": "2026-07-14",
@@ -6111,6 +6111,10 @@
   "mix-10353234575425": {
    "first": "2026-10-15",
    "title": "NEEDLES/ニードルズ/PLEATED TRACK ST - POLY SMOOTH"
+  },
+  "mix-10359945691201": {
+   "first": "2026-10-19",
+   "title": "NEEDLES/ニードルズ/H.D. APRON PT - SULFUR DYE DUCK"
   }
  },
  "_snapshots": {
@@ -6250,6 +6254,23 @@
     ],
     "code": "TY210A",
     "date": "2026-07-08"
+   },
+   {
+    "id": "nep-8811526521015",
+    "title": "〈NEEDLES〉x〈TAILOR TOYO〉Souvenir Jacket",
+    "price_yen": "¥99,000",
+    "url": "https://onlinestore.nepenthes.co.jp/products/souvenir-jacket",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TOYO-0012.jpg?v=1790658819",
+    "created": "2026-09-29",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY2010",
+    "date": "2026-09-29"
    },
    {
     "id": "nep-8738190131383",
@@ -9397,23 +9418,6 @@
     "date": "2026-08-01"
    },
    {
-    "id": "nep-8693329854647",
-    "title": "Neck Warmer - Shetland Wool",
-    "price_yen": "¥8,800",
-    "url": "https://onlinestore.nepenthes.co.jp/products/neck-warmer-shetland-wool",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY065_A-Umber_1.jpg?v=1785647416",
-    "created": "2026-08-01",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Umber",
-      "available": false
-     }
-    ],
-    "code": "TY065A",
-    "date": "2026-08-01"
-   },
-   {
     "id": "nep-8685769326775",
     "title": "Convertible Grove - Shetland Wool",
     "price_yen": "¥7,700",
@@ -10074,23 +10078,6 @@
      }
     ],
     "code": "TY571B",
-    "date": "2026-08-01"
-   },
-   {
-    "id": "nep-8693350006967",
-    "title": "V Neck Cardigan - Feather Tulle",
-    "price_yen": "¥22,000",
-    "url": "https://onlinestore.nepenthes.co.jp/products/v-neck-cardigan-feather-tulle-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY380_B-Navy_1.jpg?v=1785649601",
-    "created": "2026-08-01",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Navy",
-      "available": true
-     }
-    ],
-    "code": "TY380B",
     "date": "2026-08-01"
    },
    {
@@ -11488,23 +11475,6 @@
     "date": "2026-08-01"
    },
    {
-    "id": "nep-8693348401335",
-    "title": "Boot-Cut Jean - Poly Jq.",
-    "price_yen": "¥26,400",
-    "url": "https://onlinestore.nepenthes.co.jp/products/boot-cut-jean-poly-jq-28",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY346_E-Paisley_1.jpg?v=1785648887",
-    "created": "2026-08-01",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Paisley",
-      "available": true
-     }
-    ],
-    "code": "TY346E",
-    "date": "2026-08-01"
-   },
-   {
     "id": "nep-8693347319991",
     "title": "Boot-Cut Jean - Poly Jq.",
     "price_yen": "¥26,400",
@@ -12675,23 +12645,6 @@
      }
     ],
     "code": "TY389A",
-    "date": "2026-10-13"
-   },
-   {
-    "id": "nep-8841709682871",
-    "title": "L/S High Neck Tee - Wool Jersey",
-    "price_yen": "¥19,800",
-    "url": "https://onlinestore.nepenthes.co.jp/products/l-s-high-neck-tee-wool-jersey-2",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY388_C-Black_1.jpg?v=1791874777",
-    "created": "2026-10-13",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Black",
-      "available": true
-     }
-    ],
-    "code": "TY388C",
     "date": "2026-10-13"
    },
    {
@@ -14838,7 +14791,7 @@
    },
    {
     "id": "nep-8664285348023",
-    "title": "Papillon Emb. Jean Jacket-12oz Denim",
+    "title": "Papillon Emb. Jean Jacket - 12oz Denim",
     "price_yen": "¥52,800",
     "url": "https://onlinestore.nepenthes.co.jp/products/papillon-emb-jean-jacket-12oz-denim",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX210-0.jpg?v=1771668827",
@@ -18009,6 +17962,27 @@
    }
   ],
   "MIX.TOKYO": [
+   {
+    "id": "mix-10359945691201",
+    "title": "NEEDLES/ニードルズ/H.D. APRON PT - SULFUR DYE DUCK",
+    "price_yen": "¥52,000",
+    "url": "https://mix.tokyo/products/7846210329",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846210329-040_MAIN.jpg?v=1792409447",
+    "created": "2026-10-19",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "ブラック",
+      "available": true
+     },
+     {
+      "name": "ベージュ",
+      "available": true
+     }
+    ],
+    "code": "",
+    "date": "2026-10-19"
+   },
    {
     "id": "mix-10353235853377",
     "title": "NEEDLES/ニードルズ/DECONSTRUCTED H.D. SWEAT PANT",
