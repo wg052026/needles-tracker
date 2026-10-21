@@ -6364,11 +6364,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/souvenir-jacket",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TOYO-0012.jpg?v=1790658819",
     "created": "2026-09-29",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Black",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY2010",
@@ -18359,11 +18359,11 @@
     "url": "https://mix.tokyo/products/7846210328",
     "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846210328-050_MAIN.jpg?v=1788951794",
     "created": "2026-09-07",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "ブラウン",
-      "available": true
+      "available": false
      }
     ],
     "code": "",
@@ -18490,11 +18490,11 @@
     "url": "https://mix.tokyo/products/7846252337",
     "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846252337-050_MAIN.jpg?v=1788521441",
     "created": "2026-09-04",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "ブラウン",
-      "available": true
+      "available": false
      }
     ],
     "code": "",
