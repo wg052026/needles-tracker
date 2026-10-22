@@ -4843,6 +4843,94 @@
   "nep-8841720758455": {
    "first": "2026-10-13",
    "title": "〈NEEDLES〉x〈A TRIBE  CALLED QUEST〉 B.B. Jacket - Wool Melton"
+  },
+  "nep-8855958585527": {
+   "first": "2026-10-19",
+   "title": "Loose B.B. Jacket - Synthetic Leather"
+  },
+  "nep-8855958716599": {
+   "first": "2026-10-19",
+   "title": "Loose B.B. Jacket - Synthetic Leather"
+  },
+  "nep-8855959208119": {
+   "first": "2026-10-19",
+   "title": "Papillon Emb. Jean Jacket - 14W Corduroy"
+  },
+  "nep-8855959240887": {
+   "first": "2026-10-19",
+   "title": "Papillon Emb. Jean Jacket - 14W Corduroy"
+  },
+  "nep-8855959863479": {
+   "first": "2026-10-19",
+   "title": "Warm Up Boot-Cut Pant - PE/W Gabardine"
+  },
+  "nep-8855959896247": {
+   "first": "2026-10-19",
+   "title": "Warm Up Boot-Cut Pant - PE/W Gabardine"
+  },
+  "nep-8855960060087": {
+   "first": "2026-10-19",
+   "title": "Warm Up Boot-Cut Pant - PE/W Gabardine"
+  },
+  "nep-8855960486071": {
+   "first": "2026-10-19",
+   "title": "Deconstructed Zipped Sweat"
+  },
+  "nep-8855960551607": {
+   "first": "2026-10-19",
+   "title": "Deconstructed Zipped Sweat"
+  },
+  "nep-8855960584375": {
+   "first": "2026-10-19",
+   "title": "Deconstructed Zipped Sweat"
+  },
+  "nep-8855960715447": {
+   "first": "2026-10-19",
+   "title": "Deconstructed Zipped Sweat"
+  },
+  "nep-8859735654583": {
+   "first": "2026-10-20",
+   "title": "〈NEEDLES〉x〈PENDLETON〉Mohair Sweater - Harding"
+  },
+  "nep-8859732508855": {
+   "first": "2026-10-20",
+   "title": "〈NEEDLES〉x〈PENDLETON〉Shawl Collar Coat - Wool Plaid Melton"
+  },
+  "nep-8859733196983": {
+   "first": "2026-10-20",
+   "title": "〈NEEDLES〉x〈PENDLETON〉Pen Jacket - Wool Plaid"
+  },
+  "nep-8859735064759": {
+   "first": "2026-10-20",
+   "title": "〈NEEDLES〉x〈PENDLETON〉H.D. Pant - Wool Plaid"
+  },
+  "nep-8859735228599": {
+   "first": "2026-10-20",
+   "title": "〈NEEDLES〉x〈PENDLETON〉Cowichan Sweater"
+  },
+  "nep-8859733000375": {
+   "first": "2026-10-20",
+   "title": "〈NEEDLES〉x〈PENDLETON〉Pen Jacket - Wool Plaid"
+  },
+  "nep-8859732705463": {
+   "first": "2026-10-20",
+   "title": "〈NEEDLES〉x〈PENDLETON〉Shawl Collar Coat - Wool Plaid Melton"
+  },
+  "nep-8859734900919": {
+   "first": "2026-10-20",
+   "title": "〈NEEDLES〉x〈PENDLETON〉H.D. Pant - Wool Plaid"
+  },
+  "nep-8859735556279": {
+   "first": "2026-10-20",
+   "title": "〈NEEDLES〉x〈PENDLETON〉Mohair Sweater - Harding"
+  },
+  "nep-8859732836535": {
+   "first": "2026-10-20",
+   "title": "〈NEEDLES〉x〈PENDLETON〉Pen Jacket - Wool Plaid"
+  },
+  "nep-8859734638775": {
+   "first": "2026-10-20",
+   "title": "〈NEEDLES〉x〈PENDLETON〉H.D. Pant - Wool Plaid"
   }
  },
  "STUDIOUS": {
@@ -6120,6 +6208,244 @@
  "_snapshots": {
   "NEPENTHES": [
    {
+    "id": "nep-8773603000503",
+    "title": "Rabbit Fur Coat - Animal Printed",
+    "price_yen": "¥176,000",
+    "url": "https://onlinestore.nepenthes.co.jp/products/rabbit-fur-coat-animal-printed",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY103_A-Leopard_1.jpg?v=1789283045",
+    "created": "2026-09-12",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Leopard",
+      "available": true
+     }
+    ],
+    "code": "TY103A",
+    "date": "2026-09-12"
+   },
+   {
+    "id": "nep-8773607817399",
+    "title": "Rabbit Fur Cardigan - Animal Printed",
+    "price_yen": "¥104,500",
+    "url": "https://onlinestore.nepenthes.co.jp/products/rabbit-fur-cardigan-animal-printed",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY104_A-Leopard_1.jpg?v=1789282880",
+    "created": "2026-09-12",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Leopard",
+      "available": true
+     }
+    ],
+    "code": "TY104A",
+    "date": "2026-09-12"
+   },
+   {
+    "id": "nep-8825503776951",
+    "title": "Deconstructed H.D. Sweat Pant",
+    "price_yen": "¥46,200",
+    "url": "https://onlinestore.nepenthes.co.jp/products/deconstructed-h-d-sweat-pant-6",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY377_A-H.Grey_1.jpg?v=1791176976",
+    "created": "2026-10-05",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "H. Grey",
+      "available": true
+     }
+    ],
+    "code": "TY377A",
+    "date": "2026-10-05"
+   },
+   {
+    "id": "nep-8792631804087",
+    "title": "Deconstructed H.D. Sweat Pant",
+    "price_yen": "¥46,200",
+    "url": "https://onlinestore.nepenthes.co.jp/products/deconstructed-h-d-sweat-pant-5",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY377_D-Black_1.jpg?v=1789878256",
+    "created": "2026-09-19",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY377D",
+    "date": "2026-09-19"
+   },
+   {
+    "id": "nep-8738190065847",
+    "title": "Track Jacket - Poly Smooth",
+    "price_yen": "¥28,600",
+    "url": "https://onlinestore.nepenthes.co.jp/products/track-jacket-poly-smooth-40",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY349_C-Black_1.jpg?v=1787985897",
+    "created": "2026-08-28",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY349C",
+    "date": "2026-08-28"
+   },
+   {
+    "id": "nep-8738190000311",
+    "title": "Track Jacket - Poly Smooth",
+    "price_yen": "¥28,600",
+    "url": "https://onlinestore.nepenthes.co.jp/products/track-jacket-poly-smooth-38",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY349_A-Navy_1.jpg?v=1787986053",
+    "created": "2026-08-28",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Navy",
+      "available": true
+     }
+    ],
+    "code": "TY349A",
+    "date": "2026-08-28"
+   },
+   {
+    "id": "nep-8806289277111",
+    "title": "Pleated Track Skirt - Poly Smooth",
+    "price_yen": "¥23,100",
+    "url": "https://onlinestore.nepenthes.co.jp/products/pleated-track-skirt-poly-smooth-11",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY357_C-Black_1.jpg?v=1790481262",
+    "created": "2026-09-26",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY357C",
+    "date": "2026-09-26"
+   },
+   {
+    "id": "nep-8806289244343",
+    "title": "Pleated Track Skirt - Poly Smooth",
+    "price_yen": "¥23,100",
+    "url": "https://onlinestore.nepenthes.co.jp/products/pleated-track-skirt-poly-smooth-10",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY357_B-Purple_1.jpg?v=1790481305",
+    "created": "2026-09-26",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Purple",
+      "available": true
+     }
+    ],
+    "code": "TY357B",
+    "date": "2026-09-26"
+   },
+   {
+    "id": "nep-8760530665655",
+    "title": "H.D. Track Pant - Poly Smooth",
+    "price_yen": "¥23,100",
+    "url": "https://onlinestore.nepenthes.co.jp/products/h-d-track-pant-poly-smooth-38",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY355C-0.jpg?v=1789023021",
+    "created": "2026-09-09",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY355C",
+    "date": "2026-09-09"
+   },
+   {
+    "id": "nep-8760530043063",
+    "title": "H.D. Track Pant - Poly Smooth",
+    "price_yen": "¥23,100",
+    "url": "https://onlinestore.nepenthes.co.jp/products/h-d-track-pant-poly-smooth-36",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY355A-0.jpg?v=1789023071",
+    "created": "2026-09-09",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Navy",
+      "available": true
+     }
+    ],
+    "code": "TY355A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": "nep-8760550981815",
+    "title": "Mohair Cardigan - Stripe",
+    "price_yen": "¥34,100",
+    "url": "https://onlinestore.nepenthes.co.jp/products/mohair-cardigan-stripe",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY410_BlueGreen_1.jpg?v=1789008058",
+    "created": "2026-09-09",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Blue/Green",
+      "available": true
+     }
+    ],
+    "code": "TY410",
+    "date": "2026-09-09"
+   },
+   {
+    "id": "nep-8760551473335",
+    "title": "Mohair Crew Neck Cardigan - Solid",
+    "price_yen": "¥34,100",
+    "url": "https://onlinestore.nepenthes.co.jp/products/mohair-crew-neck-cardigan-solid-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY415_B-BlueGrey_1.jpg?v=1789008258",
+    "created": "2026-09-09",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Blue Grey",
+      "available": true
+     }
+    ],
+    "code": "TY415B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": "nep-8654464385207",
+    "title": "H.D. Pant - BDU",
+    "price_yen": "¥26,400",
+    "url": "https://onlinestore.nepenthes.co.jp/products/h-d-pant-bdu-18",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/PU248A-0.jpg?v=1733881327",
+    "created": "2026-07-08",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Olive",
+      "available": true
+     }
+    ],
+    "code": "TY210A",
+    "date": "2026-07-08"
+   },
+   {
+    "id": "nep-8654464778423",
+    "title": "H.D. Pant - BDU",
+    "price_yen": "¥26,400",
+    "url": "https://onlinestore.nepenthes.co.jp/products/h-d-pant-bdu-19",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/PU248B-0.jpg?v=1733881339",
+    "created": "2026-07-08",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY210B",
+    "date": "2026-07-08"
+   },
+   {
     "id": "nep-8811527012535",
     "title": "〈NEEDLES〉x〈SUN SURF〉Hawaiian Shirt",
     "price_yen": "¥38,500",
@@ -6152,74 +6478,6 @@
     ],
     "code": "TY2011A",
     "date": "2026-09-29"
-   },
-   {
-    "id": "nep-8738190065847",
-    "title": "Track Jacket - Poly Smooth",
-    "price_yen": "¥28,600",
-    "url": "https://onlinestore.nepenthes.co.jp/products/track-jacket-poly-smooth-40",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY349_C-Black_1.jpg?v=1787985897",
-    "created": "2026-08-28",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Black",
-      "available": true
-     }
-    ],
-    "code": "TY349C",
-    "date": "2026-08-28"
-   },
-   {
-    "id": "nep-8760530665655",
-    "title": "H.D. Track Pant - Poly Smooth",
-    "price_yen": "¥23,100",
-    "url": "https://onlinestore.nepenthes.co.jp/products/h-d-track-pant-poly-smooth-38",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY355C-0.jpg?v=1789023021",
-    "created": "2026-09-09",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Black",
-      "available": true
-     }
-    ],
-    "code": "TY355C",
-    "date": "2026-09-09"
-   },
-   {
-    "id": "nep-8738190000311",
-    "title": "Track Jacket - Poly Smooth",
-    "price_yen": "¥28,600",
-    "url": "https://onlinestore.nepenthes.co.jp/products/track-jacket-poly-smooth-38",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY349_A-Navy_1.jpg?v=1787986053",
-    "created": "2026-08-28",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Navy",
-      "available": true
-     }
-    ],
-    "code": "TY349A",
-    "date": "2026-08-28"
-   },
-   {
-    "id": "nep-8760530043063",
-    "title": "H.D. Track Pant - Poly Smooth",
-    "price_yen": "¥23,100",
-    "url": "https://onlinestore.nepenthes.co.jp/products/h-d-track-pant-poly-smooth-36",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY355A-0.jpg?v=1789023071",
-    "created": "2026-09-09",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Navy",
-      "available": true
-     }
-    ],
-    "code": "TY355A",
-    "date": "2026-09-09"
    },
    {
     "id": "nep-8672552517815",
@@ -6256,74 +6514,6 @@
     "date": "2026-08-07"
    },
    {
-    "id": "nep-8792631804087",
-    "title": "Deconstructed H.D. Sweat Pant",
-    "price_yen": "¥46,200",
-    "url": "https://onlinestore.nepenthes.co.jp/products/deconstructed-h-d-sweat-pant-5",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY377_D-Black_1.jpg?v=1789878256",
-    "created": "2026-09-19",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Black",
-      "available": true
-     }
-    ],
-    "code": "TY377D",
-    "date": "2026-09-19"
-   },
-   {
-    "id": "nep-8654464385207",
-    "title": "H.D. Pant - BDU",
-    "price_yen": "¥26,400",
-    "url": "https://onlinestore.nepenthes.co.jp/products/h-d-pant-bdu-18",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/PU248A-0.jpg?v=1733881327",
-    "created": "2026-07-08",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Olive",
-      "available": true
-     }
-    ],
-    "code": "TY210A",
-    "date": "2026-07-08"
-   },
-   {
-    "id": "nep-8760550981815",
-    "title": "Mohair Cardigan - Stripe",
-    "price_yen": "¥34,100",
-    "url": "https://onlinestore.nepenthes.co.jp/products/mohair-cardigan-stripe",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY410_BlueGreen_1.jpg?v=1789008058",
-    "created": "2026-09-09",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Blue/Green",
-      "available": true
-     }
-    ],
-    "code": "TY410",
-    "date": "2026-09-09"
-   },
-   {
-    "id": "nep-8693329232055",
-    "title": "Watch Cap - Shetland Wool",
-    "price_yen": "¥11,000",
-    "url": "https://onlinestore.nepenthes.co.jp/products/watch-cap-shetland-wool-3",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY062_D-Black_1.jpg?v=1785647258",
-    "created": "2026-08-01",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Black",
-      "available": true
-     }
-    ],
-    "code": "TY062D",
-    "date": "2026-08-01"
-   },
-   {
     "id": "nep-8738190131383",
     "title": "Track Crew Neck Shirt - Poly Smooth",
     "price_yen": "¥22,000",
@@ -6341,38 +6531,55 @@
     "date": "2026-08-28"
    },
    {
-    "id": "nep-8738190229687",
-    "title": "Track Pant - Poly Smooth",
-    "price_yen": "¥23,100",
-    "url": "https://onlinestore.nepenthes.co.jp/products/track-pant-poly-smooth-35",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY351A-0_7d694d62-a85d-400f-bb6c-757fbf703e70.jpg?v=1789023642",
-    "created": "2026-08-28",
+    "id": "nep-8664233312439",
+    "title": "Ring - 925 Silver",
+    "price_yen": "¥17,600",
+    "url": "https://onlinestore.nepenthes.co.jp/products/ring-925-silver-29",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX001C-Papillon.jpg?v=1784100210",
+    "created": "2026-07-14",
     "soldout": false,
     "colors": [
      {
-      "name": "Navy",
+      "name": "Papillon",
       "available": true
      }
     ],
-    "code": "TY351A",
-    "date": "2026-08-28"
+    "code": "TY001C",
+    "date": "2026-07-14"
    },
    {
-    "id": "nep-8811526521015",
-    "title": "〈NEEDLES〉x〈TAILOR TOYO〉Souvenir Jacket",
-    "price_yen": "¥99,000",
-    "url": "https://onlinestore.nepenthes.co.jp/products/souvenir-jacket",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TOYO-0012.jpg?v=1790658819",
-    "created": "2026-09-29",
-    "soldout": true,
+    "id": "nep-8825503940791",
+    "title": "Deconstructed H.D. Sweat Pant",
+    "price_yen": "¥46,200",
+    "url": "https://onlinestore.nepenthes.co.jp/products/deconstructed-h-d-sweat-pant-7",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY377_B-Rust_1.jpg?v=1791176799",
+    "created": "2026-10-05",
+    "soldout": false,
     "colors": [
      {
-      "name": "Black",
-      "available": false
+      "name": "Rust",
+      "available": true
      }
     ],
-    "code": "TY2010",
-    "date": "2026-09-29"
+    "code": "TY377B",
+    "date": "2026-10-05"
+   },
+   {
+    "id": "nep-8792631738551",
+    "title": "Deconstructed H.D. Sweat Pant",
+    "price_yen": "¥46,200",
+    "url": "https://onlinestore.nepenthes.co.jp/products/deconstructed-h-d-sweat-pant-4",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY377_C-ForestGreen_1.jpg?v=1789878228",
+    "created": "2026-09-19",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Forest",
+      "available": true
+     }
+    ],
+    "code": "TY377C",
+    "date": "2026-09-19"
    },
    {
     "id": "nep-8701056450743",
@@ -6392,6 +6599,23 @@
     "date": "2026-08-07"
    },
    {
+    "id": "nep-8738190229687",
+    "title": "Track Pant - Poly Smooth",
+    "price_yen": "¥23,100",
+    "url": "https://onlinestore.nepenthes.co.jp/products/track-pant-poly-smooth-35",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY351A-0_7d694d62-a85d-400f-bb6c-757fbf703e70.jpg?v=1789023642",
+    "created": "2026-08-28",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Navy",
+      "available": true
+     }
+    ],
+    "code": "TY351A",
+    "date": "2026-08-28"
+   },
+   {
     "id": "nep-8732053799095",
     "title": "H.D. Sweat Pant - Bright Jersey",
     "price_yen": "¥23,100",
@@ -6409,21 +6633,21 @@
     "date": "2026-08-25"
    },
    {
-    "id": "nep-8664284922039",
-    "title": "H.D. Jean - 12oz Denim",
-    "price_yen": "¥31,900",
-    "url": "https://onlinestore.nepenthes.co.jp/products/h-d-jean-12oz-denim-4",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/QV161A-0.jpg?v=1742948430",
-    "created": "2026-07-14",
+    "id": "nep-8806289178807",
+    "title": "Pleated Track Skirt - Poly Smooth",
+    "price_yen": "¥23,100",
+    "url": "https://onlinestore.nepenthes.co.jp/products/pleated-track-skirt-poly-smooth-9",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY357_A-Navy_1.jpg?v=1790481333",
+    "created": "2026-09-26",
     "soldout": false,
     "colors": [
      {
-      "name": "Indigo",
+      "name": "Navy",
       "available": true
      }
     ],
-    "code": "TY233A",
-    "date": "2026-07-14"
+    "code": "TY357A",
+    "date": "2026-09-26"
    },
    {
     "id": "nep-8701051797687",
@@ -6441,6 +6665,23 @@
     ],
     "code": "TY258C",
     "date": "2026-08-07"
+   },
+   {
+    "id": "nep-8664284922039",
+    "title": "H.D. Jean - 12oz Denim",
+    "price_yen": "¥31,900",
+    "url": "https://onlinestore.nepenthes.co.jp/products/h-d-jean-12oz-denim-4",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/QV161A-0.jpg?v=1742948430",
+    "created": "2026-07-14",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Indigo",
+      "available": true
+     }
+    ],
+    "code": "TY233A",
+    "date": "2026-07-14"
    },
    {
     "id": "nep-8760551538871",
@@ -6494,6 +6735,23 @@
     "date": "2026-08-01"
    },
    {
+    "id": "nep-8760551407799",
+    "title": "Mohair Crew Neck Cardigan - Solid",
+    "price_yen": "¥34,100",
+    "url": "https://onlinestore.nepenthes.co.jp/products/mohair-crew-neck-cardigan-solid",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY415_A-Brown_1.jpg?v=1789008267",
+    "created": "2026-09-09",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Brown",
+      "available": true
+     }
+    ],
+    "code": "TY415A",
+    "date": "2026-09-09"
+   },
+   {
     "id": "nep-8738190033079",
     "title": "Track Jacket - Poly Smooth",
     "price_yen": "¥28,600",
@@ -6509,6 +6767,23 @@
     ],
     "code": "TY349B",
     "date": "2026-08-28"
+   },
+   {
+    "id": "nep-8693329232055",
+    "title": "Watch Cap - Shetland Wool",
+    "price_yen": "¥11,000",
+    "url": "https://onlinestore.nepenthes.co.jp/products/watch-cap-shetland-wool-3",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY062_D-Black_1.jpg?v=1785647258",
+    "created": "2026-08-01",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY062D",
+    "date": "2026-08-01"
    },
    {
     "id": "nep-8738190196919",
@@ -6543,23 +6818,6 @@
     ],
     "code": "TY360B",
     "date": "2026-08-07"
-   },
-   {
-    "id": "nep-8654464778423",
-    "title": "H.D. Pant - BDU",
-    "price_yen": "¥26,400",
-    "url": "https://onlinestore.nepenthes.co.jp/products/h-d-pant-bdu-19",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/PU248B-0.jpg?v=1733881339",
-    "created": "2026-07-08",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Black",
-      "available": true
-     }
-    ],
-    "code": "TY210B",
-    "date": "2026-07-08"
    },
    {
     "id": "nep-8738190295223",
@@ -6628,23 +6886,6 @@
     ],
     "code": "TY352A",
     "date": "2026-08-01"
-   },
-   {
-    "id": "nep-8664233312439",
-    "title": "Ring - 925 Silver",
-    "price_yen": "¥17,600",
-    "url": "https://onlinestore.nepenthes.co.jp/products/ring-925-silver-29",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX001C-Papillon.jpg?v=1784100210",
-    "created": "2026-07-14",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Papillon",
-      "available": true
-     }
-    ],
-    "code": "TY001C",
-    "date": "2026-07-14"
    },
    {
     "id": "nep-8654465073335",
@@ -6747,23 +6988,6 @@
     ],
     "code": "TY358A",
     "date": "2026-07-17"
-   },
-   {
-    "id": "nep-8806289178807",
-    "title": "Pleated Track Skirt - Poly Smooth",
-    "price_yen": "¥23,100",
-    "url": "https://onlinestore.nepenthes.co.jp/products/pleated-track-skirt-poly-smooth-9",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY357_A-Navy_1.jpg?v=1790481333",
-    "created": "2026-09-26",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Navy",
-      "available": true
-     }
-    ],
-    "code": "TY357A",
-    "date": "2026-09-26"
    },
    {
     "id": "nep-8664293540023",
@@ -6919,23 +7143,6 @@
     "date": "2026-09-09"
    },
    {
-    "id": "nep-8806289244343",
-    "title": "Pleated Track Skirt - Poly Smooth",
-    "price_yen": "¥23,100",
-    "url": "https://onlinestore.nepenthes.co.jp/products/pleated-track-skirt-poly-smooth-10",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY357_B-Purple_1.jpg?v=1790481305",
-    "created": "2026-09-26",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Purple",
-      "available": true
-     }
-    ],
-    "code": "TY357B",
-    "date": "2026-09-26"
-   },
-   {
     "id": "nep-8701055860919",
     "title": "Narrow Track Pant - C/PE Velour",
     "price_yen": "¥28,600",
@@ -7055,23 +7262,6 @@
     "date": "2025-06-26"
    },
    {
-    "id": "nep-8806289277111",
-    "title": "Pleated Track Skirt - Poly Smooth",
-    "price_yen": "¥23,100",
-    "url": "https://onlinestore.nepenthes.co.jp/products/pleated-track-skirt-poly-smooth-11",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY357_C-Black_1.jpg?v=1790481262",
-    "created": "2026-09-26",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Black",
-      "available": true
-     }
-    ],
-    "code": "TY357C",
-    "date": "2026-09-26"
-   },
-   {
     "id": "nep-8774891176119",
     "title": "V Neck Cardigan - Bright Jersey",
     "price_yen": "¥19,800",
@@ -7138,23 +7328,6 @@
     ],
     "code": "TY398F",
     "date": "2026-10-05"
-   },
-   {
-    "id": "nep-8792631738551",
-    "title": "Deconstructed H.D. Sweat Pant",
-    "price_yen": "¥46,200",
-    "url": "https://onlinestore.nepenthes.co.jp/products/deconstructed-h-d-sweat-pant-4",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY377_C-ForestGreen_1.jpg?v=1789878228",
-    "created": "2026-09-19",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Forest",
-      "available": true
-     }
-    ],
-    "code": "TY377C",
-    "date": "2026-09-19"
    },
    {
     "id": "nep-8735646122167",
@@ -7582,23 +7755,6 @@
     "date": "2022-03-11"
    },
    {
-    "id": "nep-8825503776951",
-    "title": "Deconstructed H.D. Sweat Pant",
-    "price_yen": "¥46,200",
-    "url": "https://onlinestore.nepenthes.co.jp/products/deconstructed-h-d-sweat-pant-6",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY377_A-H.Grey_1.jpg?v=1791176976",
-    "created": "2026-10-05",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "H. Grey",
-      "available": true
-     }
-    ],
-    "code": "TY377A",
-    "date": "2026-10-05"
-   },
-   {
     "id": "nep-8760535449783",
     "title": "Boot-Cut Track Pant - C/PE Velour",
     "price_yen": "¥28,600",
@@ -7852,40 +8008,6 @@
     ],
     "code": "TY367B",
     "date": "2026-09-13"
-   },
-   {
-    "id": "nep-8760551473335",
-    "title": "Mohair Crew Neck Cardigan - Solid",
-    "price_yen": "¥34,100",
-    "url": "https://onlinestore.nepenthes.co.jp/products/mohair-crew-neck-cardigan-solid-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY415_B-BlueGrey_1.jpg?v=1789008258",
-    "created": "2026-09-09",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Blue Grey",
-      "available": true
-     }
-    ],
-    "code": "TY415B",
-    "date": "2026-09-09"
-   },
-   {
-    "id": "nep-8760551407799",
-    "title": "Mohair Crew Neck Cardigan - Solid",
-    "price_yen": "¥34,100",
-    "url": "https://onlinestore.nepenthes.co.jp/products/mohair-crew-neck-cardigan-solid",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY415_A-Brown_1.jpg?v=1789008267",
-    "created": "2026-09-09",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Brown",
-      "available": true
-     }
-    ],
-    "code": "TY415A",
-    "date": "2026-09-09"
    },
    {
     "id": "nep-8760551243959",
@@ -9588,23 +9710,6 @@
     "date": "2026-10-05"
    },
    {
-    "id": "nep-8825503940791",
-    "title": "Deconstructed H.D. Sweat Pant",
-    "price_yen": "¥46,200",
-    "url": "https://onlinestore.nepenthes.co.jp/products/deconstructed-h-d-sweat-pant-7",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY377_B-Rust_1.jpg?v=1791176799",
-    "created": "2026-10-05",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Rust",
-      "available": true
-     }
-    ],
-    "code": "TY377B",
-    "date": "2026-10-05"
-   },
-   {
     "id": "nep-8809570697399",
     "title": "〈NEEDLES〉x〈SOREL〉Ambler Waterproof",
     "price_yen": "¥25,850",
@@ -10776,23 +10881,6 @@
     ],
     "code": "TY123C",
     "date": "2026-09-13"
-   },
-   {
-    "id": "nep-8773603000503",
-    "title": "Rabbit Fur Coat - Animal Printed",
-    "price_yen": "¥176,000",
-    "url": "https://onlinestore.nepenthes.co.jp/products/rabbit-fur-coat-animal-printed",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY103_A-Leopard_1.jpg?v=1789283045",
-    "created": "2026-09-12",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Leopard",
-      "available": true
-     }
-    ],
-    "code": "TY103A",
-    "date": "2026-09-12"
    },
    {
     "id": "nep-8760543871159",
@@ -13039,23 +13127,6 @@
     "date": "2026-09-12"
    },
    {
-    "id": "nep-8773607817399",
-    "title": "Rabbit Fur Cardigan - Animal Printed",
-    "price_yen": "¥104,500",
-    "url": "https://onlinestore.nepenthes.co.jp/products/rabbit-fur-cardigan-animal-printed",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY104_A-Leopard_1.jpg?v=1789282880",
-    "created": "2026-09-12",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Leopard",
-      "available": true
-     }
-    ],
-    "code": "TY104A",
-    "date": "2026-09-12"
-   },
-   {
     "id": "nep-8769778090167",
     "title": "Shearling Coat - Sheepskin",
     "price_yen": "¥294,800",
@@ -14022,23 +14093,6 @@
      }
     ],
     "code": "TY248B",
-    "date": "2026-08-07"
-   },
-   {
-    "id": "nep-8701050093751",
-    "title": "Darts Cut Jean - 13oz Python Jacquard",
-    "price_yen": "¥35,200",
-    "url": "https://onlinestore.nepenthes.co.jp/products/darts-cut-jean-13oz-python-jacq-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY223_B-Black_1.jpg?v=1786165227",
-    "created": "2026-08-07",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Black",
-      "available": true
-     }
-    ],
-    "code": "TY223B",
     "date": "2026-08-07"
    },
    {
@@ -15793,6 +15847,193 @@
     "date": "2024-11-08"
    },
    {
+    "id": "nep-8855958585527",
+    "title": "Loose B.B. Jacket - Synthetic Leather",
+    "price_yen": "¥63,800",
+    "url": "https://onlinestore.nepenthes.co.jp/products/loose-b-b-jacket-synthetic-lthr",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY165_A-Brown_1.jpg?v=1792394581",
+    "created": "2026-10-19",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Brown",
+      "available": true
+     }
+    ],
+    "code": "TY165A",
+    "date": "2026-10-19"
+   },
+   {
+    "id": "nep-8855958716599",
+    "title": "Loose B.B. Jacket - Synthetic Leather",
+    "price_yen": "¥63,800",
+    "url": "https://onlinestore.nepenthes.co.jp/products/loose-b-b-jacket-synthetic-lthr-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY165_B-Black_1.jpg?v=1792394567",
+    "created": "2026-10-19",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY165B",
+    "date": "2026-10-19"
+   },
+   {
+    "id": "nep-8855959208119",
+    "title": "Papillon Emb. Jean Jacket - 14W Corduroy",
+    "price_yen": "¥57,200",
+    "url": "https://onlinestore.nepenthes.co.jp/products/papillon-emb-jean-jacket-14w-cord",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY239_A-Brown_1.jpg?v=1792394535",
+    "created": "2026-10-19",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Brown",
+      "available": true
+     }
+    ],
+    "code": "TY239A",
+    "date": "2026-10-19"
+   },
+   {
+    "id": "nep-8855959240887",
+    "title": "Papillon Emb. Jean Jacket - 14W Corduroy",
+    "price_yen": "¥57,200",
+    "url": "https://onlinestore.nepenthes.co.jp/products/papillon-emb-jean-jacket-14w-cord-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY239_B-Black_1.jpg?v=1792394515",
+    "created": "2026-10-19",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY239B",
+    "date": "2026-10-19"
+   },
+   {
+    "id": "nep-8855959863479",
+    "title": "Warm Up Boot-Cut Pant - PE/W Gabardine",
+    "price_yen": "¥35,200",
+    "url": "https://onlinestore.nepenthes.co.jp/products/warm-up-boot-cut-pant-pe-w-gabardine",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY253_A-Brown_1.jpg?v=1792394445",
+    "created": "2026-10-19",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Brown",
+      "available": true
+     }
+    ],
+    "code": "TY253A",
+    "date": "2026-10-19"
+   },
+   {
+    "id": "nep-8855959896247",
+    "title": "Warm Up Boot-Cut Pant - PE/W Gabardine",
+    "price_yen": "¥35,200",
+    "url": "https://onlinestore.nepenthes.co.jp/products/warm-up-boot-cut-pant-pe-w-gabardine-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY253_B-Olive_1.jpg?v=1792394432",
+    "created": "2026-10-19",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Olive",
+      "available": true
+     }
+    ],
+    "code": "TY253B",
+    "date": "2026-10-19"
+   },
+   {
+    "id": "nep-8855960060087",
+    "title": "Warm Up Boot-Cut Pant - PE/W Gabardine",
+    "price_yen": "¥35,200",
+    "url": "https://onlinestore.nepenthes.co.jp/products/warm-up-boot-cut-pant-pe-w-gabardine-2",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY253_C-Black_1.jpg?v=1792394422",
+    "created": "2026-10-19",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY253C",
+    "date": "2026-10-19"
+   },
+   {
+    "id": "nep-8855960486071",
+    "title": "Deconstructed Zipped Sweat",
+    "price_yen": "¥42,900",
+    "url": "https://onlinestore.nepenthes.co.jp/products/deconstructed-zipped-sweat-4",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY375_A-H.Grey_1.jpg?v=1792394392",
+    "created": "2026-10-19",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "H. Grey",
+      "available": true
+     }
+    ],
+    "code": "TY375A",
+    "date": "2026-10-19"
+   },
+   {
+    "id": "nep-8855960551607",
+    "title": "Deconstructed Zipped Sweat",
+    "price_yen": "¥42,900",
+    "url": "https://onlinestore.nepenthes.co.jp/products/deconstructed-zipped-sweat-5",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY375_B-Rust_1.jpg?v=1792394382",
+    "created": "2026-10-19",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Rust",
+      "available": true
+     }
+    ],
+    "code": "TY375B",
+    "date": "2026-10-19"
+   },
+   {
+    "id": "nep-8855960584375",
+    "title": "Deconstructed Zipped Sweat",
+    "price_yen": "¥42,900",
+    "url": "https://onlinestore.nepenthes.co.jp/products/deconstructed-zipped-sweat-6",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY375_C-ForestGreen_1.jpg?v=1792394368",
+    "created": "2026-10-19",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Forest",
+      "available": true
+     }
+    ],
+    "code": "TY375C",
+    "date": "2026-10-19"
+   },
+   {
+    "id": "nep-8855960715447",
+    "title": "Deconstructed Zipped Sweat",
+    "price_yen": "¥42,900",
+    "url": "https://onlinestore.nepenthes.co.jp/products/deconstructed-zipped-sweat-7",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY375_D-Black_1.jpg?v=1792394357",
+    "created": "2026-10-19",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY375D",
+    "date": "2026-10-19"
+   },
+   {
     "id": "nep-7775730696375",
     "title": "L/S Mock Neck Tee - Poly Jersey",
     "price_yen": "¥14,850",
@@ -15978,6 +16219,193 @@
     ],
     "code": "RW428C",
     "date": "2025-11-06"
+   },
+   {
+    "id": "nep-8859735654583",
+    "title": "〈NEEDLES〉x〈PENDLETON〉Mohair Sweater - Harding",
+    "price_yen": "¥90,200",
+    "url": "https://onlinestore.nepenthes.co.jp/products/mohair-sweater-harding-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY525_B-Black_1_e96fea18-1bd6-4eff-b936-bbc91021f697.jpg?v=1792544046",
+    "created": "2026-10-20",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY525B",
+    "date": "2026-10-20"
+   },
+   {
+    "id": "nep-8859732508855",
+    "title": "〈NEEDLES〉x〈PENDLETON〉Shawl Collar Coat - Wool Plaid Melton",
+    "price_yen": "¥170,500",
+    "url": "https://onlinestore.nepenthes.co.jp/products/shawl-collar-coat-wool-plaid-melton",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY520_A-Brown_1_979aacdb-0893-4684-9aa0-2d25896d4cdb.jpg?v=1792545030",
+    "created": "2026-10-20",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Brown",
+      "available": true
+     }
+    ],
+    "code": "TY520A",
+    "date": "2026-10-20"
+   },
+   {
+    "id": "nep-8859733196983",
+    "title": "〈NEEDLES〉x〈PENDLETON〉Pen Jacket - Wool Plaid",
+    "price_yen": "¥82,500",
+    "url": "https://onlinestore.nepenthes.co.jp/products/pen-jacket-wool-plaid-2",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY521_C-Blue_1_2dd6ccf4-9a5e-44d7-a25e-84ac807cf5ae.jpg?v=1792544680",
+    "created": "2026-10-20",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Blue",
+      "available": true
+     }
+    ],
+    "code": "TY521C",
+    "date": "2026-10-20"
+   },
+   {
+    "id": "nep-8859735064759",
+    "title": "〈NEEDLES〉x〈PENDLETON〉H.D. Pant - Wool Plaid",
+    "price_yen": "¥56,100",
+    "url": "https://onlinestore.nepenthes.co.jp/products/h-d-pant-wool-plaid-2",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY523_C-Blue_1_d7203f77-657f-48bd-a18d-459b5f660002.jpg?v=1792544181",
+    "created": "2026-10-20",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Blue",
+      "available": true
+     }
+    ],
+    "code": "TY523C",
+    "date": "2026-10-20"
+   },
+   {
+    "id": "nep-8859735228599",
+    "title": "〈NEEDLES〉x〈PENDLETON〉Cowichan Sweater",
+    "price_yen": "¥104,500",
+    "url": "https://onlinestore.nepenthes.co.jp/products/cowichan-sweater",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY524_OffWhite_1_6707e9c2-9bcd-4123-9b35-3bc464be41e8.jpg?v=1792544157",
+    "created": "2026-10-20",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Off White",
+      "available": true
+     }
+    ],
+    "code": "TY524",
+    "date": "2026-10-20"
+   },
+   {
+    "id": "nep-8859733000375",
+    "title": "〈NEEDLES〉x〈PENDLETON〉Pen Jacket - Wool Plaid",
+    "price_yen": "¥82,500",
+    "url": "https://onlinestore.nepenthes.co.jp/products/pen-jacket-wool-plaid-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY521_B-Yellow_1_4f3b120b-63c5-4413-a87c-0dee5da77866.jpg?v=1792544772",
+    "created": "2026-10-20",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Yellow",
+      "available": true
+     }
+    ],
+    "code": "TY521B",
+    "date": "2026-10-20"
+   },
+   {
+    "id": "nep-8859732705463",
+    "title": "〈NEEDLES〉x〈PENDLETON〉Shawl Collar Coat - Wool Plaid Melton",
+    "price_yen": "¥170,500",
+    "url": "https://onlinestore.nepenthes.co.jp/products/shawl-collar-coat-wool-plaid-melton-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY520_B-Blue_1_bfeac1f1-2332-4ba5-856b-b5e019bd3aa7.jpg?v=1792545005",
+    "created": "2026-10-20",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Blue",
+      "available": true
+     }
+    ],
+    "code": "TY520B",
+    "date": "2026-10-20"
+   },
+   {
+    "id": "nep-8859734900919",
+    "title": "〈NEEDLES〉x〈PENDLETON〉H.D. Pant - Wool Plaid",
+    "price_yen": "¥56,100",
+    "url": "https://onlinestore.nepenthes.co.jp/products/h-d-pant-wool-plaid-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY523_B-Yellow_1_919e629d-9d01-4790-bcd0-e23f4d115047.jpg?v=1792544232",
+    "created": "2026-10-20",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Yellow",
+      "available": true
+     }
+    ],
+    "code": "TY523B",
+    "date": "2026-10-20"
+   },
+   {
+    "id": "nep-8859735556279",
+    "title": "〈NEEDLES〉x〈PENDLETON〉Mohair Sweater - Harding",
+    "price_yen": "¥90,200",
+    "url": "https://onlinestore.nepenthes.co.jp/products/mohair-sweater-harding",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY525_A-Beige_1_de582aa6-4055-4f87-bb42-d98fb68d510c.jpg?v=1792544118",
+    "created": "2026-10-20",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Beige",
+      "available": true
+     }
+    ],
+    "code": "TY525A",
+    "date": "2026-10-20"
+   },
+   {
+    "id": "nep-8859732836535",
+    "title": "〈NEEDLES〉x〈PENDLETON〉Pen Jacket - Wool Plaid",
+    "price_yen": "¥82,500",
+    "url": "https://onlinestore.nepenthes.co.jp/products/pen-jacket-wool-plaid",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY521_A-Red_1_2f9c5351-b041-45f8-b69d-0cf8260da0d9.jpg?v=1792544947",
+    "created": "2026-10-20",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Red",
+      "available": true
+     }
+    ],
+    "code": "TY521A",
+    "date": "2026-10-20"
+   },
+   {
+    "id": "nep-8859734638775",
+    "title": "〈NEEDLES〉x〈PENDLETON〉H.D. Pant - Wool Plaid",
+    "price_yen": "¥56,100",
+    "url": "https://onlinestore.nepenthes.co.jp/products/h-d-pant-wool-plaid",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY523_A-Red_1_8d65e051-4dab-4530-8be0-8f70d2452aba.jpg?v=1792544344",
+    "created": "2026-10-20",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Red",
+      "available": true
+     }
+    ],
+    "code": "TY523A",
+    "date": "2026-10-20"
    }
   ],
   "STUDIOUS": [
