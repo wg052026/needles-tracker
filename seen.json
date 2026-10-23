@@ -18425,11 +18425,11 @@
      },
      {
       "name": "グレー",
-      "available": false
+      "available": true
      },
      {
       "name": "レッド",
-      "available": false
+      "available": true
      },
      {
       "name": "グリーン",
