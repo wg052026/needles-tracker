@@ -4934,15 +4934,15 @@
   },
   "nep-15888188637367": {
    "first": "2026-10-22",
-   "title": "Classic Shirt - Wool Plaid"
+   "title": "〈NEEDLES〉x〈PENDLETON〉Classic Shirt - Wool Plaid"
   },
   "nep-15888187818167": {
    "first": "2026-10-22",
-   "title": "Classic Shirt - Wool Plaid"
+   "title": "〈NEEDLES〉x〈PENDLETON〉Classic Shirt - Wool Plaid"
   },
   "nep-15888188178615": {
    "first": "2026-10-22",
-   "title": "Classic Shirt - Wool Plaid"
+   "title": "〈NEEDLES〉x〈PENDLETON〉Classic Shirt - Wool Plaid"
   }
  },
  "STUDIOUS": {
@@ -6252,23 +6252,6 @@
     ],
     "code": "TY104A",
     "date": "2026-09-12"
-   },
-   {
-    "id": "nep-8811526521015",
-    "title": "〈NEEDLES〉x〈TAILOR TOYO〉Souvenir Jacket",
-    "price_yen": "¥99,000",
-    "url": "https://onlinestore.nepenthes.co.jp/products/souvenir-jacket",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TOYO-0012.jpg?v=1790658819",
-    "created": "2026-09-29",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Black",
-      "available": false
-     }
-    ],
-    "code": "TY2010",
-    "date": "2026-09-29"
    },
    {
     "id": "nep-8825495355575",
@@ -11371,23 +11354,6 @@
     "date": "2026-08-14"
    },
    {
-    "id": "nep-8701057368247",
-    "title": "L/S U Neck Tee - Geometric Raschel Lace",
-    "price_yen": "¥15,400",
-    "url": "https://onlinestore.nepenthes.co.jp/products/l-s-u-neck-tee-geo-raschel-lace-4",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY387_B-Eggplant_1.jpg?v=1786161737",
-    "created": "2026-08-07",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Eggplant",
-      "available": false
-     }
-    ],
-    "code": "TY387B",
-    "date": "2026-08-07"
-   },
-   {
     "id": "nep-8701057237175",
     "title": "L/S U Neck Tee - Geometric Raschel Lace",
     "price_yen": "¥15,400",
@@ -13493,23 +13459,6 @@
      }
     ],
     "code": "TY087",
-    "date": "2026-09-09"
-   },
-   {
-    "id": "nep-8760495276215",
-    "title": "Baseball Cap - Poly Jq.",
-    "price_yen": "¥13,200",
-    "url": "https://onlinestore.nepenthes.co.jp/products/baseball-cap-poly-jq-34",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY072_E-Paisley_1.jpg?v=1788938196",
-    "created": "2026-09-09",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Paisley",
-      "available": true
-     }
-    ],
-    "code": "TY072E",
     "date": "2026-09-09"
    },
    {
@@ -16370,7 +16319,7 @@
    },
    {
     "id": "nep-15888188637367",
-    "title": "Classic Shirt - Wool Plaid",
+    "title": "〈NEEDLES〉x〈PENDLETON〉Classic Shirt - Wool Plaid",
     "price_yen": "¥55,000",
     "url": "https://onlinestore.nepenthes.co.jp/products/classic-shirt-wool-plaid-2",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY522_C-Blue_1_65b920d1-235f-4b56-9035-f7967a03288e.jpg?v=1792652182",
@@ -16387,7 +16336,7 @@
    },
    {
     "id": "nep-15888187818167",
-    "title": "Classic Shirt - Wool Plaid",
+    "title": "〈NEEDLES〉x〈PENDLETON〉Classic Shirt - Wool Plaid",
     "price_yen": "¥55,000",
     "url": "https://onlinestore.nepenthes.co.jp/products/classic-shirt-wool-plaid",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY522_A-Red_1_b992e74a-7489-4c84-acef-39655bd3840b.jpg?v=1792652191",
@@ -16404,7 +16353,7 @@
    },
    {
     "id": "nep-15888188178615",
-    "title": "Classic Shirt - Wool Plaid",
+    "title": "〈NEEDLES〉x〈PENDLETON〉Classic Shirt - Wool Plaid",
     "price_yen": "¥55,000",
     "url": "https://onlinestore.nepenthes.co.jp/products/classic-shirt-wool-plaid-1",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY522_B-Yellow_1_013a7651-f605-4915-8719-ca0b321c84e0.jpg?v=1792652199",
