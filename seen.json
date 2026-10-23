@@ -18415,13 +18415,21 @@
     "title": "NEEDLES/ニードルズ/DECONSTRUCTED H.D. SWEAT PANT",
     "price_yen": "¥42,000",
     "url": "https://mix.tokyo/products/7846210333",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846210333-140_MAIN.jpg?v=1792695799",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846210333-140_MAIN.jpg?v=1792753425",
     "created": "2026-10-15",
     "soldout": false,
     "colors": [
      {
       "name": "ブラック",
       "available": true
+     },
+     {
+      "name": "グレー",
+      "available": false
+     },
+     {
+      "name": "レッド",
+      "available": false
      },
      {
       "name": "グリーン",
