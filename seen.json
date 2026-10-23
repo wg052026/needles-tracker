@@ -4943,6 +4943,10 @@
   "nep-15888188178615": {
    "first": "2026-10-22",
    "title": "〈NEEDLES〉x〈PENDLETON〉Classic Shirt - Wool Plaid"
+  },
+  "nep-8773605458103": {
+   "first": "2026-09-12",
+   "title": "Rabbit Fur Coat - Animal Printed"
   }
  },
  "STUDIOUS": {
@@ -11133,6 +11137,23 @@
     "date": "2026-09-09"
    },
    {
+    "id": "nep-8760495112375",
+    "title": "Baseball Cap - Poly Jq.",
+    "price_yen": "¥13,200",
+    "url": "https://onlinestore.nepenthes.co.jp/products/baseball-cap-poly-jq-33",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY072_D-Geometric_1.jpg?v=1788938185",
+    "created": "2026-09-09",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Geometric",
+      "available": true
+     }
+    ],
+    "code": "TY072D",
+    "date": "2026-09-09"
+   },
+   {
     "id": "nep-8760494686391",
     "title": "Baseball Cap - Poly Jq.",
     "price_yen": "¥13,200",
@@ -11292,11 +11313,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/swing-jacket-wool-shaggy-1",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY176_B-Mustard_1.jpg?v=1787722304",
     "created": "2026-08-25",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Mustard",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY176B",
@@ -13224,6 +13245,23 @@
     "date": "2026-09-12"
    },
    {
+    "id": "nep-8773605458103",
+    "title": "Rabbit Fur Coat - Animal Printed",
+    "price_yen": "¥176,000",
+    "url": "https://onlinestore.nepenthes.co.jp/products/rabbit-fur-coat-animal-printed-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY103_B-Tiger_1.jpg?v=1789282959",
+    "created": "2026-09-12",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Tiger",
+      "available": true
+     }
+    ],
+    "code": "TY103B",
+    "date": "2026-09-12"
+   },
+   {
     "id": "nep-8760526405815",
     "title": "Pajama Pant - Python Velvet",
     "price_yen": "¥42,900",
@@ -13459,6 +13497,23 @@
      }
     ],
     "code": "TY087",
+    "date": "2026-09-09"
+   },
+   {
+    "id": "nep-8760495276215",
+    "title": "Baseball Cap - Poly Jq.",
+    "price_yen": "¥13,200",
+    "url": "https://onlinestore.nepenthes.co.jp/products/baseball-cap-poly-jq-34",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY072_E-Paisley_1.jpg?v=1788938196",
+    "created": "2026-09-09",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Paisley",
+      "available": true
+     }
+    ],
+    "code": "TY072E",
     "date": "2026-09-09"
    },
    {
