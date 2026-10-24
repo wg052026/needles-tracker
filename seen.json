@@ -10446,11 +10446,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/stole-cotton-gauze-21",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX060A-0.jpg?v=1767069313",
     "created": "2026-07-14",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Red",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY060A",
@@ -18416,7 +18416,7 @@
     "colors": [
      {
       "name": "ブラック",
-      "available": true
+      "available": false
      },
      {
       "name": "パープル",
