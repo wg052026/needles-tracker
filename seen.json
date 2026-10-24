@@ -8774,23 +8774,6 @@
     "date": "2026-09-09"
    },
    {
-    "id": "nep-8738191605943",
-    "title": "Shawl Collar L/S Polo - Cotton Pique",
-    "price_yen": "¥16,500",
-    "url": "https://onlinestore.nepenthes.co.jp/products/shawl-collar-l-s-polo-cotton-pique-6",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY395_A-Beige_1.jpg?v=1787984922",
-    "created": "2026-08-28",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Beige",
-      "available": false
-     }
-    ],
-    "code": "TY395A",
-    "date": "2026-08-28"
-   },
-   {
     "id": "nep-8738189443255",
     "title": "One-Up Shirt - Printed Flannel / Plaid",
     "price_yen": "¥27,500",
@@ -11304,23 +11287,6 @@
      }
     ],
     "code": "TY418A",
-    "date": "2026-08-25"
-   },
-   {
-    "id": "nep-8732033712311",
-    "title": "Swing Jacket - Wool Shaggy",
-    "price_yen": "¥50,600",
-    "url": "https://onlinestore.nepenthes.co.jp/products/swing-jacket-wool-shaggy-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY176_B-Mustard_1.jpg?v=1787722304",
-    "created": "2026-08-25",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Mustard",
-      "available": false
-     }
-    ],
-    "code": "TY176B",
     "date": "2026-08-25"
    },
    {
