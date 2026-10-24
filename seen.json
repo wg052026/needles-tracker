@@ -8780,11 +8780,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/shawl-collar-l-s-polo-cotton-pique-6",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY395_A-Beige_1.jpg?v=1787984922",
     "created": "2026-08-28",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Beige",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY395A",
