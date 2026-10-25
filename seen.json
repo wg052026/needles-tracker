@@ -7182,11 +7182,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/v-neck-cardigan-feather-tulle-2",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY380_C-Black_1.jpg?v=1785649621",
     "created": "2026-08-01",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Black",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY380C",
