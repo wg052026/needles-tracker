@@ -7176,23 +7176,6 @@
     "date": "2026-08-27"
    },
    {
-    "id": "nep-8693350039735",
-    "title": "V Neck Cardigan - Feather Tulle",
-    "price_yen": "¥22,000",
-    "url": "https://onlinestore.nepenthes.co.jp/products/v-neck-cardigan-feather-tulle-2",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY380_C-Black_1.jpg?v=1785649621",
-    "created": "2026-08-01",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Black",
-      "available": false
-     }
-    ],
-    "code": "TY380C",
-    "date": "2026-08-01"
-   },
-   {
     "id": "nep-8693349023927",
     "title": "Zipped Track Pant - Poly Smooth",
     "price_yen": "¥23,100",
@@ -19920,6 +19903,77 @@
     ],
     "code": "",
     "date": "2026-05-14"
+   },
+   {
+    "id": "mix-7859751714881",
+    "title": "NEEDLES/ニードルズ/BASE BALL CAP - JACQUARD",
+    "price_yen": "¥6,000",
+    "url": "https://mix.tokyo/products/7846174241",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846174241-110_MAIN.jpg?v=1784214204",
+    "created": "2026-03-24",
+    "soldout": true,
+    "colors": [
+     {
+      "name": "ブラック",
+      "available": false
+     },
+     {
+      "name": "オレンジ",
+      "available": false
+     },
+     {
+      "name": "オリーブ",
+      "available": false
+     },
+     {
+      "name": "ブルー",
+      "available": false
+     }
+    ],
+    "code": "",
+    "date": "2026-03-24"
+   },
+   {
+    "id": "mix-7883690115137",
+    "title": "NEEDLES/ニードルズ/DECONSTRUCTED ZIPPED SWEAT",
+    "price_yen": "¥35,000",
+    "url": "https://mix.tokyo/products/7846132221",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846132221-010_MAIN.jpg?v=1783947489",
+    "created": "2026-04-16",
+    "soldout": true,
+    "colors": [
+     {
+      "name": "ブラック",
+      "available": false
+     },
+     {
+      "name": "グレー",
+      "available": false
+     }
+    ],
+    "code": "",
+    "date": "2026-04-16"
+   },
+   {
+    "id": "mix-7883687690305",
+    "title": "NEEDLES/ニードルズ/TRACK PANT - TRICOT SATEEN",
+    "price_yen": "¥12,000",
+    "url": "https://mix.tokyo/products/7846110253",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846110253-120_MAIN.jpg?v=1784214472",
+    "created": "2026-04-16",
+    "soldout": true,
+    "colors": [
+     {
+      "name": "ブラック",
+      "available": false
+     },
+     {
+      "name": "ネイビー",
+      "available": false
+     }
+    ],
+    "code": "",
+    "date": "2026-04-16"
    }
   ]
  }
