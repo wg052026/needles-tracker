@@ -5597,6 +5597,10 @@
   "stu-g116650054165": {
    "first": "2026-10-16",
    "title": "Needles x A Tribe Called Quest B.B. Jacket - Wool Melton"
+  },
+  "stu-g116500100332": {
+   "first": "2026-10-27",
+   "title": "Needles x PENDLETON Classic Shirt - Wool Plaid"
   }
  },
  "MIX.TOKYO": {
@@ -12548,40 +12552,6 @@
     "date": "2026-10-13"
    },
    {
-    "id": "nep-8841721282743",
-    "title": "〈NEEDLES〉x〈A TRIBE  CALLED QUEST〉 Track Pant - Poly Smooth",
-    "price_yen": "¥24,200",
-    "url": "https://onlinestore.nepenthes.co.jp/products/track-pant-poly-smooth-38",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY562-0_625e8dfe-95db-4bad-a690-d9f5ed4ff090.jpg?v=1791940282",
-    "created": "2026-10-13",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Black",
-      "available": true
-     }
-    ],
-    "code": "TY562",
-    "date": "2026-10-13"
-   },
-   {
-    "id": "nep-8841721020599",
-    "title": "〈NEEDLES〉x〈A TRIBE  CALLED QUEST〉 Track Jacket - Poly Smooth",
-    "price_yen": "¥29,700",
-    "url": "https://onlinestore.nepenthes.co.jp/products/track-jacket-poly-smooth-41",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY561-0_2d3353a1-4d29-41f1-9b98-dc2f22d544b3.jpg?v=1791940233",
-    "created": "2026-10-13",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Black",
-      "available": true
-     }
-    ],
-    "code": "TY561",
-    "date": "2026-10-13"
-   },
-   {
     "id": "nep-8841710272695",
     "title": "Leggings - Wool Jersey",
     "price_yen": "¥19,800",
@@ -16358,6 +16328,31 @@
   ],
   "STUDIOUS": [
    {
+    "id": "stu-g116500100332",
+    "title": "Needles x PENDLETON Classic Shirt - Wool Plaid",
+    "price_yen": "¥55,000",
+    "url": "https://studious.co.jp/shop/g/g116500100332/",
+    "img": "https://studious.co.jp/img/goods/S/116500100332_b522badbae8c4508be5f201f14ced188.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     },
+     {
+      "name": "",
+      "available": null
+     },
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "TY522A",
+    "date": "2026-10-27"
+   },
+   {
     "id": "stu-g116581001160",
     "title": "別注 Nylon Cap - Papillon Embroidery BLACK",
     "price_yen": "¥12,100",
@@ -16390,6 +16385,31 @@
     ],
     "code": "SX1558",
     "date": "2026-07-14"
+   },
+   {
+    "id": "stu-g116550129164",
+    "title": "Track Jacket - Poly Smooth",
+    "price_yen": "¥28,600",
+    "url": "https://studious.co.jp/shop/g/g116550129164/",
+    "img": "https://studious.co.jp/img/goods/S/116550129164_e95b12b4fa084c679be7ae94af637d08.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     },
+     {
+      "name": "",
+      "available": null
+     },
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "TY349",
+    "date": "2026-09-04"
    },
    {
     "id": "stu-g116523018165",
@@ -16473,31 +16493,6 @@
     ],
     "code": "TY355",
     "date": "2026-09-11"
-   },
-   {
-    "id": "stu-g116550129164",
-    "title": "Track Jacket - Poly Smooth",
-    "price_yen": "¥28,600",
-    "url": "https://studious.co.jp/shop/g/g116550129164/",
-    "img": "https://studious.co.jp/img/goods/S/116550129164_e95b12b4fa084c679be7ae94af637d08.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     },
-     {
-      "name": "",
-      "available": null
-     },
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "TY349",
-    "date": "2026-09-04"
    },
    {
     "id": "stu-g116540137163",
@@ -16755,23 +16750,6 @@
     "date": "2026-08-29"
    },
    {
-    "id": "stu-g116550130164",
-    "title": "Dolman Sleeve Track Jacket - Bright Jersey",
-    "price_yen": "¥30,800",
-    "url": "https://studious.co.jp/shop/g/g116550130164/",
-    "img": "https://studious.co.jp/img/goods/S/116550130164_ed02d62813ab4175be89ef803dc8ac32.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "TY362B",
-    "date": "2026-08-26"
-   },
-   {
     "id": "stu-g116523019164",
     "title": "Mock Neck Shirt - Bright Jersey",
     "price_yen": "¥18,700",
@@ -16791,6 +16769,23 @@
     ],
     "code": "TY367",
     "date": "2026-09-19"
+   },
+   {
+    "id": "stu-g116550130164",
+    "title": "Dolman Sleeve Track Jacket - Bright Jersey",
+    "price_yen": "¥30,800",
+    "url": "https://studious.co.jp/shop/g/g116550130164/",
+    "img": "https://studious.co.jp/img/goods/S/116550130164_ed02d62813ab4175be89ef803dc8ac32.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "TY362B",
+    "date": "2026-08-26"
    },
    {
     "id": "stu-g116631030114",
@@ -16864,23 +16859,6 @@
     "date": "2026-08-09"
    },
    {
-    "id": "stu-g116550131304",
-    "title": "Needles x FILA Ventisei Track Jacket",
-    "price_yen": "¥28,600",
-    "url": "https://studious.co.jp/shop/g/g116550131304/",
-    "img": "https://studious.co.jp/img/goods/S/116550131304_25be94f2b197412188b72a84414caef2.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "",
-    "date": "2026-08-09"
-   },
-   {
     "id": "stu-g116550128164",
     "title": "D.N. Coverall - Moleskin",
     "price_yen": "¥48,400",
@@ -16902,6 +16880,23 @@
     "date": "2026-08-29"
    },
    {
+    "id": "stu-g116540166213",
+    "title": "別注 H.D. Track Pant - Nylon Polyester",
+    "price_yen": "¥28,600",
+    "url": "https://studious.co.jp/shop/g/g116540166213/",
+    "img": "https://studious.co.jp/img/goods/S/116540166213_b3e4e81cb14a4dd7b764f27ebe4db15f.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "SX1669",
+    "date": "2026-09-29"
+   },
+   {
     "id": "stu-g116502001164",
     "title": "別注 Piping Cowboy One-Up S/S Shirt-Poly Double Cloth",
     "price_yen": "¥37,400",
@@ -16921,6 +16916,57 @@
     ],
     "code": "SX1556",
     "date": "2026-08-04"
+   },
+   {
+    "id": "stu-g116558003215",
+    "title": "別注 Track Jacket - Nylon Polyester",
+    "price_yen": "¥30,800",
+    "url": "https://studious.co.jp/shop/g/g116558003215/",
+    "img": "https://studious.co.jp/img/goods/S/116558003215_4d6b5d3316754fb397fad0d2c2fc4491.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "SX1668",
+    "date": "2026-09-24"
+   },
+   {
+    "id": "stu-g116587020074",
+    "title": "Ring - 925 Silver (Papillon)",
+    "price_yen": "¥17,600",
+    "url": "https://studious.co.jp/shop/g/g116587020074/",
+    "img": "https://studious.co.jp/img/goods/S/116587020074_c6bb2b85559344c88c9f65903c252a1f.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "",
+    "date": "2026-07-17"
+   },
+   {
+    "id": "stu-g116550131304",
+    "title": "Needles x FILA Ventisei Track Jacket",
+    "price_yen": "¥28,600",
+    "url": "https://studious.co.jp/shop/g/g116550131304/",
+    "img": "https://studious.co.jp/img/goods/S/116550131304_25be94f2b197412188b72a84414caef2.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "",
+    "date": "2026-08-09"
    },
    {
     "id": "stu-g116681003160",
@@ -16967,57 +17013,6 @@
     ],
     "code": "TY068D",
     "date": "2026-08-05"
-   },
-   {
-    "id": "stu-g116558003215",
-    "title": "別注 Track Jacket - Nylon Polyester",
-    "price_yen": "¥30,800",
-    "url": "https://studious.co.jp/shop/g/g116558003215/",
-    "img": "https://studious.co.jp/img/goods/S/116558003215_4d6b5d3316754fb397fad0d2c2fc4491.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "SX1668",
-    "date": "2026-09-24"
-   },
-   {
-    "id": "stu-g116540166213",
-    "title": "別注 H.D. Track Pant - Nylon Polyester",
-    "price_yen": "¥28,600",
-    "url": "https://studious.co.jp/shop/g/g116540166213/",
-    "img": "https://studious.co.jp/img/goods/S/116540166213_b3e4e81cb14a4dd7b764f27ebe4db15f.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "SX1669",
-    "date": "2026-09-29"
-   },
-   {
-    "id": "stu-g116587020074",
-    "title": "Ring - 925 Silver (Papillon)",
-    "price_yen": "¥17,600",
-    "url": "https://studious.co.jp/shop/g/g116587020074/",
-    "img": "https://studious.co.jp/img/goods/S/116587020074_c6bb2b85559344c88c9f65903c252a1f.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "",
-    "date": "2026-07-17"
    },
    {
     "id": "stu-g116322192035",
@@ -17289,23 +17284,6 @@
     "date": "2026-07-14"
    },
    {
-    "id": "stu-g116550133165",
-    "title": "Needles x A Tribe Called Quest Track Jacket - Poly Smooth",
-    "price_yen": "¥29,700",
-    "url": "https://studious.co.jp/shop/g/g116550133165/",
-    "img": "https://studious.co.jp/img/goods/S/116550133165_bbedeca80a5949b5a91d6280a6fc4db9.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "TY561",
-    "date": "2026-10-16"
-   },
-   {
     "id": "stu-g116540146164",
     "title": "Needles x A Tribe Called Quest Track Pant - Poly Smooth",
     "price_yen": "¥24,200",
@@ -17320,6 +17298,23 @@
      }
     ],
     "code": "TY562",
+    "date": "2026-10-16"
+   },
+   {
+    "id": "stu-g116550133165",
+    "title": "Needles x A Tribe Called Quest Track Jacket - Poly Smooth",
+    "price_yen": "¥29,700",
+    "url": "https://studious.co.jp/shop/g/g116550133165/",
+    "img": "https://studious.co.jp/img/goods/S/116550133165_bbedeca80a5949b5a91d6280a6fc4db9.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "TY561",
     "date": "2026-10-16"
    },
    {
