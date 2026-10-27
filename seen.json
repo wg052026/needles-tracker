@@ -8489,23 +8489,6 @@
     "date": "2026-09-09"
    },
    {
-    "id": "nep-8738188558519",
-    "title": "Military Shirt Jacket - Camo Twill",
-    "price_yen": "¥27,500",
-    "url": "https://onlinestore.nepenthes.co.jp/products/military-shirt-jacket-camo-twill-2",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY300_C-Olive_1.jpg?v=1787987406",
-    "created": "2026-08-28",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Olive",
-      "available": true
-     }
-    ],
-    "code": "TY300C",
-    "date": "2026-08-28"
-   },
-   {
     "id": "nep-8735646613687",
     "title": "〈NEEDLES〉 x 〈BROOKS BROTHERS〉Penny Loafer - Shell Cordovan",
     "price_yen": "¥154,000",
@@ -18342,7 +18325,7 @@
     "title": "NEEDLES/ニードルズ/DECONSTRUCTED H.D. SWEAT PANT",
     "price_yen": "¥42,000",
     "url": "https://mix.tokyo/products/7846210333",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846210333-140_MAIN.jpg?v=1792753425",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846210333-140_MAIN.jpg?v=1793098959",
     "created": "2026-10-15",
     "soldout": false,
     "colors": [
@@ -18421,7 +18404,7 @@
     "title": "Needles/ニードルズ　Deconstructed H.D. Sweat Pant TY377",
     "price_yen": "¥42,000",
     "url": "https://mix.tokyo/products/7816210243",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816210243-010_MAIN.jpg?v=1793012663",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816210243-020_MAIN.jpg?v=1793098960",
     "created": "2026-10-13",
     "soldout": false,
     "colors": [
@@ -18835,11 +18818,11 @@
     "url": "https://mix.tokyo/products/7846274287",
     "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846274287-050_MAIN.jpg?v=1789611176",
     "created": "2026-09-04",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "ブラック",
-      "available": true
+      "available": false
      },
      {
       "name": "ブラウン",
