@@ -10189,23 +10189,6 @@
     "date": "2026-08-01"
    },
    {
-    "id": "nep-8693348303031",
-    "title": "Boot-Cut Jean - Poly Jq.",
-    "price_yen": "¥26,400",
-    "url": "https://onlinestore.nepenthes.co.jp/products/boot-cut-jean-poly-jq-27",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY346_D-Geometric_1.jpg?v=1785648866",
-    "created": "2026-08-01",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Geometric",
-      "available": false
-     }
-    ],
-    "code": "TY346D",
-    "date": "2026-08-01"
-   },
-   {
     "id": "nep-8693348204727",
     "title": "Boot-Cut Jean - Poly Jq.",
     "price_yen": "¥26,400",
