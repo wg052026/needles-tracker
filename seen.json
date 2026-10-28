@@ -4947,6 +4947,30 @@
   "nep-8773605458103": {
    "first": "2026-09-12",
    "title": "Rabbit Fur Coat - Animal Printed"
+  },
+  "nep-15902268489911": {
+   "first": "2026-10-26",
+   "title": "〈NEEDLES〉x〈WOBURN WALK〉Track Jacket - Poly Smooth"
+  },
+  "nep-15902269014199": {
+   "first": "2026-10-26",
+   "title": "〈NEEDLES〉x〈WOBURN WALK〉H.D. Track Pant - Poly Smooth"
+  },
+  "nep-15902269702327": {
+   "first": "2026-10-26",
+   "title": "〈NEEDLES〉x〈WOBURN WALK〉Track Pant - Bondage / Poly Smooth"
+  },
+  "nep-15902269374647": {
+   "first": "2026-10-26",
+   "title": "〈NEEDLES〉x〈WOBURN WALK〉Track Jacket - Bondage / Poly Smooth"
+  },
+  "nep-15902269931703": {
+   "first": "2026-10-26",
+   "title": "〈NEEDLES〉x〈WOBURN WALK〉Baseball Cap"
+  },
+  "nep-15902268752055": {
+   "first": "2026-10-26",
+   "title": "〈NEEDLES〉x〈WOBURN WALK〉Track Pant - Poly Smooth"
   }
  },
  "STUDIOUS": {
@@ -6223,6 +6247,14 @@
   "mix-10359945691201": {
    "first": "2026-10-19",
    "title": "NEEDLES/ニードルズ/H.D. APRON PT - SULFUR DYE DUCK"
+  },
+  "mix-10371794763841": {
+   "first": "2026-10-23",
+   "title": "NEEDLES/ニードルズ/MOHAIR CARDIGAN - FOLKLORE"
+  },
+  "mix-10371792994369": {
+   "first": "2026-10-23",
+   "title": "NEEDLES/ニードルズ/DECONSTRUCTED SWEAT SHIRT"
   }
  },
  "_snapshots": {
@@ -8087,11 +8119,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/rib-socks-shetland-wool",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY067_A-Umber_1.jpg?v=1784172085",
     "created": "2026-07-15",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Umber",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY067A",
@@ -14122,11 +14154,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/darts-jean-jacket-13oz-python-jacq-1",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY221_B-Black_1.jpg?v=1786165045",
     "created": "2026-08-07",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Black",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY221B",
@@ -16290,6 +16322,108 @@
     ],
     "code": "TY522B",
     "date": "2026-10-22"
+   },
+   {
+    "id": "nep-15902268489911",
+    "title": "〈NEEDLES〉x〈WOBURN WALK〉Track Jacket - Poly Smooth",
+    "price_yen": "¥29,700",
+    "url": "https://onlinestore.nepenthes.co.jp/products/track-jacket-poly-smooth-42",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY550-1.jpg?v=1793175379",
+    "created": "2026-10-26",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY550",
+    "date": "2026-10-26"
+   },
+   {
+    "id": "nep-15902269014199",
+    "title": "〈NEEDLES〉x〈WOBURN WALK〉H.D. Track Pant - Poly Smooth",
+    "price_yen": "¥24,200",
+    "url": "https://onlinestore.nepenthes.co.jp/products/h-d-track-pant-poly-smooth-39",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY552-1.jpg?v=1793175345",
+    "created": "2026-10-26",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY552",
+    "date": "2026-10-26"
+   },
+   {
+    "id": "nep-15902269702327",
+    "title": "〈NEEDLES〉x〈WOBURN WALK〉Track Pant - Bondage / Poly Smooth",
+    "price_yen": "¥35,200",
+    "url": "https://onlinestore.nepenthes.co.jp/products/track-pant-bondage-poly-smooth",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY554-1.jpg?v=1793175309",
+    "created": "2026-10-26",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY554",
+    "date": "2026-10-26"
+   },
+   {
+    "id": "nep-15902269374647",
+    "title": "〈NEEDLES〉x〈WOBURN WALK〉Track Jacket - Bondage / Poly Smooth",
+    "price_yen": "¥41,800",
+    "url": "https://onlinestore.nepenthes.co.jp/products/track-jacket-bondage-poly-smooth",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY553-1_jpg.jpg?v=1793175327",
+    "created": "2026-10-26",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY553",
+    "date": "2026-10-26"
+   },
+   {
+    "id": "nep-15902269931703",
+    "title": "〈NEEDLES〉x〈WOBURN WALK〉Baseball Cap",
+    "price_yen": "¥14,300",
+    "url": "https://onlinestore.nepenthes.co.jp/products/baseball-cap",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY555-1.jpg?v=1793175291",
+    "created": "2026-10-26",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY555",
+    "date": "2026-10-26"
+   },
+   {
+    "id": "nep-15902268752055",
+    "title": "〈NEEDLES〉x〈WOBURN WALK〉Track Pant - Poly Smooth",
+    "price_yen": "¥24,200",
+    "url": "https://onlinestore.nepenthes.co.jp/products/track-pant-poly-smooth-39",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY551-1.jpg?v=1793175362",
+    "created": "2026-10-26",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY551",
+    "date": "2026-10-26"
    }
   ],
   "STUDIOUS": [
@@ -18283,6 +18417,52 @@
   ],
   "MIX.TOKYO": [
    {
+    "id": "mix-10371794763841",
+    "title": "NEEDLES/ニードルズ/MOHAIR CARDIGAN - FOLKLORE",
+    "price_yen": "¥31,000",
+    "url": "https://mix.tokyo/products/7846241217",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846241217-386_MAIN.jpg?v=1793098947",
+    "created": "2026-10-23",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "キャメル",
+      "available": true
+     }
+    ],
+    "code": "",
+    "date": "2026-10-23"
+   },
+   {
+    "id": "mix-10371792994369",
+    "title": "NEEDLES/ニードルズ/DECONSTRUCTED SWEAT SHIRT",
+    "price_yen": "¥36,000",
+    "url": "https://mix.tokyo/products/7846232228",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846232228-010_MAIN.jpg?v=1793098969",
+    "created": "2026-10-23",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "ブラック",
+      "available": true
+     },
+     {
+      "name": "グレー",
+      "available": true
+     },
+     {
+      "name": "レッド",
+      "available": true
+     },
+     {
+      "name": "グリーン",
+      "available": true
+     }
+    ],
+    "code": "",
+    "date": "2026-10-23"
+   },
+   {
     "id": "mix-10359945691201",
     "title": "NEEDLES/ニードルズ/H.D. APRON PT - SULFUR DYE DUCK",
     "price_yen": "¥52,000",
@@ -18339,7 +18519,7 @@
     "url": "https://mix.tokyo/products/7846210332",
     "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846210332-120_MAIN.jpg?v=1792063859",
     "created": "2026-10-15",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "ブラック",
@@ -18347,11 +18527,11 @@
      },
      {
       "name": "パープル",
-      "available": true
+      "available": false
      },
      {
       "name": "ネイビー",
-      "available": true
+      "available": false
      }
     ],
     "code": "",
@@ -19220,11 +19400,11 @@
     "url": "https://mix.tokyo/products/7846252254",
     "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846252254-010_MAIN.jpg?v=1785351772",
     "created": "2026-07-03",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "ブラック",
-      "available": true
+      "available": false
      },
      {
       "name": "ホワイト",
@@ -19608,7 +19788,7 @@
     "url": "https://mix.tokyo/products/7846252250",
     "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846252250-410_MAIN.jpg?v=1787166391",
     "created": "2026-05-25",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "ブラック×ホワイト",
@@ -19632,7 +19812,7 @@
      },
      {
       "name": "チャコール",
-      "available": true
+      "available": false
      }
     ],
     "code": "",
