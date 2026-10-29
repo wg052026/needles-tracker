@@ -12879,11 +12879,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/cap-shoulder-sports-jacket-leo-jacq",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY156_A-BrownBlack_1.jpg?v=1791180776",
     "created": "2026-10-05",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Brw/Blk",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY156A",
@@ -14103,11 +14103,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/one-up-shirt-wool-ombre-plaid",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY278_A-RedYellow_1.jpg?v=1786166377",
     "created": "2026-08-07",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Red/Yellow",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY278A",
