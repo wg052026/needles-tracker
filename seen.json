@@ -4971,6 +4971,54 @@
   "nep-15902268752055": {
    "first": "2026-10-26",
    "title": "〈NEEDLES〉x〈WOBURN WALK〉Track Pant - Poly Smooth"
+  },
+  "nep-8657546281143": {
+   "first": "2026-07-10",
+   "title": "〈NEEDLES〉x〈TIE A KNOT〉Square Crystal Beads Ring"
+  },
+  "nep-8657545429175": {
+   "first": "2026-07-10",
+   "title": "〈NEEDLES〉x〈TIE A KNOT〉Square Crystal Beads Ring"
+  },
+  "nep-8657546182839": {
+   "first": "2026-07-10",
+   "title": "〈NEEDLES〉x〈TIE A KNOT〉Square Crystal Beads Ring"
+  },
+  "nep-8657545527479": {
+   "first": "2026-07-10",
+   "title": "〈NEEDLES〉x〈TIE A KNOT〉Square Crystal Beads Ring"
+  },
+  "nep-8657545593015": {
+   "first": "2026-07-10",
+   "title": "〈NEEDLES〉x〈TIE A KNOT〉Square Crystal Beads Ring"
+  },
+  "nep-8657545560247": {
+   "first": "2026-07-10",
+   "title": "〈NEEDLES〉x〈TIE A KNOT〉Square Crystal Beads Ring"
+  },
+  "nep-8657545887927": {
+   "first": "2026-07-10",
+   "title": "〈NEEDLES〉x〈TIE A KNOT〉Square Crystal Beads Ring"
+  },
+  "nep-8657545724087": {
+   "first": "2026-07-10",
+   "title": "〈NEEDLES〉x〈TIE A KNOT〉Square Crystal Beads Ring"
+  },
+  "nep-8657546248375": {
+   "first": "2026-07-10",
+   "title": "〈NEEDLES〉x〈TIE A KNOT〉Square Crystal Beads Ring"
+  },
+  "nep-8657545494711": {
+   "first": "2026-07-10",
+   "title": "〈NEEDLES〉x〈TIE A KNOT〉Square Crystal Beads Ring"
+  },
+  "nep-8657546084535": {
+   "first": "2026-07-10",
+   "title": "〈NEEDLES〉x〈TIE A KNOT〉Square Crystal Beads Ring"
+  },
+  "nep-8657545986231": {
+   "first": "2026-07-10",
+   "title": "〈NEEDLES〉x〈TIE A KNOT〉Square Crystal Beads Ring"
   }
  },
  "STUDIOUS": {
@@ -6255,6 +6303,10 @@
   "mix-10371792994369": {
    "first": "2026-10-23",
    "title": "NEEDLES/ニードルズ/DECONSTRUCTED SWEAT SHIRT"
+  },
+  "mix-10380673515585": {
+   "first": "2026-10-26",
+   "title": "Needles/ニードルズ　Deconstructed Sweat Shirt TY376"
   }
  },
  "_snapshots": {
@@ -8110,23 +8162,6 @@
      }
     ],
     "code": "TY493B",
-    "date": "2026-07-15"
-   },
-   {
-    "id": "nep-8666554499255",
-    "title": "Rib Socks - Shetland Wool",
-    "price_yen": "¥4,180",
-    "url": "https://onlinestore.nepenthes.co.jp/products/rib-socks-shetland-wool",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY067_A-Umber_1.jpg?v=1784172085",
-    "created": "2026-07-15",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Umber",
-      "available": false
-     }
-    ],
-    "code": "TY067A",
     "date": "2026-07-15"
    },
    {
@@ -10153,40 +10188,6 @@
     "date": "2026-08-07"
    },
    {
-    "id": "nep-8693350957239",
-    "title": "〈NEEDLES〉x〈TIE A KNOT〉Crystal Beads Ring Small",
-    "price_yen": "¥26,400",
-    "url": "https://onlinestore.nepenthes.co.jp/products/crystal-beads-ring-small-4",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY571_E-BlueNavy_1.jpg?v=1785650203",
-    "created": "2026-08-01",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Blue/Navy",
-      "available": true
-     }
-    ],
-    "code": "TY571E",
-    "date": "2026-08-01"
-   },
-   {
-    "id": "nep-8693350760631",
-    "title": "〈NEEDLES〉x〈TIE A KNOT〉Crystal Beads Ring Small",
-    "price_yen": "¥26,400",
-    "url": "https://onlinestore.nepenthes.co.jp/products/crystal-beads-ring-small-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY571_B-BlackClear_1.jpg?v=1785650145",
-    "created": "2026-08-01",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Black/Clear",
-      "available": true
-     }
-    ],
-    "code": "TY571B",
-    "date": "2026-08-01"
-   },
-   {
     "id": "nep-8693349548215",
     "title": "Balloon Track Skirt - Bright Jersey",
     "price_yen": "¥27,500",
@@ -11485,11 +11486,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/h-d-pant-jean-13oz-python-jacq",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY224_A-Indigo_1.jpg?v=1786165252",
     "created": "2026-08-07",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Indigo",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY224A",
@@ -12556,11 +12557,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/leggings-wool-jersey-2",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY390_C-Black_1.jpg?v=1791874948",
     "created": "2026-10-13",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Black",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY390C",
@@ -12870,23 +12871,6 @@
      }
     ],
     "code": "TY156B",
-    "date": "2026-10-05"
-   },
-   {
-    "id": "nep-8825494241463",
-    "title": "Cap Shoulder Sports Jacket - Leopard Jacquard",
-    "price_yen": "¥52,800",
-    "url": "https://onlinestore.nepenthes.co.jp/products/cap-shoulder-sports-jacket-leo-jacq",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY156_A-BrownBlack_1.jpg?v=1791180776",
-    "created": "2026-10-05",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Brw/Blk",
-      "available": false
-     }
-    ],
-    "code": "TY156A",
     "date": "2026-10-05"
    },
    {
@@ -14097,23 +14081,6 @@
     "date": "2026-08-07"
    },
    {
-    "id": "nep-8701052125367",
-    "title": "One-Up Shirt - Wool Ombre Plaid",
-    "price_yen": "¥46,200",
-    "url": "https://onlinestore.nepenthes.co.jp/products/one-up-shirt-wool-ombre-plaid",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY278_A-RedYellow_1.jpg?v=1786166377",
-    "created": "2026-08-07",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Red/Yellow",
-      "available": false
-     }
-    ],
-    "code": "TY278A",
-    "date": "2026-08-07"
-   },
-   {
     "id": "nep-8701051568311",
     "title": "Track & Field Pant - Double Knit",
     "price_yen": "¥23,100",
@@ -14148,23 +14115,6 @@
     "date": "2026-08-07"
    },
    {
-    "id": "nep-8701049798839",
-    "title": "Darts Jean Jacket - 13oz Python Jacquard",
-    "price_yen": "¥41,800",
-    "url": "https://onlinestore.nepenthes.co.jp/products/darts-jean-jacket-13oz-python-jacq-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY221_B-Black_1.jpg?v=1786165045",
-    "created": "2026-08-07",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Black",
-      "available": false
-     }
-    ],
-    "code": "TY221B",
-    "date": "2026-08-07"
-   },
-   {
     "id": "nep-8701049536695",
     "title": "Sports Jacket - Crocodile Jacquard Chintz",
     "price_yen": "¥84,700",
@@ -14180,74 +14130,6 @@
     ],
     "code": "TY157B",
     "date": "2026-08-07"
-   },
-   {
-    "id": "nep-8693350990007",
-    "title": "〈NEEDLES〉x〈TIE A KNOT〉Crystal Beads Ring Small",
-    "price_yen": "¥26,400",
-    "url": "https://onlinestore.nepenthes.co.jp/products/crystal-beads-ring-small-5",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY571_F-GreenLt.Green_1.jpg?v=1785650222",
-    "created": "2026-08-01",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Grn/Lt.Grn",
-      "available": true
-     }
-    ],
-    "code": "TY571F",
-    "date": "2026-08-01"
-   },
-   {
-    "id": "nep-8693350924471",
-    "title": "〈NEEDLES〉x〈TIE A KNOT〉Crystal Beads Ring Small",
-    "price_yen": "¥26,400",
-    "url": "https://onlinestore.nepenthes.co.jp/products/crystal-beads-ring-small-3",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY571_D-ClearClear_1.jpg?v=1785650185",
-    "created": "2026-08-01",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Clear/Clear",
-      "available": true
-     }
-    ],
-    "code": "TY571D",
-    "date": "2026-08-01"
-   },
-   {
-    "id": "nep-8693350891703",
-    "title": "〈NEEDLES〉x〈TIE A KNOT〉Crystal Beads Ring Small",
-    "price_yen": "¥26,400",
-    "url": "https://onlinestore.nepenthes.co.jp/products/crystal-beads-ring-small-2",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY571_C-PurpleBlack_1.jpg?v=1785650165",
-    "created": "2026-08-01",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Ppl/Blk",
-      "available": true
-     }
-    ],
-    "code": "TY571C",
-    "date": "2026-08-01"
-   },
-   {
-    "id": "nep-8693350727863",
-    "title": "〈NEEDLES〉x〈TIE A KNOT〉Crystal Beads Ring Small",
-    "price_yen": "¥26,400",
-    "url": "https://onlinestore.nepenthes.co.jp/products/crystal-beads-ring-small",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY571_A-YellowPurple_1.jpg?v=1785650125",
-    "created": "2026-08-01",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Ylw/Ppl",
-      "available": true
-     }
-    ],
-    "code": "TY571A",
-    "date": "2026-08-01"
    },
    {
     "id": "nep-8693349646519",
@@ -16424,6 +16306,312 @@
     ],
     "code": "TY551",
     "date": "2026-10-26"
+   },
+   {
+    "id": "nep-8693350957239",
+    "title": "〈NEEDLES〉x〈TIE A KNOT〉Crystal Beads Ring Small",
+    "price_yen": "¥26,400",
+    "url": "https://onlinestore.nepenthes.co.jp/products/crystal-beads-ring-small-4",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY571_E-BlueNavy_1.jpg?v=1785650203",
+    "created": "2026-08-01",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Blue/Navy",
+      "available": true
+     }
+    ],
+    "code": "TY571E",
+    "date": "2026-08-01"
+   },
+   {
+    "id": "nep-8693350891703",
+    "title": "〈NEEDLES〉x〈TIE A KNOT〉Crystal Beads Ring Small",
+    "price_yen": "¥26,400",
+    "url": "https://onlinestore.nepenthes.co.jp/products/crystal-beads-ring-small-2",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY571_C-PurpleBlack_1.jpg?v=1785650165",
+    "created": "2026-08-01",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Ppl/Blk",
+      "available": true
+     }
+    ],
+    "code": "TY571C",
+    "date": "2026-08-01"
+   },
+   {
+    "id": "nep-8693350727863",
+    "title": "〈NEEDLES〉x〈TIE A KNOT〉Crystal Beads Ring Small",
+    "price_yen": "¥26,400",
+    "url": "https://onlinestore.nepenthes.co.jp/products/crystal-beads-ring-small",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY571_A-YellowPurple_1.jpg?v=1785650125",
+    "created": "2026-08-01",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Ylw/Ppl",
+      "available": true
+     }
+    ],
+    "code": "TY571A",
+    "date": "2026-08-01"
+   },
+   {
+    "id": "nep-8657546281143",
+    "title": "〈NEEDLES〉x〈TIE A KNOT〉Square Crystal Beads Ring",
+    "price_yen": "¥29,700",
+    "url": "https://onlinestore.nepenthes.co.jp/products/square-crystal-beads-ring-23",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY570_L-RedRed_1.jpg?v=1784078648",
+    "created": "2026-07-10",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Red/Red",
+      "available": true
+     }
+    ],
+    "code": "TY570L",
+    "date": "2026-07-10"
+   },
+   {
+    "id": "nep-8693350990007",
+    "title": "〈NEEDLES〉x〈TIE A KNOT〉Crystal Beads Ring Small",
+    "price_yen": "¥26,400",
+    "url": "https://onlinestore.nepenthes.co.jp/products/crystal-beads-ring-small-5",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY571_F-GreenLt.Green_1.jpg?v=1785650222",
+    "created": "2026-08-01",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Grn/Lt.Grn",
+      "available": true
+     }
+    ],
+    "code": "TY571F",
+    "date": "2026-08-01"
+   },
+   {
+    "id": "nep-8657545429175",
+    "title": "〈NEEDLES〉x〈TIE A KNOT〉Square Crystal Beads Ring",
+    "price_yen": "¥29,700",
+    "url": "https://onlinestore.nepenthes.co.jp/products/square-crystal-beads-ring-12",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY570_A-YellowPurple_1.jpg?v=1784077967",
+    "created": "2026-07-10",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Ylw/Ppl",
+      "available": true
+     }
+    ],
+    "code": "TY570A",
+    "date": "2026-07-10"
+   },
+   {
+    "id": "nep-8657546182839",
+    "title": "〈NEEDLES〉x〈TIE A KNOT〉Square Crystal Beads Ring",
+    "price_yen": "¥29,700",
+    "url": "https://onlinestore.nepenthes.co.jp/products/square-crystal-beads-ring-21",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY570_J-BrownClearBeige_1.jpg?v=1784078583",
+    "created": "2026-07-10",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Brw/C.Beige",
+      "available": true
+     }
+    ],
+    "code": "TY570J",
+    "date": "2026-07-10"
+   },
+   {
+    "id": "nep-8657545527479",
+    "title": "〈NEEDLES〉x〈TIE A KNOT〉Square Crystal Beads Ring",
+    "price_yen": "¥29,700",
+    "url": "https://onlinestore.nepenthes.co.jp/products/square-crystal-beads-ring-14",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY570_C-GreenClear_1.jpg?v=1784078316",
+    "created": "2026-07-10",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Grn/Clear",
+      "available": true
+     }
+    ],
+    "code": "TY570C",
+    "date": "2026-07-10"
+   },
+   {
+    "id": "nep-8657545593015",
+    "title": "〈NEEDLES〉x〈TIE A KNOT〉Square Crystal Beads Ring",
+    "price_yen": "¥29,700",
+    "url": "https://onlinestore.nepenthes.co.jp/products/square-crystal-beads-ring-16",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY570_E-PurpleOlive_1.jpg?v=1784078415",
+    "created": "2026-07-10",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Ppl/Olv",
+      "available": true
+     }
+    ],
+    "code": "TY570E",
+    "date": "2026-07-10"
+   },
+   {
+    "id": "nep-8657545560247",
+    "title": "〈NEEDLES〉x〈TIE A KNOT〉Square Crystal Beads Ring",
+    "price_yen": "¥29,700",
+    "url": "https://onlinestore.nepenthes.co.jp/products/square-crystal-beads-ring-15",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY570_D-BlueClearBeige_1.jpg?v=1784078383",
+    "created": "2026-07-10",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Blu/C.Beige",
+      "available": true
+     }
+    ],
+    "code": "TY570D",
+    "date": "2026-07-10"
+   },
+   {
+    "id": "nep-8657545887927",
+    "title": "〈NEEDLES〉x〈TIE A KNOT〉Square Crystal Beads Ring",
+    "price_yen": "¥29,700",
+    "url": "https://onlinestore.nepenthes.co.jp/products/square-crystal-beads-ring-18",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY570_G-PurplePurple_1.jpg?v=1784078497",
+    "created": "2026-07-10",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Ppl/Ppl",
+      "available": true
+     }
+    ],
+    "code": "TY570G",
+    "date": "2026-07-10"
+   },
+   {
+    "id": "nep-8657545724087",
+    "title": "〈NEEDLES〉x〈TIE A KNOT〉Square Crystal Beads Ring",
+    "price_yen": "¥29,700",
+    "url": "https://onlinestore.nepenthes.co.jp/products/square-crystal-beads-ring-17",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY570_F-GreenRed_1.jpg?v=1784078443",
+    "created": "2026-07-10",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Grn/Red",
+      "available": true
+     }
+    ],
+    "code": "TY570F",
+    "date": "2026-07-10"
+   },
+   {
+    "id": "nep-8693350924471",
+    "title": "〈NEEDLES〉x〈TIE A KNOT〉Crystal Beads Ring Small",
+    "price_yen": "¥26,400",
+    "url": "https://onlinestore.nepenthes.co.jp/products/crystal-beads-ring-small-3",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY571_D-ClearClear_1.jpg?v=1785650185",
+    "created": "2026-08-01",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Clear/Clear",
+      "available": true
+     }
+    ],
+    "code": "TY571D",
+    "date": "2026-08-01"
+   },
+   {
+    "id": "nep-8657546248375",
+    "title": "〈NEEDLES〉x〈TIE A KNOT〉Square Crystal Beads Ring",
+    "price_yen": "¥29,700",
+    "url": "https://onlinestore.nepenthes.co.jp/products/square-crystal-beads-ring-22",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY570_K-GreenBlue_1.jpg?v=1784078614",
+    "created": "2026-07-10",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Grn/Blu",
+      "available": true
+     }
+    ],
+    "code": "TY570K",
+    "date": "2026-07-10"
+   },
+   {
+    "id": "nep-8693350760631",
+    "title": "〈NEEDLES〉x〈TIE A KNOT〉Crystal Beads Ring Small",
+    "price_yen": "¥26,400",
+    "url": "https://onlinestore.nepenthes.co.jp/products/crystal-beads-ring-small-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY571_B-BlackClear_1.jpg?v=1785650145",
+    "created": "2026-08-01",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black/Clear",
+      "available": true
+     }
+    ],
+    "code": "TY571B",
+    "date": "2026-08-01"
+   },
+   {
+    "id": "nep-8657545494711",
+    "title": "〈NEEDLES〉x〈TIE A KNOT〉Square Crystal Beads Ring",
+    "price_yen": "¥29,700",
+    "url": "https://onlinestore.nepenthes.co.jp/products/square-crystal-beads-ring-13",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY570_B-BlackPurple_1.jpg?v=1784077940",
+    "created": "2026-07-10",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black/Purple",
+      "available": true
+     }
+    ],
+    "code": "TY570B",
+    "date": "2026-07-10"
+   },
+   {
+    "id": "nep-8657546084535",
+    "title": "〈NEEDLES〉x〈TIE A KNOT〉Square Crystal Beads Ring",
+    "price_yen": "¥29,700",
+    "url": "https://onlinestore.nepenthes.co.jp/products/square-crystal-beads-ring-20",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY570_I-BlackBlack_1.jpg?v=1784078555",
+    "created": "2026-07-10",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Blk/Blk",
+      "available": true
+     }
+    ],
+    "code": "TY570I",
+    "date": "2026-07-10"
+   },
+   {
+    "id": "nep-8657545986231",
+    "title": "〈NEEDLES〉x〈TIE A KNOT〉Square Crystal Beads Ring",
+    "price_yen": "¥29,700",
+    "url": "https://onlinestore.nepenthes.co.jp/products/square-crystal-beads-ring-19",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY570_H-ClearClear_1.jpg?v=1784078526",
+    "created": "2026-07-10",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Clear/Clear",
+      "available": true
+     }
+    ],
+    "code": "TY570H",
+    "date": "2026-07-10"
    }
   ],
   "STUDIOUS": [
@@ -18461,6 +18649,27 @@
     ],
     "code": "",
     "date": "2026-10-23"
+   },
+   {
+    "id": "mix-10380673515585",
+    "title": "Needles/ニードルズ　Deconstructed Sweat Shirt TY376",
+    "price_yen": "¥36,000",
+    "url": "https://mix.tokyo/products/7816232217",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816232217-020_MAIN.jpg?v=1793271917",
+    "created": "2026-10-26",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "ブラック",
+      "available": true
+     },
+     {
+      "name": "グレー",
+      "available": true
+     }
+    ],
+    "code": "",
+    "date": "2026-10-26"
    },
    {
     "id": "mix-10359945691201",
