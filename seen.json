@@ -5019,6 +5019,50 @@
   "nep-8657545986231": {
    "first": "2026-07-10",
    "title": "〈NEEDLES〉x〈TIE A KNOT〉Square Crystal Beads Ring"
+  },
+  "nep-15902179754167": {
+   "first": "2026-10-26",
+   "title": "4 Pockets Jacket - Cotton Velvet"
+  },
+  "nep-15902179983543": {
+   "first": "2026-10-26",
+   "title": "4 Pockets Jacket - Cotton Velvet"
+  },
+  "nep-15902180311223": {
+   "first": "2026-10-26",
+   "title": "String H.D. Pant - Cotton Velvet"
+  },
+  "nep-15902180704439": {
+   "first": "2026-10-26",
+   "title": "String H.D. Pant - Cotton Velvet"
+  },
+  "nep-15902182637751": {
+   "first": "2026-10-26",
+   "title": "Loose B.B. Jacket - Ornament Jacquard"
+  },
+  "nep-15902182408375": {
+   "first": "2026-10-26",
+   "title": "Loose B.B. Jacket - Ornament Jacquard"
+  },
+  "nep-15902185423031": {
+   "first": "2026-10-26",
+   "title": "Lining Cardigan - Paisley"
+  },
+  "nep-15902185652407": {
+   "first": "2026-10-26",
+   "title": "Lining Cardigan - Paisley"
+  },
+  "nep-15902219436215": {
+   "first": "2026-10-26",
+   "title": "Rabbit Fur Bucket Hat - Animal Printed"
+  },
+  "nep-15902219370679": {
+   "first": "2026-10-26",
+   "title": "Rabbit Fur Bucket Hat - Animal Printed"
+  },
+  "nep-15902219632823": {
+   "first": "2026-10-26",
+   "title": "Rabbit Fur Mat Bomber Cap - Animal Printed"
   }
  },
  "STUDIOUS": {
@@ -11480,23 +11524,6 @@
     "date": "2026-08-07"
    },
    {
-    "id": "nep-8701050126519",
-    "title": "H.D. Pant - Jean / 13oz Python Jacquard",
-    "price_yen": "¥37,400",
-    "url": "https://onlinestore.nepenthes.co.jp/products/h-d-pant-jean-13oz-python-jacq",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY224_A-Indigo_1.jpg?v=1786165252",
-    "created": "2026-08-07",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Indigo",
-      "available": false
-     }
-    ],
-    "code": "TY224A",
-    "date": "2026-08-07"
-   },
-   {
     "id": "nep-8693349744823",
     "title": "Zipped Sweat Pant - Bright Jersey",
     "price_yen": "¥20,900",
@@ -12548,23 +12575,6 @@
      }
     ],
     "code": "TY563",
-    "date": "2026-10-13"
-   },
-   {
-    "id": "nep-8841710272695",
-    "title": "Leggings - Wool Jersey",
-    "price_yen": "¥19,800",
-    "url": "https://onlinestore.nepenthes.co.jp/products/leggings-wool-jersey-2",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY390_C-Black_1.jpg?v=1791874948",
-    "created": "2026-10-13",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Black",
-      "available": false
-     }
-    ],
-    "code": "TY390C",
     "date": "2026-10-13"
    },
    {
@@ -16204,6 +16214,193 @@
     ],
     "code": "TY522B",
     "date": "2026-10-22"
+   },
+   {
+    "id": "nep-15902179754167",
+    "title": "4 Pockets Jacket - Cotton Velvet",
+    "price_yen": "¥60,500",
+    "url": "https://onlinestore.nepenthes.co.jp/products/4-pockets-jacket-cotton-velvet",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY149_A-Purple_1.jpg?v=1793081308",
+    "created": "2026-10-26",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Purple",
+      "available": true
+     }
+    ],
+    "code": "TY149A",
+    "date": "2026-10-26"
+   },
+   {
+    "id": "nep-15902179983543",
+    "title": "4 Pockets Jacket - Cotton Velvet",
+    "price_yen": "¥60,500",
+    "url": "https://onlinestore.nepenthes.co.jp/products/4-pockets-jacket-cotton-velvet-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY149_B-Black_1.jpg?v=1793081250",
+    "created": "2026-10-26",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY149B",
+    "date": "2026-10-26"
+   },
+   {
+    "id": "nep-15902180311223",
+    "title": "String H.D. Pant - Cotton Velvet",
+    "price_yen": "¥60,500",
+    "url": "https://onlinestore.nepenthes.co.jp/products/string-h-d-pant-cotton-velvet",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY150_A-Purple_1.jpg?v=1793081187",
+    "created": "2026-10-26",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Purple",
+      "available": true
+     }
+    ],
+    "code": "TY150A",
+    "date": "2026-10-26"
+   },
+   {
+    "id": "nep-15902180704439",
+    "title": "String H.D. Pant - Cotton Velvet",
+    "price_yen": "¥60,500",
+    "url": "https://onlinestore.nepenthes.co.jp/products/string-h-d-pant-cotton-velvet-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY150_B-Black_1.jpg?v=1793081153",
+    "created": "2026-10-26",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY150B",
+    "date": "2026-10-26"
+   },
+   {
+    "id": "nep-15902182637751",
+    "title": "Loose B.B. Jacket - Ornament Jacquard",
+    "price_yen": "¥69,300",
+    "url": "https://onlinestore.nepenthes.co.jp/products/loose-b-b-jacket-ornament-jacq-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY159_B-Khaki_1.jpg?v=1793080960",
+    "created": "2026-10-26",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Khaki",
+      "available": true
+     }
+    ],
+    "code": "TY159B",
+    "date": "2026-10-26"
+   },
+   {
+    "id": "nep-15902182408375",
+    "title": "Loose B.B. Jacket - Ornament Jacquard",
+    "price_yen": "¥69,300",
+    "url": "https://onlinestore.nepenthes.co.jp/products/loose-b-b-jacket-ornament-jacq",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY159_A-Purple_1.jpg?v=1793081021",
+    "created": "2026-10-26",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Purple",
+      "available": true
+     }
+    ],
+    "code": "TY159A",
+    "date": "2026-10-26"
+   },
+   {
+    "id": "nep-15902185423031",
+    "title": "Lining Cardigan - Paisley",
+    "price_yen": "¥132,000",
+    "url": "https://onlinestore.nepenthes.co.jp/products/lining-cardigan-paisley",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY420_A-Purple_1.jpg?v=1793080884",
+    "created": "2026-10-26",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Purple",
+      "available": true
+     }
+    ],
+    "code": "TY420A",
+    "date": "2026-10-26"
+   },
+   {
+    "id": "nep-15902185652407",
+    "title": "Lining Cardigan - Paisley",
+    "price_yen": "¥132,000",
+    "url": "https://onlinestore.nepenthes.co.jp/products/lining-cardigan-paisley-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY420_B-Black_1.jpg?v=1793080830",
+    "created": "2026-10-26",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY420B",
+    "date": "2026-10-26"
+   },
+   {
+    "id": "nep-15902219436215",
+    "title": "Rabbit Fur Bucket Hat - Animal Printed",
+    "price_yen": "¥39,600",
+    "url": "https://onlinestore.nepenthes.co.jp/products/rabbit-fur-bucket-hat-animal-print-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY084_B-Tiger_1.jpg?v=1793080534",
+    "created": "2026-10-26",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Tiger",
+      "available": true
+     }
+    ],
+    "code": "TY084B",
+    "date": "2026-10-26"
+   },
+   {
+    "id": "nep-15902219370679",
+    "title": "Rabbit Fur Bucket Hat - Animal Printed",
+    "price_yen": "¥39,600",
+    "url": "https://onlinestore.nepenthes.co.jp/products/rabbit-fur-bucket-hat-animal-print",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY084_A-Leopard_1.jpg?v=1793080618",
+    "created": "2026-10-26",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Leopard",
+      "available": true
+     }
+    ],
+    "code": "TY084A",
+    "date": "2026-10-26"
+   },
+   {
+    "id": "nep-15902219632823",
+    "title": "Rabbit Fur Mat Bomber Cap - Animal Printed",
+    "price_yen": "¥57,200",
+    "url": "https://onlinestore.nepenthes.co.jp/products/rabbit-fur-mat-bomber-cap-animal-p-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY085_B-Tiger_1.jpg?v=1793080405",
+    "created": "2026-10-26",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Tiger",
+      "available": true
+     }
+    ],
+    "code": "TY085B",
+    "date": "2026-10-26"
    },
    {
     "id": "nep-15902268489911",
@@ -20063,48 +20260,6 @@
     ],
     "code": "",
     "date": "2026-05-25"
-   },
-   {
-    "id": "mix-7903650840641",
-    "title": "NEEDLES/ニードルズ/【LHP EXCLUSIVE】H.D.TRACK  SHORTS - COTTON JERSEY",
-    "price_yen": "¥26,000",
-    "url": "https://mix.tokyo/products/7846213223",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846213223-020_MAIN.jpg?v=1783944952",
-    "created": "2026-05-18",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "ブラック",
-      "available": false
-     },
-     {
-      "name": "グレー",
-      "available": false
-     }
-    ],
-    "code": "",
-    "date": "2026-05-18"
-   },
-   {
-    "id": "mix-7901883629633",
-    "title": "NEEDLES（ニードルズ)【B'2nd EXCLUSIVE】 H.D. Pant - BDU / DENIM",
-    "price_yen": "¥28,000",
-    "url": "https://mix.tokyo/products/7856211219",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856211219-010_MAIN.jpg?v=1784891020",
-    "created": "2026-05-14",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "ブラック",
-      "available": true
-     },
-     {
-      "name": "インディゴ",
-      "available": true
-     }
-    ],
-    "code": "",
-    "date": "2026-05-14"
    }
   ]
  }
