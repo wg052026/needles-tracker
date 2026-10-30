@@ -7569,11 +7569,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/track-pant-poly-jq-34",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY348_B-FrogEye_1.jpg?v=1784273548",
     "created": "2026-07-17",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Frog Eye",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY348B",
@@ -16441,7 +16441,7 @@
     "title": "〈NEEDLES〉x〈WOBURN WALK〉Track Pant - Bondage / Poly Smooth",
     "price_yen": "¥35,200",
     "url": "https://onlinestore.nepenthes.co.jp/products/track-pant-bondage-poly-smooth",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY554-1.jpg?v=1793175309",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/0T3A9103-00.jpg?v=1793348709",
     "created": "2026-10-26",
     "soldout": false,
     "colors": [
