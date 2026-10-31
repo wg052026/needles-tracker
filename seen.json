@@ -16409,11 +16409,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/track-jacket-poly-smooth-42",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY550-1.jpg?v=1793175379",
     "created": "2026-10-26",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Black",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY550",
@@ -16426,11 +16426,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/h-d-track-pant-poly-smooth-39",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY552-1.jpg?v=1793175345",
     "created": "2026-10-26",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Black",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY552",
@@ -16443,11 +16443,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/track-pant-bondage-poly-smooth",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/0T3A9103-00.jpg?v=1793348709",
     "created": "2026-10-26",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Black",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY554",
@@ -16460,11 +16460,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/track-jacket-bondage-poly-smooth",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY553-1_jpg.jpg?v=1793175327",
     "created": "2026-10-26",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Black",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY553",
@@ -16477,11 +16477,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/baseball-cap",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY555-1.jpg?v=1793175291",
     "created": "2026-10-26",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Black",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY555",
