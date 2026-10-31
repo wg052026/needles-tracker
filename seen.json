@@ -8470,11 +8470,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/bandana-square-3",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/RW047B-0.jpg?v=1779862881",
     "created": "2026-07-14",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Eggplant",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY058B",
@@ -18962,7 +18962,7 @@
      },
      {
       "name": "ネイビー",
-      "available": true
+      "available": false
      }
     ],
     "code": "",
