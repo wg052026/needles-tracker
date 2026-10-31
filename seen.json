@@ -16494,11 +16494,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/track-pant-poly-smooth-39",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY551-1.jpg?v=1793175362",
     "created": "2026-10-26",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Black",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY551",
