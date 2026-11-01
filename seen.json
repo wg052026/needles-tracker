@@ -7212,11 +7212,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/narrow-track-pant-poly-smooth-29",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY352C-0.jpg?v=1785984521",
     "created": "2026-08-01",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Black",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY352C",
