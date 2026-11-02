@@ -7206,6 +7206,23 @@
     "date": "2026-08-26"
    },
    {
+    "id": "nep-8664234918071",
+    "title": "Pendant - 925 Silver",
+    "price_yen": "¥19,800",
+    "url": "https://onlinestore.nepenthes.co.jp/products/pendant-925-silver-27",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/PU023C-0.jpg?v=1720056228",
+    "created": "2026-07-14",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Papillon",
+      "available": true
+     }
+    ],
+    "code": "TY009C",
+    "date": "2026-07-14"
+   },
+   {
     "id": "nep-8738190131383",
     "title": "Track Crew Neck Shirt - Poly Smooth",
     "price_yen": "¥22,000",
@@ -7937,23 +7954,6 @@
     "date": "2026-08-14"
    },
    {
-    "id": "nep-8693349974199",
-    "title": "V Neck Cardigan - Feather Tulle",
-    "price_yen": "¥22,000",
-    "url": "https://onlinestore.nepenthes.co.jp/products/v-neck-cardigan-feather-tulle",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY380_A-Beige_1.jpg?v=1785649582",
-    "created": "2026-08-01",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Beige",
-      "available": false
-     }
-    ],
-    "code": "TY380A",
-    "date": "2026-08-01"
-   },
-   {
     "id": "nep-8685780598967",
     "title": "Track Jacket - Poly Jacquard",
     "price_yen": "¥28,600",
@@ -8328,23 +8328,6 @@
     "date": "2026-08-28"
    },
    {
-    "id": "nep-8701056909495",
-    "title": "V Neck Cardigan - Paisley Bulky Lace",
-    "price_yen": "¥18,700",
-    "url": "https://onlinestore.nepenthes.co.jp/products/v-neck-cardigan-paisley-bulky-lace-2",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY384_C-Black_1.jpg?v=1786163342",
-    "created": "2026-08-07",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Black",
-      "available": true
-     }
-    ],
-    "code": "TY384C",
-    "date": "2026-08-07"
-   },
-   {
     "id": "nep-8701054058679",
     "title": "Pin-Tuck Collar Shirt - Geometric Jacquard",
     "price_yen": "¥35,200",
@@ -8631,23 +8614,6 @@
      }
     ],
     "code": "TY199B",
-    "date": "2026-07-14"
-   },
-   {
-    "id": "nep-8664255332535",
-    "title": "Bracelet - Turquoise",
-    "price_yen": "¥17,600",
-    "url": "https://onlinestore.nepenthes.co.jp/products/bracelet-turquoise-9",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/PU051-0.jpg?v=1733884392",
-    "created": "2026-07-14",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Blue",
-      "available": true
-     }
-    ],
-    "code": "TY050",
     "date": "2026-07-14"
    },
    {
@@ -16383,57 +16349,6 @@
      }
     ],
     "code": "TY085B",
-    "date": "2026-10-26"
-   },
-   {
-    "id": "nep-15902269702327",
-    "title": "〈NEEDLES〉x〈WOBURN WALK〉Track Pant - Bondage / Poly Smooth",
-    "price_yen": "¥35,200",
-    "url": "https://onlinestore.nepenthes.co.jp/products/track-pant-bondage-poly-smooth",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/0T3A9103-00.jpg?v=1793348709",
-    "created": "2026-10-26",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Black",
-      "available": true
-     }
-    ],
-    "code": "TY554",
-    "date": "2026-10-26"
-   },
-   {
-    "id": "nep-15902269374647",
-    "title": "〈NEEDLES〉x〈WOBURN WALK〉Track Jacket - Bondage / Poly Smooth",
-    "price_yen": "¥41,800",
-    "url": "https://onlinestore.nepenthes.co.jp/products/track-jacket-bondage-poly-smooth",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY553-1_jpg.jpg?v=1793175327",
-    "created": "2026-10-26",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Black",
-      "available": true
-     }
-    ],
-    "code": "TY553",
-    "date": "2026-10-26"
-   },
-   {
-    "id": "nep-15902269931703",
-    "title": "〈NEEDLES〉x〈WOBURN WALK〉Baseball Cap",
-    "price_yen": "¥14,300",
-    "url": "https://onlinestore.nepenthes.co.jp/products/baseball-cap",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY555-1.jpg?v=1793175291",
-    "created": "2026-10-26",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Black",
-      "available": false
-     }
-    ],
-    "code": "TY555",
     "date": "2026-10-26"
    },
    {
