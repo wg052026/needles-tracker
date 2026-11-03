@@ -5063,6 +5063,62 @@
   "nep-15902219632823": {
    "first": "2026-10-26",
    "title": "Rabbit Fur Mat Bomber Cap - Animal Printed"
+  },
+  "nep-15925018689719": {
+   "first": "2026-11-02",
+   "title": "〈NEEDLES〉x〈ts(s)〉Track Jacket - Tweed"
+  },
+  "nep-15925018853559": {
+   "first": "2026-11-02",
+   "title": "〈NEEDLES〉x〈ts(s)〉Track Jacket - Tweed"
+  },
+  "nep-15925019214007": {
+   "first": "2026-11-02",
+   "title": "〈NEEDLES〉x〈ts(s)〉H.D. Track Pant - Tweed"
+  },
+  "nep-15925019017399": {
+   "first": "2026-11-02",
+   "title": "〈NEEDLES〉x〈ts(s)〉H.D. Track Pant - Tweed"
+  },
+  "nep-15925019443383": {
+   "first": "2026-11-02",
+   "title": "〈NEEDLES〉x〈ts(s)〉Bucket Hat - Tweed"
+  },
+  "nep-15925019639991": {
+   "first": "2026-11-02",
+   "title": "〈NEEDLES〉x〈ts(s)〉Casquette - Tweed"
+  },
+  "nep-15925019377847": {
+   "first": "2026-11-02",
+   "title": "〈NEEDLES〉x〈ts(s)〉Bucket Hat - Tweed"
+  },
+  "nep-15925019705527": {
+   "first": "2026-11-02",
+   "title": "〈NEEDLES〉x〈ts(s)〉Casquette - Tweed"
+  },
+  "nep-15925083209911": {
+   "first": "2026-11-02",
+   "title": "〈NEEDLES〉x〈ts(s)〉Unpair Sock"
+  },
+  "nep-15925083308215": {
+   "first": "2026-11-02",
+   "title": "〈NEEDLES〉x〈ts(s)〉Unpair Sock"
+  },
+  "nep-15925019902135": {
+   "first": "2026-11-02",
+   "title": "〈NEEDLES〉x〈ts(s)〉Unpair Sock"
+  },
+  "nep-15925083472055": {
+   "first": "2026-11-02",
+   "title": "〈NEEDLES〉x〈ts(s)〉Unpair Sock"
+  },
+  "nep-15925019836599": {
+   "first": "2026-11-02",
+   "title": "〈NEEDLES〉x〈ts(s)〉Unpair Sock"
+  },
+  "nep-15925083078839": {
+   "first": "2026-11-02",
+   "title": "〈NEEDLES〉x〈ts(s)〉Unpair Sock"
   }
  },
  "STUDIOUS": {
@@ -9065,11 +9121,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/one-up-shirt-printed-flannel-plaid-9",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY304_E-BlueBlack_1.jpg?v=1787986478",
     "created": "2026-08-28",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Blu/Blk",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY304E",
@@ -13366,11 +13422,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/string-balloon-pant-pin-st-jacq",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY148_A-Green_1.jpg?v=1789003854",
     "created": "2026-09-09",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Green",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY148A",
@@ -16673,6 +16729,244 @@
     ],
     "code": "TY570H",
     "date": "2026-07-10"
+   },
+   {
+    "id": "nep-15925018689719",
+    "title": "〈NEEDLES〉x〈ts(s)〉Track Jacket - Tweed",
+    "price_yen": "¥94,600",
+    "url": "https://onlinestore.nepenthes.co.jp/products/track-jacket-tweed",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY2100A-0.jpg?v=1793609245",
+    "created": "2026-11-02",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Brown",
+      "available": true
+     }
+    ],
+    "code": "TY2100A",
+    "date": "2026-11-02"
+   },
+   {
+    "id": "nep-15925018853559",
+    "title": "〈NEEDLES〉x〈ts(s)〉Track Jacket - Tweed",
+    "price_yen": "¥94,600",
+    "url": "https://onlinestore.nepenthes.co.jp/products/track-jacket-tweed-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY2100B-0.jpg?v=1793609233",
+    "created": "2026-11-02",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Grey",
+      "available": true
+     }
+    ],
+    "code": "TY2100B",
+    "date": "2026-11-02"
+   },
+   {
+    "id": "nep-15925019214007",
+    "title": "〈NEEDLES〉x〈ts(s)〉H.D. Track Pant - Tweed",
+    "price_yen": "¥86,900",
+    "url": "https://onlinestore.nepenthes.co.jp/products/h-d-track-pant-tweed-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY2101B-0.jpg?v=1793609196",
+    "created": "2026-11-02",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Grey",
+      "available": true
+     }
+    ],
+    "code": "TY2101B",
+    "date": "2026-11-02"
+   },
+   {
+    "id": "nep-15925019017399",
+    "title": "〈NEEDLES〉x〈ts(s)〉H.D. Track Pant - Tweed",
+    "price_yen": "¥86,900",
+    "url": "https://onlinestore.nepenthes.co.jp/products/h-d-track-pant-tweed",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY2101A-0.jpg?v=1793609214",
+    "created": "2026-11-02",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Brown",
+      "available": true
+     }
+    ],
+    "code": "TY2101A",
+    "date": "2026-11-02"
+   },
+   {
+    "id": "nep-15925019443383",
+    "title": "〈NEEDLES〉x〈ts(s)〉Bucket Hat - Tweed",
+    "price_yen": "¥19,800",
+    "url": "https://onlinestore.nepenthes.co.jp/products/bucket-hat-tweed-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY2102B-0.jpg?v=1793609168",
+    "created": "2026-11-02",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Grey",
+      "available": true
+     }
+    ],
+    "code": "TY2102B",
+    "date": "2026-11-02"
+   },
+   {
+    "id": "nep-15925019639991",
+    "title": "〈NEEDLES〉x〈ts(s)〉Casquette - Tweed",
+    "price_yen": "¥20,900",
+    "url": "https://onlinestore.nepenthes.co.jp/products/casquette-tweed",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY2103A-0.jpg?v=1793609157",
+    "created": "2026-11-02",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Brown",
+      "available": true
+     }
+    ],
+    "code": "TY2103A",
+    "date": "2026-11-02"
+   },
+   {
+    "id": "nep-15925019377847",
+    "title": "〈NEEDLES〉x〈ts(s)〉Bucket Hat - Tweed",
+    "price_yen": "¥19,800",
+    "url": "https://onlinestore.nepenthes.co.jp/products/bucket-hat-tweed",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY2102A-0.jpg?v=1793609179",
+    "created": "2026-11-02",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Brown",
+      "available": true
+     }
+    ],
+    "code": "TY2102A",
+    "date": "2026-11-02"
+   },
+   {
+    "id": "nep-15925019705527",
+    "title": "〈NEEDLES〉x〈ts(s)〉Casquette - Tweed",
+    "price_yen": "¥20,900",
+    "url": "https://onlinestore.nepenthes.co.jp/products/casquette-tweed-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY2103B-0.jpg?v=1793609145",
+    "created": "2026-11-02",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Grey",
+      "available": true
+     }
+    ],
+    "code": "TY2103B",
+    "date": "2026-11-02"
+   },
+   {
+    "id": "nep-15925083209911",
+    "title": "〈NEEDLES〉x〈ts(s)〉Unpair Sock",
+    "price_yen": "¥1,980",
+    "url": "https://onlinestore.nepenthes.co.jp/products/unpair-sock-3",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX2105D-0_62aa0331-9f00-4208-b7a2-eec30492e062.jpg?v=1775785806",
+    "created": "2026-11-02",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Beige",
+      "available": true
+     }
+    ],
+    "code": "TY2104D",
+    "date": "2026-11-02"
+   },
+   {
+    "id": "nep-15925083308215",
+    "title": "〈NEEDLES〉x〈ts(s)〉Unpair Sock",
+    "price_yen": "¥1,980",
+    "url": "https://onlinestore.nepenthes.co.jp/products/unpair-sock-4",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX2105E-0_e2c0382e-b4a6-4987-b301-705d91b84873.jpg?v=1772614516",
+    "created": "2026-11-02",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Natural",
+      "available": true
+     }
+    ],
+    "code": "TY2104E",
+    "date": "2026-11-02"
+   },
+   {
+    "id": "nep-15925019902135",
+    "title": "〈NEEDLES〉x〈ts(s)〉Unpair Sock",
+    "price_yen": "¥1,980",
+    "url": "https://onlinestore.nepenthes.co.jp/products/unpair-sock-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX2105B-0_a4e8d27f-7c3e-4f1c-bb28-beb338440582.jpg?v=1772614442",
+    "created": "2026-11-02",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Olive",
+      "available": true
+     }
+    ],
+    "code": "TY2104B",
+    "date": "2026-11-02"
+   },
+   {
+    "id": "nep-15925083472055",
+    "title": "〈NEEDLES〉x〈ts(s)〉Unpair Sock",
+    "price_yen": "¥1,980",
+    "url": "https://onlinestore.nepenthes.co.jp/products/unpair-sock-5",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX2105N-0_aea58a0e-d85c-41b2-aa30-e0708c60e2d9.jpg?v=1772614747",
+    "created": "2026-11-02",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Grey",
+      "available": true
+     }
+    ],
+    "code": "TY2104F",
+    "date": "2026-11-02"
+   },
+   {
+    "id": "nep-15925019836599",
+    "title": "〈NEEDLES〉x〈ts(s)〉Unpair Sock",
+    "price_yen": "¥1,980",
+    "url": "https://onlinestore.nepenthes.co.jp/products/unpair-sock",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX2105F-0_c70c9ffd-afac-4f05-9afb-b7e524f8a16e.jpg?v=1772614539",
+    "created": "2026-11-02",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Navy",
+      "available": true
+     }
+    ],
+    "code": "TY2104A",
+    "date": "2026-11-02"
+   },
+   {
+    "id": "nep-15925083078839",
+    "title": "〈NEEDLES〉x〈ts(s)〉Unpair Sock",
+    "price_yen": "¥1,980",
+    "url": "https://onlinestore.nepenthes.co.jp/products/unpair-sock-2",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX2105C-0_27f8a115-51d0-4cba-8d55-bef4ffb0a2b2.jpg?v=1772614466",
+    "created": "2026-11-02",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Brown",
+      "available": true
+     }
+    ],
+    "code": "TY2104C",
+    "date": "2026-11-02"
    }
   ],
   "STUDIOUS": [
@@ -18986,11 +19280,11 @@
     "url": "https://mix.tokyo/products/7856210295",
     "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856210295-010_MAIN.jpg?v=1790967834",
     "created": "2026-09-17",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "ブラック",
-      "available": true
+      "available": false
      }
     ],
     "code": "",
