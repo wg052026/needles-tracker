@@ -19327,11 +19327,11 @@
     "url": "https://mix.tokyo/products/7856255245",
     "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856255245-010_MAIN.jpg?v=1789729432",
     "created": "2026-09-02",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "ブラック",
-      "available": true
+      "available": false
      }
     ],
     "code": "",
@@ -20111,7 +20111,7 @@
      },
      {
       "name": "ブラック×パープル",
-      "available": true
+      "available": false
      },
      {
       "name": "オリーブ",
