@@ -5119,6 +5119,22 @@
   "nep-15925083078839": {
    "first": "2026-11-02",
    "title": "〈NEEDLES〉x〈ts(s)〉Unpair Sock"
+  },
+  "nep-15929595527351": {
+   "first": "2026-11-04",
+   "title": "Sleeveless Shirt"
+  },
+  "nep-15929595691191": {
+   "first": "2026-11-04",
+   "title": "Pleated Skirt"
+  },
+  "nep-15929595756727": {
+   "first": "2026-11-04",
+   "title": "H.D. Track Pant"
+  },
+  "nep-15929595920567": {
+   "first": "2026-11-04",
+   "title": "Mini Book Bag"
   }
  },
  "STUDIOUS": {
@@ -16735,7 +16751,7 @@
     "title": "〈NEEDLES〉x〈ts(s)〉Track Jacket - Tweed",
     "price_yen": "¥94,600",
     "url": "https://onlinestore.nepenthes.co.jp/products/track-jacket-tweed",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY2100A-0.jpg?v=1793609245",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY2100A-00.jpg?v=1793752276",
     "created": "2026-11-02",
     "soldout": false,
     "colors": [
@@ -16752,7 +16768,7 @@
     "title": "〈NEEDLES〉x〈ts(s)〉Track Jacket - Tweed",
     "price_yen": "¥94,600",
     "url": "https://onlinestore.nepenthes.co.jp/products/track-jacket-tweed-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY2100B-0.jpg?v=1793609233",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY2100B-00.jpg?v=1793752244",
     "created": "2026-11-02",
     "soldout": false,
     "colors": [
@@ -16769,7 +16785,7 @@
     "title": "〈NEEDLES〉x〈ts(s)〉H.D. Track Pant - Tweed",
     "price_yen": "¥86,900",
     "url": "https://onlinestore.nepenthes.co.jp/products/h-d-track-pant-tweed-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY2101B-0.jpg?v=1793609196",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY2101B-00.jpg?v=1793752167",
     "created": "2026-11-02",
     "soldout": false,
     "colors": [
@@ -16786,7 +16802,7 @@
     "title": "〈NEEDLES〉x〈ts(s)〉H.D. Track Pant - Tweed",
     "price_yen": "¥86,900",
     "url": "https://onlinestore.nepenthes.co.jp/products/h-d-track-pant-tweed",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY2101A-0.jpg?v=1793609214",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY2101A-00.jpg?v=1793752199",
     "created": "2026-11-02",
     "soldout": false,
     "colors": [
@@ -16803,7 +16819,7 @@
     "title": "〈NEEDLES〉x〈ts(s)〉Bucket Hat - Tweed",
     "price_yen": "¥19,800",
     "url": "https://onlinestore.nepenthes.co.jp/products/bucket-hat-tweed-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY2102B-0.jpg?v=1793609168",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY2102B-00.jpg?v=1793752087",
     "created": "2026-11-02",
     "soldout": false,
     "colors": [
@@ -16820,7 +16836,7 @@
     "title": "〈NEEDLES〉x〈ts(s)〉Casquette - Tweed",
     "price_yen": "¥20,900",
     "url": "https://onlinestore.nepenthes.co.jp/products/casquette-tweed",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY2103A-0.jpg?v=1793609157",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY2103A-00.jpg?v=1793752044",
     "created": "2026-11-02",
     "soldout": false,
     "colors": [
@@ -16837,7 +16853,7 @@
     "title": "〈NEEDLES〉x〈ts(s)〉Bucket Hat - Tweed",
     "price_yen": "¥19,800",
     "url": "https://onlinestore.nepenthes.co.jp/products/bucket-hat-tweed",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY2102A-0.jpg?v=1793609179",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY2102A-00.jpg?v=1793752135",
     "created": "2026-11-02",
     "soldout": false,
     "colors": [
@@ -16854,7 +16870,7 @@
     "title": "〈NEEDLES〉x〈ts(s)〉Casquette - Tweed",
     "price_yen": "¥20,900",
     "url": "https://onlinestore.nepenthes.co.jp/products/casquette-tweed-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY2103B-0.jpg?v=1793609145",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY2103B-00.jpg?v=1793752025",
     "created": "2026-11-02",
     "soldout": false,
     "colors": [
@@ -16967,6 +16983,74 @@
     ],
     "code": "TY2104C",
     "date": "2026-11-02"
+   },
+   {
+    "id": "nep-15929595527351",
+    "title": "Sleeveless Shirt",
+    "price_yen": "¥17,600",
+    "url": "https://onlinestore.nepenthes.co.jp/products/sleeveless-shirt",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/0T3A8880-0.jpg?v=1793753850",
+    "created": "2026-11-04",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Polka Dot",
+      "available": true
+     }
+    ],
+    "code": "TY1490",
+    "date": "2026-11-04"
+   },
+   {
+    "id": "nep-15929595691191",
+    "title": "Pleated Skirt",
+    "price_yen": "¥31,900",
+    "url": "https://onlinestore.nepenthes.co.jp/products/pleated-skirt",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/0T3A8892-0.jpg?v=1793753847",
+    "created": "2026-11-04",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Polka Dot",
+      "available": true
+     }
+    ],
+    "code": "TY1491",
+    "date": "2026-11-04"
+   },
+   {
+    "id": "nep-15929595756727",
+    "title": "H.D. Track Pant",
+    "price_yen": "¥30,800",
+    "url": "https://onlinestore.nepenthes.co.jp/products/h-d-track-pant",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/0T3A8884-0.jpg?v=1793753843",
+    "created": "2026-11-04",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Polka Dot",
+      "available": true
+     }
+    ],
+    "code": "TY1492",
+    "date": "2026-11-04"
+   },
+   {
+    "id": "nep-15929595920567",
+    "title": "Mini Book Bag",
+    "price_yen": "¥8,800",
+    "url": "https://onlinestore.nepenthes.co.jp/products/mini-book-bag",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/0T3A8893-0.jpg?v=1793753838",
+    "created": "2026-11-04",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Polka Dot",
+      "available": true
+     }
+    ],
+    "code": "TY1493",
+    "date": "2026-11-04"
    }
   ],
   "STUDIOUS": [
@@ -20418,6 +20502,200 @@
     ],
     "code": "",
     "date": "2026-05-25"
+   },
+   {
+    "id": "mix-7903650840641",
+    "title": "NEEDLES/ニードルズ/【LHP EXCLUSIVE】H.D.TRACK  SHORTS - COTTON JERSEY",
+    "price_yen": "¥26,000",
+    "url": "https://mix.tokyo/products/7846213223",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846213223-020_MAIN.jpg?v=1783944952",
+    "created": "2026-05-18",
+    "soldout": true,
+    "colors": [
+     {
+      "name": "ブラック",
+      "available": false
+     },
+     {
+      "name": "グレー",
+      "available": false
+     }
+    ],
+    "code": "",
+    "date": "2026-05-18"
+   },
+   {
+    "id": "mix-7901883629633",
+    "title": "NEEDLES（ニードルズ)【B'2nd EXCLUSIVE】 H.D. Pant - BDU / DENIM",
+    "price_yen": "¥28,000",
+    "url": "https://mix.tokyo/products/7856211219",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7856211219-010_MAIN.jpg?v=1784891020",
+    "created": "2026-05-14",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "ブラック",
+      "available": true
+     },
+     {
+      "name": "インディゴ",
+      "available": true
+     }
+    ],
+    "code": "",
+    "date": "2026-05-14"
+   },
+   {
+    "id": "mix-7901886054465",
+    "title": "Needles/ニードルズ　別注H.D. Pant - Cotton Ripstop",
+    "price_yen": "¥56,000",
+    "url": "https://mix.tokyo/products/7816210227",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816210227-310_MAIN.jpg?v=1788433500",
+    "created": "2026-05-14",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "ブラック",
+      "available": true
+     },
+     {
+      "name": "オリーブ",
+      "available": true
+     }
+    ],
+    "code": "",
+    "date": "2026-05-14"
+   },
+   {
+    "id": "mix-7901885399105",
+    "title": "NEEDLES/ニードルズ/【LHP EXCLUSIVE】H.D.TRACK SHORTS - C/PE VELOUR(NAVY)",
+    "price_yen": "¥26,000",
+    "url": "https://mix.tokyo/products/7846213221",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846213221-120_MAIN.jpg?v=1783948532",
+    "created": "2026-05-14",
+    "soldout": true,
+    "colors": [
+     {
+      "name": "ネイビー",
+      "available": false
+     }
+    ],
+    "code": "",
+    "date": "2026-05-14"
+   },
+   {
+    "id": "mix-7901884514369",
+    "title": "NEEDLES/ニードルズ/【LHP EXCLUSIVE】ZIP TRACK HOODY - COTTON JERSEY",
+    "price_yen": "¥32,000",
+    "url": "https://mix.tokyo/products/7846231232",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846231232-010_MAIN.jpg?v=1785265382",
+    "created": "2026-05-14",
+    "soldout": true,
+    "colors": [
+     {
+      "name": "ブラック",
+      "available": false
+     },
+     {
+      "name": "グレー",
+      "available": false
+     }
+    ],
+    "code": "",
+    "date": "2026-05-14"
+   },
+   {
+    "id": "mix-7901883990081",
+    "title": "NEEDLES/ニードルズ/【LHP EXCLUSIVE】TRACK JACKET - C/PE VELOUR（NAVY）",
+    "price_yen": "¥32,000",
+    "url": "https://mix.tokyo/products/7846252251",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846252251-120_MAIN.jpg?v=1784746937",
+    "created": "2026-05-14",
+    "soldout": true,
+    "colors": [
+     {
+      "name": "ネイビー",
+      "available": false
+     }
+    ],
+    "code": "",
+    "date": "2026-05-14"
+   },
+   {
+    "id": "mix-7901883891777",
+    "title": "Needles/ニードルズ　別注Field Jacket - Cotton Ripstop",
+    "price_yen": "¥61,000",
+    "url": "https://mix.tokyo/products/7816252238",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816252238-310_MAIN.jpg?v=1787828648",
+    "created": "2026-05-14",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "ブラック",
+      "available": true
+     },
+     {
+      "name": "オリーブ",
+      "available": true
+     }
+    ],
+    "code": "",
+    "date": "2026-05-14"
+   },
+   {
+    "id": "mix-7901883465793",
+    "title": "NEEDLES/ニードルズ/【LHP EXCLUSIVE】TRACK JACKET - C/PE VELOUR（BLACK）",
+    "price_yen": "¥32,000",
+    "url": "https://mix.tokyo/products/7846252252",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846252252-010_MAIN.jpg?v=1784746932",
+    "created": "2026-05-14",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "ブラック",
+      "available": true
+     }
+    ],
+    "code": "",
+    "date": "2026-05-14"
+   },
+   {
+    "id": "mix-7901883236417",
+    "title": "NEEDLES/ニードルズ/【LHP EXCLUSIVE】H.D.TRACK SHORTS - C/PE VELOUR(BLACK)",
+    "price_yen": "¥26,000",
+    "url": "https://mix.tokyo/products/7846213222",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846213222-010_MAIN.jpg?v=1784746937",
+    "created": "2026-05-14",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "ブラック",
+      "available": true
+     }
+    ],
+    "code": "",
+    "date": "2026-05-14"
+   },
+   {
+    "id": "mix-7901882810433",
+    "title": "Needles/ニードルズ  別注Track S/S Crew Neck Shirt-Poly Smooth　26SSモデル",
+    "price_yen": "¥19,000",
+    "url": "https://mix.tokyo/products/7816235202",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816235202-440_MAIN.jpg?v=1783944604",
+    "created": "2026-05-14",
+    "soldout": true,
+    "colors": [
+     {
+      "name": "ブラック",
+      "available": false
+     },
+     {
+      "name": "ロイヤル",
+      "available": false
+     }
+    ],
+    "code": "",
+    "date": "2026-05-14"
    }
   ]
  }
