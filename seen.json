@@ -9131,23 +9131,6 @@
     "date": "2026-09-09"
    },
    {
-    "id": "nep-8738189443255",
-    "title": "One-Up Shirt - Printed Flannel / Plaid",
-    "price_yen": "¥27,500",
-    "url": "https://onlinestore.nepenthes.co.jp/products/one-up-shirt-printed-flannel-plaid-9",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY304_E-BlueBlack_1.jpg?v=1787986478",
-    "created": "2026-08-28",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Blu/Blk",
-      "available": false
-     }
-    ],
-    "code": "TY304E",
-    "date": "2026-08-28"
-   },
-   {
     "id": "nep-8738187346103",
     "title": "Raglan Fur Jacket - Crocodile Fur",
     "price_yen": "¥58,300",
@@ -13429,23 +13412,6 @@
      }
     ],
     "code": "TY148B",
-    "date": "2026-09-09"
-   },
-   {
-    "id": "nep-8760511758519",
-    "title": "String Balloon Pant - Pin Stripe Jacquard",
-    "price_yen": "¥48,400",
-    "url": "https://onlinestore.nepenthes.co.jp/products/string-balloon-pant-pin-st-jacq",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY148_A-Green_1.jpg?v=1789003854",
-    "created": "2026-09-09",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Green",
-      "available": false
-     }
-    ],
-    "code": "TY148A",
     "date": "2026-09-09"
    },
    {
