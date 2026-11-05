@@ -5135,6 +5135,50 @@
   "nep-15929595920567": {
    "first": "2026-11-04",
    "title": "Mini Book Bag"
+  },
+  "nep-15924298481847": {
+   "first": "2026-11-02",
+   "title": "Harrington Jacket - W/N/AC Tweed"
+  },
+  "nep-15924298449079": {
+   "first": "2026-11-02",
+   "title": "Harrington Jacket - W/N/AC Tweed"
+  },
+  "nep-15924298612919": {
+   "first": "2026-11-02",
+   "title": "String H.D. Pant - W/N/AC Tweed"
+  },
+  "nep-15924298645687": {
+   "first": "2026-11-02",
+   "title": "String H.D. Pant - W/N/AC Tweed"
+  },
+  "nep-15924298678455": {
+   "first": "2026-11-02",
+   "title": "Harrington Jacket - W/N/PE Mall Stitch"
+  },
+  "nep-15924298842295": {
+   "first": "2026-11-02",
+   "title": "Harrington Jacket - W/N/PE Mall Stitch"
+  },
+  "nep-15924298875063": {
+   "first": "2026-11-02",
+   "title": "String H.D. Pant - W/N/PE Mall Stitch"
+  },
+  "nep-15924299006135": {
+   "first": "2026-11-02",
+   "title": "String H.D. Pant - W/N/PE Mall Stitch"
+  },
+  "nep-15924299268279": {
+   "first": "2026-11-02",
+   "title": "Coach Jacket - Memory Taffeta"
+  },
+  "nep-15924299333815": {
+   "first": "2026-11-02",
+   "title": "Coach Jacket - Paisley Sashiko"
+  },
+  "nep-15924299366583": {
+   "first": "2026-11-02",
+   "title": "Coach Jacket - Paisley Sashiko"
   }
  },
  "STUDIOUS": {
@@ -7737,23 +7781,6 @@
     "date": "2026-07-14"
    },
    {
-    "id": "nep-8693349023927",
-    "title": "Zipped Track Pant - Poly Smooth",
-    "price_yen": "¥23,100",
-    "url": "https://onlinestore.nepenthes.co.jp/products/zipped-track-pant-poly-smooth-32",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY354C-0.jpg?v=1785984267",
-    "created": "2026-08-01",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Black",
-      "available": false
-     }
-    ],
-    "code": "TY354C",
-    "date": "2026-08-01"
-   },
-   {
     "id": "nep-8672552911031",
     "title": "Track Hoody - C/PE Velour",
     "price_yen": "¥28,600",
@@ -9086,11 +9113,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/jodhpurs-track-pant-poly-smooth",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY356_A-Navy_1.jpg?v=1789878114",
     "created": "2026-09-19",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Navy",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY356A",
@@ -16711,6 +16738,193 @@
     ],
     "code": "TY570H",
     "date": "2026-07-10"
+   },
+   {
+    "id": "nep-15924298481847",
+    "title": "Harrington Jacket - W/N/AC Tweed",
+    "price_yen": "¥60,500",
+    "url": "https://onlinestore.nepenthes.co.jp/products/harrington-jacket-w-n-ac-tweed-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY151_B-Black_1.jpg?v=1793596662",
+    "created": "2026-11-02",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY151B",
+    "date": "2026-11-02"
+   },
+   {
+    "id": "nep-15924298449079",
+    "title": "Harrington Jacket - W/N/AC Tweed",
+    "price_yen": "¥60,500",
+    "url": "https://onlinestore.nepenthes.co.jp/products/harrington-jacket-w-n-ac-tweed",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY151_A-Rust_1.jpg?v=1793596678",
+    "created": "2026-11-02",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Rust",
+      "available": true
+     }
+    ],
+    "code": "TY151A",
+    "date": "2026-11-02"
+   },
+   {
+    "id": "nep-15924298612919",
+    "title": "String H.D. Pant - W/N/AC Tweed",
+    "price_yen": "¥48,400",
+    "url": "https://onlinestore.nepenthes.co.jp/products/string-h-d-pant-w-n-ac-tweed",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY152_A-Rust_1.jpg?v=1793596618",
+    "created": "2026-11-02",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Rust",
+      "available": true
+     }
+    ],
+    "code": "TY152A",
+    "date": "2026-11-02"
+   },
+   {
+    "id": "nep-15924298645687",
+    "title": "String H.D. Pant - W/N/AC Tweed",
+    "price_yen": "¥48,400",
+    "url": "https://onlinestore.nepenthes.co.jp/products/string-h-d-pant-w-n-ac-tweed-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY152_B-Black_1.jpg?v=1793596601",
+    "created": "2026-11-02",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY152B",
+    "date": "2026-11-02"
+   },
+   {
+    "id": "nep-15924298678455",
+    "title": "Harrington Jacket - W/N/PE Mall Stitch",
+    "price_yen": "¥90,200",
+    "url": "https://onlinestore.nepenthes.co.jp/products/harrington-jacket-mall-stitch",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY153_A-Brown_1.jpg?v=1793596457",
+    "created": "2026-11-02",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Brown",
+      "available": true
+     }
+    ],
+    "code": "TY153A",
+    "date": "2026-11-02"
+   },
+   {
+    "id": "nep-15924298842295",
+    "title": "Harrington Jacket - W/N/PE Mall Stitch",
+    "price_yen": "¥90,200",
+    "url": "https://onlinestore.nepenthes.co.jp/products/harrington-jacket-mall-stitch-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY153_B-Charcoal_1.jpg?v=1793596425",
+    "created": "2026-11-02",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Charcoal",
+      "available": true
+     }
+    ],
+    "code": "TY153B",
+    "date": "2026-11-02"
+   },
+   {
+    "id": "nep-15924298875063",
+    "title": "String H.D. Pant - W/N/PE Mall Stitch",
+    "price_yen": "¥60,500",
+    "url": "https://onlinestore.nepenthes.co.jp/products/string-h-d-pant-mall-stitch",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY154_A-Brown_1.jpg?v=1793596375",
+    "created": "2026-11-02",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Brown",
+      "available": true
+     }
+    ],
+    "code": "TY154A",
+    "date": "2026-11-02"
+   },
+   {
+    "id": "nep-15924299006135",
+    "title": "String H.D. Pant - W/N/PE Mall Stitch",
+    "price_yen": "¥60,500",
+    "url": "https://onlinestore.nepenthes.co.jp/products/string-h-d-pant-mall-stitch-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY154_B-Charcoal_1.jpg?v=1793596349",
+    "created": "2026-11-02",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Charcoal",
+      "available": true
+     }
+    ],
+    "code": "TY154B",
+    "date": "2026-11-02"
+   },
+   {
+    "id": "nep-15924299268279",
+    "title": "Coach Jacket - Memory Taffeta",
+    "price_yen": "¥53,900",
+    "url": "https://onlinestore.nepenthes.co.jp/products/coach-jacket-memory-taffeta",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY171_Heart_1.jpg?v=1793596306",
+    "created": "2026-11-02",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Heart",
+      "available": true
+     }
+    ],
+    "code": "TY171",
+    "date": "2026-11-02"
+   },
+   {
+    "id": "nep-15924299333815",
+    "title": "Coach Jacket - Paisley Sashiko",
+    "price_yen": "¥74,800",
+    "url": "https://onlinestore.nepenthes.co.jp/products/coach-jacket-paisley-sashiko",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY172_A-Red_1.jpg?v=1793596285",
+    "created": "2026-11-02",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Red",
+      "available": true
+     }
+    ],
+    "code": "TY172A",
+    "date": "2026-11-02"
+   },
+   {
+    "id": "nep-15924299366583",
+    "title": "Coach Jacket - Paisley Sashiko",
+    "price_yen": "¥74,800",
+    "url": "https://onlinestore.nepenthes.co.jp/products/coach-jacket-paisley-sashiko-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY172_B-Purple_1.jpg?v=1793596242",
+    "created": "2026-11-02",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Purple",
+      "available": true
+     }
+    ],
+    "code": "TY172B",
+    "date": "2026-11-02"
    },
    {
     "id": "nep-15925018689719",
