@@ -8331,11 +8331,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/tenugui-bandana-paisley-5",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX057B-0.jpg?v=1778924470",
     "created": "2026-05-16",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Black",
-      "available": true
+      "available": false
      }
     ],
     "code": "SX057B",
@@ -9105,23 +9105,6 @@
     ],
     "code": "TY398D",
     "date": "2026-09-26"
-   },
-   {
-    "id": "nep-8792631214263",
-    "title": "Jodhpurs Track Pant - Poly Smooth",
-    "price_yen": "¥23,100",
-    "url": "https://onlinestore.nepenthes.co.jp/products/jodhpurs-track-pant-poly-smooth",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY356_A-Navy_1.jpg?v=1789878114",
-    "created": "2026-09-19",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Navy",
-      "available": false
-     }
-    ],
-    "code": "TY356A",
-    "date": "2026-09-19"
    },
    {
     "id": "nep-8774891208887",
@@ -13000,6 +12983,23 @@
     "date": "2026-10-05"
    },
    {
+    "id": "nep-8825494241463",
+    "title": "Cap Shoulder Sports Jacket - Leopard Jacquard",
+    "price_yen": "¥52,800",
+    "url": "https://onlinestore.nepenthes.co.jp/products/cap-shoulder-sports-jacket-leo-jacq",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY156_A-BrownBlack_1.jpg?v=1791180776",
+    "created": "2026-10-05",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Brw/Blk",
+      "available": true
+     }
+    ],
+    "code": "TY156A",
+    "date": "2026-10-05"
+   },
+   {
     "id": "nep-8806290063543",
     "title": "Round Collar Cardigan - Solid",
     "price_yen": "¥41,800",
@@ -13329,11 +13329,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/rabbit-fur-coat-animal-printed-1",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY103_B-Tiger_1.jpg?v=1789282959",
     "created": "2026-09-12",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Tiger",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY103B",
