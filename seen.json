@@ -7158,11 +7158,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/track-jacket-poly-smooth-38",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY349_A-Navy_1.jpg?v=1787986053",
     "created": "2026-08-28",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Navy",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY349A",
@@ -15080,11 +15080,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/papillon-square-buckle-belt-suede-4",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/NS036A-0.jpg?v=1690952400",
     "created": "2026-07-14",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Taupe",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY035A",
