@@ -19117,7 +19117,7 @@
     "title": "Needles/ニードルズ　別注H.D.Track Pant - Cotton Jersey",
     "price_yen": "¥30,000",
     "url": "https://mix.tokyo/products/7817110243",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7817110243-010_MAIN.jpg?v=1793939376",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7817110243-010_MAIN.jpg?v=1793991706",
     "created": "2026-11-05",
     "soldout": false,
     "colors": [
@@ -19138,7 +19138,7 @@
     "title": "Needles/ニードルズ　別注Track Jacket - Cotton Jersey",
     "price_yen": "¥32,000",
     "url": "https://mix.tokyo/products/7817152240",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7817152240-010_MAIN.jpg?v=1793959788",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7817152240-010_MAIN.jpg?v=1793991733",
     "created": "2026-11-05",
     "soldout": false,
     "colors": [
@@ -20276,7 +20276,7 @@
     "url": "https://mix.tokyo/products/7816230210",
     "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816230210-020_MAIN.jpg?v=1784113388",
     "created": "2026-06-19",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "ブラック",
@@ -20284,7 +20284,7 @@
      },
      {
       "name": "グレー",
-      "available": true
+      "available": false
      }
     ],
     "code": "",
