@@ -6467,6 +6467,14 @@
   "mix-10380673515585": {
    "first": "2026-10-26",
    "title": "Needles/ニードルズ　Deconstructed Sweat Shirt TY376"
+  },
+  "mix-10406934970433": {
+   "first": "2026-11-05",
+   "title": "Needles/ニードルズ　別注H.D.Track Pant - Cotton Jersey"
+  },
+  "mix-10406930579521": {
+   "first": "2026-11-05",
+   "title": "Needles/ニードルズ　別注Track Jacket - Cotton Jersey"
   }
  },
  "_snapshots": {
@@ -14961,11 +14969,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/necklace-turquoise-9",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/PU046-0.jpg?v=1720601240",
     "created": "2026-07-14",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Blue",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY045",
@@ -16094,23 +16102,6 @@
     "date": "2026-10-20"
    },
    {
-    "id": "nep-8859733000375",
-    "title": "〈NEEDLES〉x〈PENDLETON〉Pen Jacket - Wool Plaid",
-    "price_yen": "¥82,500",
-    "url": "https://onlinestore.nepenthes.co.jp/products/pen-jacket-wool-plaid-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY521_B-Yellow_1_4f3b120b-63c5-4413-a87c-0dee5da77866.jpg?v=1792544772",
-    "created": "2026-10-20",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Yellow",
-      "available": true
-     }
-    ],
-    "code": "TY521B",
-    "date": "2026-10-20"
-   },
-   {
     "id": "nep-8859732705463",
     "title": "〈NEEDLES〉x〈PENDLETON〉Shawl Collar Coat - Wool Plaid Melton",
     "price_yen": "¥170,500",
@@ -16829,7 +16820,7 @@
     "title": "〈NEEDLES〉x〈ts(s)〉Track Jacket - Tweed",
     "price_yen": "¥94,600",
     "url": "https://onlinestore.nepenthes.co.jp/products/track-jacket-tweed",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY2100A-00.jpg?v=1793752276",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY2100A-00_b23bf96a-fba3-4d90-868d-7434a1c76690.jpg?v=1793946471",
     "created": "2026-11-02",
     "soldout": false,
     "colors": [
@@ -16846,7 +16837,7 @@
     "title": "〈NEEDLES〉x〈ts(s)〉Track Jacket - Tweed",
     "price_yen": "¥94,600",
     "url": "https://onlinestore.nepenthes.co.jp/products/track-jacket-tweed-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY2100B-00.jpg?v=1793752244",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY2100B-00_954c30b0-b138-45ba-a6ec-0a6e78248ef8.jpg?v=1793946412",
     "created": "2026-11-02",
     "soldout": false,
     "colors": [
@@ -16863,7 +16854,7 @@
     "title": "〈NEEDLES〉x〈ts(s)〉H.D. Track Pant - Tweed",
     "price_yen": "¥86,900",
     "url": "https://onlinestore.nepenthes.co.jp/products/h-d-track-pant-tweed-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY2101B-00.jpg?v=1793752167",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY2101B-00_eeaee112-b775-46bb-a436-7cfe5eb126e9.jpg?v=1793946285",
     "created": "2026-11-02",
     "soldout": false,
     "colors": [
@@ -16880,7 +16871,7 @@
     "title": "〈NEEDLES〉x〈ts(s)〉H.D. Track Pant - Tweed",
     "price_yen": "¥86,900",
     "url": "https://onlinestore.nepenthes.co.jp/products/h-d-track-pant-tweed",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY2101A-00.jpg?v=1793752199",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY2101A-00_615f4481-7276-4e33-8a50-aa94b40e5c34.jpg?v=1793946355",
     "created": "2026-11-02",
     "soldout": false,
     "colors": [
@@ -17103,11 +17094,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/h-d-track-pant",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/0T3A8884-0.jpg?v=1793753843",
     "created": "2026-11-04",
-    "soldout": true,
+    "soldout": false,
     "colors": [
      {
       "name": "Polka Dot",
-      "available": false
+      "available": true
      }
     ],
     "code": "TY1492",
@@ -19122,6 +19113,48 @@
   ],
   "MIX.TOKYO": [
    {
+    "id": "mix-10406934970433",
+    "title": "Needles/ニードルズ　別注H.D.Track Pant - Cotton Jersey",
+    "price_yen": "¥30,000",
+    "url": "https://mix.tokyo/products/7817110243",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7817110243-010_MAIN.jpg?v=1793939376",
+    "created": "2026-11-05",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "ブラック",
+      "available": true
+     },
+     {
+      "name": "グレー",
+      "available": true
+     }
+    ],
+    "code": "",
+    "date": "2026-11-05"
+   },
+   {
+    "id": "mix-10406930579521",
+    "title": "Needles/ニードルズ　別注Track Jacket - Cotton Jersey",
+    "price_yen": "¥32,000",
+    "url": "https://mix.tokyo/products/7817152240",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7817152240-010_MAIN.jpg?v=1793959788",
+    "created": "2026-11-05",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "ブラック",
+      "available": true
+     },
+     {
+      "name": "グレー",
+      "available": true
+     }
+    ],
+    "code": "",
+    "date": "2026-11-05"
+   },
+   {
     "id": "mix-10371794763841",
     "title": "NEEDLES/ニードルズ/MOHAIR CARDIGAN - FOLKLORE",
     "price_yen": "¥31,000",
@@ -20386,6 +20419,200 @@
     ],
     "code": "",
     "date": "2026-06-15"
+   },
+   {
+    "id": "mix-7931033616449",
+    "title": "Needles/ニードルズ　別注Track Crew Neck Shirt - Poly Smooth",
+    "price_yen": "¥20,000",
+    "url": "https://mix.tokyo/products/7816230209",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816230209-010_MAIN.jpg?v=1786014182",
+    "created": "2026-06-15",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "ブラック",
+      "available": true
+     },
+     {
+      "name": "ブラウン",
+      "available": true
+     },
+     {
+      "name": "チャコール",
+      "available": true
+     },
+     {
+      "name": "ロイヤル",
+      "available": true
+     }
+    ],
+    "code": "",
+    "date": "2026-06-15"
+   },
+   {
+    "id": "mix-7931031617601",
+    "title": "Needles/ニードルズ 別注H.D Track Shorts - Poly Smooth",
+    "price_yen": "¥20,000",
+    "url": "https://mix.tokyo/products/7816213205",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816213205-050_MAIN.jpg?v=1787338997",
+    "created": "2026-06-15",
+    "soldout": true,
+    "colors": [
+     {
+      "name": "ブラック",
+      "available": false
+     },
+     {
+      "name": "ブラウン",
+      "available": false
+     },
+     {
+      "name": "チャコール",
+      "available": false
+     },
+     {
+      "name": "ロイヤル",
+      "available": false
+     }
+    ],
+    "code": "",
+    "date": "2026-06-15"
+   },
+   {
+    "id": "mix-7926242574401",
+    "title": "Needles/ニードルズ　Shawl Collar Polo - Cotton Pique",
+    "price_yen": "¥15,000",
+    "url": "https://mix.tokyo/products/7816135201",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816135201-050_MAIN.jpg?v=1783963187",
+    "created": "2026-06-11",
+    "soldout": true,
+    "colors": [
+     {
+      "name": "ブラック",
+      "available": false
+     },
+     {
+      "name": "ベージュ",
+      "available": false
+     },
+     {
+      "name": "ブラウン",
+      "available": false
+     }
+    ],
+    "code": "",
+    "date": "2026-06-11"
+   },
+   {
+    "id": "mix-7902598135873",
+    "title": "NEEDLES/ニードルズ/【LHP EXCLUSIVE】H.D.TRACK PANT SHORTS - POLY SMOOTH",
+    "price_yen": "¥20,000",
+    "url": "https://mix.tokyo/products/7846213220",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846213220-410_MAIN.jpg?v=1784746973",
+    "created": "2026-05-15",
+    "soldout": true,
+    "colors": [
+     {
+      "name": "ブラック×ホワイト",
+      "available": false
+     },
+     {
+      "name": "ブラック×チャコール",
+      "available": false
+     },
+     {
+      "name": "ホワイト",
+      "available": false
+     },
+     {
+      "name": "ブラック×パープル",
+      "available": false
+     },
+     {
+      "name": "オリーブ",
+      "available": false
+     },
+     {
+      "name": "チャコール",
+      "available": false
+     }
+    ],
+    "code": "",
+    "date": "2026-05-15"
+   },
+   {
+    "id": "mix-7910561677377",
+    "title": "NEEDLES/ニードルズ/【LHP EXCLUSIVE】TRACK JACKET - POLY SMOOTH",
+    "price_yen": "¥26,000",
+    "url": "https://mix.tokyo/products/7846252250",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846252250-410_MAIN.jpg?v=1787166391",
+    "created": "2026-05-25",
+    "soldout": true,
+    "colors": [
+     {
+      "name": "ブラック×ホワイト",
+      "available": false
+     },
+     {
+      "name": "ブラック×チャコール",
+      "available": false
+     },
+     {
+      "name": "ホワイト",
+      "available": false
+     },
+     {
+      "name": "ブラック×パープル",
+      "available": false
+     },
+     {
+      "name": "オリーブ",
+      "available": false
+     },
+     {
+      "name": "チャコール",
+      "available": false
+     }
+    ],
+    "code": "",
+    "date": "2026-05-25"
+   },
+   {
+    "id": "mix-7910561546305",
+    "title": "NEEDLES/ニードルズ/【LHP EXCLUSIVE】TRACK PANT - POLY SMOOTH",
+    "price_yen": "¥21,000",
+    "url": "https://mix.tokyo/products/7846210252",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846210252-080_MAIN.jpg?v=1784746971",
+    "created": "2026-05-25",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "ブラック×ホワイト",
+      "available": false
+     },
+     {
+      "name": "ブラック×チャコール",
+      "available": false
+     },
+     {
+      "name": "ホワイト",
+      "available": true
+     },
+     {
+      "name": "ブラック×パープル",
+      "available": false
+     },
+     {
+      "name": "オリーブ",
+      "available": true
+     },
+     {
+      "name": "チャコール",
+      "available": true
+     }
+    ],
+    "code": "",
+    "date": "2026-05-25"
    }
   ]
  }
