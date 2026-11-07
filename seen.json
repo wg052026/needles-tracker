@@ -16958,11 +16958,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/unpair-sock-3",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX2105D-0_62aa0331-9f00-4208-b7a2-eec30492e062.jpg?v=1775785806",
     "created": "2026-11-02",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Beige",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY2104D",
@@ -17085,23 +17085,6 @@
      }
     ],
     "code": "TY1491",
-    "date": "2026-11-04"
-   },
-   {
-    "id": "nep-15929595756727",
-    "title": "H.D. Track Pant",
-    "price_yen": "¥30,800",
-    "url": "https://onlinestore.nepenthes.co.jp/products/h-d-track-pant",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/0T3A8884-0.jpg?v=1793753843",
-    "created": "2026-11-04",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Polka Dot",
-      "available": true
-     }
-    ],
-    "code": "TY1492",
     "date": "2026-11-04"
    },
    {
