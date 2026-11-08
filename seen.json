@@ -17088,6 +17088,23 @@
     "date": "2026-11-04"
    },
    {
+    "id": "nep-15929595756727",
+    "title": "H.D. Track Pant",
+    "price_yen": "¥30,800",
+    "url": "https://onlinestore.nepenthes.co.jp/products/h-d-track-pant",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/0T3A8884-0.jpg?v=1793753843",
+    "created": "2026-11-04",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Polka Dot",
+      "available": true
+     }
+    ],
+    "code": "TY1492",
+    "date": "2026-11-04"
+   },
+   {
     "id": "nep-15929595920567",
     "title": "Mini Book Bag",
     "price_yen": "¥8,800",
