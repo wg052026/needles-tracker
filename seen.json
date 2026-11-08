@@ -9699,11 +9699,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/piping-cowboy-jacket-poly-d-cloth-2",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY258_B-Navy_1.jpg?v=1786768770",
     "created": "2026-08-14",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Navy",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY258B",
@@ -11365,11 +11365,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/bermuda-hat-poly-jq-40",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY071_B-FrogEye_1.jpg?v=1788937735",
     "created": "2026-09-09",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Frog Eye",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY071B",
@@ -13558,11 +13558,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/bermuda-hat-poly-jq-43",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY071_E-Paisley_1.jpg?v=1788937888",
     "created": "2026-09-09",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Paisley",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY071E",
