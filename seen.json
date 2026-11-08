@@ -9784,11 +9784,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/souvenir-jacket-knit-pile-1",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY245_B-Bordeaux_1.jpg?v=1784275308",
     "created": "2026-07-17",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Bordeaux",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY245B",
