@@ -6475,6 +6475,18 @@
   "mix-10406930579521": {
    "first": "2026-11-05",
    "title": "Needles/ニードルズ　別注Track Jacket - Cotton Jersey"
+  },
+  "mix-10409784606785": {
+   "first": "2026-11-06",
+   "title": "NEEDLES/ニードルズ/DECONSTRUCTED ZIPPED SWEAT"
+  },
+  "mix-10406934380609": {
+   "first": "2026-11-05",
+   "title": "NEEDLES/ニードルズ/RABBIT FUR MAT  BOMBER CAP"
+  },
+  "mix-10406932250689": {
+   "first": "2026-11-05",
+   "title": "NEEDLES/ニードルズ/RABBIT FUR BACKET HAT - ANIMAL PRINTED"
   }
  },
  "_snapshots": {
@@ -11716,23 +11728,6 @@
     "date": "2026-08-01"
    },
    {
-    "id": "nep-8693347319991",
-    "title": "Boot-Cut Jean - Poly Jq.",
-    "price_yen": "¥26,400",
-    "url": "https://onlinestore.nepenthes.co.jp/products/boot-cut-jean-poly-jq-24",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY346_A-PolkaDot_1.jpg?v=1785648791",
-    "created": "2026-08-01",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Polka Dot",
-      "available": false
-     }
-    ],
-    "code": "TY346A",
-    "date": "2026-08-01"
-   },
-   {
     "id": "nep-8693334442167",
     "title": "Widespread Collar Shirt - Wool Shaggy",
     "price_yen": "¥41,800",
@@ -13380,23 +13375,6 @@
     ],
     "code": "TY117A",
     "date": "2026-09-12"
-   },
-   {
-    "id": "nep-8760526405815",
-    "title": "Pajama Pant - Python Velvet",
-    "price_yen": "¥42,900",
-    "url": "https://onlinestore.nepenthes.co.jp/products/pajama-pant-python-velvet-2",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY338_C-Black_1.jpg?v=1789006519",
-    "created": "2026-09-09",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Black",
-      "available": true
-     }
-    ],
-    "code": "TY338C",
-    "date": "2026-09-09"
    },
    {
     "id": "nep-8760526110903",
@@ -16731,23 +16709,6 @@
     "date": "2026-11-02"
    },
    {
-    "id": "nep-15924298678455",
-    "title": "Harrington Jacket - W/N/PE Mall Stitch",
-    "price_yen": "¥90,200",
-    "url": "https://onlinestore.nepenthes.co.jp/products/harrington-jacket-mall-stitch",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY153_A-Brown_1.jpg?v=1793596457",
-    "created": "2026-11-02",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Brown",
-      "available": true
-     }
-    ],
-    "code": "TY153A",
-    "date": "2026-11-02"
-   },
-   {
     "id": "nep-15924298875063",
     "title": "String H.D. Pant - W/N/PE Mall Stitch",
     "price_yen": "¥60,500",
@@ -16882,23 +16843,6 @@
     ],
     "code": "TY2103B",
     "date": "2026-11-02"
-   },
-   {
-    "id": "nep-15929595756727",
-    "title": "H.D. Track Pant",
-    "price_yen": "¥30,800",
-    "url": "https://onlinestore.nepenthes.co.jp/products/h-d-track-pant",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/0T3A8884-0.jpg?v=1793753843",
-    "created": "2026-11-04",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Polka Dot",
-      "available": true
-     }
-    ],
-    "code": "TY1492",
-    "date": "2026-11-04"
    },
    {
     "id": "nep-15929595920567",
@@ -18909,11 +18853,74 @@
   ],
   "MIX.TOKYO": [
    {
+    "id": "mix-10409784606785",
+    "title": "NEEDLES/ニードルズ/DECONSTRUCTED ZIPPED SWEAT",
+    "price_yen": "¥39,000",
+    "url": "https://mix.tokyo/products/7846232227",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846232227-010_MAIN.jpg?v=1794222181",
+    "created": "2026-11-06",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "ブラック",
+      "available": true
+     },
+     {
+      "name": "グレー",
+      "available": true
+     }
+    ],
+    "code": "",
+    "date": "2026-11-06"
+   },
+   {
+    "id": "mix-10406934380609",
+    "title": "NEEDLES/ニードルズ/RABBIT FUR MAT  BOMBER CAP",
+    "price_yen": "¥52,000",
+    "url": "https://mix.tokyo/products/7846274290",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846274290-055_MAIN.jpg?v=1794222173",
+    "created": "2026-11-05",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "ブラウンボーダー",
+      "available": true
+     },
+     {
+      "name": "ブラウンカモ２",
+      "available": true
+     }
+    ],
+    "code": "",
+    "date": "2026-11-05"
+   },
+   {
+    "id": "mix-10406932250689",
+    "title": "NEEDLES/ニードルズ/RABBIT FUR BACKET HAT - ANIMAL PRINTED",
+    "price_yen": "¥36,000",
+    "url": "https://mix.tokyo/products/7846274289",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846274289-052_MAIN.jpg?v=1794222177",
+    "created": "2026-11-05",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "ブラウンボーダー",
+      "available": true
+     },
+     {
+      "name": "ブラウンカモ２",
+      "available": true
+     }
+    ],
+    "code": "",
+    "date": "2026-11-05"
+   },
+   {
     "id": "mix-10406934970433",
     "title": "Needles/ニードルズ　別注H.D.Track Pant - Cotton Jersey",
     "price_yen": "¥30,000",
     "url": "https://mix.tokyo/products/7817110243",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7817110243-010_MAIN.jpg?v=1794251083",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7817110243-010_MAIN.jpg?v=1794308729",
     "created": "2026-11-05",
     "soldout": false,
     "colors": [
@@ -18934,7 +18941,7 @@
     "title": "Needles/ニードルズ　別注Track Jacket - Cotton Jersey",
     "price_yen": "¥32,000",
     "url": "https://mix.tokyo/products/7817152240",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7817152240-020_MAIN.jpg?v=1794251090",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7817152240-010_MAIN.jpg?v=1794308736",
     "created": "2026-11-05",
     "soldout": false,
     "colors": [
@@ -19162,11 +19169,11 @@
     "url": "https://mix.tokyo/products/7846241216",
     "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846241216-110_MAIN.jpg?v=1791370987",
     "created": "2026-10-02",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "ブルー",
-      "available": true
+      "available": false
      }
     ],
     "code": "",
@@ -20335,80 +20342,6 @@
     ],
     "code": "",
     "date": "2026-05-15"
-   },
-   {
-    "id": "mix-7910561677377",
-    "title": "NEEDLES/ニードルズ/【LHP EXCLUSIVE】TRACK JACKET - POLY SMOOTH",
-    "price_yen": "¥26,000",
-    "url": "https://mix.tokyo/products/7846252250",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846252250-410_MAIN.jpg?v=1787166391",
-    "created": "2026-05-25",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "ブラック×ホワイト",
-      "available": false
-     },
-     {
-      "name": "ブラック×チャコール",
-      "available": false
-     },
-     {
-      "name": "ホワイト",
-      "available": false
-     },
-     {
-      "name": "ブラック×パープル",
-      "available": false
-     },
-     {
-      "name": "オリーブ",
-      "available": false
-     },
-     {
-      "name": "チャコール",
-      "available": false
-     }
-    ],
-    "code": "",
-    "date": "2026-05-25"
-   },
-   {
-    "id": "mix-7910561546305",
-    "title": "NEEDLES/ニードルズ/【LHP EXCLUSIVE】TRACK PANT - POLY SMOOTH",
-    "price_yen": "¥21,000",
-    "url": "https://mix.tokyo/products/7846210252",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846210252-080_MAIN.jpg?v=1784746971",
-    "created": "2026-05-25",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "ブラック×ホワイト",
-      "available": false
-     },
-     {
-      "name": "ブラック×チャコール",
-      "available": false
-     },
-     {
-      "name": "ホワイト",
-      "available": true
-     },
-     {
-      "name": "ブラック×パープル",
-      "available": false
-     },
-     {
-      "name": "オリーブ",
-      "available": true
-     },
-     {
-      "name": "チャコール",
-      "available": true
-     }
-    ],
-    "code": "",
-    "date": "2026-05-25"
    }
   ]
  }
