@@ -5833,6 +5833,18 @@
   "stu-g116500100332": {
    "first": "2026-10-27",
    "title": "Needles x PENDLETON Classic Shirt - Wool Plaid"
+  },
+  "stu-g116640024162": {
+   "first": "2026-11-12",
+   "title": "別注 Field Pant - Nylon Twill"
+  },
+  "stu-g116658007162": {
+   "first": "2026-11-12",
+   "title": "別注 Padded Jacket - Nylon Twill"
+  },
+  "stu-g116681007160": {
+   "first": "2026-11-12",
+   "title": "別注 Cap - C/N Twill"
   }
  },
  "MIX.TOKYO": {
@@ -16749,11 +16761,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/coach-jacket-paisley-sashiko",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY172_A-Red_1.jpg?v=1793596285",
     "created": "2026-11-02",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Red",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY172A",
@@ -16847,11 +16859,45 @@
   ],
   "STUDIOUS": [
    {
-    "id": "stu-g116500100332",
-    "title": "Needles x PENDLETON Classic Shirt - Wool Plaid",
-    "price_yen": "¥55,000",
-    "url": "https://studious.co.jp/shop/g/g116500100332/",
-    "img": "https://studious.co.jp/img/goods/S/116500100332_b522badbae8c4508be5f201f14ced188.jpg",
+    "id": "stu-g116640024162",
+    "title": "別注 Field Pant - Nylon Twill",
+    "price_yen": "¥27,500",
+    "url": "https://studious.co.jp/shop/g/g116640024162/",
+    "img": "https://studious.co.jp/img/goods/S/116640024162_8c59eadf7bfb42cf8b57404e6dac8a15.png",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "RW1598",
+    "date": "2026-11-12"
+   },
+   {
+    "id": "stu-g116658007162",
+    "title": "別注 Padded Jacket - Nylon Twill",
+    "price_yen": "¥46,200",
+    "url": "https://studious.co.jp/shop/g/g116658007162/",
+    "img": "https://studious.co.jp/img/goods/S/116658007162_8a75191426594ab99fed21d95aa8ed80.png",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "RW1597",
+    "date": "2026-11-12"
+   },
+   {
+    "id": "stu-g116681007160",
+    "title": "別注 Cap - C/N Twill",
+    "price_yen": "¥12,100",
+    "url": "https://studious.co.jp/shop/g/g116681007160/",
+    "img": "https://studious.co.jp/img/goods/S/116681007160_74794582efe442beba5c145067e99f8f.png",
     "created": "",
     "soldout": false,
     "colors": [
@@ -16862,14 +16908,10 @@
      {
       "name": "",
       "available": null
-     },
-     {
-      "name": "",
-      "available": null
      }
     ],
-    "code": "TY522A",
-    "date": "2026-10-27"
+    "code": "TY1599",
+    "date": "2026-11-12"
    },
    {
     "id": "stu-g116581001160",
@@ -16906,11 +16948,11 @@
     "date": "2026-07-14"
    },
    {
-    "id": "stu-g116550129164",
-    "title": "Track Jacket - Poly Smooth",
-    "price_yen": "¥28,600",
-    "url": "https://studious.co.jp/shop/g/g116550129164/",
-    "img": "https://studious.co.jp/img/goods/S/116550129164_e95b12b4fa084c679be7ae94af637d08.jpg",
+    "id": "stu-g116500100332",
+    "title": "Needles x PENDLETON Classic Shirt - Wool Plaid",
+    "price_yen": "¥55,000",
+    "url": "https://studious.co.jp/shop/g/g116500100332/",
+    "img": "https://studious.co.jp/img/goods/S/116500100332_b522badbae8c4508be5f201f14ced188.jpg",
     "created": "",
     "soldout": false,
     "colors": [
@@ -16927,8 +16969,8 @@
       "available": null
      }
     ],
-    "code": "TY349",
-    "date": "2026-09-04"
+    "code": "TY522A",
+    "date": "2026-10-27"
    },
    {
     "id": "stu-g116523018165",
@@ -17012,6 +17054,31 @@
     ],
     "code": "TY355",
     "date": "2026-09-11"
+   },
+   {
+    "id": "stu-g116550129164",
+    "title": "Track Jacket - Poly Smooth",
+    "price_yen": "¥28,600",
+    "url": "https://studious.co.jp/shop/g/g116550129164/",
+    "img": "https://studious.co.jp/img/goods/S/116550129164_e95b12b4fa084c679be7ae94af637d08.jpg",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     },
+     {
+      "name": "",
+      "available": null
+     },
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "TY349",
+    "date": "2026-09-04"
    },
    {
     "id": "stu-g116540137163",
