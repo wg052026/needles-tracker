@@ -7661,11 +7661,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/piping-cowboy-jacket-poly-d-cloth",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY258_C-Black_1.jpg?v=1786166245",
     "created": "2026-08-07",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Black",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY258C",
@@ -8783,11 +8783,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/dolman-slv-track-jkt-bright-jersey-4",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY362_B-Purple_1.jpg?v=1786768819",
     "created": "2026-08-14",
-    "soldout": true,
+    "soldout": false,
     "colors": [
      {
       "name": "Purple",
-      "available": false
+      "available": true
      }
     ],
     "code": "TY362B",
@@ -16824,11 +16824,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/casquette-tweed-1",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY2103B-00.jpg?v=1793752025",
     "created": "2026-11-02",
-    "soldout": true,
+    "soldout": false,
     "colors": [
      {
       "name": "Grey",
-      "available": false
+      "available": true
      }
     ],
     "code": "TY2103B",
