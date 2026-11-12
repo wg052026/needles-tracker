@@ -5179,6 +5179,18 @@
   "nep-15924299366583": {
    "first": "2026-11-02",
    "title": "Coach Jacket - Paisley Sashiko"
+  },
+  "nep-15944334180535": {
+   "first": "2026-11-09",
+   "title": "Track & Field Jacket - Double Knit"
+  },
+  "nep-15944334704823": {
+   "first": "2026-11-09",
+   "title": "Track & Field Jacket - Double Knit"
+  },
+  "nep-15944335327415": {
+   "first": "2026-11-09",
+   "title": "Track & Field Jacket - Double Knit"
   }
  },
  "STUDIOUS": {
@@ -8771,11 +8783,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/dolman-slv-track-jkt-bright-jersey-4",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY362_B-Purple_1.jpg?v=1786768819",
     "created": "2026-08-14",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Purple",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY362B",
@@ -16755,23 +16767,6 @@
     "date": "2026-11-02"
    },
    {
-    "id": "nep-15924299333815",
-    "title": "Coach Jacket - Paisley Sashiko",
-    "price_yen": "¥74,800",
-    "url": "https://onlinestore.nepenthes.co.jp/products/coach-jacket-paisley-sashiko",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY172_A-Red_1.jpg?v=1793596285",
-    "created": "2026-11-02",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Red",
-      "available": false
-     }
-    ],
-    "code": "TY172A",
-    "date": "2026-11-02"
-   },
-   {
     "id": "nep-15925018853559",
     "title": "〈NEEDLES〉x〈ts(s)〉Track Jacket - Tweed",
     "price_yen": "¥94,600",
@@ -16829,11 +16824,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/casquette-tweed-1",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY2103B-00.jpg?v=1793752025",
     "created": "2026-11-02",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Grey",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY2103B",
@@ -16855,6 +16850,57 @@
     ],
     "code": "TY1493",
     "date": "2026-11-04"
+   },
+   {
+    "id": "nep-15944334180535",
+    "title": "Track & Field Jacket - Double Knit",
+    "price_yen": "¥38,500",
+    "url": "https://onlinestore.nepenthes.co.jp/products/track-field-jacket-double-knit",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY247_A-Purple_1.jpg?v=1794275001",
+    "created": "2026-11-09",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Purple",
+      "available": true
+     }
+    ],
+    "code": "TY247A",
+    "date": "2026-11-09"
+   },
+   {
+    "id": "nep-15944334704823",
+    "title": "Track & Field Jacket - Double Knit",
+    "price_yen": "¥38,500",
+    "url": "https://onlinestore.nepenthes.co.jp/products/track-field-jacket-double-knit-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY247_B-Navy_1.jpg?v=1794275069",
+    "created": "2026-11-09",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Navy",
+      "available": true
+     }
+    ],
+    "code": "TY247B",
+    "date": "2026-11-09"
+   },
+   {
+    "id": "nep-15944335327415",
+    "title": "Track & Field Jacket - Double Knit",
+    "price_yen": "¥38,500",
+    "url": "https://onlinestore.nepenthes.co.jp/products/track-field-jacket-double-knit-2",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY247_C-Black_1.jpg?v=1794275130",
+    "created": "2026-11-09",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY247C",
+    "date": "2026-11-09"
    }
   ],
   "STUDIOUS": [
