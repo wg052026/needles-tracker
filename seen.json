@@ -6511,6 +6511,22 @@
   "mix-10406932250689": {
    "first": "2026-11-05",
    "title": "NEEDLES/ニードルズ/RABBIT FUR BACKET HAT - ANIMAL PRINTED"
+  },
+  "mix-10404476059713": {
+   "first": "2026-11-04",
+   "title": "NEEDLES×The Make Happy Studio/ニードルス/Scarf-Silk Crepe “TMHS”"
+  },
+  "mix-10404475830337": {
+   "first": "2026-11-04",
+   "title": "NEEDLES×The Make Happy Studio/ニードルス/H.D.Track Pant-PolySmoth TMHS"
+  },
+  "mix-10404475207745": {
+   "first": "2026-11-04",
+   "title": "NEEDLES×The Make Happy Studio/ニードルス/Zipped Hoody-Poly Smooth “TMHS”"
+  },
+  "mix-10404473536577": {
+   "first": "2026-11-04",
+   "title": "NEEDLES×The Make Happy Studio/ニードルス/Mohair Cardigan “TMHS”"
   }
  },
  "_snapshots": {
@@ -18948,6 +18964,86 @@
    }
   ],
   "MIX.TOKYO": [
+   {
+    "id": "mix-10404476059713",
+    "title": "NEEDLES×The Make Happy Studio/ニードルス/Scarf-Silk Crepe “TMHS”",
+    "price_yen": "¥12,000",
+    "url": "https://mix.tokyo/products/7887170231",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7887170231-010_MAIN.jpg?v=1794394884",
+    "created": "2026-11-04",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "ブラック",
+      "available": true
+     },
+     {
+      "name": "パープル",
+      "available": true
+     }
+    ],
+    "code": "",
+    "date": "2026-11-04"
+   },
+   {
+    "id": "mix-10404475830337",
+    "title": "NEEDLES×The Make Happy Studio/ニードルス/H.D.Track Pant-PolySmoth TMHS",
+    "price_yen": "¥22,000",
+    "url": "https://mix.tokyo/products/7887110303",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7887110303-080_MAIN.jpg?v=1793876671",
+    "created": "2026-11-04",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "ブラック",
+      "available": true
+     },
+     {
+      "name": "パープル",
+      "available": true
+     }
+    ],
+    "code": "",
+    "date": "2026-11-04"
+   },
+   {
+    "id": "mix-10404475207745",
+    "title": "NEEDLES×The Make Happy Studio/ニードルス/Zipped Hoody-Poly Smooth “TMHS”",
+    "price_yen": "¥27,000",
+    "url": "https://mix.tokyo/products/7887131220",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7887131220-010_MAIN.jpg?v=1793876662",
+    "created": "2026-11-04",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "ブラック",
+      "available": true
+     },
+     {
+      "name": "パープル",
+      "available": true
+     }
+    ],
+    "code": "",
+    "date": "2026-11-04"
+   },
+   {
+    "id": "mix-10404473536577",
+    "title": "NEEDLES×The Make Happy Studio/ニードルス/Mohair Cardigan “TMHS”",
+    "price_yen": "¥34,000",
+    "url": "https://mix.tokyo/products/7887141207",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7887141207-363_MAIN.jpg?v=1793959793",
+    "created": "2026-11-04",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "アザー",
+      "available": true
+     }
+    ],
+    "code": "",
+    "date": "2026-11-04"
+   },
    {
     "id": "mix-10409784606785",
     "title": "NEEDLES/ニードルズ/DECONSTRUCTED ZIPPED SWEAT",
