@@ -6518,7 +6518,7 @@
   },
   "mix-10404475830337": {
    "first": "2026-11-04",
-   "title": "NEEDLES×The Make Happy Studio/ニードルス/H.D.Track Pant-PolySmoth TMHS"
+   "title": "NEEDLES×The Make Happy Studio/ニードルス/H.D.Track Pant-PolySmoth ”TMHS”"
   },
   "mix-10404475207745": {
    "first": "2026-11-04",
@@ -10367,11 +10367,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/one-up-shirt-ikat-stripe-2",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY302_C-PurpleBlue_1.jpg?v=1787987225",
     "created": "2026-08-28",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Ppl/Blue",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY302C",
@@ -16810,15 +16810,32 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/casquette-tweed-1",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY2103B-00.jpg?v=1793752025",
     "created": "2026-11-02",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Grey",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY2103B",
     "date": "2026-11-02"
+   },
+   {
+    "id": "nep-15929595756727",
+    "title": "H.D. Track Pant",
+    "price_yen": "¥30,800",
+    "url": "https://onlinestore.nepenthes.co.jp/products/h-d-track-pant",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/0T3A8884-0.jpg?v=1793753843",
+    "created": "2026-11-04",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Polka Dot",
+      "available": true
+     }
+    ],
+    "code": "TY1492",
+    "date": "2026-11-04"
    },
    {
     "id": "nep-15929595920567",
@@ -18969,10 +18986,10 @@
    },
    {
     "id": "mix-10404475830337",
-    "title": "NEEDLES×The Make Happy Studio/ニードルス/H.D.Track Pant-PolySmoth TMHS",
+    "title": "NEEDLES×The Make Happy Studio/ニードルス/H.D.Track Pant-PolySmoth ”TMHS”",
     "price_yen": "¥22,000",
     "url": "https://mix.tokyo/products/7887110303",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7887110303-080_MAIN.jpg?v=1793876671",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7887110303-080_MAIN.jpg?v=1794567845",
     "created": "2026-11-04",
     "soldout": false,
     "colors": [
@@ -18993,7 +19010,7 @@
     "title": "NEEDLES×The Make Happy Studio/ニードルス/Zipped Hoody-Poly Smooth “TMHS”",
     "price_yen": "¥27,000",
     "url": "https://mix.tokyo/products/7887131220",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7887131220-010_MAIN.jpg?v=1793876662",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7887131220-010_MAIN.jpg?v=1794567850",
     "created": "2026-11-04",
     "soldout": false,
     "colors": [
@@ -19014,7 +19031,7 @@
     "title": "NEEDLES×The Make Happy Studio/ニードルス/Mohair Cardigan “TMHS”",
     "price_yen": "¥34,000",
     "url": "https://mix.tokyo/products/7887141207",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7887141207-363_MAIN.jpg?v=1793959793",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7887141207-363_MAIN.jpg?v=1794567850",
     "created": "2026-11-04",
     "soldout": false,
     "colors": [
