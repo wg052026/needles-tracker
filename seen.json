@@ -6527,6 +6527,10 @@
   "mix-10404473536577": {
    "first": "2026-11-04",
    "title": "NEEDLES×The Make Happy Studio/ニードルス/Mohair Cardigan “TMHS”"
+  },
+  "mix-10416143138881": {
+   "first": "2026-11-09",
+   "title": "Needles/ニードルズ　別注Zipped Track Hoody - Cotton Jersey"
   }
  },
  "_snapshots": {
@@ -7195,23 +7199,6 @@
     "date": "2026-10-20"
    },
    {
-    "id": "nep-8859734900919",
-    "title": "〈NEEDLES〉x〈PENDLETON〉H.D. Pant - Wool Plaid",
-    "price_yen": "¥56,100",
-    "url": "https://onlinestore.nepenthes.co.jp/products/h-d-pant-wool-plaid-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY523_B-Yellow_1_919e629d-9d01-4790-bcd0-e23f4d115047.jpg?v=1792544232",
-    "created": "2026-10-20",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Yellow",
-      "available": true
-     }
-    ],
-    "code": "TY523B",
-    "date": "2026-10-20"
-   },
-   {
     "id": "nep-8773607817399",
     "title": "Rabbit Fur Cardigan - Animal Printed",
     "price_yen": "¥104,500",
@@ -7669,23 +7656,6 @@
     ],
     "code": "TY357A",
     "date": "2026-09-26"
-   },
-   {
-    "id": "nep-8701051797687",
-    "title": "Piping Cowboy Jacket - Poly Double Cloth",
-    "price_yen": "¥39,600",
-    "url": "https://onlinestore.nepenthes.co.jp/products/piping-cowboy-jacket-poly-d-cloth",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY258_C-Black_1.jpg?v=1786166245",
-    "created": "2026-08-07",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Black",
-      "available": false
-     }
-    ],
-    "code": "TY258C",
-    "date": "2026-08-07"
    },
    {
     "id": "nep-8664284922039",
@@ -16949,6 +16919,14 @@
      {
       "name": "",
       "available": null
+     },
+     {
+      "name": "",
+      "available": null
+     },
+     {
+      "name": "",
+      "available": null
      }
     ],
     "code": "RW1597",
@@ -18944,26 +18922,30 @@
     ],
     "code": "",
     "date": "2026-06-03"
-   },
-   {
-    "id": "stu-g113587020893",
-    "title": "Bracelet - 925 Silver",
-    "price_yen": "¥64,900",
-    "url": "https://studious.co.jp/shop/g/g113587020893/",
-    "img": "https://studious.co.jp/img/goods/S/113587020893_9e4ffbce5c60444e933677b3351308b5.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "",
-    "date": "2026-06-03"
    }
   ],
   "MIX.TOKYO": [
+   {
+    "id": "mix-10416143138881",
+    "title": "Needles/ニードルズ　別注Zipped Track Hoody - Cotton Jersey",
+    "price_yen": "¥34,000",
+    "url": "https://mix.tokyo/products/7817130225",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7817130225-010_MAIN.jpg?v=1794528975",
+    "created": "2026-11-09",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "ブラック",
+      "available": true
+     },
+     {
+      "name": "グレー",
+      "available": true
+     }
+    ],
+    "code": "",
+    "date": "2026-11-09"
+   },
    {
     "id": "mix-10404476059713",
     "title": "NEEDLES×The Make Happy Studio/ニードルス/Scarf-Silk Crepe “TMHS”",
