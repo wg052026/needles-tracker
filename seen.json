@@ -10316,11 +10316,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/painter-skirt-heavy-twill",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY220_A-Purple_1.jpg?v=1789877859",
     "created": "2026-09-19",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Purple",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY220A",
