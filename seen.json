@@ -16804,23 +16804,6 @@
     "date": "2026-11-02"
    },
    {
-    "id": "nep-15925019705527",
-    "title": "〈NEEDLES〉x〈ts(s)〉Casquette - Tweed",
-    "price_yen": "¥20,900",
-    "url": "https://onlinestore.nepenthes.co.jp/products/casquette-tweed-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY2103B-00.jpg?v=1793752025",
-    "created": "2026-11-02",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Grey",
-      "available": false
-     }
-    ],
-    "code": "TY2103B",
-    "date": "2026-11-02"
-   },
-   {
     "id": "nep-15929595756727",
     "title": "H.D. Track Pant",
     "price_yen": "¥30,800",
