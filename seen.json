@@ -11812,11 +11812,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/neck-warmer-shetland-wool-2",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY065_C-Loden_1.jpg?v=1785647448",
     "created": "2026-08-01",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Loden",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY065C",
