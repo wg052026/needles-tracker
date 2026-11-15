@@ -16759,11 +16759,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/coach-jacket-memory-taffeta",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY171_Heart_1.jpg?v=1793596306",
     "created": "2026-11-02",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Heart",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY171",
@@ -19398,7 +19398,7 @@
      },
      {
       "name": "ネイビー",
-      "available": true
+      "available": false
      }
     ],
     "code": "",
