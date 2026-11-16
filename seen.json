@@ -9273,23 +9273,6 @@
     "date": "2026-09-09"
    },
    {
-    "id": "nep-8738187346103",
-    "title": "Raglan Fur Jacket - Crocodile Fur",
-    "price_yen": "¥58,300",
-    "url": "https://onlinestore.nepenthes.co.jp/products/raglan-fur-jacket-crocodile-fur",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY183_Purple_1.jpg?v=1787987933",
-    "created": "2026-08-28",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Purple",
-      "available": false
-     }
-    ],
-    "code": "TY183",
-    "date": "2026-08-28"
-   },
-   {
     "id": "nep-8701055697079",
     "title": "Track Jacket - Poly Jacquard",
     "price_yen": "¥28,600",
@@ -10310,23 +10293,6 @@
     "date": "2026-09-19"
    },
    {
-    "id": "nep-8792630001847",
-    "title": "Painter Skirt - Heavy Twill",
-    "price_yen": "¥33,000",
-    "url": "https://onlinestore.nepenthes.co.jp/products/painter-skirt-heavy-twill",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY220_A-Purple_1.jpg?v=1789877859",
-    "created": "2026-09-19",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Purple",
-      "available": false
-     }
-    ],
-    "code": "TY220A",
-    "date": "2026-09-19"
-   },
-   {
     "id": "nep-8774891143351",
     "title": "V Neck Cardigan - Bright Jersey",
     "price_yen": "¥19,800",
@@ -10375,23 +10341,6 @@
      }
     ],
     "code": "TY304B",
-    "date": "2026-08-28"
-   },
-   {
-    "id": "nep-8738188984503",
-    "title": "One-Up Shirt - Ikat Stripe",
-    "price_yen": "¥31,900",
-    "url": "https://onlinestore.nepenthes.co.jp/products/one-up-shirt-ikat-stripe-2",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY302_C-PurpleBlue_1.jpg?v=1787987225",
-    "created": "2026-08-28",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Ppl/Blue",
-      "available": false
-     }
-    ],
-    "code": "TY302C",
     "date": "2026-08-28"
    },
    {
@@ -11803,23 +11752,6 @@
      }
     ],
     "code": "TY066C",
-    "date": "2026-08-01"
-   },
-   {
-    "id": "nep-8693330051255",
-    "title": "Neck Warmer - Shetland Wool",
-    "price_yen": "¥8,800",
-    "url": "https://onlinestore.nepenthes.co.jp/products/neck-warmer-shetland-wool-2",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY065_C-Loden_1.jpg?v=1785647448",
-    "created": "2026-08-01",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Loden",
-      "available": false
-     }
-    ],
-    "code": "TY065C",
     "date": "2026-08-01"
    },
    {
@@ -16753,23 +16685,6 @@
     "date": "2026-11-02"
    },
    {
-    "id": "nep-15924299268279",
-    "title": "Coach Jacket - Memory Taffeta",
-    "price_yen": "¥53,900",
-    "url": "https://onlinestore.nepenthes.co.jp/products/coach-jacket-memory-taffeta",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY171_Heart_1.jpg?v=1793596306",
-    "created": "2026-11-02",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Heart",
-      "available": false
-     }
-    ],
-    "code": "TY171",
-    "date": "2026-11-02"
-   },
-   {
     "id": "nep-15925018853559",
     "title": "〈NEEDLES〉x〈ts(s)〉Track Jacket - Tweed",
     "price_yen": "¥94,600",
@@ -19390,7 +19305,7 @@
     "colors": [
      {
       "name": "ブラック",
-      "available": true
+      "available": false
      },
      {
       "name": "パープル",
