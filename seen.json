@@ -8354,23 +8354,6 @@
     "date": "2026-08-07"
    },
    {
-    "id": "nep-8693349384375",
-    "title": "Sarouel Track Pant - Bright Jersey",
-    "price_yen": "¥23,100",
-    "url": "https://onlinestore.nepenthes.co.jp/products/sarouel-track-pant-bright-jersey-5",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY363_C-Black_1.jpg?v=1785649362",
-    "created": "2026-08-01",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Black",
-      "available": false
-     }
-    ],
-    "code": "TY363C",
-    "date": "2026-08-01"
-   },
-   {
     "id": "nep-8693348761783",
     "title": "Boot-Cut Track Pant - Poly Smooth",
     "price_yen": "¥23,100",
@@ -10530,23 +10513,6 @@
     "date": "2026-08-01"
    },
    {
-    "id": "nep-8687352447159",
-    "title": "〈NEEDLES〉x〈FILA〉BB Polo Shirt",
-    "price_yen": "¥17,600",
-    "url": "https://onlinestore.nepenthes.co.jp/products/bb-polo-shirt",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY535_A-Purple_0.jpg?v=1785115286",
-    "created": "2026-07-27",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Purple",
-      "available": true
-     }
-    ],
-    "code": "TY535A",
-    "date": "2026-07-27"
-   },
-   {
     "id": "nep-8685769556151",
     "title": "Convertible Grove - Shetland Wool",
     "price_yen": "¥7,700",
@@ -11318,11 +11284,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/c-c-skirt-houndstooth",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY330_A-Green_1.jpg?v=1789005639",
     "created": "2026-09-09",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Green",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY330A",
@@ -11471,11 +11437,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/railroad-pant-melange-double-cloth",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY191_A-Beige_1.jpg?v=1787987661",
     "created": "2026-08-28",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Beige",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY191A",
