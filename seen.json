@@ -6754,6 +6754,23 @@
     "date": "2026-08-07"
    },
    {
+    "id": "nep-15902268489911",
+    "title": "〈NEEDLES〉x〈WOBURN WALK〉Track Jacket - Poly Smooth",
+    "price_yen": "¥29,700",
+    "url": "https://onlinestore.nepenthes.co.jp/products/track-jacket-poly-smooth-42",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY550-1.jpg?v=1793175379",
+    "created": "2026-10-26",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY550",
+    "date": "2026-10-26"
+   },
+   {
     "id": "nep-15902269014199",
     "title": "〈NEEDLES〉x〈WOBURN WALK〉H.D. Track Pant - Poly Smooth",
     "price_yen": "¥24,200",
@@ -9378,11 +9395,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/ventisei-track-jacket-1",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY532_B-Pink_0.jpg?v=1785114685",
     "created": "2026-07-27",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Pink",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY532B",
@@ -12650,6 +12667,23 @@
      }
     ],
     "code": "TY563",
+    "date": "2026-10-13"
+   },
+   {
+    "id": "nep-8841720758455",
+    "title": "〈NEEDLES〉x〈A TRIBE  CALLED QUEST〉 B.B. Jacket - Wool Melton",
+    "price_yen": "¥77,000",
+    "url": "https://onlinestore.nepenthes.co.jp/products/b-b-jacket-wool-melton",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY560-0_48d6ce7b-f15c-47d6-b0b8-c136e777105c.jpg?v=1791940173",
+    "created": "2026-10-13",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY560",
     "date": "2026-10-13"
    },
    {
@@ -16308,6 +16342,23 @@
     "date": "2026-10-26"
    },
    {
+    "id": "nep-15902268752055",
+    "title": "〈NEEDLES〉x〈WOBURN WALK〉Track Pant - Poly Smooth",
+    "price_yen": "¥24,200",
+    "url": "https://onlinestore.nepenthes.co.jp/products/track-pant-poly-smooth-39",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY551-1.jpg?v=1793175362",
+    "created": "2026-10-26",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Black",
+      "available": true
+     }
+    ],
+    "code": "TY551",
+    "date": "2026-10-26"
+   },
+   {
     "id": "nep-8693350957239",
     "title": "〈NEEDLES〉x〈TIE A KNOT〉Crystal Beads Ring Small",
     "price_yen": "¥26,400",
@@ -19259,7 +19310,7 @@
     "title": "Needles/ニードルズ　Deconstructed Sweat Shirt TY376",
     "price_yen": "¥36,000",
     "url": "https://mix.tokyo/products/7816232217",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816232217-020_MAIN.jpg?v=1794596491",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816232217-020_MAIN.jpg?v=1795082986",
     "created": "2026-10-26",
     "soldout": false,
     "colors": [
