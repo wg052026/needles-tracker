@@ -6579,6 +6579,10 @@
   "mix-10432171376705": {
    "first": "2026-11-13",
    "title": "NEEDLES（ニードルズ） B'2nd EXCLUSIVE 別注H.D.Track Pant - Cotton Jersey"
+  },
+  "mix-10443436556353": {
+   "first": "2026-11-17",
+   "title": "NEEDLES/ニードルズ/【LHP EXCLUSIVE】H.D.TRACK PANT - POLY SMOOTH"
   }
  },
  "_snapshots": {
@@ -7332,23 +7336,6 @@
     "date": "2026-10-05"
    },
    {
-    "id": "nep-8760551473335",
-    "title": "Mohair Crew Neck Cardigan - Solid",
-    "price_yen": "¥34,100",
-    "url": "https://onlinestore.nepenthes.co.jp/products/mohair-crew-neck-cardigan-solid-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY415_B-BlueGrey_1.jpg?v=1789008258",
-    "created": "2026-09-09",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Blue Grey",
-      "available": true
-     }
-    ],
-    "code": "TY415B",
-    "date": "2026-09-09"
-   },
-   {
     "id": "nep-8806289539255",
     "title": "L/S Pocket Tee - Cotton Jersey",
     "price_yen": "¥15,400",
@@ -7381,23 +7368,6 @@
     ],
     "code": "TY398E",
     "date": "2026-09-26"
-   },
-   {
-    "id": "nep-8760530043063",
-    "title": "H.D. Track Pant - Poly Smooth",
-    "price_yen": "¥23,100",
-    "url": "https://onlinestore.nepenthes.co.jp/products/h-d-track-pant-poly-smooth-36",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY355A-0.jpg?v=1789023071",
-    "created": "2026-09-09",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Navy",
-      "available": true
-     }
-    ],
-    "code": "TY355A",
-    "date": "2026-09-09"
    },
    {
     "id": "nep-8735646384311",
@@ -8350,23 +8320,6 @@
     ],
     "code": "TY398C",
     "date": "2026-09-26"
-   },
-   {
-    "id": "nep-8760543674551",
-    "title": "Regular Collar L/S Polo - Cotton Pique",
-    "price_yen": "¥16,500",
-    "url": "https://onlinestore.nepenthes.co.jp/products/regular-collar-l-s-polo-ctn-pique-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY396_B-Purple_1.jpg?v=1789007861",
-    "created": "2026-09-09",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Purple",
-      "available": true
-     }
-    ],
-    "code": "TY396B",
-    "date": "2026-09-09"
    },
    {
     "id": "nep-8735646253239",
@@ -9387,23 +9340,6 @@
     ],
     "code": "TY062A",
     "date": "2026-08-01"
-   },
-   {
-    "id": "nep-8687351922871",
-    "title": "〈NEEDLES〉x〈FILA〉Ventisei Track Jacket",
-    "price_yen": "¥28,600",
-    "url": "https://onlinestore.nepenthes.co.jp/products/ventisei-track-jacket-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY532_B-Pink_0.jpg?v=1785114685",
-    "created": "2026-07-27",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Pink",
-      "available": false
-     }
-    ],
-    "code": "TY532B",
-    "date": "2026-07-27"
    },
    {
     "id": "nep-8666573668535",
@@ -13384,23 +13320,6 @@
     "date": "2026-09-09"
    },
    {
-    "id": "nep-8760515526839",
-    "title": "V Neck Cardigan - Poly Jq. / Paisley",
-    "price_yen": "¥24,200",
-    "url": "https://onlinestore.nepenthes.co.jp/products/v-neck-cardigan-poly-jq-paisley-1",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY263_B-PurpleBlack_1.jpg?v=1789005211",
-    "created": "2026-09-09",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Ppl/Blk",
-      "available": true
-     }
-    ],
-    "code": "TY263B",
-    "date": "2026-09-09"
-   },
-   {
     "id": "nep-8760511987895",
     "title": "String Balloon Pant - Pin Stripe Jacquard",
     "price_yen": "¥48,400",
@@ -16263,11 +16182,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/loose-b-b-jacket-ornament-jacq",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY159_A-Purple_1.jpg?v=1793081021",
     "created": "2026-10-26",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Purple",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY159A",
@@ -16892,11 +16811,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/mountain-edition-high-cut-sneakers-1",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY543_B-Black_0.jpg?v=1794892524",
     "created": "2026-11-17",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Black",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY543B",
@@ -16909,11 +16828,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/mountain-edition-high-cut-sneakers",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY543_A-Brown_0.jpg?v=1794892565",
     "created": "2026-11-17",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Brown",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY543A",
@@ -19011,6 +18930,23 @@
    }
   ],
   "MIX.TOKYO": [
+   {
+    "id": "mix-10443436556353",
+    "title": "NEEDLES/ニードルズ/【LHP EXCLUSIVE】H.D.TRACK PANT - POLY SMOOTH",
+    "price_yen": "¥21,000",
+    "url": "https://mix.tokyo/products/7847110269",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7847110269-033_MAIN.jpg?v=1795172710",
+    "created": "2026-11-17",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "オフホワイト",
+      "available": true
+     }
+    ],
+    "code": "",
+    "date": "2026-11-17"
+   },
    {
     "id": "mix-10432172458049",
     "title": "NEEDLES（ニードルズ） B'2nd EXCLUSIVE Zipped Track Hoody - Cotton Jersey",
