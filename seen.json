@@ -18935,7 +18935,7 @@
     "title": "NEEDLES/ニードルズ/【LHP EXCLUSIVE】H.D.TRACK PANT - POLY SMOOTH",
     "price_yen": "¥21,000",
     "url": "https://mix.tokyo/products/7847110269",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7847110269-033_MAIN.jpg?v=1795172710",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7847110269-033_MAIN.jpg?v=1795201466",
     "created": "2026-11-17",
     "soldout": false,
     "colors": [
@@ -20351,115 +20351,6 @@
     ],
     "code": "",
     "date": "2026-06-19"
-   },
-   {
-    "id": "mix-7934044504129",
-    "title": "Needles/ニードルズ　別注H.D.Track Pant - Cotton Jersey",
-    "price_yen": "¥30,000",
-    "url": "https://mix.tokyo/products/7816210225",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816210225-020_MAIN.jpg?v=1784113374",
-    "created": "2026-06-19",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "ブラック",
-      "available": false
-     },
-     {
-      "name": "グレー",
-      "available": false
-     }
-    ],
-    "code": "",
-    "date": "2026-06-19"
-   },
-   {
-    "id": "mix-7934044209217",
-    "title": "Needles/ニードルズ　別注H.D. Track Short - Cotton Jersey",
-    "price_yen": "¥28,000",
-    "url": "https://mix.tokyo/products/7816213207",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816213207-020_MAIN.jpg?v=1783956678",
-    "created": "2026-06-19",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "ブラック",
-      "available": false
-     },
-     {
-      "name": "グレー",
-      "available": false
-     }
-    ],
-    "code": "",
-    "date": "2026-06-19"
-   },
-   {
-    "id": "mix-7934043586625",
-    "title": "Needles/ニードルズ  別注Shawl Collar S/S Polo - Cotton Pique",
-    "price_yen": "¥15,000",
-    "url": "https://mix.tokyo/products/7816236201",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816236201-140_MAIN.jpg?v=1788951826",
-    "created": "2026-06-19",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "ネイビー",
-      "available": true
-     },
-     {
-      "name": "グリーン",
-      "available": true
-     },
-     {
-      "name": "ロイヤル",
-      "available": true
-     }
-    ],
-    "code": "",
-    "date": "2026-06-19"
-   },
-   {
-    "id": "mix-7934043291713",
-    "title": "Needles/ニードルズ　別注Track Jacket - NYLON",
-    "price_yen": "¥28,000",
-    "url": "https://mix.tokyo/products/7816252237",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816252237-010_MAIN.jpg?v=1787914977",
-    "created": "2026-06-19",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "ブラック",
-      "available": true
-     },
-     {
-      "name": "ブルー",
-      "available": true
-     }
-    ],
-    "code": "",
-    "date": "2026-06-19"
-   },
-   {
-    "id": "mix-7931033419841",
-    "title": "Needles/ニードルズ 別注H.D. Track Pant - DENIM",
-    "price_yen": "¥27,000",
-    "url": "https://mix.tokyo/products/7816211205",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816211205-113_MAIN.jpg?v=1784113384",
-    "created": "2026-06-15",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "ブラック",
-      "available": false
-     },
-     {
-      "name": "ライトブルー",
-      "available": false
-     }
-    ],
-    "code": "",
-    "date": "2026-06-15"
    }
   ]
  }
