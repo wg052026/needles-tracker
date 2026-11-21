@@ -7699,11 +7699,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/mohair-crew-neck-cardigan-solid-2",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY415_C-Black_1.jpg?v=1789008251",
     "created": "2026-09-09",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Black",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY415C",
