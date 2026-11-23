@@ -12985,11 +12985,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/cb-gusset-sports-jacket-pe-w-gabar-2",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY251_A-Brown_1.jpg?v=1790481445",
     "created": "2026-09-26",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Brown",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY251A",
