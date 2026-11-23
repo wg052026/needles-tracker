@@ -7488,23 +7488,6 @@
     "date": "2026-07-08"
    },
    {
-    "id": "nep-8792631738551",
-    "title": "Deconstructed H.D. Sweat Pant",
-    "price_yen": "¥46,200",
-    "url": "https://onlinestore.nepenthes.co.jp/products/deconstructed-h-d-sweat-pant-4",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY377_C-ForestGreen_1.jpg?v=1789878228",
-    "created": "2026-09-19",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Forest",
-      "available": true
-     }
-    ],
-    "code": "TY377C",
-    "date": "2026-09-19"
-   },
-   {
     "id": "nep-8733367533751",
     "title": "Bit Loafer - Suede",
     "price_yen": "¥75,900",
@@ -12976,23 +12959,6 @@
      }
     ],
     "code": "TY287A",
-    "date": "2026-09-26"
-   },
-   {
-    "id": "nep-8806286655671",
-    "title": "CB Gusset Sports Jacket - PE/W Gabardine",
-    "price_yen": "¥51,700",
-    "url": "https://onlinestore.nepenthes.co.jp/products/cb-gusset-sports-jacket-pe-w-gabar-2",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY251_A-Brown_1.jpg?v=1790481445",
-    "created": "2026-09-26",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Brown",
-      "available": false
-     }
-    ],
-    "code": "TY251A",
     "date": "2026-09-26"
    },
    {
