@@ -12033,11 +12033,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/frisco-jacket-heavy-twill",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/SX178A-0.jpg?v=1774074726",
     "created": "2026-07-14",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Purple",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY215A",
@@ -18900,7 +18900,7 @@
     "title": "NEEDLES/ニードルズ/【LHP EXCLUSIVE】H.D.TRACK PANT - POLY SMOOTH",
     "price_yen": "¥21,000",
     "url": "https://mix.tokyo/products/7847110269",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7847110269-033_MAIN.jpg?v=1795201466",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7847110269-033_MAIN.jpg?v=1795518292",
     "created": "2026-11-17",
     "soldout": false,
     "colors": [
