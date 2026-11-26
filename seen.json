@@ -5243,6 +5243,30 @@
   "nep-15988033945783": {
    "first": "2026-11-22",
    "title": "Square Studs Belt - Suede Lthr."
+  },
+  "nep-16000029655223": {
+   "first": "2026-11-25",
+   "title": "Deconstructed Sweat Sleeveless Shirt"
+  },
+  "nep-16000029982903": {
+   "first": "2026-11-25",
+   "title": "Deconstructed Sweat H.D. Painter Skirt"
+  },
+  "nep-16000029851831": {
+   "first": "2026-11-25",
+   "title": "Deconstructed Sweat Sleeveless Shirt"
+  },
+  "nep-16000030048439": {
+   "first": "2026-11-25",
+   "title": "Deconstructed Sweat Balaclava"
+  },
+  "nep-16000029917367": {
+   "first": "2026-11-25",
+   "title": "Deconstructed Sweat H.D. Painter Skirt"
+  },
+  "nep-16000030113975": {
+   "first": "2026-11-25",
+   "title": "Deconstructed Sweat Balaclava"
   }
  },
  "STUDIOUS": {
@@ -10464,11 +10488,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/balloon-track-skirt-bright-jersey-8",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY364_C-Black_1.jpg?v=1785649420",
     "created": "2026-08-01",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Black",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY364C",
@@ -16865,6 +16889,108 @@
     ],
     "code": "QV030A",
     "date": "2026-11-22"
+   },
+   {
+    "id": "nep-16000029655223",
+    "title": "Deconstructed Sweat Sleeveless Shirt",
+    "price_yen": "¥31,900",
+    "url": "https://onlinestore.nepenthes.co.jp/products/deconstructed-sweat-sleeveless-shirt",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY1494A-0.jpg?v=1795653956",
+    "created": "2026-11-25",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "H. Grey",
+      "available": true
+     }
+    ],
+    "code": "TY1494A",
+    "date": "2026-11-25"
+   },
+   {
+    "id": "nep-16000029982903",
+    "title": "Deconstructed Sweat H.D. Painter Skirt",
+    "price_yen": "¥45,100",
+    "url": "https://onlinestore.nepenthes.co.jp/products/deconstructed-swt-h-d-painter-skirt-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY1495B-0.jpg?v=1795653927",
+    "created": "2026-11-25",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Lilac",
+      "available": true
+     }
+    ],
+    "code": "TY1495B",
+    "date": "2026-11-25"
+   },
+   {
+    "id": "nep-16000029851831",
+    "title": "Deconstructed Sweat Sleeveless Shirt",
+    "price_yen": "¥31,900",
+    "url": "https://onlinestore.nepenthes.co.jp/products/deconstructed-sweat-sleeveless-shirt-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY1494B-0.jpg?v=1795653944",
+    "created": "2026-11-25",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Lilac",
+      "available": true
+     }
+    ],
+    "code": "TY1494B",
+    "date": "2026-11-25"
+   },
+   {
+    "id": "nep-16000030048439",
+    "title": "Deconstructed Sweat Balaclava",
+    "price_yen": "¥14,300",
+    "url": "https://onlinestore.nepenthes.co.jp/products/deconstructed-sweat-balaclava",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY1496A-0_433010b5-b641-4e3c-bc2e-86b4651a9ea4.jpg?v=1795653908",
+    "created": "2026-11-25",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "H. Grey",
+      "available": true
+     }
+    ],
+    "code": "TY1496A",
+    "date": "2026-11-25"
+   },
+   {
+    "id": "nep-16000029917367",
+    "title": "Deconstructed Sweat H.D. Painter Skirt",
+    "price_yen": "¥45,100",
+    "url": "https://onlinestore.nepenthes.co.jp/products/deconstructed-swt-h-d-painter-skirt",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY1495A-0.jpg?v=1795670736",
+    "created": "2026-11-25",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "H. Grey",
+      "available": true
+     }
+    ],
+    "code": "TY1495A",
+    "date": "2026-11-25"
+   },
+   {
+    "id": "nep-16000030113975",
+    "title": "Deconstructed Sweat Balaclava",
+    "price_yen": "¥14,300",
+    "url": "https://onlinestore.nepenthes.co.jp/products/deconstructed-sweat-balaclava-1",
+    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY1496B-0_37ae1e7d-b795-4522-af92-8b4fd2313331.jpg?v=1795654163",
+    "created": "2026-11-25",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "Lilac",
+      "available": true
+     }
+    ],
+    "code": "TY1496B",
+    "date": "2026-11-25"
    }
   ],
   "STUDIOUS": [
@@ -20243,240 +20369,6 @@
     ],
     "code": "",
     "date": "2026-05-14"
-   },
-   {
-    "id": "mix-7934045847617",
-    "title": "Needles/ニードルズ　別注Track Crew Neck Shirt - Cotton Jersey",
-    "price_yen": "¥25,000",
-    "url": "https://mix.tokyo/products/7816230210",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816230210-020_MAIN.jpg?v=1784113388",
-    "created": "2026-06-19",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "ブラック",
-      "available": false
-     },
-     {
-      "name": "グレー",
-      "available": false
-     }
-    ],
-    "code": "",
-    "date": "2026-06-19"
-   },
-   {
-    "id": "mix-7934045225025",
-    "title": "Needles/ニードルズ　別注H.D. Track Pant - NYLON",
-    "price_yen": "¥26,000",
-    "url": "https://mix.tokyo/products/7816210224",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816210224-110_MAIN.jpg?v=1787828644",
-    "created": "2026-06-19",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "ブラック",
-      "available": false
-     },
-     {
-      "name": "ブルー",
-      "available": false
-     }
-    ],
-    "code": "",
-    "date": "2026-06-19"
-   },
-   {
-    "id": "mix-7934044504129",
-    "title": "Needles/ニードルズ　別注H.D.Track Pant - Cotton Jersey",
-    "price_yen": "¥30,000",
-    "url": "https://mix.tokyo/products/7816210225",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816210225-020_MAIN.jpg?v=1784113374",
-    "created": "2026-06-19",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "ブラック",
-      "available": false
-     },
-     {
-      "name": "グレー",
-      "available": false
-     }
-    ],
-    "code": "",
-    "date": "2026-06-19"
-   },
-   {
-    "id": "mix-7934044209217",
-    "title": "Needles/ニードルズ　別注H.D. Track Short - Cotton Jersey",
-    "price_yen": "¥28,000",
-    "url": "https://mix.tokyo/products/7816213207",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816213207-020_MAIN.jpg?v=1783956678",
-    "created": "2026-06-19",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "ブラック",
-      "available": false
-     },
-     {
-      "name": "グレー",
-      "available": false
-     }
-    ],
-    "code": "",
-    "date": "2026-06-19"
-   },
-   {
-    "id": "mix-7934043586625",
-    "title": "Needles/ニードルズ  別注Shawl Collar S/S Polo - Cotton Pique",
-    "price_yen": "¥15,000",
-    "url": "https://mix.tokyo/products/7816236201",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816236201-140_MAIN.jpg?v=1788951826",
-    "created": "2026-06-19",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "ネイビー",
-      "available": true
-     },
-     {
-      "name": "グリーン",
-      "available": true
-     },
-     {
-      "name": "ロイヤル",
-      "available": true
-     }
-    ],
-    "code": "",
-    "date": "2026-06-19"
-   },
-   {
-    "id": "mix-7934043291713",
-    "title": "Needles/ニードルズ　別注Track Jacket - NYLON",
-    "price_yen": "¥28,000",
-    "url": "https://mix.tokyo/products/7816252237",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816252237-010_MAIN.jpg?v=1787914977",
-    "created": "2026-06-19",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "ブラック",
-      "available": true
-     },
-     {
-      "name": "ブルー",
-      "available": true
-     }
-    ],
-    "code": "",
-    "date": "2026-06-19"
-   },
-   {
-    "id": "mix-7931033419841",
-    "title": "Needles/ニードルズ 別注H.D. Track Pant - DENIM",
-    "price_yen": "¥27,000",
-    "url": "https://mix.tokyo/products/7816211205",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816211205-113_MAIN.jpg?v=1784113384",
-    "created": "2026-06-15",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "ブラック",
-      "available": false
-     },
-     {
-      "name": "ライトブルー",
-      "available": false
-     }
-    ],
-    "code": "",
-    "date": "2026-06-15"
-   },
-   {
-    "id": "mix-7931033616449",
-    "title": "Needles/ニードルズ　別注Track Crew Neck Shirt - Poly Smooth",
-    "price_yen": "¥20,000",
-    "url": "https://mix.tokyo/products/7816230209",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816230209-010_MAIN.jpg?v=1786014182",
-    "created": "2026-06-15",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "ブラック",
-      "available": true
-     },
-     {
-      "name": "ブラウン",
-      "available": true
-     },
-     {
-      "name": "チャコール",
-      "available": true
-     },
-     {
-      "name": "ロイヤル",
-      "available": true
-     }
-    ],
-    "code": "",
-    "date": "2026-06-15"
-   },
-   {
-    "id": "mix-7931031617601",
-    "title": "Needles/ニードルズ 別注H.D Track Shorts - Poly Smooth",
-    "price_yen": "¥20,000",
-    "url": "https://mix.tokyo/products/7816213205",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816213205-050_MAIN.jpg?v=1787338997",
-    "created": "2026-06-15",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "ブラック",
-      "available": false
-     },
-     {
-      "name": "ブラウン",
-      "available": false
-     },
-     {
-      "name": "チャコール",
-      "available": false
-     },
-     {
-      "name": "ロイヤル",
-      "available": false
-     }
-    ],
-    "code": "",
-    "date": "2026-06-15"
-   },
-   {
-    "id": "mix-7926242574401",
-    "title": "Needles/ニードルズ　Shawl Collar Polo - Cotton Pique",
-    "price_yen": "¥15,000",
-    "url": "https://mix.tokyo/products/7816135201",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816135201-050_MAIN.jpg?v=1783963187",
-    "created": "2026-06-11",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "ブラック",
-      "available": false
-     },
-     {
-      "name": "ベージュ",
-      "available": false
-     },
-     {
-      "name": "ブラウン",
-      "available": false
-     }
-    ],
-    "code": "",
-    "date": "2026-06-11"
    }
   ]
  }
