@@ -5949,6 +5949,10 @@
   "stu-g116540145163": {
    "first": "2026-11-26",
    "title": "Needles x VANS H.D. Track Pant - Poly Jq."
+  },
+  "stu-g116650095163": {
+   "first": "2026-11-28",
+   "title": "別注 Southern Jacket - Synthetic Leather"
   }
  },
  "MIX.TOKYO": {
@@ -6635,6 +6639,10 @@
   "mix-10443436556353": {
    "first": "2026-11-17",
    "title": "NEEDLES/ニードルズ/【LHP EXCLUSIVE】H.D.TRACK PANT - POLY SMOOTH"
+  },
+  "mix-10467268722753": {
+   "first": "2026-11-26",
+   "title": "NEEDLES（ニードルズ） B'2nd EXCLUSIVE 別注H.D. Sweat Pant - Bright Jersey"
   }
  },
  "_snapshots": {
@@ -9666,23 +9674,6 @@
     "date": "2023-04-10"
    },
    {
-    "id": "nep-8825493848247",
-    "title": "Baseball Cap - Shrink Wool",
-    "price_yen": "¥16,500",
-    "url": "https://onlinestore.nepenthes.co.jp/products/baseball-cap-shrink-wool",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY075_Dk.Navy_1.jpg?v=1791180871",
-    "created": "2026-10-05",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Dk. Navy",
-      "available": false
-     }
-    ],
-    "code": "TY075",
-    "date": "2026-10-05"
-   },
-   {
     "id": "nep-8825493749943",
     "title": "Baseball Cap - Wool Diagonal Jacquard",
     "price_yen": "¥15,400",
@@ -10480,23 +10471,6 @@
     ],
     "code": "TY224B",
     "date": "2026-08-07"
-   },
-   {
-    "id": "nep-8693349548215",
-    "title": "Balloon Track Skirt - Bright Jersey",
-    "price_yen": "¥27,500",
-    "url": "https://onlinestore.nepenthes.co.jp/products/balloon-track-skirt-bright-jersey-8",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY364_C-Black_1.jpg?v=1785649420",
-    "created": "2026-08-01",
-    "soldout": true,
-    "colors": [
-     {
-      "name": "Black",
-      "available": false
-     }
-    ],
-    "code": "TY364C",
-    "date": "2026-08-01"
    },
    {
     "id": "nep-8693349318839",
@@ -13437,23 +13411,6 @@
      }
     ],
     "code": "TY112B",
-    "date": "2026-09-09"
-   },
-   {
-    "id": "nep-8760502223031",
-    "title": "Miles Jacket - Faded Windowpane / Faded Stripe",
-    "price_yen": "¥60,500",
-    "url": "https://onlinestore.nepenthes.co.jp/products/miles-jacket-faded-windowpane",
-    "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY112_A-FadedWindowpane_1.jpg?v=1788938873",
-    "created": "2026-09-09",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "Windowpane",
-      "available": true
-     }
-    ],
-    "code": "TY112A",
     "date": "2026-09-09"
    },
    {
@@ -16995,6 +16952,23 @@
   ],
   "STUDIOUS": [
    {
+    "id": "stu-g116650095163",
+    "title": "別注 Southern Jacket - Synthetic Leather",
+    "price_yen": "¥55,000",
+    "url": "https://studious.co.jp/shop/g/g116650095163/",
+    "img": "https://studious.co.jp/img/goods/S/116650095163_32a4987310d54f74baaec8f993b7cf39.png",
+    "created": "",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "",
+      "available": null
+     }
+    ],
+    "code": "RW1601",
+    "date": "2026-11-28"
+   },
+   {
     "id": "stu-g116640028131",
     "title": "別注 H.D. Track Pant - Cotton Jersey",
     "price_yen": "¥33,000",
@@ -18970,26 +18944,30 @@
     ],
     "code": "OT1549",
     "date": "2026-06-03"
-   },
-   {
-    "id": "stu-g114240294213",
-    "title": "<別注>Side Tab Trousers",
-    "price_yen": "¥22,000",
-    "url": "https://studious.co.jp/shop/g/g114240294213/",
-    "img": "https://studious.co.jp/img/goods/S/114240294_21_L.jpg",
-    "created": "",
-    "soldout": false,
-    "colors": [
-     {
-      "name": "",
-      "available": null
-     }
-    ],
-    "code": "OT1565",
-    "date": "2026-06-03"
    }
   ],
   "MIX.TOKYO": [
+   {
+    "id": "mix-10467268722753",
+    "title": "NEEDLES（ニードルズ） B'2nd EXCLUSIVE 別注H.D. Sweat Pant - Bright Jersey",
+    "price_yen": "¥21,000",
+    "url": "https://mix.tokyo/products/7857110309",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7857110309-080_MAIN.jpg?v=1795760307",
+    "created": "2026-11-26",
+    "soldout": false,
+    "colors": [
+     {
+      "name": "ブラック",
+      "available": true
+     },
+     {
+      "name": "パープル",
+      "available": true
+     }
+    ],
+    "code": "",
+    "date": "2026-11-26"
+   },
    {
     "id": "mix-10443436556353",
     "title": "NEEDLES/ニードルズ/【LHP EXCLUSIVE】H.D.TRACK PANT - POLY SMOOTH",
@@ -19096,7 +19074,7 @@
     "title": "NEEDLES×The Make Happy Studio/ニードルス/H.D.Track Pant-PolySmoth ”TMHS”",
     "price_yen": "¥22,000",
     "url": "https://mix.tokyo/products/7887110303",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7887110303-080_MAIN.jpg?v=1795604578",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7887110303-080_MAIN.jpg?v=1795777540",
     "created": "2026-11-04",
     "soldout": false,
     "colors": [
@@ -19117,7 +19095,7 @@
     "title": "NEEDLES×The Make Happy Studio/ニードルス/Zipped Hoody-Poly Smooth “TMHS”",
     "price_yen": "¥27,000",
     "url": "https://mix.tokyo/products/7887131220",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7887131220-010_MAIN.jpg?v=1795604580",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7887131220-010_MAIN.jpg?v=1795777540",
     "created": "2026-11-04",
     "soldout": false,
     "colors": [
@@ -19138,7 +19116,7 @@
     "title": "NEEDLES×The Make Happy Studio/ニードルス/Mohair Cardigan “TMHS”",
     "price_yen": "¥34,000",
     "url": "https://mix.tokyo/products/7887141207",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7887141207-363_MAIN.jpg?v=1795604574",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7887141207-363_MAIN.jpg?v=1795777535",
     "created": "2026-11-04",
     "soldout": false,
     "colors": [
@@ -19218,7 +19196,7 @@
     "title": "Needles/ニードルズ　別注H.D.Track Pant - Cotton Jersey",
     "price_yen": "¥30,000",
     "url": "https://mix.tokyo/products/7817110243",
-    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7817110243-010_MAIN.jpg?v=1795028682",
+    "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7817110243-010_MAIN.jpg?v=1795743707",
     "created": "2026-11-05",
     "soldout": false,
     "colors": [
@@ -19262,11 +19240,11 @@
     "url": "https://mix.tokyo/products/7846241217",
     "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7846241217-386_MAIN.jpg?v=1793098947",
     "created": "2026-10-23",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "キャメル",
-      "available": true
+      "available": false
      }
     ],
     "code": "",
@@ -19404,11 +19382,11 @@
     "url": "https://mix.tokyo/products/7816214201",
     "img": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/7816214201-010_MAIN.jpg?v=1791975744",
     "created": "2026-10-13",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "ブラック",
-      "available": true
+      "available": false
      },
      {
       "name": "パープル",
