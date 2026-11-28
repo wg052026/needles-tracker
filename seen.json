@@ -10360,11 +10360,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/one-up-shirt-printed-flannel-plaid-6",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY304_B-GreyRed_1.jpg?v=1787986669",
     "created": "2026-08-28",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Grey/Red",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY304B",
@@ -14338,11 +14338,11 @@
     "url": "https://onlinestore.nepenthes.co.jp/products/bird-shooting-cap-shetland-wool-3",
     "img": "https://cdn.shopify.com/s/files/1/0597/8020/2679/files/TY064_D-Black_1.jpg?v=1785647397",
     "created": "2026-08-01",
-    "soldout": false,
+    "soldout": true,
     "colors": [
      {
       "name": "Black",
-      "available": true
+      "available": false
      }
     ],
     "code": "TY064D",
